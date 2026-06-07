@@ -17,7 +17,8 @@
     "generate-metadata": "tsx scripts/generate-metadata.ts",
     "append-update-log": "tsx scripts/append-update-log.ts",
     "fetch-reden:brandenburg": "tsx adapters/brandenburg-reden.ts",
-    "fetch-reden:bundestag": "tsx adapters/bundestag-reden.ts"
+    "fetch-reden:bundestag": "tsx adapters/bundestag-reden.ts",
+    "fetch-abstimmungen:bundestag": "tsx adapters/bundestag-abstimmungen.ts"
   },
   "devDependencies": {
     "@types/node": "^25.6.0",
@@ -25,6 +26,7 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
-    "pdf-parse": "^2.4.5"
+    "pdf-parse": "^2.4.5",
+    "xlsx": "^0.18.5"
   }
 }
