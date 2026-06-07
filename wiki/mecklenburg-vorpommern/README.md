@@ -2,11 +2,13 @@
 
 **Wahlperiode:** 8. WP (26.10.2021 – 25.10.2026)
 **Quellsystem:** Parldok — https://www.dokumentation.landtag-mv.de/parldok
-**Adapter:** _noch nicht implementiert_ (Scaffolding vorhanden, siehe „Status" unten)
+**Adapter:** `adapters/parldok-mv.ts` (Drucksachen, KAs, Anträge, Gesetzentwürfe). Reden + namentliche Abstimmungen stehen noch aus.
 
 ## Status
 
-Konfigurations-Scaffolding ist da: das Parlament ist in `scripts/parliaments.ts` registriert, `robots.json` ist gecacht, die WP-Subdir-Konventionen aus dem Hauptprojekt gelten auch hier. **Was noch fehlt:** ein laufender Quell-Adapter (`adapters/parldok-mv.ts`), der die Drucksachen-, Reden- und Abstimmungs-Listen aus Parldok holt und ins kanonische Activity-Schema mappt.
+Drucksachen-Adapter ist operativ. Im aktuellen Lauf erfasst er 823 Mandatsträger-Aktivitäten (504 Anträge, 317 Kleine Anfragen, 2 Gesetzentwürfe), Datumsspanne ca. Oktober 2025 bis Juni 2026 — limitiert durch das **Parldok-Server-Cap von 1000 Treffern pro Suche**. Für einen vollständigen WP-8-Backfill (seit 26.10.2021) müsste der Sweep über Quartale oder Monate chunked werden — Stub-Logik ist in den Adapter eingelassen, aber noch nicht durchverkabelt.
+
+Reden und namentliche Abstimmungen sind noch offen — siehe Abschnitt „Offene Punkte" unten.
 
 ## Compliance
 

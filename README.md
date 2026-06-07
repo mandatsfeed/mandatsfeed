@@ -31,7 +31,7 @@ mandatsfeed erzeugt pro **Abgeordneter** und pro **Fraktion** einen chronologisc
 | Parlament                       | System                    | Status                             |
 |---------------------------------|---------------------------|------------------------------------|
 | Landtag Sachsen-Anhalt          | PADOKA (STARWEB-Variante) | 🟢 Adapter aktiv                    |
-| Landtag Mecklenburg-Vorpommern  | Parldok                   | 🟡 Scaffolding bereit, Adapter offen |
+| Landtag Mecklenburg-Vorpommern  | Parldok                   | 🟢 Drucksachen-Adapter aktiv (Reden + Abstimmungen offen) |
 
 Weitere Parlamente (Bundestag via DIP, Landtage in Sachsen, Brandenburg) sind technisch vorbereitet — der Adapter-Code ist quell-agnostisch genug, dass sie nachgezogen werden können.
 
