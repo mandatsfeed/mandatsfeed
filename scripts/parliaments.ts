@@ -19,6 +19,25 @@ export const PARLIAMENTS: ParliamentConfig[] = [
     sourceNotice:
       "Aufbereitung durch mandatsfeed. Quelle: Landtag Sachsen-Anhalt – PADOKA (padoka.landtag.sachsen-anhalt.de). Ohne Gewähr für Richtigkeit.",
   },
+  {
+    slug: "mecklenburg-vorpommern",
+    label: "Landtag Mecklenburg-Vorpommern",
+    source: "parldok",
+    homepage: "https://www.dokumentation.landtag-mv.de/parldok",
+    fraktionLabels: {
+      "spd": "SPD",
+      "afd": "AfD",
+      "cdu": "CDU",
+      "die-linke": "Die Linke",
+      "fdp": "FDP",
+      "bundnis-90-die-gruenen": "BÜNDNIS 90/DIE GRÜNEN",
+      "freie-waehler": "FREIE WÄHLER",
+      "fraktionslos": "Fraktionslose Abgeordnete",
+      "landesregierung": "Landesregierung",
+    },
+    sourceNotice:
+      "Aufbereitung durch mandatsfeed. Quelle: Landtag Mecklenburg-Vorpommern – Parlamentsdatenbank (dokumentation.landtag-mv.de). Ohne Gewähr für Richtigkeit.",
+  },
 ];
 
 export const TYPE_LABELS: Record<string, string> = {
