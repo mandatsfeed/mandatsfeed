@@ -47,6 +47,7 @@ const FRAKTION_SLUGS: Record<string, string> = {
   CDU: "cdu", AfD: "afd", "Die Linke": "die-linke", "DIE LINKE": "die-linke",
   SPD: "spd", FDP: "fdp", "BÜNDNIS 90/DIE GRÜNEN": "bundnis-90-die-gruenen",
   fraktionslos: "fraktionslos",
+  Landesregierung: "landesregierung",
 };
 
 function ab(...args: string[]): string {
@@ -164,21 +165,20 @@ function parseGermanDate(s: string): string {
   return m ? `${m[3]}-${m[2]}-${m[1]}` : "";
 }
 
-const ROLE_PREFIXES = [
-  "Minister", "Ministerin", "Ministerpräsident", "Staatssekretär", "Staatssekretärin",
-  "Präsident", "Präsidentin", "Vizepräsident", "Vizepräsidentin", "Alterspräsident",
-  "Schriftführer", "Schriftführerin", "Beauftragte", "Beauftragter",
-];
+// Words that indicate a parlamentary/government role rather than a party affiliation
+// in the speaker-card header parenthesis.
+const ROLE_TOKEN_RE = /\b(Minister|Ministerin|Ministerpräsident|Ministerpräsidentin|Staatsminister|Staatsministerin|Staatssekretär|Staatssekretärin|Präsident|Präsidentin|Vizepräsident|Vizepräsidentin|Alterspräsident|Alterspräsidentin|Schriftführer|Schriftführerin|Beauftragte|Beauftragter|Bürgerbeauftragte|Datenschutzbeauftragte|Rundfunkdatenschutzbeauftragte|Kulturminister|Kulturministerin|Justizminister|Justizministerin|Finanzminister|Finanzministerin|Wirtschaftsminister|Wirtschaftsministerin)\b/i;
 
 function parseSpeaker(head: string): { name: string; fraktion: string | null; role: string | null } | null {
   // Typical: "Wolfgang Aldag (BÜNDNIS 90/DIE GRÜNEN)"
   // Role:    "Lydia Hüskens (Ministerin für Infrastruktur und Digitales)"
+  // Role:    "Rainer Robra (Staats- und Kulturminister)"
   // Both:    rarely combined — usually just one parens
   const m = head.match(/^(.+?)\s+\(([^)]+)\)\s*$/);
   if (!m) return null;
   const name = m[1].trim();
   const inner = m[2].trim();
-  const isRole = ROLE_PREFIXES.some((p) => inner.startsWith(p));
+  const isRole = ROLE_TOKEN_RE.test(inner);
   if (isRole) return { name, fraktion: null, role: inner };
   return { name, fraktion: inner, role: null };
 }
