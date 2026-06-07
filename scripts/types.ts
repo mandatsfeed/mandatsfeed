@@ -13,6 +13,23 @@ export interface ActivityPerson {
   name_padoka?: string;
   role: "fragesteller" | "redner" | "urheber" | "abstimmend" | "antragsteller";
   fraktion: string;
+  /** Nur für role=abstimmend bei type=abstimmung. */
+  vote?: "ja" | "nein" | "enthalten" | "abwesend";
+}
+
+export interface PlenarProtokollRef {
+  nr: string;
+  date: string;
+  page?: number;
+}
+
+export interface VoteResult {
+  result: "annahme" | "ablehnung" | "sonstig";
+  ja: number;
+  nein: number;
+  enthalten: number;
+  abwesend: number;
+  stimmberechtigt: number;
 }
 
 export interface ActivityDocument {
@@ -42,6 +59,8 @@ export interface Activity {
   note?: string;
   summary?: string;
   relatedTo?: string;
+  plenarprotokoll?: PlenarProtokollRef;
+  vote?: VoteResult;
 }
 
 export interface ParliamentConfig {
