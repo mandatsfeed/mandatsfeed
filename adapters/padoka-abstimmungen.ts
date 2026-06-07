@@ -17,6 +17,7 @@ const WIKI = resolve(import.meta.dirname, "../wiki", PARLIAMENT_SLUG);
 const REGISTRY_PATH = join(WIKI, "personen.registry.json");
 const LISTING_URL = "https://padoka.landtag.sachsen-anhalt.de/portal/abstimmungen.tt.html";
 const PDF_CACHE = "/tmp/mandatsfeed-padoka-plpr";
+const MIN_DATE = process.env.MIN_DATE ?? "2026-01-01";
 
 interface RegistryEntry {
   name: string;
@@ -282,10 +283,11 @@ async function main(): Promise<void> {
   console.log(`[padoka-abstimmungen] ${aggregates.length} Aggregate gefunden`);
   // PDF cache per PlPr to avoid re-downloads.
   const pdfTextCache = new Map<string, string>();
-  let written = 0, skipped = 0, unmatched = 0;
+  let written = 0, skipped = 0, unmatched = 0, filteredByDate = 0;
   let processed = 0;
   for (const agg of aggregates) {
     if (processed >= limit) break;
+    if (agg.date < MIN_DATE) { filteredByDate++; continue; }
     processed++;
     if (!agg.plprPdfUrl) { unmatched++; continue; }
     let text = pdfTextCache.get(agg.plprPdfUrl);
@@ -307,7 +309,7 @@ async function main(): Promise<void> {
     if (writeIfMissing(a) === "written") written++;
     else skipped++;
   }
-  console.log(`[padoka-abstimmungen] processed=${processed} · neu=${written} · vorhanden=${skipped} · ungematched=${unmatched}`);
+  console.log(`[padoka-abstimmungen] aggregates=${aggregates.length} · processed=${processed} · neu=${written} · vorhanden=${skipped} · ungematched=${unmatched} · vor ${MIN_DATE}=${filteredByDate}`);
 }
 
 main().catch(e => { console.error(e); process.exit(1); });

@@ -13,6 +13,7 @@ export const PARLIAMENTS: ParliamentConfig[] = [
       "spd": "SPD",
       "fdp": "FDP",
       "bundnis-90-die-gruenen": "BÜNDNIS 90/DIE GRÜNEN",
+      "fraktionslos": "Fraktionslose Abgeordnete",
     },
     sourceNotice:
       "Aufbereitung durch mandatsfeed. Quelle: Landtag Sachsen-Anhalt – PADOKA (padoka.landtag.sachsen-anhalt.de). Ohne Gewähr für Richtigkeit.",

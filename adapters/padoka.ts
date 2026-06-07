@@ -1,37 +1,35 @@
-// PADOKA adapter (Landtag Sachsen-Anhalt).
-// Fetches the "AKTUELLE Dokumente" listing via agent-browser (JS-SPA),
-// parses each record's meta line into a canonical Activity, writes JSON
-// files into wiki/sachsen-anhalt/aktivitaet/YYYY-MM-DD/.
-// Idempotent + additive: existing JSON files are never modified or deleted.
+// PADOKA adapter — globaler Sweep der „Dokumente"-Suche, datums-gefiltert.
+// Verwendet den YEAR=<jahr>-Filter von PADOKA, lädt alle Treffer durch
+// wiederholtes Klicken von „Mehr Treffer anzeigen" und schreibt eine
+// Activity je Mandatsträger-Aktivität (Anträge, Kleine/Große Anfragen
+// inkl. Antworten, Gesetzentwürfe, Berichterstattungsverlangen).
+//
+// Aufruf:
+//   pnpm run fetch:sachsen-anhalt                  → Default-Jahr = aktuelles
+//   YEAR=2026 pnpm run fetch:sachsen-anhalt        → bestimmtes Jahr
+//
+// Idempotent + additiv: vorhandene JSONs werden bei Multi-Urheber-Items
+// ergänzt, sonst nicht überschrieben.
 import { execFileSync } from "node:child_process";
-import { existsSync, mkdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join, resolve } from "node:path";
 import type { Activity, ActivityPerson, ActivityType } from "../scripts/types.ts";
 
 const PARLIAMENT_SLUG = "sachsen-anhalt";
 const WIKI = resolve(import.meta.dirname, "../wiki", PARLIAMENT_SLUG);
+const YEAR = Number(process.env.YEAR ?? new Date().getUTCFullYear());
 
-// "AKTUELLE Dokumente (Eingang innerhalb des letzten Monats)" deeplink, WP=8.
 const LISTING_URL =
-  "https://padoka.landtag.sachsen-anhalt.de/portal/browse.tt.html?type=generic2&action=link&lawSheetYear=&lawSheetIssueNr=&title=&slab-period.1=WEEK&sprompt-period.1=MONTH%3D%2F%2F&sop.1=AND&slab.2=alWEBBI&sprompt.2=&sop.2=AND&slab.3=alWEBBI&sprompt.3=&sop.3=AND&wp=8&generic2-fulltext=";
+  `https://padoka.landtag.sachsen-anhalt.de/portal/browse.tt.html` +
+  `?type=generic2&action=link` +
+  `&from=01.01.${YEAR}&to=31.12.${YEAR}` +
+  `&wp=8`;
 
 interface RawRecord {
   recId: string;
   title: string;
   meta: string;
   documentUrl: string | null;
-}
-
-interface ParsedMeta {
-  date: string;
-  type: ActivityType;
-  subtype?: string;
-  status?: string;
-  drsNr: string;
-  pages?: number;
-  urheber: string;
-  primaryDocLabel: string;
-  relatedTo?: string;
 }
 
 const DOC_TYPE_KEEP = new Set([
@@ -48,7 +46,6 @@ const DOC_TYPE_KEEP = new Set([
   "Große Anfrage",
 ]);
 
-// Explicit non-mandate doc types — silent skip, don't count as "ungeparst".
 const DOC_TYPE_SKIP_PREFIX = [
   "Unterrichtung",
   "Information",
@@ -73,19 +70,42 @@ function ab(...args: string[]): string {
   return execFileSync("agent-browser", args, { encoding: "utf-8" });
 }
 
-function fetchRecords(): RawRecord[] {
-  ab("open", LISTING_URL);
-  // Page loads async; poll for results-container to populate.
-  for (let i = 0; i < 20; i++) {
-    const out = ab("eval", "(() => document.getElementById('results-container')?.children.length || 0)()");
+function waitForResults(): number {
+  for (let i = 0; i < 30; i++) {
+    const out = ab("eval", "(() => document.querySelectorAll('[data-efx-rec]').length)()");
     const n = Number((out.match(/^\d+/m) ?? ["0"])[0]);
-    if (n > 0) break;
+    if (n > 0) return n;
     ab("wait", "500");
   }
+  return 0;
+}
+
+function readTotal(): number {
+  const out = ab("eval", "(()=>{const m=document.body.textContent.match(/Treffer:\\s*\\d+\\s*bis\\s*\\d+\\s*von\\s*(\\d+)/);return m?Number(m[1]):0})()");
+  const n = Number((out.match(/^\d+/m) ?? ["0"])[0]);
+  return n;
+}
+
+function clickNextPage(): boolean {
+  const out = ab(
+    "eval",
+    "(()=>{const n=Array.from(document.querySelectorAll('a.page-link')).find(x=>x.textContent.trim()==='Next');if(n&&!n.closest('.disabled')){n.click();return true}return false})()",
+  );
+  return /true/.test(out);
+}
+
+function readRangeFromTreffer(): { from: number; to: number; total: number } {
+  const out = ab(
+    "eval",
+    "(()=>{const m=document.body.textContent.match(/Treffer:\\s*(\\d+)\\s*bis\\s*(\\d+)\\s*von\\s*(\\d+)/);return m?[Number(m[1]),Number(m[2]),Number(m[3])].join(','):'0,0,0'})()",
+  );
+  const [from, to, total] = (out.match(/(\d+),(\d+),(\d+)/) ?? ["", "0", "0", "0"]).slice(1).map(Number);
+  return { from: from!, to: to!, total: total! };
+}
+
+function extractRecordsOnPage(): RawRecord[] {
   const jsExpr = `(() => {
-    const c = document.getElementById('results-container');
-    if (!c) return [];
-    return Array.from(c.children).map(rec => {
+    return Array.from(document.querySelectorAll('[data-efx-rec]')).map(rec => {
       const recId = rec.getAttribute('data-efx-rec') || '';
       const title = rec.querySelector('h3 span')?.textContent.trim() || '';
       const meta = rec.querySelector('.h6')?.textContent.replace(/\\s+/g, ' ').trim() || '';
@@ -95,31 +115,67 @@ function fetchRecords(): RawRecord[] {
     }).filter(r => r.recId && r.title);
   })()`;
   const raw = ab("eval", jsExpr);
-  // agent-browser prints JSON-as-string followed by status lines we ignore.
   const m = raw.match(/^\[[\s\S]*\]/m);
-  if (!m) throw new Error("PADOKA listing: no JSON in agent-browser output");
+  if (!m) return [];
   return JSON.parse(m[0]) as RawRecord[];
+}
+
+function clickAlleAufEinerSeite(): boolean {
+  const out = ab("eval", "(()=>{const opt=Array.from(document.querySelectorAll('.multiselect-option')).find(x=>/Alle auf einer Seite/.test(x.textContent));if(opt){opt.click();return true}return false})()");
+  return /true/.test(out);
+}
+
+function fetchAllRecords(): RawRecord[] {
+  ab("open", LISTING_URL);
+  const n = waitForResults();
+  if (n === 0) {
+    console.error("[padoka] keine Treffer im initial-load");
+    return [];
+  }
+  const { total } = readRangeFromTreffer();
+  console.log(`[padoka] Treffer insgesamt: ${total}`);
+  if (!clickAlleAufEinerSeite()) {
+    console.error("[padoka] 'Alle auf einer Seite' Button nicht gefunden");
+    return extractRecordsOnPage();
+  }
+  // Wait for full population
+  let last = 0;
+  for (let i = 0; i < 90; i++) {
+    ab("wait", "1000");
+    const cur = Number((ab("eval", "(()=>document.querySelectorAll('[data-efx-rec]').length)()").match(/^\d+/m) ?? ["0"])[0]);
+    process.stdout.write(`  laden: ${cur}/${total}\r`);
+    if (cur >= total) { last = cur; break; }
+    if (cur === last && cur > 0 && i > 10) { last = cur; break; }
+    last = cur;
+  }
+  console.log(`  laden: ${last}/${total}`);
+  return extractRecordsOnPage();
+}
+
+interface ParsedMeta {
+  date: string;
+  type: ActivityType;
+  subtype?: string;
+  status?: string;
+  drsNr: string;
+  pages?: number;
+  urheber: string;
+  primaryDocLabel: string;
+  relatedTo?: string;
 }
 
 function parseGermanDate(s: string): string | null {
   const m = s.match(/(\d{2})\.(\d{2})\.(\d{4})/);
-  if (!m) return null;
-  return `${m[3]}-${m[2]}-${m[1]}`;
+  return m ? `${m[3]}-${m[2]}-${m[1]}` : null;
 }
 
 function classify(docLabel: string): { type: ActivityType; subtype?: string; status?: string } | null {
-  if (docLabel.startsWith("Kleine Anfrage ohne Antwort")) {
-    return { type: "kleine_anfrage", status: "ohne_antwort", subtype: "Kleine Anfrage zur schriftlichen Beantwortung" };
-  }
-  if (docLabel.startsWith("Kleine Anfrage und Antwort") || docLabel.startsWith("Antwort auf Kleine Anfrage")) {
-    return { type: "kleine_anfrage", status: "mit_antwort", subtype: "Antwort auf Kleine Anfrage" };
-  }
+  if (docLabel.startsWith("Kleine Anfrage ohne Antwort")) return { type: "kleine_anfrage", status: "ohne_antwort", subtype: "Kleine Anfrage zur schriftlichen Beantwortung" };
+  if (docLabel.startsWith("Kleine Anfrage und Antwort") || docLabel.startsWith("Antwort auf Kleine Anfrage")) return { type: "kleine_anfrage", status: "mit_antwort", subtype: "Antwort auf Kleine Anfrage" };
   if (docLabel.startsWith("Große Anfrage und Antwort")) return { type: "grosse_anfrage", status: "mit_antwort" };
   if (docLabel.startsWith("Große Anfrage")) return { type: "grosse_anfrage" };
   if (docLabel.startsWith("Gesetzentwurf")) return { type: "gesetzentwurf" };
-  if (docLabel.startsWith("Berichterstattungsverlangen")) {
-    return { type: "antrag", subtype: "Berichterstattungsverlangen" };
-  }
+  if (docLabel.startsWith("Berichterstattungsverlangen")) return { type: "antrag", subtype: "Berichterstattungsverlangen" };
   if (
     docLabel === "Antrag" ||
     docLabel.startsWith("Alternativantrag") ||
@@ -132,18 +188,14 @@ function classify(docLabel: string): { type: ActivityType; subtype?: string; sta
 }
 
 function parseMeta(meta: string): ParsedMeta | null {
-  // Anchor on the date.
   const dateMatch = meta.match(/(\d{2}\.\d{2}\.\d{4})/);
   if (!dateMatch) return null;
   const dateIso = parseGermanDate(dateMatch[1])!;
   const [prefixRaw, suffixRaw] = meta.split(dateMatch[1]).map((s) => s.trim());
   if (!prefixRaw || !suffixRaw) return null;
 
-  // Skip non-mandate document types early (prefix-based)
   if (DOC_TYPE_SKIP_PREFIX.some((p) => prefixRaw.startsWith(p))) return null;
 
-  // Suffix: "<PrimaryType> <WP>/<NR> [(KA <WP>/<NR>)] [(N S.)]"
-  // Allow an optional "(KA X/Y)" between drsNr and the page count (answer-to-KA case).
   const suffixMatch = suffixRaw.match(
     /^(Drucksache|Kleine Anfrage|Große Anfrage|Ausschussdrucksache|Plenarprotokoll|Vorlage|Information)\s+(\d+\/[A-Za-z0-9\/]+)(?:\s*\((KA|GA)\s+(\d+\/\d+)\))?(?:\s*\((\d+)\s*S\.\))?/,
   );
@@ -154,17 +206,8 @@ function parseMeta(meta: string): ParsedMeta | null {
   const relatedNr = suffixMatch[4];
   const pages = suffixMatch[5] ? Number(suffixMatch[5]) : undefined;
 
-  // Skip non-mandate primary types
-  if (
-    primaryDocLabel === "Ausschussdrucksache" ||
-    primaryDocLabel === "Plenarprotokoll" ||
-    primaryDocLabel === "Vorlage" ||
-    primaryDocLabel === "Information"
-  ) {
-    return null;
-  }
+  if (["Ausschussdrucksache", "Plenarprotokoll", "Vorlage", "Information"].includes(primaryDocLabel)) return null;
 
-  // Prefix: "<DocType> <Urheber>"
   const docTypeMatch = Array.from(DOC_TYPE_KEEP)
     .filter((t) => prefixRaw.startsWith(t))
     .sort((a, b) => b.length - a.length)[0];
@@ -187,8 +230,8 @@ function parseMeta(meta: string): ParsedMeta | null {
 }
 
 function slugifyPerson(nachname: string, vorname: string): string {
-  const base = `${vorname} ${nachname}`.toLowerCase();
-  return base
+  return (`${vorname} ${nachname}`)
+    .toLowerCase()
     .normalize("NFD")
     .replace(/[̀-ͯ]/g, "")
     .replace(/ß/g, "ss")
@@ -201,10 +244,6 @@ function slugifyFraktion(label: string): string | null {
 }
 
 function parsePersons(urheber: string): { persons: ActivityPerson[]; fraktionen: string[]; rawUrheber: string } {
-  // Patterns we recognise:
-  //   "Wolfgang Aldag (BÜNDNIS 90/DIE GRÜNEN)"  → one person
-  //   "Tobias Rausch (AfD), Ulrich Siegmund (AfD)" → two persons
-  //   "Fraktion Die Linke" / "Die Linke" → fraction only, no person
   const personRegex = /([\wÄÖÜäöüß\-\.]+(?:\s+[\wÄÖÜäöüß\-\.]+)*?)\s+\(([^)]+)\)/g;
   const persons: ActivityPerson[] = [];
   const fraktionenSet = new Set<string>();
@@ -213,7 +252,7 @@ function parsePersons(urheber: string): { persons: ActivityPerson[]; fraktionen:
     const fullName = m[1].trim();
     const fraktionLabel = m[2].trim();
     const fraktionSlug = slugifyFraktion(fraktionLabel);
-    if (!fraktionSlug) continue; // not a recognised fraction → likely Ministerium etc.
+    if (!fraktionSlug) continue;
     const parts = fullName.split(/\s+/);
     if (parts.length < 2) continue;
     const nachname = parts.slice(-1)[0]!;
@@ -232,7 +271,6 @@ function parsePersons(urheber: string): { persons: ActivityPerson[]; fraktionen:
     fraktionenSet.add(fraktionSlug);
   }
   if (persons.length === 0) {
-    // Fraction-only authorship — e.g. "Fraktion Die Linke" or just "Die Linke"
     for (const [label, slug] of Object.entries(FRAKTION_LABELS)) {
       if (new RegExp(`\\b${label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`).test(urheber)) {
         fraktionenSet.add(slug);
@@ -244,14 +282,11 @@ function parsePersons(urheber: string): { persons: ActivityPerson[]; fraktionen:
 
 function buildActivity(raw: RawRecord, parsed: ParsedMeta): Activity | null {
   const { persons, fraktionen, rawUrheber } = parsePersons(parsed.urheber);
-  if (persons.length === 0 && fraktionen.length === 0) return null; // not a mandate activity
+  if (persons.length === 0 && fraktionen.length === 0) return null;
 
-  // Adjust role per type
   const role: ActivityPerson["role"] =
     parsed.type === "kleine_anfrage" || parsed.type === "grosse_anfrage" ? "fragesteller" : "antragsteller";
-  persons.forEach((p) => {
-    p.role = role;
-  });
+  persons.forEach((p) => { p.role = role; });
 
   const idPrefix = parsed.type === "kleine_anfrage" || parsed.type === "grosse_anfrage" ? "ka" :
     parsed.type === "gesetzentwurf" ? "ges" : "drs";
@@ -301,7 +336,7 @@ function writeIfMissing(a: Activity): "written" | "skipped" {
 }
 
 function main(): void {
-  const records = fetchRecords();
+  const records = fetchAllRecords();
   let written = 0;
   let skipped = 0;
   let nonMandate = 0;
@@ -309,28 +344,19 @@ function main(): void {
   for (const raw of records) {
     const parsed = parseMeta(raw.meta);
     if (!parsed) {
-      // parseMeta returned null. Distinguish:
-      //  - explicit skip-prefix (Unterrichtung/Information/Vorlage/Beschlussempfehlung/Selbstbefassung/Ausschussprotokoll/Einladung) → silent skip
-      //  - everything else → log as unparsed for inspection
-      if (DOC_TYPE_SKIP_PREFIX.some((p) => raw.meta.startsWith(p))) {
-        nonMandate++;
-      } else {
-        unparsed.push(raw.meta);
-      }
+      if (DOC_TYPE_SKIP_PREFIX.some((p) => raw.meta.startsWith(p))) nonMandate++;
+      else unparsed.push(raw.meta);
       continue;
     }
     const activity = buildActivity(raw, parsed);
-    if (!activity) {
-      nonMandate++;
-      continue;
-    }
+    if (!activity) { nonMandate++; continue; }
     if (writeIfMissing(activity) === "written") written++;
     else skipped++;
   }
   console.log(
-    `[padoka] ${records.length} Records · ${written} neu · ${skipped} schon vorhanden · ${nonMandate} keine Mandatsträger-Aktivität · ${unparsed.length} ungeparst`,
+    `[padoka] ${records.length} Records (${YEAR}) · ${written} neu · ${skipped} schon vorhanden · ${nonMandate} keine Mandatsträger-Aktivität · ${unparsed.length} ungeparst`,
   );
-  if (unparsed.length > 0) {
+  if (unparsed.length > 0 && unparsed.length <= 20) {
     console.log("Ungeparste Meta-Zeilen:");
     for (const u of unparsed) console.log("  " + u);
   }
