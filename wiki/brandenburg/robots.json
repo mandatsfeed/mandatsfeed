@@ -1,0 +1,15 @@
+[
+  {
+    "domain": "www.landtag.brandenburg.de",
+    "baseUrl": "https://www.landtag.brandenburg.de",
+    "updatedAt": "2026-06-07T06:36:00Z",
+    "content": "User-agent: *\nAllow: /\n\nSitemap: https://www.landtag.brandenburg.de/sixcms/detail.php?template=ltbrb_sitemap_xml_d"
+  },
+  {
+    "domain": "www.parlamentsdokumentation.brandenburg.de",
+    "baseUrl": "https://www.parlamentsdokumentation.brandenburg.de",
+    "updatedAt": "2026-06-07T16:30:00Z",
+    "content": "User-agent: *\nDisallow: /\n\nUser-agent: Baiduspider\nDisallow: /\n\nUser-agent: SemrushBot\nDisallow: /\n\nUser-agent: SemrushBot-SA\nDisallow: /",
+    "note": "DEUTLICHE EINSCHRÄNKUNG — User-agent: * mit Disallow: / sperrt die gesamte Parlamentsdokumentations-Subdomain für automatisierten Zugriff. Analog zu PADOKA Sachsen-Anhalt. Strikt gelesen ist mandatsfeed-Crawling von hier NICHT robots-konform. Die Hauptseite www.landtag.brandenburg.de erlaubt Crawling weiterhin (Allow: /), aber die Parlamentsdokumentation als Subsystem hat eine eigene, restriktive Policy. Konsequenz für mandatsfeed: Forschungsphase, lokale Validierung, vor Produktivbetrieb formelle Erlaubnis beim Landtag Brandenburg / der Parlamentsdokumentation einholen — gleiches Modell wie für Sachsen-Anhalt."
+  }
+]
