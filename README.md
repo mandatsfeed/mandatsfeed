@@ -39,26 +39,29 @@ Weitere Parlamente (Bundestag via DIP, Landtage in Sachsen, Brandenburg, Mecklen
 ```
 wiki/
   <parlament>/
-    aktivitaet/
-      YYYY-MM-DD/
-        YYYY-MM-DD-<typ>-<wp>-<nr>.json  ← kanonisches Item, eine Datei pro Aktivität
-    personen/
-      <slug>/
-        rss.xml                          ← generiert aus den Aktivitäten dieser Person
-    fraktion/
-      <slug>/
-        rss.xml                          ← generiert aus den Aktivitäten dieser Fraktion
-    personen.registry.json               ← getrackte Personen + Quell-IDs + Fraktion + Wechselhistorie
-    robots.json                          ← gecachte robots.txt der Quelle(n)
-    README.md                            ← parlament-spezifische Doku
-  metadata.json                          ← Index aller abonnierbaren Feeds (für Weboberfläche)
+    robots.json                            ← gecachte robots.txt der Quelle(n)
+    README.md                              ← parlament-spezifische Doku
+    wp-<N>/                                ← alles, was zu *einer* Wahlperiode gehört
+      personen.registry.json               ← getrackte Personen + Quell-IDs + Fraktion + Wechselhistorie
+      aktivitaet/
+        YYYY-MM-DD/
+          YYYY-MM-DD-<typ>-<wp>-<nr>.json  ← kanonisches Item, eine Datei pro Aktivität
+      personen/
+        <slug>/
+          rss.xml                          ← generiert aus den Aktivitäten dieser Person
+      fraktion/
+        <slug>/
+          rss.xml                          ← generiert aus den Aktivitäten dieser Fraktion
+  metadata.json                            ← Index aller abonnierbaren Feeds, gruppiert nach Parlament + Wahlperiode
 ```
+
+Die Wahlperiode steckt explizit im Pfad, weil sich Personenkreis, Fraktionsstärke und Sitzverteilung pro Wahlperiode ändern. Mit der WP-Trennung können Bestände parallel existieren (z. B. WP 8 abgeschlossen + WP 9 im Aufbau nach der Sachsen-Anhalt-Wahl am 06.09.2026), ohne dass alte Feeds beim neuen Lauf überschrieben werden. Adapter routen jedes Item anhand seines `wp`-Felds automatisch in den passenden Unterordner.
 
 ## Datenschema einer Aktivität
 
 Jede Aktivität wird als eigenständige JSON-Datei abgelegt. Das Schema ist **quell-agnostisch**: derselbe Record-Aufbau, egal ob die Aktivität aus DIP, PADOKA, STARWEB, Parldok oder EDAS kommt. Die `source`-Eigenschaft hält fest, woher das Item stammt. Quell-Metadaten (Lizenz, Pflicht-Zitation) leben außerhalb des Items in `scripts/parliaments.ts` und werden beim RSS-Build injiziert — so erzeugen Quell-Wechsel keine Diff-Bloat in den Aktivitäts-JSONs.
 
-Beispiel: ein Antrag der Linke-Fraktion im Landtag Sachsen-Anhalt (`wiki/sachsen-anhalt/aktivitaet/2026-06-04/2026-06-04-antrag-8-7079.json`):
+Beispiel: ein Antrag der Linke-Fraktion im Landtag Sachsen-Anhalt (`wiki/sachsen-anhalt/wp-8/aktivitaet/2026-06-04/2026-06-04-antrag-8-7079.json`):
 
 ```json
 {
@@ -96,7 +99,7 @@ Beispiel: ein Antrag der Linke-Fraktion im Landtag Sachsen-Anhalt (`wiki/sachsen
 
 ## Daraus resultierende RSS-Items
 
-Der Build (`pnpm run generate-rss`) projiziert dieselbe Aktivität in **alle Feeds, in die sie gehört**. Der obige Antrag landet in `wiki/sachsen-anhalt/fraktion/die-linke/rss.xml`:
+Der Build (`pnpm run generate-rss`) projiziert dieselbe Aktivität in **alle Feeds, in die sie gehört**. Der obige Antrag landet in `wiki/sachsen-anhalt/wp-8/fraktion/die-linke/rss.xml`:
 
 ```xml
 <item>

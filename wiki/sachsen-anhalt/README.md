@@ -136,7 +136,9 @@ Namen mit Adelsprefix („von Angern") und Stadt-Disambiguator („Büttner (Ste
 
 ### Bestand der Personen-Registry
 
-`personen.registry.json` führt alle MdL der 8. WP mit Slug, kanonischem Namen, PADOKA-Schreibweise und Fraktionskontext. Slugs sind ASCII-only (ß → `ss`, Umlaute → Basis-Vokal, Sonderzeichen → `-`). Stand der Liste: 99 Einträge inkl. Nachrücker:innen und fraktionslos gewordenen Abgeordneten.
+`wp-8/personen.registry.json` führt alle MdL plus 9 Regierungsmitglieder der 8. WP mit Slug, kanonischem Namen, PADOKA-Schreibweise, Fraktionskontext und (für Regierungsmitglieder) `funktion`-Feld. Slugs sind ASCII-only (ß → `ss`, Umlaute → Basis-Vokal, Sonderzeichen → `-`). Stand der Liste: 106 Einträge inkl. Nachrücker:innen, fraktionslos gewordenen Abgeordneten und Regierungsmitgliedern ohne Mandat (Ministerpräsident Schulze, Minister:innen Hüskens, Grimm-Benne, Richter, Willingmann, Robra, Weidinger, Zieschang sowie Ex-Ministerpräsident Haseloff).
+
+Die Registry ist explizit pro Wahlperiode versioniert (`wp-<N>/personen.registry.json`) — die 9. WP wird nach der Landtagswahl am 06.09.2026 eine eigene Liste mit deutlich anderem Personenkreis bekommen.
 
 ### Referenztag für Implementations-Tests
 
