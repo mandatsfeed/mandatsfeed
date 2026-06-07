@@ -18,6 +18,7 @@ import type { Activity, ActivityPerson, ActivityType } from "../scripts/types.ts
 const PARLIAMENT_SLUG = "mecklenburg-vorpommern";
 const PARLIAMENT_DIR = resolve(import.meta.dirname, "../wiki", PARLIAMENT_SLUG);
 const WP = Number(process.env.WP ?? "8");
+const MIN_DATE = process.env.MIN_DATE ?? "2026-01-01";
 
 const LISTING_URL_BASE = "https://www.dokumentation.landtag-mv.de/parldok/neu/10_1_8___8.%20Wahlperiode%20(26.10.2021%20-%2025.10.2026)/7_1_1___Dokumentart%3A%20Drucksache";
 
@@ -319,7 +320,7 @@ function writeIfMissing(a: Activity): "written" | "skipped" {
 
 function main(): void {
   const records = fetchAllRecords();
-  let written = 0, skipped = 0, nonMandate = 0, unparsed = 0;
+  let written = 0, skipped = 0, nonMandate = 0, unparsed = 0, filteredByDate = 0;
   for (const raw of records) {
     const parsed = parseMeta(raw.meta);
     if (!parsed) {
@@ -327,12 +328,13 @@ function main(): void {
       else unparsed++;
       continue;
     }
+    if (parsed.date < MIN_DATE) { filteredByDate++; continue; }
     const a = buildActivity(raw, parsed);
     if (!a) { nonMandate++; continue; }
     if (writeIfMissing(a) === "written") written++;
     else skipped++;
   }
-  console.log(`[parldok-mv] ${records.length} Records · ${written} neu · ${skipped} schon vorhanden · ${nonMandate} keine Mandatsträger-Aktivität · ${unparsed} ungeparst`);
+  console.log(`[parldok-mv] ${records.length} Records · ${written} neu · ${skipped} schon vorhanden · ${nonMandate} keine Mandatsträger-Aktivität · ${unparsed} ungeparst · ${filteredByDate} vor ${MIN_DATE}`);
 }
 
 main();
