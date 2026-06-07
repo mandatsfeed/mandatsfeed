@@ -65,30 +65,30 @@ const FRAKTION_LABELS: Record<string, string> = {
 };
 
 interface DipFundstelle {
+  id?: string;
   herausgeber?: string;
   dokumentnummer?: string;
   dokumentart?: string;
+  drucksachetyp?: string;
   pdf_url?: string;
   datum?: string;
+  urheber?: string[];
 }
 
-interface DipUrheber {
-  einzelperson?: { vorname?: string; nachname?: string; titel?: string; fraktion?: string };
-  fraktion?: string;
-  rolle?: string;
-  bezeichnung?: string;
-}
+interface DipVorgangsbezug { id: string; titel?: string; vorgangstyp?: string; vorgangsposition?: string }
 
 interface DipAktivitaet {
-  id: number;
+  id: string;
   aktivitaetsart?: string;
+  // ACHTUNG: titel ist bei DIP-Aktivitäten der NAME der Person, nicht der
+  // Dokumenttitel. Der eigentliche Vorgangs-Titel steht in vorgangsbezug[0].titel.
   titel?: string;
   datum?: string;
   aktualisiert?: string;
   wahlperiode?: number;
+  person_id?: string;
   fundstelle?: DipFundstelle;
-  urheber?: DipUrheber[];
-  vorgangsbezug?: Array<{ id: number; titel?: string; vorgangstyp?: string }>;
+  vorgangsbezug?: DipVorgangsbezug[];
 }
 
 interface DipPage {
@@ -162,45 +162,98 @@ function slugifyFraktion(label: string | undefined): string | null {
   return FRAKTION_LABELS[label] ?? null;
 }
 
-function extractPersonsFromUrheber(urheber: DipUrheber[] | undefined): { persons: ActivityPerson[]; fraktionen: string[] } {
-  const persons: ActivityPerson[] = [];
-  const fraktionenSet = new Set<string>();
-  for (const u of urheber ?? []) {
-    if (u.einzelperson) {
-      const ep = u.einzelperson;
-      const nachname = ep.nachname?.trim();
-      const vorname = ep.vorname?.trim();
-      const fr = ep.fraktion?.trim();
-      if (nachname && vorname) {
-        persons.push({
-          slug: slugifyPerson(nachname, vorname),
-          name: `${vorname} ${nachname}`,
-          name_padoka: `${nachname}, ${vorname}`,
-          role: "antragsteller",
-          fraktion: fr ?? "unbekannt",
-        });
-        const frSlug = slugifyFraktion(fr);
-        if (frSlug) fraktionenSet.add(frSlug);
-      }
-    } else if (u.fraktion) {
-      const frSlug = slugifyFraktion(u.fraktion);
-      if (frSlug) fraktionenSet.add(frSlug);
-    } else if (u.bezeichnung) {
-      const frSlug = slugifyFraktion(u.bezeichnung);
-      if (frSlug) fraktionenSet.add(frSlug);
-    }
+// Parsed eine titel-Zeile wie "Dr. Alexander Gauland, MdB, AfD" zu einem ActivityPerson.
+function parsePersonFromTitel(titel: string, personId?: string): { person: ActivityPerson; fraktionSlug: string | null } | null {
+  // Strip akademische Titel (Dr., Prof. Dr. etc.) — fürs Slugging nicht relevant.
+  const stripped = titel.replace(/^(Prof\.\s*Dr\.|Prof\.|Dr\.\s+(med\.|h\.c\.|jur\.|phil\.)?)\s*/, "").trim();
+  // Format: "<Vorname[n]> <Nachname>, MdB, <Fraktion>" oder "<Name>, MdB" oder
+  //         "<Vorname[n]> <Nachname>, <Funktion>" (z.B. "Friedrich Merz, Bundeskanzler")
+  const m = stripped.match(/^(.+?),\s*(MdB|MdL|MdEP|Bundeskanzler[in]*|Minister[in]*|Staatsminister[in]*|Parl\.\s*Staatssekretär[in]*|[A-ZÄÖÜ][^,]+),\s*(.+?)$/);
+  if (!m) {
+    // Fall: "X Y, MdB" ohne Fraktion (selten)
+    const m2 = stripped.match(/^(.+?),\s*MdB$/);
+    if (!m2) return null;
+    const fullName = m2[1]!.trim();
+    const parts = fullName.split(/\s+/);
+    if (parts.length < 2) return null;
+    const nachname = parts.slice(-1)[0]!;
+    const vorname = parts.slice(0, -1).join(" ");
+    return {
+      person: {
+        slug: slugifyPerson(nachname, vorname),
+        name: `${vorname} ${nachname}`,
+        name_padoka: `${nachname}, ${vorname}`,
+        role: "antragsteller",
+        fraktion: "unbekannt",
+      },
+      fraktionSlug: null,
+    };
   }
-  return { persons, fraktionen: Array.from(fraktionenSet) };
+  const fullName = m[1]!.trim();
+  // m[2] ist die Funktion (MdB, Minister*, etc.). Bei reguläeren MdB ist m[3] die Fraktion.
+  const funktion = m[2]!.trim();
+  const fraktionRaw = m[3]!.trim();
+  const fraktionSlug = slugifyFraktion(fraktionRaw);
+  const parts = fullName.split(/\s+/);
+  if (parts.length < 2) return null;
+  const nachname = parts.slice(-1)[0]!;
+  const adligPrefix = parts.length >= 3 && /^(von|zu|de|van)$/i.test(parts[parts.length - 2]!)
+    ? parts[parts.length - 2] + " "
+    : "";
+  const trueNachname = adligPrefix + nachname;
+  const vorname = parts.slice(0, parts.length - (adligPrefix ? 2 : 1)).join(" ");
+  const person: ActivityPerson = {
+    slug: slugifyPerson(trueNachname, vorname),
+    name: `${vorname} ${trueNachname}`,
+    name_padoka: `${trueNachname}, ${vorname}`,
+    role: "antragsteller",
+    fraktion: fraktionRaw,
+  };
+  if (funktion && funktion !== "MdB") (person as ActivityPerson & { funktion?: string }).funktion = funktion;
+  return { person, fraktionSlug };
 }
 
-function buildActivity(item: DipAktivitaet, classified: { type: ActivityType; subtype?: string; status?: string }): Activity | null {
-  const date = item.datum ?? item.fundstelle?.datum;
+function extractFraktionenFromFundstelle(fst: DipFundstelle | undefined): string[] {
+  const set = new Set<string>();
+  for (const u of fst?.urheber ?? []) {
+    // "Fraktion der AfD" → AfD
+    const norm = u.replace(/^Fraktion(en)?\s+(der\s+|des\s+|von\s+|im\s+)?/, "").trim();
+    const slug = slugifyFraktion(norm);
+    if (slug) set.add(slug);
+  }
+  return Array.from(set);
+}
+
+// Eine Activity wird pro Vorgang gebaut (nicht pro DIP-Aktivität — DIP listet
+// für eine gemeinsame KA von 10 MdB 10 einzelne Aktivitäten mit derselben
+// vorgangsbezug.id, die wir mergen.
+function buildActivityFromMergedVorgang(
+  vorgangId: string,
+  items: DipAktivitaet[],
+  classified: { type: ActivityType; subtype?: string; status?: string },
+): Activity | null {
+  const first = items[0]!;
+  const date = first.datum ?? first.fundstelle?.datum;
   if (!date) return null;
-  const wp = item.wahlperiode ?? 0;
+  const wp = first.wahlperiode ?? 0;
   if (!wp) return null;
 
-  const drsNr = item.fundstelle?.dokumentnummer;
-  const { persons, fraktionen } = extractPersonsFromUrheber(item.urheber);
+  const drsNr = first.fundstelle?.dokumentnummer;
+  const title = first.vorgangsbezug?.[0]?.titel ?? "(ohne Titel)";
+
+  const persons: ActivityPerson[] = [];
+  const fraktionenSet = new Set<string>(extractFraktionenFromFundstelle(first.fundstelle));
+  const seenPersonIds = new Set<string>();
+  for (const item of items) {
+    if (item.person_id && seenPersonIds.has(item.person_id)) continue;
+    if (item.person_id) seenPersonIds.add(item.person_id);
+    if (!item.titel) continue;
+    const parsed = parsePersonFromTitel(item.titel, item.person_id);
+    if (!parsed) continue;
+    persons.push(parsed.person);
+    if (parsed.fraktionSlug) fraktionenSet.add(parsed.fraktionSlug);
+  }
+  const fraktionen = Array.from(fraktionenSet);
   if (persons.length === 0 && fraktionen.length === 0) return null;
 
   const role: ActivityPerson["role"] =
@@ -213,7 +266,7 @@ function buildActivity(item: DipAktivitaet, classified: { type: ActivityType; su
     : classified.type === "gesetzentwurf" ? "ges"
     : classified.type === "rede" ? "rede"
     : classified.type === "abstimmung" ? "abst" : "drs";
-  const drsSlug = drsNr ? drsNr.replace(/\//g, "-") : `aktivitaet-${item.id}`;
+  const drsSlug = drsNr ? drsNr.replace(/\//g, "-") : `vorgang-${vorgangId}`;
 
   const a: Activity = {
     id: `dip-${idPrefix}-${drsSlug}`,
@@ -221,7 +274,7 @@ function buildActivity(item: DipAktivitaet, classified: { type: ActivityType; su
     parliament: PARLIAMENT_SLUG,
     wp,
     type: classified.type,
-    title: item.titel?.trim() ?? "(ohne Titel)",
+    title: title.trim(),
     date,
     persons,
     fraktionen,
@@ -229,10 +282,10 @@ function buildActivity(item: DipAktivitaet, classified: { type: ActivityType; su
   if (drsNr) a.drsNr = drsNr;
   if (classified.subtype) a.subtype = classified.subtype;
   if (classified.status) a.status = classified.status;
-  if (item.fundstelle?.pdf_url) {
+  if (first.fundstelle?.pdf_url) {
     a.document = {
-      url: item.fundstelle.pdf_url,
-      filename: item.fundstelle.pdf_url.split("/").pop() ?? undefined,
+      url: first.fundstelle.pdf_url,
+      filename: first.fundstelle.pdf_url.split("/").pop() ?? undefined,
     };
   }
   return a;
@@ -255,18 +308,29 @@ function writeIfMissing(a: Activity): "written" | "skipped" {
 
 async function main(): Promise<void> {
   const items = await fetchAllItems();
-  console.log(`[dip] ${items.length} Items geliefert (Jahr ${YEAR})`);
+  console.log(`[dip] ${items.length} Aktivitäts-Items geliefert (Jahr ${YEAR})`);
+
+  // Gruppieren nach Vorgang (vorgangsbezug[0].id), Aktivitäten ohne
+  // Vorgangsbezug ueber die Drs-Nr buendeln.
+  const groups = new Map<string, DipAktivitaet[]>();
+  let noGroupKey = 0;
+  for (const it of items) {
+    const key = it.vorgangsbezug?.[0]?.id ?? it.fundstelle?.dokumentnummer ?? `lone-${++noGroupKey}`;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key)!.push(it);
+  }
 
   let written = 0, skipped = 0, nonMandate = 0, unparsed = 0;
-  for (const item of items) {
-    const classified = classify(item.aktivitaetsart);
+  for (const [key, group] of groups) {
+    const akt = group[0]!.aktivitaetsart;
+    const classified = classify(akt);
     if (!classified) { nonMandate++; continue; }
-    const a = buildActivity(item, classified);
+    const a = buildActivityFromMergedVorgang(key, group, classified);
     if (!a) { unparsed++; continue; }
     if (writeIfMissing(a) === "written") written++;
     else skipped++;
   }
-  console.log(`[dip] ${written} neu · ${skipped} schon vorhanden · ${nonMandate} keine Mandatsträger-Aktivität · ${unparsed} ungeparst`);
+  console.log(`[dip] ${groups.size} Vorgänge (zusammengefasst aus ${items.length} Aktivitäten) · ${written} neu · ${skipped} vorhanden · ${nonMandate} keine Mandatsträger-Aktivität · ${unparsed} ungeparst`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
