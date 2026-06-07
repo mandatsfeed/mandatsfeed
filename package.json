@@ -18,7 +18,8 @@
     "append-update-log": "tsx scripts/append-update-log.ts",
     "fetch-reden:brandenburg": "tsx adapters/brandenburg-reden.ts",
     "fetch-reden:bundestag": "tsx adapters/bundestag-reden.ts",
-    "fetch-abstimmungen:bundestag": "tsx adapters/bundestag-abstimmungen.ts"
+    "fetch-abstimmungen:bundestag": "tsx adapters/bundestag-abstimmungen.ts",
+    "fetch-reden:sachsen": "tsx adapters/sachsen-reden.ts"
   },
   "devDependencies": {
     "@types/node": "^25.6.0",
