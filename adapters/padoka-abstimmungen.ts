@@ -215,9 +215,12 @@ function buildActivity(agg: AggregateAbst, block: VoteLine[], registry: Map<stri
     });
     fraktionenSet.add(slugifyFraktion(hit.entry.fraktion));
   }
+  // Result derives from the vote counts, not from agg.meta — the meta string can
+  // mix outcomes (e.g. „Ablehnung Drs. X in namentlicher Abstimmung" plus
+  // „Beschluss: Annahme der Beschlussempfehlung"). Counts are authoritative.
   const result: VoteResult["result"] =
-    /Annahme/.test(agg.meta) ? "annahme" :
-    /Ablehnung/.test(agg.meta) ? "ablehnung" : "sonstig";
+    agg.ja > agg.nein ? "annahme" :
+    agg.nein > agg.ja ? "ablehnung" : "sonstig";
   const a: Activity = {
     id: `padoka-abst-${agg.id.replace("ABSTIMM_", "")}`,
     source: "padoka",
