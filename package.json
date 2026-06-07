@@ -16,7 +16,8 @@
     "generate-rss": "tsx scripts/generate-rss.ts",
     "generate-metadata": "tsx scripts/generate-metadata.ts",
     "append-update-log": "tsx scripts/append-update-log.ts",
-    "fetch-reden:brandenburg": "tsx adapters/brandenburg-reden.ts"
+    "fetch-reden:brandenburg": "tsx adapters/brandenburg-reden.ts",
+    "fetch-reden:bundestag": "tsx adapters/bundestag-reden.ts"
   },
   "devDependencies": {
     "@types/node": "^25.6.0",
