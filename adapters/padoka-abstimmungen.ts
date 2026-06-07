@@ -13,8 +13,10 @@ import { PDFParse } from "pdf-parse";
 import type { Activity, ActivityPerson, VoteResult } from "../scripts/types.ts";
 
 const PARLIAMENT_SLUG = "sachsen-anhalt";
-const WIKI = resolve(import.meta.dirname, "../wiki", PARLIAMENT_SLUG);
-const REGISTRY_PATH = join(WIKI, "personen.registry.json");
+const PARLIAMENT_DIR = resolve(import.meta.dirname, "../wiki", PARLIAMENT_SLUG);
+const WP = Number(process.env.WP ?? "8");
+const WP_DIR = join(PARLIAMENT_DIR, `wp-${WP}`);
+const REGISTRY_PATH = join(WP_DIR, "personen.registry.json");
 const LISTING_URL = "https://padoka.landtag.sachsen-anhalt.de/portal/abstimmungen.tt.html";
 const PDF_CACHE = "/tmp/mandatsfeed-padoka-plpr";
 const MIN_DATE = process.env.MIN_DATE ?? "2026-01-01";
@@ -266,7 +268,7 @@ function filenameFor(a: Activity): string {
 }
 
 function writeIfMissing(a: Activity): "written" | "skipped" {
-  const dir = join(WIKI, "aktivitaet", a.date);
+  const dir = join(PARLIAMENT_DIR, `wp-${a.wp}`, "aktivitaet", a.date);
   mkdirSync(dir, { recursive: true });
   const path = join(dir, filenameFor(a));
   if (existsSync(path)) return "skipped";

@@ -5,7 +5,6 @@ import type { Activity, ParliamentConfig } from "./types.ts";
 import { PARLIAMENTS, TYPE_LABELS } from "./parliaments.ts";
 
 const WIKI = resolve(import.meta.dirname, "../wiki");
-const FEED_LIMIT = 50;
 
 function escapeXml(s: string): string {
   return s
@@ -20,8 +19,17 @@ function rfc822(date: string): string {
   return new Date(date + "T00:00:00Z").toUTCString();
 }
 
-function loadActivities(parliamentSlug: string): Activity[] {
-  const dir = join(WIKI, parliamentSlug, "aktivitaet");
+function listWPDirs(parliamentSlug: string): string[] {
+  const dir = join(WIKI, parliamentSlug);
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((name) => /^wp-\d+$/.test(name))
+    .filter((name) => statSync(join(dir, name)).isDirectory())
+    .sort();
+}
+
+function loadActivitiesForWP(parliamentSlug: string, wpDir: string): Activity[] {
+  const dir = join(WIKI, parliamentSlug, wpDir, "aktivitaet");
   if (!existsSync(dir)) return [];
   const items: Activity[] = [];
   for (const day of readdirSync(dir)) {
@@ -85,7 +93,7 @@ function renderChannel(opts: {
   items: Activity[];
   contextPersonSlug?: string;
 }): string {
-  const sorted = opts.items.slice().sort((a, b) => b.date.localeCompare(a.date)).slice(0, FEED_LIMIT);
+  const sorted = opts.items.slice().sort((a, b) => b.date.localeCompare(a.date));
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
@@ -132,6 +140,7 @@ function pruneStale(baseDir: string, currentSlugs: Set<string>): number {
 
 function buildPersonFeeds(
   parliament: ParliamentConfig,
+  wpDir: string,
   activities: Activity[],
 ): { written: number; pruned: number } {
   const byPerson = new Map<string, PersonAggregate>();
@@ -147,10 +156,10 @@ function buildPersonFeeds(
   }
   let written = 0;
   for (const agg of byPerson.values()) {
-    const dir = join(WIKI, parliament.slug, "personen", agg.slug);
+    const dir = join(WIKI, parliament.slug, wpDir, "personen", agg.slug);
     ensureDir(dir);
     const xml = renderChannel({
-      title: `mandatsfeed · ${agg.name} (${parliament.label})`,
+      title: `mandatsfeed · ${agg.name} (${parliament.label}, ${wpDir.toUpperCase()})`,
       link: parliament.homepage,
       description: parliament.sourceNotice,
       items: agg.items,
@@ -159,7 +168,7 @@ function buildPersonFeeds(
     if (writeIfChanged(join(dir, "rss.xml"), xml)) written++;
   }
   const pruned = pruneStale(
-    join(WIKI, parliament.slug, "personen"),
+    join(WIKI, parliament.slug, wpDir, "personen"),
     new Set(byPerson.keys()),
   );
   return { written, pruned };
@@ -167,6 +176,7 @@ function buildPersonFeeds(
 
 function buildFraktionFeeds(
   parliament: ParliamentConfig,
+  wpDir: string,
   activities: Activity[],
 ): { written: number; pruned: number } {
   const byFraktion = new Map<string, Activity[]>();
@@ -179,10 +189,10 @@ function buildFraktionFeeds(
   let written = 0;
   for (const [slug, items] of byFraktion) {
     const label = parliament.fraktionLabels[slug] ?? slug;
-    const dir = join(WIKI, parliament.slug, "fraktion", slug);
+    const dir = join(WIKI, parliament.slug, wpDir, "fraktion", slug);
     ensureDir(dir);
     const xml = renderChannel({
-      title: `mandatsfeed · Fraktion ${label} (${parliament.label})`,
+      title: `mandatsfeed · Fraktion ${label} (${parliament.label}, ${wpDir.toUpperCase()})`,
       link: parliament.homepage,
       description: parliament.sourceNotice,
       items,
@@ -190,7 +200,7 @@ function buildFraktionFeeds(
     if (writeIfChanged(join(dir, "rss.xml"), xml)) written++;
   }
   const pruned = pruneStale(
-    join(WIKI, parliament.slug, "fraktion"),
+    join(WIKI, parliament.slug, wpDir, "fraktion"),
     new Set(byFraktion.keys()),
   );
   return { written, pruned };
@@ -198,16 +208,23 @@ function buildFraktionFeeds(
 
 function main(): void {
   for (const parliament of PARLIAMENTS) {
-    const activities = loadActivities(parliament.slug);
-    if (activities.length === 0) {
-      console.log(`[${parliament.slug}] keine Aktivitäten`);
+    const wpDirs = listWPDirs(parliament.slug);
+    if (wpDirs.length === 0) {
+      console.log(`[${parliament.slug}] keine WP-Ordner gefunden`);
       continue;
     }
-    const persons = buildPersonFeeds(parliament, activities);
-    const fraktionen = buildFraktionFeeds(parliament, activities);
-    console.log(
-      `[${parliament.slug}] ${activities.length} Aktivitäten → Personen: ${persons.written} geschrieben, ${persons.pruned} entfernt · Fraktionen: ${fraktionen.written} geschrieben, ${fraktionen.pruned} entfernt`,
-    );
+    for (const wpDir of wpDirs) {
+      const activities = loadActivitiesForWP(parliament.slug, wpDir);
+      if (activities.length === 0) {
+        console.log(`[${parliament.slug}/${wpDir}] keine Aktivitäten`);
+        continue;
+      }
+      const persons = buildPersonFeeds(parliament, wpDir, activities);
+      const fraktionen = buildFraktionFeeds(parliament, wpDir, activities);
+      console.log(
+        `[${parliament.slug}/${wpDir}] ${activities.length} Aktivitäten → Personen: ${persons.written} geschrieben, ${persons.pruned} entfernt · Fraktionen: ${fraktionen.written} geschrieben, ${fraktionen.pruned} entfernt`,
+      );
+    }
   }
 }
 

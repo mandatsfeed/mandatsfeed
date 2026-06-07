@@ -1,7 +1,7 @@
 #!/usr/bin/env tsx
 import { readFileSync, writeFileSync, readdirSync, statSync, existsSync } from "node:fs";
 import { join, resolve } from "node:path";
-import type { FeedEntry, Metadata } from "./types.ts";
+import type { FeedEntry } from "./types.ts";
 import { PARLIAMENTS } from "./parliaments.ts";
 
 const WIKI = resolve(import.meta.dirname, "../wiki");
@@ -35,9 +35,18 @@ function readChannelTitle(rssPath: string): string | null {
   return m?.[1] ?? null;
 }
 
-function buildEntries(parliamentSlug: string, kind: "person" | "fraktion"): FeedEntry[] {
+function listWPDirs(parliamentSlug: string): string[] {
+  const dir = join(WIKI, parliamentSlug);
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((n) => /^wp-\d+$/.test(n))
+    .filter((n) => statSync(join(dir, n)).isDirectory())
+    .sort();
+}
+
+function buildEntries(parliamentSlug: string, wpDir: string, kind: "person" | "fraktion"): FeedEntry[] {
   const subdir = kind === "person" ? "personen" : "fraktion";
-  const base = join(WIKI, parliamentSlug, subdir);
+  const base = join(WIKI, parliamentSlug, wpDir, subdir);
   const entries: FeedEntry[] = [];
   for (const slug of listSubdirs(base)) {
     const rssPath = join(base, slug, "rss.xml");
@@ -50,29 +59,49 @@ function buildEntries(parliamentSlug: string, kind: "person" | "fraktion"): Feed
       label,
       count: countItems(rssPath),
       updatedAt: latestPubDate(rssPath),
-      rssUrl: `wiki/${parliamentSlug}/${subdir}/${slug}/rss.xml`,
+      rssUrl: `wiki/${parliamentSlug}/${wpDir}/${subdir}/${slug}/rss.xml`,
     });
   }
   return entries;
 }
 
+interface WPBlock {
+  wp: number;
+  label: string;
+  personen: FeedEntry[];
+  fraktionen: FeedEntry[];
+}
+
 function main(): void {
-  const meta: Metadata = {
+  const meta = {
     generatedAt: new Date().toISOString(),
-    parliaments: PARLIAMENTS.map((p) => ({
-      slug: p.slug,
-      label: p.label,
-      homepage: p.homepage,
-      personen: buildEntries(p.slug, "person"),
-      fraktionen: buildEntries(p.slug, "fraktion"),
-    })),
+    parliaments: PARLIAMENTS.map((p) => {
+      const wahlperioden: WPBlock[] = [];
+      for (const wpDir of listWPDirs(p.slug)) {
+        const wpNum = Number(wpDir.replace("wp-", ""));
+        wahlperioden.push({
+          wp: wpNum,
+          label: `${wpNum}. Wahlperiode`,
+          personen: buildEntries(p.slug, wpDir, "person"),
+          fraktionen: buildEntries(p.slug, wpDir, "fraktion"),
+        });
+      }
+      return {
+        slug: p.slug,
+        label: p.label,
+        homepage: p.homepage,
+        wahlperioden,
+      };
+    }),
   };
   const out = join(WIKI, "metadata.json");
   writeFileSync(out, JSON.stringify(meta, null, 2) + "\n");
   for (const p of meta.parliaments) {
-    console.log(
-      `[${p.slug}] ${p.personen.length} Personen-Feeds, ${p.fraktionen.length} Fraktions-Feeds abonnierbar`,
-    );
+    for (const wp of p.wahlperioden) {
+      console.log(
+        `[${p.slug}/wp-${wp.wp}] ${wp.personen.length} Personen-Feeds, ${wp.fraktionen.length} Fraktions-Feeds abonnierbar`,
+      );
+    }
   }
   console.log(`→ wiki/metadata.json`);
 }

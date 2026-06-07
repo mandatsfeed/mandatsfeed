@@ -45,14 +45,19 @@ function contentKey(a: Activity): string {
 }
 
 function* walkActivityFiles(parliamentSlug: string): Iterable<string> {
-  const dir = join(WIKI, parliamentSlug, "aktivitaet");
-  if (!existsSync(dir)) return;
-  for (const day of readdirSync(dir)) {
-    const dayDir = join(dir, day);
-    if (!statSync(dayDir).isDirectory()) continue;
-    for (const f of readdirSync(dayDir)) {
-      if (!f.endsWith(".json")) continue;
-      yield join(dayDir, f);
+  const parliamentDir = join(WIKI, parliamentSlug);
+  if (!existsSync(parliamentDir)) return;
+  for (const wpDir of readdirSync(parliamentDir)) {
+    if (!/^wp-\d+$/.test(wpDir)) continue;
+    const aktivitaetDir = join(parliamentDir, wpDir, "aktivitaet");
+    if (!existsSync(aktivitaetDir)) continue;
+    for (const day of readdirSync(aktivitaetDir)) {
+      const dayDir = join(aktivitaetDir, day);
+      if (!statSync(dayDir).isDirectory()) continue;
+      for (const f of readdirSync(dayDir)) {
+        if (!f.endsWith(".json")) continue;
+        yield join(dayDir, f);
+      }
     }
   }
 }
@@ -67,7 +72,7 @@ function gitHeadActivity(repoRelPath: string): Activity | null {
 function gitHeadFilesUnder(prefix: string): Set<string> {
   try {
     const out = execSync(`git ls-tree -r --name-only HEAD -- "${prefix}"`, { encoding: "utf-8", cwd: ROOT, stdio: ["ignore", "pipe", "ignore"] });
-    return new Set(out.split("\n").filter((s) => s.endsWith(".json")));
+    return new Set(out.split("\n").filter((s) => s.endsWith(".json") && /\/wp-\d+\/aktivitaet\//.test(s)));
   } catch { return new Set(); }
 }
 
@@ -84,7 +89,7 @@ function aggregate(): Map<string, ParliamentBucket> {
     for (const abs of walkActivityFiles(parliament.slug)) {
       treeFiles.add(relative(ROOT, abs));
     }
-    const headFiles = gitHeadFilesUnder(`wiki/${parliament.slug}/aktivitaet/`);
+    const headFiles = gitHeadFilesUnder(`wiki/${parliament.slug}/`);
     const bucket: ParliamentBucket = { fraktionen: {}, total: emptyDiff() };
 
     const ensure = (fr: string, type: string): Diff => {

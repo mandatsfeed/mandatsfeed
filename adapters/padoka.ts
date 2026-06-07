@@ -16,7 +16,7 @@ import { join, resolve } from "node:path";
 import type { Activity, ActivityPerson, ActivityType } from "../scripts/types.ts";
 
 const PARLIAMENT_SLUG = "sachsen-anhalt";
-const WIKI = resolve(import.meta.dirname, "../wiki", PARLIAMENT_SLUG);
+const PARLIAMENT_DIR = resolve(import.meta.dirname, "../wiki", PARLIAMENT_SLUG);
 const YEAR = Number(process.env.YEAR ?? new Date().getUTCFullYear());
 
 const LISTING_URL =
@@ -327,7 +327,7 @@ function filenameFor(a: Activity): string {
 }
 
 function writeIfMissing(a: Activity): "written" | "skipped" {
-  const dir = join(WIKI, "aktivitaet", a.date);
+  const dir = join(PARLIAMENT_DIR, `wp-${a.wp}`, "aktivitaet", a.date);
   mkdirSync(dir, { recursive: true });
   const path = join(dir, filenameFor(a));
   if (existsSync(path)) return "skipped";
