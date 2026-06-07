@@ -7,10 +7,12 @@
   "description": "Feeds parlamentarischer Aktivitäten von Mandatsträgern in Bundestag und Landtagen.",
   "scripts": {
     "fetch:sachsen-anhalt": "tsx adapters/padoka.ts",
+    "fetch-initiativen:sachsen-anhalt": "tsx adapters/padoka-initiativen.ts",
     "fetch-reden:sachsen-anhalt": "tsx adapters/padoka-reden.ts",
     "fetch-abstimmungen:sachsen-anhalt": "tsx adapters/padoka-abstimmungen.ts",
     "generate-rss": "tsx scripts/generate-rss.ts",
-    "generate-metadata": "tsx scripts/generate-metadata.ts"
+    "generate-metadata": "tsx scripts/generate-metadata.ts",
+    "append-update-log": "tsx scripts/append-update-log.ts"
   },
   "devDependencies": {
     "@types/node": "^25.6.0",
