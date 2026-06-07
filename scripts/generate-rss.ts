@@ -35,29 +35,46 @@ function loadActivities(parliamentSlug: string): Activity[] {
   return items;
 }
 
-function synthDescription(a: Activity): string {
+function synthDescription(a: Activity, contextPersonSlug?: string): string {
   const parts: string[] = [];
   const typeLabel = TYPE_LABELS[a.type] ?? a.type;
   parts.push(a.subtype ? `${typeLabel} (${a.subtype})` : typeLabel);
   if (a.drsNr) parts.push(a.drsNr);
-  if (a.persons.length > 0) {
-    parts.push("Urheber: " + a.persons.map((p) => `${p.name} (${p.fraktion})`).join(", "));
-  } else if (a.urheber) {
-    parts.push("Urheber: " + a.urheber);
+
+  if (a.type === "abstimmung" && a.vote) {
+    parts.push(
+      `Ergebnis: ${a.vote.ja} ja, ${a.vote.nein} nein, ${a.vote.enthalten} enth., ${a.vote.abwesend} abw. von ${a.vote.stimmberechtigt} (${a.vote.result})`,
+    );
+    if (a.relatedTo) parts.push(`Abstimmung über ${a.relatedTo.replace(/^padoka-(ka|drs|ges)-/, "Drs. ").replace(/-/g, "/")}`);
+    if (contextPersonSlug) {
+      const me = a.persons.find((p) => p.slug === contextPersonSlug);
+      if (me?.vote) parts.push(`Eigene Stimme: ${me.vote}`);
+    }
+  } else if (a.type === "rede") {
+    if (a.plenarprotokoll) {
+      parts.push(`Plenarprotokoll ${a.plenarprotokoll.nr}, S. ${a.plenarprotokoll.page ?? "?"}`);
+    }
+    if (a.summary) parts.push(a.summary);
+  } else {
+    if (a.persons.length > 0) {
+      parts.push("Urheber: " + a.persons.map((p) => `${p.name} (${p.fraktion})`).join(", "));
+    } else if (a.urheber) {
+      parts.push("Urheber: " + a.urheber);
+    }
+    if (a.document?.pages) parts.push(`${a.document.pages} S.`);
+    if (a.summary) parts.push(a.summary);
   }
-  if (a.document?.pages) parts.push(`${a.document.pages} S.`);
-  if (a.summary) parts.push(a.summary);
   return parts.join(" · ");
 }
 
-function renderItem(a: Activity): string {
+function renderItem(a: Activity, contextPersonSlug?: string): string {
   const link = a.document?.url ?? "";
   return `    <item>
       <guid isPermaLink="false">${escapeXml(a.id)}</guid>
       <title>${escapeXml(a.title)}</title>
       <pubDate>${rfc822(a.date)}</pubDate>
       <link>${escapeXml(link)}</link>
-      <description>${escapeXml(synthDescription(a))}</description>
+      <description>${escapeXml(synthDescription(a, contextPersonSlug))}</description>
     </item>`;
 }
 
@@ -66,6 +83,7 @@ function renderChannel(opts: {
   link: string;
   description: string;
   items: Activity[];
+  contextPersonSlug?: string;
 }): string {
   const sorted = opts.items.slice().sort((a, b) => b.date.localeCompare(a.date)).slice(0, FEED_LIMIT);
   return `<?xml version="1.0" encoding="UTF-8"?>
@@ -75,7 +93,7 @@ function renderChannel(opts: {
     <link>${escapeXml(opts.link)}</link>
     <description>${escapeXml(opts.description)}</description>
     <language>de</language>
-${sorted.map(renderItem).join("\n")}
+${sorted.map((a) => renderItem(a, opts.contextPersonSlug)).join("\n")}
   </channel>
 </rss>
 `;
@@ -136,6 +154,7 @@ function buildPersonFeeds(
       link: parliament.homepage,
       description: parliament.sourceNotice,
       items: agg.items,
+      contextPersonSlug: agg.slug,
     });
     if (writeIfChanged(join(dir, "rss.xml"), xml)) written++;
   }
