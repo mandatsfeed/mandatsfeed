@@ -11,6 +11,7 @@
     "fetch-abstimmungen:sachsen-anhalt": "tsx adapters/padoka-abstimmungen.ts",
     "fetch:mecklenburg-vorpommern": "tsx adapters/parldok-mv.ts",
     "fetch:brandenburg": "tsx adapters/starweb-bb.ts",
+    "fetch:sachsen": "tsx adapters/edas-sn.ts",
     "generate-rss": "tsx scripts/generate-rss.ts",
     "generate-metadata": "tsx scripts/generate-metadata.ts",
     "append-update-log": "tsx scripts/append-update-log.ts"

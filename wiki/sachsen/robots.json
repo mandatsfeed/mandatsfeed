@@ -1,0 +1,15 @@
+[
+  {
+    "domain": "redas.landtag.sachsen.de",
+    "baseUrl": "https://redas.landtag.sachsen.de",
+    "updatedAt": "2026-06-07T16:34:00Z",
+    "content": null,
+    "note": "HTTP 404 auf /robots.txt — keine Policy publiziert. Per RFC 9309 ist Crawling damit per Default erlaubt. Im Gegensatz zu PADOKA Sachsen-Anhalt und der Parlamentsdokumentation Brandenburg also keine Sperre."
+  },
+  {
+    "domain": "www.landtag.sachsen.de",
+    "baseUrl": "https://www.landtag.sachsen.de",
+    "updatedAt": "2026-06-07T06:36:00Z",
+    "content": "User-agent: *\nDisallow: /de/mediathek-und-publikationen/videos/\nDisallow: /de/aktuelles/sitzungskalender\nDisallow: /de/kontakt-de\nDisallow: /en/contact \nDisallow: /pl/kontakt-pl\nDisallow: /fr/nous-contacter\nDisallow: /ru/kontakt-ru\nDisallow: /es/interlocutores\nDisallow: /hsb/kontakt-hsb\nDisallow: /hu/kontakt-hu\nDisallow: /sk/kontakt-sk\nDisallow: /cs/kontakt-cs"
+  }
+]

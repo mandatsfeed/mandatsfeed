@@ -33,8 +33,9 @@ mandatsfeed erzeugt pro **Abgeordneter** und pro **Fraktion** einen chronologisc
 | Landtag Sachsen-Anhalt          | PADOKA (STARWEB-Variante) | 🟢 Adapter aktiv (Forschungsphase wegen robots.txt) |
 | Landtag Brandenburg             | STARWEB                   | 🟢 Drucksachen-Adapter aktiv (Forschungsphase wegen robots.txt, Reden + Abstimmungen offen) |
 | Landtag Mecklenburg-Vorpommern  | Parldok                   | 🟢 Drucksachen-Adapter aktiv (Reden + Abstimmungen offen) |
+| Sächsischer Landtag             | EDAS / REDAS              | 🟢 Drucksachen-Adapter aktiv (Reden + Abstimmungen offen) |
 
-Weitere Parlamente (Bundestag via DIP, Landtag Sachsen) sind technisch vorbereitet — der Adapter-Code ist quell-agnostisch genug, dass sie nachgezogen werden können.
+Bundestag (via DIP) ist technisch vorbereitet, wartet noch auf API-Key.
 
 ## Datenstruktur
 

@@ -20,6 +20,25 @@ export const PARLIAMENTS: ParliamentConfig[] = [
       "Aufbereitung durch mandatsfeed. Quelle: Landtag Sachsen-Anhalt – PADOKA (padoka.landtag.sachsen-anhalt.de). Ohne Gewähr für Richtigkeit.",
   },
   {
+    slug: "sachsen",
+    label: "Sächsischer Landtag",
+    source: "edas",
+    homepage: "https://redas.landtag.sachsen.de/redas/",
+    fraktionLabels: {
+      "cdu": "CDU",
+      "afd": "AfD",
+      "bsw": "BSW",
+      "spd": "SPD",
+      "die-linke": "Die Linke",
+      "bundnisgruene": "BÜNDNISGRÜNE",
+      "fdp": "FDP",
+      "fraktionslos": "Fraktionslose Abgeordnete",
+      "landesregierung": "Staatsregierung",
+    },
+    sourceNotice:
+      "Aufbereitung durch mandatsfeed. Quelle: Sächsischer Landtag – EDAS (redas.landtag.sachsen.de). Ohne Gewähr für Richtigkeit.",
+  },
+  {
     slug: "brandenburg",
     label: "Landtag Brandenburg",
     source: "starweb",
