@@ -1,0 +1,18 @@
+{
+  "name": "mandatsfeed",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "description": "Feeds parlamentarischer Aktivitäten von Mandatsträgern in Bundestag und Landtagen.",
+  "scripts": {
+    "fetch:sachsen-anhalt": "tsx adapters/padoka.ts",
+    "generate-rss": "tsx scripts/generate-rss.ts",
+    "generate-metadata": "tsx scripts/generate-metadata.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}

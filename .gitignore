@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+*.log
+
+# Forschungsphase: keine Daten-Artefakte im Repo committen.
+# Bis schriftliche Erlaubnis vorliegt (siehe README, Abschnitt „Status"), bleiben
+# alle vom Adapter erzeugten JSONs und generierten RSS-Feeds nur lokal.
+wiki/**/*.json
+wiki/**/*.xml

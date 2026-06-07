@@ -1,0 +1,6 @@
+wiki/
+adapters/
+scripts/
+.gitattributes
+.gitignore
+node_modules/

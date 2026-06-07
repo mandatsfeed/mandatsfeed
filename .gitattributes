@@ -1,0 +1,4 @@
+wiki/**/*.json filter=lfs diff=lfs merge=lfs -text
+wiki/**/*.xml filter=lfs diff=lfs merge=lfs -text
+wiki/**/*.json !text !filter !merge !diff
+wiki/**/*.xml !text !filter !merge !diff
