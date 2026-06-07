@@ -1,0 +1,15 @@
+[
+  {
+    "domain": "www.bundestag.de",
+    "baseUrl": "https://www.bundestag.de",
+    "updatedAt": "2026-06-07T06:36:00Z",
+    "content": "User-agent: *\nDisallow: /includes/\nAllow: /includes/images/mediathek/\nDisallow: /WEB-INF/\nDisallow: /blueprint/WEB-INF\nDisallow: /xml/\nDisallow: /apps/\nDisallow: /static/wfa_20wp\nDisallow: /resource/blob/834414/\n\nSitemap: https://www.bundestag.de/service-sitemap-de-sitemap_index.xml\nSitemap: https://www.bundestag.de/service-sitemap-en-sitemap_index.xml\nSitemap: https://www.bundestag.de/service-sitemap-fr-sitemap_index.xml\nSitemap: https://www.bundestag.de/service-sitemap-webarchiv-sitemap_index.xml"
+  },
+  {
+    "domain": "dip.bundestag.de",
+    "baseUrl": "https://dip.bundestag.de",
+    "updatedAt": "2026-06-07T06:36:00Z",
+    "content": null,
+    "note": "Keine eigene robots.txt — /robots.txt liefert die SPA-index.html mit HTTP 200. DIP wird über die offizielle REST-API (search.dip.bundestag.de) angesprochen, nicht durch Crawling der SPA. API-Nutzung ist über DIP-Nutzungsbedingungen + API-Key geregelt, nicht über robots."
+  }
+]

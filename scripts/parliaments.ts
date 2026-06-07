@@ -2,6 +2,25 @@ import type { ParliamentConfig } from "./types.ts";
 
 export const PARLIAMENTS: ParliamentConfig[] = [
   {
+    slug: "bundestag",
+    label: "Deutscher Bundestag",
+    source: "dip",
+    homepage: "https://dip.bundestag.de/",
+    fraktionLabels: {
+      "cdu-csu": "CDU/CSU",
+      "spd": "SPD",
+      "afd": "AfD",
+      "bundnis-90-die-gruenen": "BÜNDNIS 90/DIE GRÜNEN",
+      "die-linke": "Die Linke",
+      "bsw": "BSW",
+      "fdp": "FDP",
+      "fraktionslos": "Fraktionslose Abgeordnete",
+      "bundesregierung": "Bundesregierung",
+    },
+    sourceNotice:
+      "Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.",
+  },
+  {
     slug: "sachsen-anhalt",
     label: "Landtag Sachsen-Anhalt",
     source: "padoka",

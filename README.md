@@ -34,8 +34,9 @@ mandatsfeed erzeugt pro **Abgeordneter** und pro **Fraktion** einen chronologisc
 | Landtag Brandenburg             | STARWEB                   | 🟢 Drucksachen-Adapter aktiv (Forschungsphase wegen robots.txt, Reden + Abstimmungen offen) |
 | Landtag Mecklenburg-Vorpommern  | Parldok                   | 🟢 Drucksachen-Adapter aktiv (Reden + Abstimmungen offen) |
 | Sächsischer Landtag             | EDAS / REDAS              | 🟢 Drucksachen-Adapter aktiv (Reden + Abstimmungen offen) |
+| Deutscher Bundestag             | DIP (offizielle API)      | 🟡 Adapter steht — `DIP_API_KEY` in `.env` setzen, dann lauffähig |
 
-Bundestag (via DIP) ist technisch vorbereitet, wartet noch auf API-Key.
+Den DIP-Key bekommt man formlos per E-Mail an `parlamentsdokumentation@bundestag.de` — siehe [DIP-Hilfe-Seite](https://dip.bundestag.de/über-dip/hilfe/api). Eintrag in `.env` (Vorlage: `.env.example`).
 
 ## Datenstruktur
 

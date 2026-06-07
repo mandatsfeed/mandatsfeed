@@ -2,6 +2,9 @@ node_modules/
 .DS_Store
 *.log
 
+# Secrets — never commit (siehe .env.example fuer die Felder)
+.env
+
 # Forschungsphase: keine Daten-Artefakte im Repo committen.
 # Bis schriftliche Erlaubnis vorliegt (siehe README, Abschnitt „Status"), bleiben
 # alle vom Adapter erzeugten JSONs und generierten RSS-Feeds nur lokal.
