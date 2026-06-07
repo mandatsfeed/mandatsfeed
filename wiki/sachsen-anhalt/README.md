@@ -1,8 +1,8 @@
 # Landtag Sachsen-Anhalt — mandatsfeed
 
 **Wahlperiode:** 8. WP (seit 06.07.2021, Neuwahl 06.09.2026)
-**Letzte Plenarsitzungen:** 114. am 21.05.2026, 113. am 20.05.2026
 **Quellsystem:** PADOKA (STARWEB-Variante) — https://padoka.landtag.sachsen-anhalt.de
+**Adapter:** `adapters/padoka.ts`, `adapters/padoka-reden.ts`, `adapters/padoka-abstimmungen.ts`
 
 ## Erkenntnisse erster Zugriff (2026-06-07)
 
@@ -38,15 +38,37 @@ PDFs liegen unter berechenbaren Pfaden:
 
 ### Such-/Listing-Zugriff
 
-- Listing-Seite ist JS-gerendert (browse.tt.html), aber die Suchparameter sind URL-encoded und reproduzierbar
-- „AKTUELLE Dokumente (letzter Monat)" als Watermark-Quelle nutzbar:
+Listing-Seite ist JS-gerendert (`browse.tt.html`), aber die Suchparameter sind URL-encoded und reproduzierbar. Pagination erfolgt nicht über URL-Params (keine `firstitem`/`pageSize`-Unterstützung), sondern über DOM-Buttons. Workaround: Per-`Click()` die Multiselect-Option **„Alle auf einer Seite"** auswählen — dann wird der gesamte Treffer-Satz in den DOM gerendert und kann am Stück ausgewertet werden.
+
+**Tatsächlich verwendete URL-Muster:**
+
+- **Drucksachen/Anfragen/Anträge global pro Jahr** (`adapters/padoka.ts`):
   ```
-  https://padoka.landtag.sachsen-anhalt.de/portal/browse.tt.html?type=generic2&action=link&slab-period.1=WEEK&sprompt-period.1=MONTH%3D%2F%2F&sop.1=AND&wp=8
+  https://padoka.landtag.sachsen-anhalt.de/portal/browse.tt.html
+    ?type=generic2&action=link
+    &from=01.01.<JAHR>&to=31.12.<JAHR>
+    &wp=8
   ```
-- Einzelne Plenarprotokolle direkt deeplinkbar:
+- **Reden global pro Jahr** (`adapters/padoka-reden.ts`):
   ```
-  https://padoka.landtag.sachsen-anhalt.de/portal/browse.tt.html?type=generic1&action=link&db=lsa.lissh&docart=Plenarprotokoll&docnumber=114&wp=8
+  https://padoka.landtag.sachsen-anhalt.de/portal/browse.tt.html
+    ?type=generic4&action=link&db=lsa.lissh&docart=Plenarprotokoll
+    &from=01.01.<JAHR>&to=31.12.<JAHR>
+    &wp=8
   ```
+- **Namentliche Abstimmungen global** (`adapters/padoka-abstimmungen.ts`):
+  ```
+  https://padoka.landtag.sachsen-anhalt.de/portal/abstimmungen.tt.html
+  ```
+  Liefert sämtliche namentlichen Abstimmungen der WP 8 als strukturierte Wrapper-Divs (`[id^=wrapper-ABSTIMM_]`) mit `data-political-field`, `data-date`, Aggregat-Counts und Plenarprotokoll-Referenz.
+- **Einzelnes Plenarprotokoll deeplinkbar:**
+  ```
+  https://padoka.landtag.sachsen-anhalt.de/portal/browse.tt.html
+    ?type=generic1&action=link&db=lsa.lissh&docart=Plenarprotokoll
+    &docnumber=<NR>&wp=8
+  ```
+
+Der `from`-Param erwartet deutsches Datumsformat `DD.MM.YYYY`. Der „Alle auf einer Seite"-Toggle ist über `document.querySelectorAll('.multiselect-option')` ansprechbar.
 
 ### PDF-Parsing
 
@@ -100,18 +122,22 @@ Zur Erinnerung: die Haupt-Domain `www.landtag.sachsen-anhalt.de` (Webseite des L
 - Listing-Seite verwendet JS — agent-browser für Listing-Render, danach direkt curl auf PDFs
 - PDF-Zugriff funktioniert ohne Session-Token (mit `curl -A "mandatsfeed/0.1"` getestet)
 
-### Referenztag für Implementation
+### Reden-Extraktion
 
-**04.06.2026** — ein typischer Arbeitstag mit:
-- 5 Drucksachen (Antrag, Beschlussempfehlung, 2 Unterrichtungen, Tätigkeitsbericht)
-- 3 Kleine Anfragen (1× Grüne, 1× Linke, 1× AfD)
-- mehrere Ausschussdrucksachen + Vorlagen
+PADOKA-Reden sind auf der Listing-Seite alphabetisch gruppiert: die erste Card eines Sprechers trägt im Header Name + Fraktion (z. B. „Wolfgang Aldag (BÜNDNIS 90/DIE GRÜNEN)"), die folgenden Cards desselben Sprechers haben keinen Header und vererben ihn. Der Adapter hält den letzten gesehenen Speaker vor und ordnet jede headerlose Card dem aktuellen Sprecher zu.
 
-Gute Mischung der Item-Typen, mehrere Fraktionen → guter Test für Routing.
+Spricht ein:e MdL in einer Regierungs- oder Sitzungsfunktion, taucht der Header in der Form „Lydia Hüskens (Ministerin für Infrastruktur und Digitales)" auf. Die Funktion ist keine Fraktion — der Adapter erkennt Funktions-Präfixe (`Minister*`, `Präsident*`, `Vizepräsident*`, `Staatssekretär*`, `Schriftführer*`, `Beauftragte*`, `Alterspräsident*`) und ersetzt die Klammer durch die Stamm-Fraktion aus `personen.registry.json`. Die Funktion wird als zusätzliches `funktion`-Feld auf der `ActivityPerson` gespeichert.
 
-### Offene Fragen für nächsten Schritt
+### Roll-Call-Extraktion aus Plenarprotokollen
 
-1. Vollständiges Mapping der 3-Buchstaben-Suffixe (`dan/lun/vbe/eun/gkl/…`)
-2. Sind die Listing-Suchergebnisse als JSON-Endpoint abfragbar (Network-Tab sniffen), oder nur HTML-extracten aus `browse.tt.html`?
-3. Wie verlinkt eine Antwort auf eine Kleine Anfrage zurück? (`Kleine Anfrage ohne Antwort` ist Status — wenn Antwort vorliegt, eigene Drucksache?)
-4. Personen-Registry: Abgeordnetenliste der 8. WP per `Abgeordneten- und Ausschussverzeichnis`-Link greifbar
+Per-MdL-Stimmen einer namentlichen Abstimmung liegen im Plenarprotokoll-PDF (URL-Muster `/files/plenum/wp8/<NR>stzg.pdf`). Das PDF ist mit Layout-Daten parsbar (siehe `pdf-parse`-Aufruf in `adapters/padoka-abstimmungen.ts`); der Roll-Call ist ein alphabetisch sortierter Block mit pro Zeile `<Name> Ja|Nein|enthalten|-` (Bindestrich = abwesend). Der Adapter findet den richtigen Block durch Tally-Match gegen die aggregierten ja/nein/enth/abw-Counts der `abstimmungen.tt.html`-Übersicht. Über Seitenumbrüche verteilte Blöcke werden kombiniert.
+
+Namen mit Adelsprefix („von Angern") und Stadt-Disambiguator („Büttner (Stendal)") werden über Normalisierungs-Varianten in der Registry-Index-Suche abgefangen.
+
+### Bestand der Personen-Registry
+
+`personen.registry.json` führt alle MdL der 8. WP mit Slug, kanonischem Namen, PADOKA-Schreibweise und Fraktionskontext. Slugs sind ASCII-only (ß → `ss`, Umlaute → Basis-Vokal, Sonderzeichen → `-`). Stand der Liste: 99 Einträge inkl. Nachrücker:innen und fraktionslos gewordenen Abgeordneten.
+
+### Referenztag für Implementations-Tests
+
+**04.06.2026** — ein typischer Arbeitstag mit Antrag + Kleinen Anfragen mehrerer Fraktionen plus KA-Antworten. Eignet sich als Smoke-Test für Drucksachen-Adapter und für die Verkettung über `relatedTo`.

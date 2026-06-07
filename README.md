@@ -18,14 +18,11 @@ mandatsfeed erzeugt pro **Abgeordneter** und pro **Fraktion** einen chronologisc
 
 **Aktuell implementiert** (Landtag Sachsen-Anhalt, PADOKA-Adapter, durch echte Daten verifiziert):
 
-- Kleine Anfragen (ohne Antwort und mit Antwort, mit Verkettung zwischen Original-KA und Antwort)
-- Anträge, inkl. Berichterstattungsverlangen
-- Große Anfragen, Gesetzentwürfe, Alternativ-, Änderungs- und Entschließungsanträge (Klassifikation im Adapter vorhanden; im bisherigen 30-Tage-Sample noch nicht beobachtet)
-
-**Geplant, aber noch nicht implementiert** (selbst für Sachsen-Anhalt):
-
-- Reden im Plenum (PADOKA bietet pro Abgeordnetem eine deeplinkbare Redenliste — Adapter-Erweiterung steht aus)
-- Namentliche Abstimmungen
+- Kleine und Große Anfragen (ohne Antwort und mit Antwort, mit Verkettung zwischen Original-KA und Antwort über `relatedTo`)
+- Anträge, Alternativ-, Änderungs-, Entschließungsanträge, Berichterstattungsverlangen
+- Gesetzentwürfe
+- Reden im Plenum (Titel, Plenarprotokoll-Nummer und Seite, PDF-Deeplink, Redner mit Funktionsbezeichnung wenn als Minister:in/Präsident:in gesprochen wird)
+- Namentliche Abstimmungen (Aggregate ja/nein/enth/abw plus Per-MdL-Stimmen aus dem Plenarprotokoll-PDF)
 
 **Bewusst NICHT abgedeckt:** Social-Media-Aktivität, persönliche Webseiten-RSS, freiwillige Q&A-Inhalte (z. B. abgeordnetenwatch-Bürgerfragen). Wir bilden ab, was eine Person *tut* (im Protokoll erfasst), nicht was sie *freiwillig kommuniziert*.
 
@@ -123,22 +120,32 @@ Eine Kleine Anfrage mit benannten MdL erscheint analog in deren Personen-Feeds *
 
 ## Lokale Nutzung
 
-Voraussetzungen: [Node.js](https://nodejs.org/) ≥ 20, [pnpm](https://pnpm.io/), [agent-browser](https://github.com/vercel-labs/agent-browser) für JS-SPA-Quellen.
+Voraussetzungen: [Node.js](https://nodejs.org/) ≥ 20, [pnpm](https://pnpm.io/), [agent-browser](https://github.com/vercel-labs/agent-browser) für JS-SPA-Quellen, sowie das npm-Paket [`pdf-parse`](https://www.npmjs.com/package/pdf-parse) (kommt automatisch via `pnpm install`) für die Roll-Call-Extraktion aus Plenarprotokoll-PDFs.
 
 ```bash
 pnpm install
 
-# Daten holen (Watermark-Modus, „letzter Monat")
-pnpm run fetch:sachsen-anhalt
+# Drucksachen-Adapter (Anträge, KAs, Anfragen, Gesetzentwürfe, Antworten):
+#   Default-Zeitraum: aktuelles Kalenderjahr (PADOKA-Filter ?from=01.01.<JAHR>)
+YEAR=2026 pnpm run fetch:sachsen-anhalt
+
+# Reden-Adapter (Plenardebatten, eine Activity je Redner:in × Plenarprotokoll-Seite)
+YEAR=2026 pnpm run fetch-reden:sachsen-anhalt
+
+# Namentliche-Abstimmungen-Adapter (Aggregate + Per-MdL-Stimmen aus Plenarprotokoll-PDF)
+MIN_DATE=2026-01-01 pnpm run fetch-abstimmungen:sachsen-anhalt
 
 # RSS-Feeds pro Person und Fraktion generieren
 pnpm run generate-rss
 
 # Index aller abonnierbaren Feeds aktualisieren (wiki/metadata.json)
 pnpm run generate-metadata
+
+# Änderungs-Log für den nächsten Commit oben in UPDATES.md eintragen
+pnpm run append-update-log
 ```
 
-Reihenfolge nach einem Fetch-Lauf: `generate-rss` → `generate-metadata`.
+Reihenfolge nach einem Fetch-Lauf: `generate-rss` → `generate-metadata` → `append-update-log`.
 
 ## Datenquellen und Urheberrecht
 
