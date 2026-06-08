@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-19-steffen-quasebarth",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/19",
+  "date": "2025-06-18",
+  "persons": [
+    {
+      "slug": "steffen-quasebarth",
+      "name": "Steffen Quasebarth",
+      "name_padoka": "Quasebarth, Steffen",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/19",
+    "date": "2025-06-18"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/102342"
+  }
+}

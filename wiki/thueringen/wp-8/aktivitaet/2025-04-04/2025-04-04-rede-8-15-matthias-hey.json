@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-15-matthias-hey",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/15",
+  "date": "2025-04-04",
+  "persons": [
+    {
+      "slug": "matthias-hey",
+      "name": "Matthias Hey",
+      "name_padoka": "Hey, Matthias",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/15",
+    "date": "2025-04-04"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/101290"
+  }
+}

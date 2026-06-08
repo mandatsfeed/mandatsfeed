@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-37-janine-merz",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/37",
+  "date": "2026-02-06",
+  "persons": [
+    {
+      "slug": "janine-merz",
+      "name": "Janine Merz",
+      "name_padoka": "Merz, Janine",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/37",
+    "date": "2026-02-06"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105794"
+  }
+}

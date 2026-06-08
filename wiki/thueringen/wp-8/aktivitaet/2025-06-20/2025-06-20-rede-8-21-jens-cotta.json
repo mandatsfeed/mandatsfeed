@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-21-jens-cotta",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/21",
+  "date": "2025-06-20",
+  "persons": [
+    {
+      "slug": "jens-cotta",
+      "name": "Jens Cotta",
+      "name_padoka": "Cotta, Jens",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/21",
+    "date": "2025-06-20"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/102351"
+  }
+}

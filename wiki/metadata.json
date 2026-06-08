@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T17:36:55.049Z",
+  "generatedAt": "2026-06-08T18:25:43.256Z",
   "parliaments": [
     {
       "slug": "bundestag",
@@ -18741,7 +18741,7 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "stefanie-drese",
               "label": "Stefanie Drese",
-              "count": 21,
+              "count": 22,
               "updatedAt": "2025-10-10T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/personen/stefanie-drese/rss.xml"
             },
@@ -18941,7 +18941,7 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "spd",
               "label": "Fraktion SPD",
-              "count": 927,
+              "count": 928,
               "updatedAt": "2026-06-03T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/fraktion/spd/rss.xml"
             }
@@ -18961,730 +18961,10 @@
             {
               "kind": "person",
               "parliament": "thueringen",
-              "slug": "abgeordnete-behrendt",
-              "label": "Abgeordnete Behrendt",
-              "count": 12,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-behrendt/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-berger",
-              "label": "Abgeordnete Berger",
-              "count": 4,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-berger/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-croll",
-              "label": "Abgeordnete Croll",
-              "count": 10,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-croll/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-duben-schaumann",
-              "label": "Abgeordnete Düben-Schaumann",
-              "count": 12,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-duben-schaumann/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-gerbothe",
-              "label": "Abgeordnete Gerbothe",
-              "count": 20,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-gerbothe/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-grosse-rothig",
-              "label": "Abgeordnete Große-Röthig",
-              "count": 28,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-grosse-rothig/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-gungor",
-              "label": "Abgeordnete Güngör",
-              "count": 24,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-gungor/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-heber",
-              "label": "Abgeordnete Heber",
-              "count": 19,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-heber/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-hupach",
-              "label": "Abgeordnete Hupach",
-              "count": 10,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-hupach/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-jary",
-              "label": "Abgeordnete Jary",
-              "count": 27,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-jary/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-konig-preuss",
-              "label": "Abgeordnete König-Preuss",
-              "count": 26,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-konig-preuss/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-marx",
-              "label": "Abgeordnete Marx",
-              "count": 26,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-marx/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-maurer",
-              "label": "Abgeordnete Maurer",
-              "count": 11,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-maurer/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-meissner",
-              "label": "Abgeordnete Meißner",
-              "count": 5,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-meissner/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-mengel-stahle",
-              "label": "Abgeordnete Mengel-Stähle",
-              "count": 3,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-mengel-stahle/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-merz",
-              "label": "Abgeordnete Merz",
-              "count": 26,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-merz/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-mitteldorf",
-              "label": "Abgeordnete Mitteldorf",
-              "count": 25,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-mitteldorf/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-muhsal",
-              "label": "Abgeordnete Muhsal",
-              "count": 33,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-muhsal/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-muller",
-              "label": "Abgeordnete Müller",
-              "count": 22,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-muller/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-nauer",
-              "label": "Abgeordnete Nauer",
-              "count": 6,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-nauer/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-rosin",
-              "label": "Abgeordnete Rosin",
-              "count": 3,
-              "updatedAt": "2026-03-26T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-rosin/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-rottstedt",
-              "label": "Abgeordnete Rottstedt",
-              "count": 18,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-rottstedt/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-schweinsburg",
-              "label": "Abgeordnete Schweinsburg",
-              "count": 2,
-              "updatedAt": "2025-09-11T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-schweinsburg/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-stark",
-              "label": "Abgeordnete Stark",
-              "count": 12,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-stark/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-tasch",
-              "label": "Abgeordnete Tasch",
-              "count": 5,
-              "updatedAt": "2025-10-29T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-tasch/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-wirsing",
-              "label": "Abgeordnete Wirsing",
-              "count": 9,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-wirsing/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordnete-wolf",
-              "label": "Abgeordnete Wolf",
-              "count": 1,
-              "updatedAt": "2024-09-26T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordnete-wolf/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneten-gungor",
-              "label": "Abgeordneten Güngör",
-              "count": 1,
-              "updatedAt": "2025-04-02T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneten-gungor/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-abicht",
-              "label": "Abgeordneter Abicht",
-              "count": 7,
-              "updatedAt": "2026-02-05T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-abicht/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-benninghaus",
-              "label": "Abgeordneter Benninghaus",
-              "count": 5,
-              "updatedAt": "2025-10-29T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-benninghaus/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-bilay",
-              "label": "Abgeordneter Bilay",
-              "count": 16,
-              "updatedAt": "2026-05-20T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-bilay/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-braga",
-              "label": "Abgeordneter Braga",
-              "count": 4,
-              "updatedAt": "2025-03-20T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-braga/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-buhl",
-              "label": "Abgeordneter Bühl",
-              "count": 22,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-buhl/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-cotta",
-              "label": "Abgeordneter Cotta",
-              "count": 16,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-cotta/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-czuppon",
-              "label": "Abgeordneter Czuppon",
-              "count": 3,
-              "updatedAt": "2025-10-29T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-czuppon/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-erfurth",
-              "label": "Abgeordneter Erfurth",
-              "count": 5,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-erfurth/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-geibert",
-              "label": "Abgeordneter Geibert",
-              "count": 14,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-geibert/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-gerhardt",
-              "label": "Abgeordneter Gerhardt",
-              "count": 8,
-              "updatedAt": "2026-03-26T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-gerhardt/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-gottweiss",
-              "label": "Abgeordneter Gottweiss",
-              "count": 12,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-gottweiss/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-hande",
-              "label": "Abgeordneter Hande",
-              "count": 21,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-hande/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-haseloff",
-              "label": "Abgeordneter Haseloff",
-              "count": 12,
-              "updatedAt": "2026-03-27T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-haseloff/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-hausser",
-              "label": "Abgeordneter Häußer",
-              "count": 4,
-              "updatedAt": "2026-02-05T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-hausser/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-henkel",
-              "label": "Abgeordneter Henkel",
-              "count": 15,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-henkel/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-herzog",
-              "label": "Abgeordneter Herzog",
-              "count": 17,
-              "updatedAt": "2026-03-27T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-herzog/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-hey",
-              "label": "Abgeordneter Hey",
-              "count": 12,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-hey/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-hocke",
-              "label": "Abgeordneter Höcke",
-              "count": 25,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-hocke/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-hoffmeister",
-              "label": "Abgeordneter Hoffmeister",
-              "count": 22,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-hoffmeister/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-hutschenreuther",
-              "label": "Abgeordneter Hutschenreuther",
-              "count": 14,
-              "updatedAt": "2026-05-20T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-hutschenreuther/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-jankowski",
-              "label": "Abgeordneter Jankowski",
-              "count": 24,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-jankowski/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-kalthoff",
-              "label": "Abgeordneter Kalthoff",
-              "count": 22,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-kalthoff/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-kastner",
-              "label": "Abgeordneter Kästner",
-              "count": 14,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-kastner/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-kobelt",
-              "label": "Abgeordneter Kobelt",
-              "count": 25,
-              "updatedAt": "2026-03-27T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-kobelt/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-kowalleck",
-              "label": "Abgeordneter Kowalleck",
-              "count": 13,
-              "updatedAt": "2026-03-27T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-kowalleck/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-kramer",
-              "label": "Abgeordneter Kramer",
-              "count": 14,
-              "updatedAt": "2026-05-20T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-kramer/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-krell",
-              "label": "Abgeordneter Krell",
-              "count": 10,
-              "updatedAt": "2026-05-20T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-krell/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-kummer",
-              "label": "Abgeordneter Kummer",
-              "count": 4,
-              "updatedAt": "2025-09-12T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-kummer/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-kuntzel",
-              "label": "Abgeordneter Küntzel",
-              "count": 20,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-kuntzel/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-laudenbach",
-              "label": "Abgeordneter Laudenbach",
-              "count": 2,
-              "updatedAt": "2025-06-18T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-laudenbach/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-liebscher",
-              "label": "Abgeordneter Liebscher",
-              "count": 28,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-liebscher/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-luhn",
-              "label": "Abgeordneter Luhn",
-              "count": 11,
-              "updatedAt": "2026-05-20T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-luhn/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-malsch",
-              "label": "Abgeordneter Malsch",
-              "count": 1,
-              "updatedAt": "2024-11-13T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-malsch/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-moller",
-              "label": "Abgeordneter Möller",
-              "count": 6,
-              "updatedAt": "2025-03-07T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-moller/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-muhlmann",
-              "label": "Abgeordneter Mühlmann",
-              "count": 25,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-muhlmann/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-prophet",
-              "label": "Abgeordneter Prophet",
-              "count": 16,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-prophet/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-quasebarth",
-              "label": "Abgeordneter Quasebarth",
-              "count": 23,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-quasebarth/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-schaft",
-              "label": "Abgeordneter Schaft",
-              "count": 28,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-schaft/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-schard",
-              "label": "Abgeordneter Schard",
-              "count": 15,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-schard/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-schlosser",
-              "label": "Abgeordneter Schlösser",
-              "count": 16,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-schlosser/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-schubert",
-              "label": "Abgeordneter Schubert",
-              "count": 24,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-schubert/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-schutz",
-              "label": "Abgeordneter Schütz",
-              "count": 4,
-              "updatedAt": "2025-09-12T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-schutz/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-steinbruck",
-              "label": "Abgeordneter Steinbrück",
-              "count": 14,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-steinbruck/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-thomas",
-              "label": "Abgeordneter Thomas",
-              "count": 23,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-thomas/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-thrum",
-              "label": "Abgeordneter Thrum",
-              "count": 26,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-thrum/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-tiesler",
-              "label": "Abgeordneter Tiesler",
-              "count": 6,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-tiesler/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-tischner",
-              "label": "Abgeordneter Tischner",
-              "count": 1,
-              "updatedAt": "2024-11-14T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-tischner/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-urbach",
-              "label": "Abgeordneter Urbach",
-              "count": 26,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-urbach/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-wassmann",
-              "label": "Abgeordneter Waßmann",
-              "count": 24,
-              "updatedAt": "2026-05-22T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-wassmann/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-wloch",
-              "label": "Abgeordneter Wloch",
-              "count": 9,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-wloch/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-worm",
-              "label": "Abgeordneter Worm",
-              "count": 5,
-              "updatedAt": "2026-05-20T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-worm/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
-              "slug": "abgeordneter-zippel",
-              "label": "Abgeordneter Zippel",
-              "count": 18,
-              "updatedAt": "2026-05-20T00:00:00.000Z",
-              "rssUrl": "wiki/thueringen/wp-8/personen/abgeordneter-zippel/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "thueringen",
               "slug": "alexander-kastner",
               "label": "Alexander Kästner",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 24,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/alexander-kastner/rss.xml"
             },
             {
@@ -19692,8 +18972,8 @@
               "parliament": "thueringen",
               "slug": "andreas-buhl",
               "label": "Andreas Bühl",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 32,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/andreas-buhl/rss.xml"
             },
             {
@@ -19701,7 +18981,7 @@
               "parliament": "thueringen",
               "slug": "andreas-schubert",
               "label": "Andreas Schubert",
-              "count": 13,
+              "count": 37,
               "updatedAt": "2026-05-27T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/andreas-schubert/rss.xml"
             },
@@ -19710,7 +18990,7 @@
               "parliament": "thueringen",
               "slug": "anja-muller",
               "label": "Anja Müller",
-              "count": 13,
+              "count": 35,
               "updatedAt": "2026-05-28T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/anja-muller/rss.xml"
             },
@@ -19719,8 +18999,8 @@
               "parliament": "thueringen",
               "slug": "anke-wirsing",
               "label": "Anke Wirsing",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 19,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/anke-wirsing/rss.xml"
             },
             {
@@ -19728,8 +19008,8 @@
               "parliament": "thueringen",
               "slug": "beate-meissner",
               "label": "Beate Meißner",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 15,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/beate-meissner/rss.xml"
             },
             {
@@ -19737,8 +19017,8 @@
               "parliament": "thueringen",
               "slug": "bjorn-hocke",
               "label": "Björn Höcke",
-              "count": 11,
-              "updatedAt": "2026-03-11T00:00:00.000Z",
+              "count": 36,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/bjorn-hocke/rss.xml"
             },
             {
@@ -19755,8 +19035,8 @@
               "parliament": "thueringen",
               "slug": "brunhilde-nauer",
               "label": "Brunhilde Nauer",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 16,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/brunhilde-nauer/rss.xml"
             },
             {
@@ -19764,8 +19044,8 @@
               "parliament": "thueringen",
               "slug": "carolin-gerbothe",
               "label": "Carolin Gerbothe",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 30,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/carolin-gerbothe/rss.xml"
             },
             {
@@ -19773,7 +19053,7 @@
               "parliament": "thueringen",
               "slug": "christian-schaft",
               "label": "Christian Schaft",
-              "count": 13,
+              "count": 41,
               "updatedAt": "2026-05-27T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/christian-schaft/rss.xml"
             },
@@ -19782,7 +19062,7 @@
               "parliament": "thueringen",
               "slug": "christian-tischner",
               "label": "Christian Tischner",
-              "count": 10,
+              "count": 11,
               "updatedAt": "2025-12-17T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/christian-tischner/rss.xml"
             },
@@ -19791,7 +19071,7 @@
               "parliament": "thueringen",
               "slug": "christina-tasch",
               "label": "Christina Tasch",
-              "count": 10,
+              "count": 15,
               "updatedAt": "2025-12-17T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/christina-tasch/rss.xml"
             },
@@ -19800,8 +19080,8 @@
               "parliament": "thueringen",
               "slug": "christoph-zippel",
               "label": "Christoph Zippel",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 28,
+              "updatedAt": "2026-05-20T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/christoph-zippel/rss.xml"
             },
             {
@@ -19809,8 +19089,8 @@
               "parliament": "thueringen",
               "slug": "claudia-heber",
               "label": "Claudia Heber",
-              "count": 11,
-              "updatedAt": "2026-03-27T00:00:00.000Z",
+              "count": 30,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/claudia-heber/rss.xml"
             },
             {
@@ -19827,8 +19107,8 @@
               "parliament": "thueringen",
               "slug": "daniel-haseloff",
               "label": "Daniel Haseloff",
-              "count": 12,
-              "updatedAt": "2026-03-11T00:00:00.000Z",
+              "count": 24,
+              "updatedAt": "2026-03-27T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/daniel-haseloff/rss.xml"
             },
             {
@@ -19836,8 +19116,8 @@
               "parliament": "thueringen",
               "slug": "denis-hausser",
               "label": "Denis Häußer",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 14,
+              "updatedAt": "2026-02-05T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/denis-hausser/rss.xml"
             },
             {
@@ -19845,9 +19125,18 @@
               "parliament": "thueringen",
               "slug": "denny-jankowski",
               "label": "Denny Jankowski",
-              "count": 12,
+              "count": 36,
               "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/denny-jankowski/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "thueringen",
+              "slug": "dieter-laudenbach",
+              "label": "Dieter Laudenbach",
+              "count": 2,
+              "updatedAt": "2025-06-18T00:00:00.000Z",
+              "rssUrl": "wiki/thueringen/wp-8/personen/dieter-laudenbach/rss.xml"
             },
             {
               "kind": "person",
@@ -19863,8 +19152,8 @@
               "parliament": "thueringen",
               "slug": "dirk-hoffmeister",
               "label": "Dirk Hoffmeister",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 32,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/dirk-hoffmeister/rss.xml"
             },
             {
@@ -19872,8 +19161,8 @@
               "parliament": "thueringen",
               "slug": "dorothea-marx",
               "label": "Dorothea Marx",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 36,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/dorothea-marx/rss.xml"
             },
             {
@@ -19890,7 +19179,7 @@
               "parliament": "thueringen",
               "slug": "elisabeth-mengel-stahle",
               "label": "Elisabeth Mengel-Stähle",
-              "count": 8,
+              "count": 11,
               "updatedAt": "2025-12-17T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/elisabeth-mengel-stahle/rss.xml"
             },
@@ -19908,8 +19197,8 @@
               "parliament": "thueringen",
               "slug": "henry-worm",
               "label": "Henry Worm",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 15,
+              "updatedAt": "2026-05-20T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/henry-worm/rss.xml"
             },
             {
@@ -19917,8 +19206,8 @@
               "parliament": "thueringen",
               "slug": "jan-abicht",
               "label": "Jan Abicht",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 17,
+              "updatedAt": "2026-02-05T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/jan-abicht/rss.xml"
             },
             {
@@ -19926,8 +19215,8 @@
               "parliament": "thueringen",
               "slug": "jane-croll",
               "label": "Jane Croll",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 20,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/jane-croll/rss.xml"
             },
             {
@@ -19935,8 +19224,8 @@
               "parliament": "thueringen",
               "slug": "janine-merz",
               "label": "Janine Merz",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 36,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/janine-merz/rss.xml"
             },
             {
@@ -19944,8 +19233,8 @@
               "parliament": "thueringen",
               "slug": "jens-cotta",
               "label": "Jens Cotta",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 26,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/jens-cotta/rss.xml"
             },
             {
@@ -19962,8 +19251,8 @@
               "parliament": "thueringen",
               "slug": "jens-thomas",
               "label": "Jens Thomas",
-              "count": 15,
-              "updatedAt": "2026-05-20T00:00:00.000Z",
+              "count": 38,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/jens-thomas/rss.xml"
             },
             {
@@ -19971,8 +19260,8 @@
               "parliament": "thueringen",
               "slug": "jonas-urbach",
               "label": "Jonas Urbach",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 36,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/jonas-urbach/rss.xml"
             },
             {
@@ -19980,8 +19269,8 @@
               "parliament": "thueringen",
               "slug": "jorg-prophet",
               "label": "Jörg Prophet",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 26,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/jorg-prophet/rss.xml"
             },
             {
@@ -19998,8 +19287,8 @@
               "parliament": "thueringen",
               "slug": "katharina-konig-preuss",
               "label": "Katharina König-Preuss",
-              "count": 13,
-              "updatedAt": "2026-05-21T00:00:00.000Z",
+              "count": 39,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/katharina-konig-preuss/rss.xml"
             },
             {
@@ -20007,7 +19296,7 @@
               "parliament": "thueringen",
               "slug": "katja-maurer",
               "label": "Katja Maurer",
-              "count": 12,
+              "count": 23,
               "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/katja-maurer/rss.xml"
             },
@@ -20016,7 +19305,7 @@
               "parliament": "thueringen",
               "slug": "katja-mitteldorf",
               "label": "Katja Mitteldorf",
-              "count": 13,
+              "count": 38,
               "updatedAt": "2026-05-27T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/katja-mitteldorf/rss.xml"
             },
@@ -20025,7 +19314,7 @@
               "parliament": "thueringen",
               "slug": "katja-wolf",
               "label": "Katja Wolf",
-              "count": 10,
+              "count": 11,
               "updatedAt": "2025-12-17T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/katja-wolf/rss.xml"
             },
@@ -20034,8 +19323,8 @@
               "parliament": "thueringen",
               "slug": "kerstin-duben-schaumann",
               "label": "Kerstin Düben-Schaumann",
-              "count": 11,
-              "updatedAt": "2026-01-09T00:00:00.000Z",
+              "count": 23,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/kerstin-duben-schaumann/rss.xml"
             },
             {
@@ -20043,7 +19332,7 @@
               "parliament": "thueringen",
               "slug": "lena-saniye-gungor",
               "label": "Lena Saniye Güngör",
-              "count": 14,
+              "count": 38,
               "updatedAt": "2026-05-28T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/lena-saniye-gungor/rss.xml"
             },
@@ -20052,8 +19341,8 @@
               "parliament": "thueringen",
               "slug": "lennart-geibert",
               "label": "Lennart Geibert",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 24,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/lennart-geibert/rss.xml"
             },
             {
@@ -20061,7 +19350,7 @@
               "parliament": "thueringen",
               "slug": "linda-stark",
               "label": "Linda Stark",
-              "count": 13,
+              "count": 25,
               "updatedAt": "2026-05-27T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/linda-stark/rss.xml"
             },
@@ -20070,8 +19359,8 @@
               "parliament": "thueringen",
               "slug": "lutz-liebscher",
               "label": "Lutz Liebscher",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 38,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/lutz-liebscher/rss.xml"
             },
             {
@@ -20079,8 +19368,8 @@
               "parliament": "thueringen",
               "slug": "maik-kowalleck",
               "label": "Maik Kowalleck",
-              "count": 11,
-              "updatedAt": "2026-02-02T00:00:00.000Z",
+              "count": 24,
+              "updatedAt": "2026-03-27T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/maik-kowalleck/rss.xml"
             },
             {
@@ -20088,7 +19377,7 @@
               "parliament": "thueringen",
               "slug": "marcel-kramer",
               "label": "Marcel Kramer",
-              "count": 12,
+              "count": 26,
               "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/marcel-kramer/rss.xml"
             },
@@ -20097,8 +19386,8 @@
               "parliament": "thueringen",
               "slug": "marek-erfurth",
               "label": "Marek Erfurth",
-              "count": 11,
-              "updatedAt": "2026-01-29T00:00:00.000Z",
+              "count": 16,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/marek-erfurth/rss.xml"
             },
             {
@@ -20115,7 +19404,7 @@
               "parliament": "thueringen",
               "slug": "marion-rosin",
               "label": "Marion Rosin",
-              "count": 11,
+              "count": 14,
               "updatedAt": "2026-04-01T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/marion-rosin/rss.xml"
             },
@@ -20124,8 +19413,8 @@
               "parliament": "thueringen",
               "slug": "martin-henkel",
               "label": "Martin Henkel",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 25,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/martin-henkel/rss.xml"
             },
             {
@@ -20133,7 +19422,7 @@
               "parliament": "thueringen",
               "slug": "martina-schweinsburg",
               "label": "Martina Schweinsburg",
-              "count": 11,
+              "count": 13,
               "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/martina-schweinsburg/rss.xml"
             },
@@ -20142,8 +19431,8 @@
               "parliament": "thueringen",
               "slug": "matthias-herzog",
               "label": "Matthias Herzog",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 27,
+              "updatedAt": "2026-03-27T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/matthias-herzog/rss.xml"
             },
             {
@@ -20151,8 +19440,8 @@
               "parliament": "thueringen",
               "slug": "matthias-hey",
               "label": "Matthias Hey",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 22,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/matthias-hey/rss.xml"
             },
             {
@@ -20160,8 +19449,8 @@
               "parliament": "thueringen",
               "slug": "melanie-berger",
               "label": "Melanie Berger",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 14,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/melanie-berger/rss.xml"
             },
             {
@@ -20169,8 +19458,8 @@
               "parliament": "thueringen",
               "slug": "moritz-kalthoff",
               "label": "Moritz Kalthoff",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 32,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/moritz-kalthoff/rss.xml"
             },
             {
@@ -20187,8 +19476,8 @@
               "parliament": "thueringen",
               "slug": "niklas-wassmann",
               "label": "Niklas Waßmann",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 34,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/niklas-wassmann/rss.xml"
             },
             {
@@ -20196,8 +19485,8 @@
               "parliament": "thueringen",
               "slug": "nina-behrendt",
               "label": "Nina Behrendt",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 22,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/nina-behrendt/rss.xml"
             },
             {
@@ -20214,8 +19503,8 @@
               "parliament": "thueringen",
               "slug": "pascal-wloch",
               "label": "Pascal Wloch",
-              "count": 9,
-              "updatedAt": "2026-03-11T00:00:00.000Z",
+              "count": 18,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/pascal-wloch/rss.xml"
             },
             {
@@ -20223,8 +19512,8 @@
               "parliament": "thueringen",
               "slug": "peter-gerhardt",
               "label": "Peter Gerhardt",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 18,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/peter-gerhardt/rss.xml"
             },
             {
@@ -20232,8 +19521,8 @@
               "parliament": "thueringen",
               "slug": "ralph-hutschenreuther",
               "label": "Ralph Hutschenreuther",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 24,
+              "updatedAt": "2026-05-20T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/ralph-hutschenreuther/rss.xml"
             },
             {
@@ -20241,8 +19530,8 @@
               "parliament": "thueringen",
               "slug": "ringo-muhlmann",
               "label": "Ringo Mühlmann",
-              "count": 11,
-              "updatedAt": "2026-01-09T00:00:00.000Z",
+              "count": 36,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/ringo-muhlmann/rss.xml"
             },
             {
@@ -20250,8 +19539,8 @@
               "parliament": "thueringen",
               "slug": "roberto-kobelt",
               "label": "Roberto Kobelt",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 35,
+              "updatedAt": "2026-03-27T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/roberto-kobelt/rss.xml"
             },
             {
@@ -20259,7 +19548,7 @@
               "parliament": "thueringen",
               "slug": "ronald-hande",
               "label": "Ronald Hande",
-              "count": 13,
+              "count": 34,
               "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/ronald-hande/rss.xml"
             },
@@ -20268,7 +19557,7 @@
               "parliament": "thueringen",
               "slug": "sascha-bilay",
               "label": "Sascha Bilay",
-              "count": 12,
+              "count": 28,
               "updatedAt": "2026-05-27T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/sascha-bilay/rss.xml"
             },
@@ -20277,8 +19566,8 @@
               "parliament": "thueringen",
               "slug": "sascha-schlosser",
               "label": "Sascha Schlösser",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 26,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/sascha-schlosser/rss.xml"
             },
             {
@@ -20286,8 +19575,8 @@
               "parliament": "thueringen",
               "slug": "sigrid-hupach",
               "label": "Sigrid Hupach",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 20,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/sigrid-hupach/rss.xml"
             },
             {
@@ -20304,8 +19593,8 @@
               "parliament": "thueringen",
               "slug": "stefan-schard",
               "label": "Stefan Schard",
-              "count": 11,
-              "updatedAt": "2026-01-05T00:00:00.000Z",
+              "count": 26,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/stefan-schard/rss.xml"
             },
             {
@@ -20322,8 +19611,8 @@
               "parliament": "thueringen",
               "slug": "steffen-quasebarth",
               "label": "Steffen Quasebarth",
-              "count": 11,
-              "updatedAt": "2026-05-13T00:00:00.000Z",
+              "count": 34,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/steffen-quasebarth/rss.xml"
             },
             {
@@ -20331,7 +19620,7 @@
               "parliament": "thueringen",
               "slug": "steffen-schutz",
               "label": "Steffen Schütz",
-              "count": 10,
+              "count": 14,
               "updatedAt": "2025-12-17T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/steffen-schutz/rss.xml"
             },
@@ -20340,8 +19629,8 @@
               "parliament": "thueringen",
               "slug": "stephan-steinbruck",
               "label": "Stephan Steinbrück",
-              "count": 11,
-              "updatedAt": "2026-05-07T00:00:00.000Z",
+              "count": 25,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/stephan-steinbruck/rss.xml"
             },
             {
@@ -20349,8 +19638,8 @@
               "parliament": "thueringen",
               "slug": "stephan-tiesler",
               "label": "Stephan Tiesler",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 16,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/stephan-tiesler/rss.xml"
             },
             {
@@ -20358,8 +19647,8 @@
               "parliament": "thueringen",
               "slug": "sven-kuntzel",
               "label": "Sven Küntzel",
-              "count": 13,
-              "updatedAt": "2026-04-15T00:00:00.000Z",
+              "count": 33,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/sven-kuntzel/rss.xml"
             },
             {
@@ -20376,7 +19665,7 @@
               "parliament": "thueringen",
               "slug": "thomas-benninghaus",
               "label": "Thomas Benninghaus",
-              "count": 11,
+              "count": 16,
               "updatedAt": "2026-02-26T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/thomas-benninghaus/rss.xml"
             },
@@ -20385,8 +19674,8 @@
               "parliament": "thueringen",
               "slug": "thomas-gottweiss",
               "label": "Thomas Gottweiss",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 22,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/thomas-gottweiss/rss.xml"
             },
             {
@@ -20403,8 +19692,8 @@
               "parliament": "thueringen",
               "slug": "thomas-luhn",
               "label": "Thomas Luhn",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 21,
+              "updatedAt": "2026-05-20T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/thomas-luhn/rss.xml"
             },
             {
@@ -20412,7 +19701,7 @@
               "parliament": "thueringen",
               "slug": "tilo-kummer",
               "label": "Tilo Kummer",
-              "count": 10,
+              "count": 14,
               "updatedAt": "2025-12-17T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/tilo-kummer/rss.xml"
             },
@@ -20430,7 +19719,7 @@
               "parliament": "thueringen",
               "slug": "torsten-czuppon",
               "label": "Torsten Czuppon",
-              "count": 10,
+              "count": 13,
               "updatedAt": "2025-12-17T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/torsten-czuppon/rss.xml"
             },
@@ -20438,8 +19727,8 @@
               "kind": "person",
               "parliament": "thueringen",
               "slug": "ulrike-grosse-rothig",
-              "label": "Ulrike Grosse-Röthig",
-              "count": 12,
+              "label": "Ulrike Große-Röthig",
+              "count": 40,
               "updatedAt": "2026-05-28T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/ulrike-grosse-rothig/rss.xml"
             },
@@ -20448,8 +19737,8 @@
               "parliament": "thueringen",
               "slug": "ulrike-jary",
               "label": "Ulrike Jary",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 37,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/ulrike-jary/rss.xml"
             },
             {
@@ -20457,8 +19746,8 @@
               "parliament": "thueringen",
               "slug": "uwe-krell",
               "label": "Uwe Krell",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 20,
+              "updatedAt": "2026-05-20T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/uwe-krell/rss.xml"
             },
             {
@@ -20466,8 +19755,8 @@
               "parliament": "thueringen",
               "slug": "uwe-thrum",
               "label": "Uwe Thrum",
-              "count": 11,
-              "updatedAt": "2026-02-11T00:00:00.000Z",
+              "count": 37,
+              "updatedAt": "2026-05-21T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/uwe-thrum/rss.xml"
             },
             {
@@ -20475,8 +19764,8 @@
               "parliament": "thueringen",
               "slug": "vivien-rottstedt",
               "label": "Vivien Rottstedt",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 28,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/vivien-rottstedt/rss.xml"
             },
             {
@@ -20484,8 +19773,8 @@
               "parliament": "thueringen",
               "slug": "wiebke-muhsal",
               "label": "Wiebke Muhsal",
-              "count": 10,
-              "updatedAt": "2025-12-17T00:00:00.000Z",
+              "count": 43,
+              "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/personen/wiebke-muhsal/rss.xml"
             },
             {
@@ -20513,7 +19802,7 @@
               "parliament": "thueringen",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 370,
+              "count": 360,
               "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/fraktion/afd/rss.xml"
             },
@@ -20531,7 +19820,7 @@
               "parliament": "thueringen",
               "slug": "cdu",
               "label": "Fraktion CDU",
-              "count": 291,
+              "count": 290,
               "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/fraktion/cdu/rss.xml"
             },
@@ -20540,7 +19829,7 @@
               "parliament": "thueringen",
               "slug": "die-linke",
               "label": "Fraktion Die Linke",
-              "count": 314,
+              "count": 313,
               "updatedAt": "2026-05-28T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/fraktion/die-linke/rss.xml"
             },

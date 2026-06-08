@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-28-lena-saniye-gungor",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/28",
+  "date": "2025-10-30",
+  "persons": [
+    {
+      "slug": "lena-saniye-gungor",
+      "name": "Lena Saniye Güngör",
+      "name_padoka": "Güngör, Lena Saniye",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/28",
+    "date": "2025-10-30"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/104473"
+  }
+}

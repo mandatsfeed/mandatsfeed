@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-20-andreas-buhl",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/20",
+  "date": "2025-06-19",
+  "persons": [
+    {
+      "slug": "andreas-buhl",
+      "name": "Andreas Bühl",
+      "name_padoka": "Bühl, Andreas",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/20",
+    "date": "2025-06-19"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/102345"
+  }
+}

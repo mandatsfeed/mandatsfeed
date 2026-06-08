@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-9-dieter-laudenbach",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/9",
+  "date": "2025-03-05",
+  "persons": [
+    {
+      "slug": "dieter-laudenbach",
+      "name": "Dieter Laudenbach",
+      "name_padoka": "Laudenbach, Dieter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/9",
+    "date": "2025-03-05"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/100773"
+  }
+}

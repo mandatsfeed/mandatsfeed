@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-45-stephan-steinbruck",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/45",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "stephan-steinbruck",
+      "name": "Stephan Steinbrück",
+      "name_padoka": "Steinbrück, Stephan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/45",
+    "date": "2026-05-22"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107282"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-12-steffen-schutz",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/12",
+  "date": "2025-03-20",
+  "persons": [
+    {
+      "slug": "steffen-schutz",
+      "name": "Steffen Schütz",
+      "name_padoka": "Schütz, Steffen",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/12",
+    "date": "2025-03-20"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/100992"
+  }
+}

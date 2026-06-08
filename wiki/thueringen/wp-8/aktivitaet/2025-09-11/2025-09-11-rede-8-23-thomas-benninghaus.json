@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-23-thomas-benninghaus",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/23",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "thomas-benninghaus",
+      "name": "Thomas Benninghaus",
+      "name_padoka": "Benninghaus, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/23",
+    "date": "2025-09-11"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/103644"
+  }
+}

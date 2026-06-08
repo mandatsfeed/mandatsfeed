@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-28-jorg-prophet",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in PlPr 8/28",
+  "date": "2025-10-30",
+  "persons": [
+    {
+      "slug": "jorg-prophet",
+      "name": "Jörg Prophet",
+      "name_padoka": "Prophet, Jörg",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/28",
+    "date": "2025-10-30"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/104473"
+  }
+}

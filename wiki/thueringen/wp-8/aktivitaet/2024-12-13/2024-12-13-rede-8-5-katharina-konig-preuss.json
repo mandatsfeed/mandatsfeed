@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-5-katharina-konig-preuss",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "8 Redebeiträge in PlPr 8/5",
+  "date": "2024-12-13",
+  "persons": [
+    {
+      "slug": "katharina-konig-preuss",
+      "name": "Katharina König-Preuss",
+      "name_padoka": "König-Preuss, Katharina",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/5",
+    "date": "2024-12-13"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/99861"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-44-jonas-urbach",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/44",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "jonas-urbach",
+      "name": "Jonas Urbach",
+      "name_padoka": "Urbach, Jonas",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/44",
+    "date": "2026-05-21"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107252"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-37-niklas-wassmann",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/37",
+  "date": "2026-02-06",
+  "persons": [
+    {
+      "slug": "niklas-wassmann",
+      "name": "Niklas Waßmann",
+      "name_padoka": "Waßmann, Niklas",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/37",
+    "date": "2026-02-06"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105794"
+  }
+}

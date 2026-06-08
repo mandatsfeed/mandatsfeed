@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-44-christian-schaft",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/44",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "christian-schaft",
+      "name": "Christian Schaft",
+      "name_padoka": "Schaft, Christian",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/44",
+    "date": "2026-05-21"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107252"
+  }
+}

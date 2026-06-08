@@ -102,11 +102,15 @@ function downloadPdf(docid: string): Buffer {
   return readFileSync(cachePath);
 }
 
+// Rollen-/Anrede-Präfixe, die gelegentlich vor dem eigentlichen Namen stehen
+// ("Abgeordnete Müller, SPD:"). Bei reiner "Abgeordnete <Nachname>"-Form
+// mappen wir anhand der vollständigen "Vorname Nachname"-Treffer im selben
+// PlPr auf den vollen Namen.
+const ROLE_PREFIXES = /^(Abgeordnete[rn]?|Vizepräsident(?:in)?|Ministerpräsident(?:in)?|Minister(?:in)?|Staatssekretär(?:in)?|Präsident(?:in)?)\s+/;
+
 async function extractSpeakers(buf: Buffer): Promise<Map<string, number>> {
   const t = await new PDFParse({ data: buf }).getText();
   const text = t.text;
-  // "Name, Fraktion:" als Speaker-Header. Adelsprädikate (de, von, zu, van)
-  // werden über das `[a-zäöü]+` mittendrin abgedeckt.
   const fraktionAlt = Object.keys(FRAKTION_LABELS)
     .map((f) => f.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
     .sort((a, b) => b.length - a.length)
@@ -115,15 +119,29 @@ async function extractSpeakers(buf: Buffer): Promise<Map<string, number>> {
     `([A-ZÄÖÜ][\\wäöüß-]+(?:[ -](?:[a-zäöü]+ )?[A-ZÄÖÜ][\\wäöüß-]+){1,4}), (${fraktionAlt}):`,
     "g",
   );
-  const counts = new Map<string, number>();
+  const nachnameToFull = new Map<string, string>();
+  const allMatches: { name: string; fraktion: string }[] = [];
   let m: RegExpExecArray | null;
   while ((m = re.exec(text)) !== null) {
-    // Nur als Speaker-Turn werten, wenn vor dem Match ein Klammer-Close oder
-    // ein Absatzende steht (Beifall/Zuruf hat Open-Paren-Prefix).
     const before = text.slice(Math.max(0, m.index - 40), m.index);
     if (!/\)\s*$|\n\s*$/.test(before)) continue;
-    const key = `${m[1]!}|${m[2]!}`;
-    counts.set(key, (counts.get(key) ?? 0) + 1);
+    const raw = m[1]!;
+    allMatches.push({ name: raw, fraktion: m[2]! });
+    if (!ROLE_PREFIXES.test(raw)) {
+      const parts = raw.split(/\s+/);
+      const nachname = parts[parts.length - 1]!.toLowerCase();
+      if (!nachnameToFull.has(nachname)) nachnameToFull.set(nachname, raw);
+    }
+  }
+  const counts = new Map<string, number>();
+  for (const { name: raw, fraktion } of allMatches) {
+    let name = raw.replace(ROLE_PREFIXES, "").trim();
+    if (!/\s/.test(name)) {
+      const full = nachnameToFull.get(name.toLowerCase());
+      if (!full) continue;
+      name = full;
+    }
+    counts.set(`${name}|${fraktion}`, (counts.get(`${name}|${fraktion}`) ?? 0) + 1);
   }
   return counts;
 }

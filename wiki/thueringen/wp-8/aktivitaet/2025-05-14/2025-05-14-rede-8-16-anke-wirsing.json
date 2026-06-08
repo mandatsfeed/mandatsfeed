@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-16-anke-wirsing",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/16",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "anke-wirsing",
+      "name": "Anke Wirsing",
+      "name_padoka": "Wirsing, Anke",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/16",
+    "date": "2025-05-14"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/101802"
+  }
+}

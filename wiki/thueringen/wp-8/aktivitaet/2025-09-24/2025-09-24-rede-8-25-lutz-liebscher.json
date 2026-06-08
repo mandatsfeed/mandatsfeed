@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-25-lutz-liebscher",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/25",
+  "date": "2025-09-24",
+  "persons": [
+    {
+      "slug": "lutz-liebscher",
+      "name": "Lutz Liebscher",
+      "name_padoka": "Liebscher, Lutz",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/25",
+    "date": "2025-09-24"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/103804"
+  }
+}

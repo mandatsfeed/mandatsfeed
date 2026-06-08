@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-22-martin-henkel",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/22",
+  "date": "2025-09-10",
+  "persons": [
+    {
+      "slug": "martin-henkel",
+      "name": "Martin Henkel",
+      "name_padoka": "Henkel, Martin",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/22",
+    "date": "2025-09-10"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/103613"
+  }
+}

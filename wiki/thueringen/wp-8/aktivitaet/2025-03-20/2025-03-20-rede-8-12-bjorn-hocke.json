@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-12-bjorn-hocke",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/12",
+  "date": "2025-03-20",
+  "persons": [
+    {
+      "slug": "bjorn-hocke",
+      "name": "Björn Höcke",
+      "name_padoka": "Höcke, Björn",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/12",
+    "date": "2025-03-20"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/100992"
+  }
+}

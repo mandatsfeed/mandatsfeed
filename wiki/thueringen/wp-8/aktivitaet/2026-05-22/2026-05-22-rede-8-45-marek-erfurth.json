@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-45-marek-erfurth",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in PlPr 8/45",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "marek-erfurth",
+      "name": "Marek Erfurth",
+      "name_padoka": "Erfurth, Marek",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/45",
+    "date": "2026-05-22"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107282"
+  }
+}

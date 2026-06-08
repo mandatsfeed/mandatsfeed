@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-26-wiebke-muhsal",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in PlPr 8/26",
+  "date": "2025-10-29",
+  "persons": [
+    {
+      "slug": "wiebke-muhsal",
+      "name": "Wiebke Muhsal",
+      "name_padoka": "Muhsal, Wiebke",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/26",
+    "date": "2025-10-29"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/104447"
+  }
+}

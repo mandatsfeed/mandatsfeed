@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-27-katja-mitteldorf",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/27",
+  "date": "2025-10-29",
+  "persons": [
+    {
+      "slug": "katja-mitteldorf",
+      "name": "Katja Mitteldorf",
+      "name_padoka": "Mitteldorf, Katja",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/27",
+    "date": "2025-10-29"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/104452"
+  }
+}

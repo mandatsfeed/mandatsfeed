@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-2-anja-muller",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/2",
+  "date": "2024-11-13",
+  "persons": [
+    {
+      "slug": "anja-muller",
+      "name": "Anja Müller",
+      "name_padoka": "Müller, Anja",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/2",
+    "date": "2024-11-13"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/99620"
+  }
+}

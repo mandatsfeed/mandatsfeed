@@ -100,11 +100,24 @@ function downloadPdf(docid: string): Buffer {
   return readFileSync(cachePath);
 }
 
+// Rollen-/Anrede-Präfixe, die im Thüringer PlPr-PDF gelegentlich vor dem
+// eigentlichen Namen stehen ("Abgeordnete Merz, SPD:"). Werden vor dem
+// Slug-Build entfernt; bei reinem "Abgeordnete <Nachname>" mappen wir
+// anhand der zuvor im selben PlPr aufgetauchten "Vorname Nachname"-Form
+// auf den vollen Namen.
+const ROLE_PREFIXES = /^(Abgeordnete[rn]?|Vizepräsident(?:in)?|Ministerpräsident(?:in)?|Minister(?:in)?|Staatssekretär(?:in)?|Präsident(?:in)?)\s+/;
+
+// MdL-Registry für Nachname → Vollname-Lookup. Wird einmal beim Adapter-Start
+// geladen. Quelle: scripts/build-thueringen-mdl-registry.ts.
+const MDL_REGISTRY_PATH = resolve(import.meta.dirname, "../wiki/thueringen", `wp-${WP}`, "mdl-name-registry.json");
+let MDL_REGISTRY: Record<string, { name: string; vorname: string; nachname: string }> = {};
+if (existsSync(MDL_REGISTRY_PATH)) {
+  MDL_REGISTRY = JSON.parse(readFileSync(MDL_REGISTRY_PATH, "utf-8"));
+}
+
 async function extractSpeakers(buf: Buffer): Promise<Map<string, number>> {
   const t = await new PDFParse({ data: buf }).getText();
   const text = t.text;
-  // "Name, Fraktion:" als Speaker-Header. Adelsprädikate (de, von, zu, van)
-  // werden über das `[a-zäöü]+` mittendrin abgedeckt.
   const fraktionAlt = Object.keys(FRAKTION_LABELS)
     .map((f) => f.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
     .sort((a, b) => b.length - a.length)
@@ -116,12 +129,18 @@ async function extractSpeakers(buf: Buffer): Promise<Map<string, number>> {
   const counts = new Map<string, number>();
   let m: RegExpExecArray | null;
   while ((m = re.exec(text)) !== null) {
-    // Nur als Speaker-Turn werten, wenn vor dem Match ein Klammer-Close oder
-    // ein Absatzende steht (Beifall/Zuruf hat Open-Paren-Prefix).
     const before = text.slice(Math.max(0, m.index - 40), m.index);
     if (!/\)\s*$|\n\s*$/.test(before)) continue;
-    const key = `${m[1]!}|${m[2]!}`;
-    counts.set(key, (counts.get(key) ?? 0) + 1);
+    let name = m[1]!.replace(ROLE_PREFIXES, "").trim();
+    if (!/\s/.test(name)) {
+      // Reine "<Nachname>"-Form nach Prefix-Strip: über MdL-Registry auf
+      // vollen Namen mappen. Wenn nicht gefunden, Speaker überspringen
+      // (keine bogus "Abgeordnete X"-Slugs erzeugen).
+      const entry = MDL_REGISTRY[name.toLowerCase()];
+      if (!entry) continue;
+      name = entry.name;
+    }
+    counts.set(`${name}|${m[2]!}`, (counts.get(`${name}|${m[2]!}`) ?? 0) + 1);
   }
   return counts;
 }

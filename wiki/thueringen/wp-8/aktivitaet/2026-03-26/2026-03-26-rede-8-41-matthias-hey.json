@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-41-matthias-hey",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/41",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "matthias-hey",
+      "name": "Matthias Hey",
+      "name_padoka": "Hey, Matthias",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/41",
+    "date": "2026-03-26"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106549"
+  }
+}

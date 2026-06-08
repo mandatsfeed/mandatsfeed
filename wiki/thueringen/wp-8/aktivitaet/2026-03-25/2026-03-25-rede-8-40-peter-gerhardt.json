@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-40-peter-gerhardt",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in PlPr 8/40",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "peter-gerhardt",
+      "name": "Peter Gerhardt",
+      "name_padoka": "Gerhardt, Peter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/40",
+    "date": "2026-03-25"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106517"
+  }
+}

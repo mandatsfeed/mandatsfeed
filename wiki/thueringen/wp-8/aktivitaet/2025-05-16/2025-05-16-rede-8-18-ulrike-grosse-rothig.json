@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-18-ulrike-grosse-rothig",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/18",
+  "date": "2025-05-16",
+  "persons": [
+    {
+      "slug": "ulrike-grosse-rothig",
+      "name": "Ulrike Große-Röthig",
+      "name_padoka": "Große-Röthig, Ulrike",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/18",
+    "date": "2025-05-16"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/101842"
+  }
+}

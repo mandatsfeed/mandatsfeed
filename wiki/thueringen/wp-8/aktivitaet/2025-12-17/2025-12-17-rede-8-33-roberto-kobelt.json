@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-33-roberto-kobelt",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "7 Redebeiträge in PlPr 8/33",
+  "date": "2025-12-17",
+  "persons": [
+    {
+      "slug": "roberto-kobelt",
+      "name": "Roberto Kobelt",
+      "name_padoka": "Kobelt, Roberto",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/33",
+    "date": "2025-12-17"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105167"
+  }
+}

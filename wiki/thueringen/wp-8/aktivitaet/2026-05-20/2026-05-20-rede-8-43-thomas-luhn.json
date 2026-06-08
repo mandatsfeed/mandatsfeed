@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-43-thomas-luhn",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/43",
+  "date": "2026-05-20",
+  "persons": [
+    {
+      "slug": "thomas-luhn",
+      "name": "Thomas Luhn",
+      "name_padoka": "Luhn, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/43",
+    "date": "2026-05-20"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107238"
+  }
+}

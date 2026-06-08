@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-14-ringo-muhlmann",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in PlPr 8/14",
+  "date": "2025-04-03",
+  "persons": [
+    {
+      "slug": "ringo-muhlmann",
+      "name": "Ringo Mühlmann",
+      "name_padoka": "Mühlmann, Ringo",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/14",
+    "date": "2025-04-03"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/101281"
+  }
+}

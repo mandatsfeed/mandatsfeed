@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-34-daniel-haseloff",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/34",
+  "date": "2026-01-16",
+  "persons": [
+    {
+      "slug": "daniel-haseloff",
+      "name": "Daniel Haseloff",
+      "name_padoka": "Haseloff, Daniel",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/34",
+    "date": "2026-01-16"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105456"
+  }
+}

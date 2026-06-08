@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-1-lennart-geibert",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/1",
+  "date": "2024-09-26",
+  "persons": [
+    {
+      "slug": "lennart-geibert",
+      "name": "Lennart Geibert",
+      "name_padoka": "Geibert, Lennart",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/1",
+    "date": "2024-09-26"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/99387"
+  }
+}

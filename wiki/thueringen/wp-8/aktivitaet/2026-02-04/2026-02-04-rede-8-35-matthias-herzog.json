@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-35-matthias-herzog",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/35",
+  "date": "2026-02-04",
+  "persons": [
+    {
+      "slug": "matthias-herzog",
+      "name": "Matthias Herzog",
+      "name_padoka": "Herzog, Matthias",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/35",
+    "date": "2026-02-04"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105763"
+  }
+}

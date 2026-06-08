@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-19-katja-maurer",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/19",
+  "date": "2025-06-18",
+  "persons": [
+    {
+      "slug": "katja-maurer",
+      "name": "Katja Maurer",
+      "name_padoka": "Maurer, Katja",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/19",
+    "date": "2025-06-18"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/102342"
+  }
+}

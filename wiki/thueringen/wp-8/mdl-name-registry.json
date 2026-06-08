@@ -1,0 +1,437 @@
+{
+  "abicht": {
+    "nachname": "Abicht",
+    "name": "Jan Abicht",
+    "vorname": "Jan"
+  },
+  "augsten": {
+    "nachname": "Augsten",
+    "name": "Frank Augsten",
+    "vorname": "Frank"
+  },
+  "behrendt": {
+    "nachname": "Behrendt",
+    "name": "Nina Behrendt",
+    "vorname": "Nina"
+  },
+  "benninghaus": {
+    "nachname": "Benninghaus",
+    "name": "Thomas Benninghaus",
+    "vorname": "Thomas"
+  },
+  "berger": {
+    "nachname": "Berger",
+    "name": "Melanie Berger",
+    "vorname": "Melanie"
+  },
+  "bilay": {
+    "nachname": "Bilay",
+    "name": "Sascha Bilay",
+    "vorname": "Sascha"
+  },
+  "bühl": {
+    "nachname": "Bühl",
+    "name": "Andreas Bühl",
+    "vorname": "Andreas"
+  },
+  "cotta": {
+    "nachname": "Cotta",
+    "name": "Jens Cotta",
+    "vorname": "Jens"
+  },
+  "croll": {
+    "nachname": "Croll",
+    "name": "Jane Croll",
+    "vorname": "Jane"
+  },
+  "czuppon": {
+    "nachname": "Czuppon",
+    "name": "Torsten Czuppon",
+    "vorname": "Torsten"
+  },
+  "dietrich": {
+    "nachname": "Dietrich",
+    "name": "Jens Dietrich",
+    "vorname": "Jens"
+  },
+  "düben-schaumann": {
+    "nachname": "Düben-Schaumann",
+    "name": "Kerstin Düben-Schaumann",
+    "vorname": "Kerstin"
+  },
+  "erfurth": {
+    "nachname": "Erfurth",
+    "name": "Marek Erfurth",
+    "vorname": "Marek"
+  },
+  "geibert": {
+    "nachname": "Geibert",
+    "name": "Lennart Geibert",
+    "vorname": "Lennart"
+  },
+  "gerbothe": {
+    "nachname": "Gerbothe",
+    "name": "Carolin Gerbothe",
+    "vorname": "Carolin"
+  },
+  "gerhardt": {
+    "nachname": "Gerhardt",
+    "name": "Peter Gerhardt",
+    "vorname": "Peter"
+  },
+  "gottweiss": {
+    "nachname": "Gottweiss",
+    "name": "Thomas Gottweiss",
+    "vorname": "Thomas"
+  },
+  "große-röthig": {
+    "nachname": "Große-Röthig",
+    "name": "Ulrike Große-Röthig",
+    "vorname": "Ulrike"
+  },
+  "güngör": {
+    "nachname": "Güngör",
+    "name": "Lena Saniye Güngör",
+    "vorname": "Lena Saniye"
+  },
+  "hande": {
+    "nachname": "Hande",
+    "name": "Ronald Hande",
+    "vorname": "Ronald"
+  },
+  "haseloff": {
+    "nachname": "Haseloff",
+    "name": "Daniel Haseloff",
+    "vorname": "Daniel"
+  },
+  "heber": {
+    "nachname": "Heber",
+    "name": "Claudia Heber",
+    "vorname": "Claudia"
+  },
+  "henkel": {
+    "nachname": "Henkel",
+    "name": "Martin Henkel",
+    "vorname": "Martin"
+  },
+  "herzog": {
+    "nachname": "Herzog",
+    "name": "Matthias Herzog",
+    "vorname": "Matthias"
+  },
+  "hey": {
+    "nachname": "Hey",
+    "name": "Matthias Hey",
+    "vorname": "Matthias"
+  },
+  "hoffmann": {
+    "nachname": "Hoffmann",
+    "name": "Nadine Hoffmann",
+    "vorname": "Nadine"
+  },
+  "hoffmeister": {
+    "nachname": "Hoffmeister",
+    "name": "Dirk Hoffmeister",
+    "vorname": "Dirk"
+  },
+  "hupach": {
+    "nachname": "Hupach",
+    "name": "Sigrid Hupach",
+    "vorname": "Sigrid"
+  },
+  "hutschenreuther": {
+    "nachname": "Hutschenreuther",
+    "name": "Ralph Hutschenreuther",
+    "vorname": "Ralph"
+  },
+  "häußer": {
+    "nachname": "Häußer",
+    "name": "Denis Häußer",
+    "vorname": "Denis"
+  },
+  "höcke": {
+    "nachname": "Höcke",
+    "name": "Björn Höcke",
+    "vorname": "Björn"
+  },
+  "jankowski": {
+    "nachname": "Jankowski",
+    "name": "Denny Jankowski",
+    "vorname": "Denny"
+  },
+  "jary": {
+    "nachname": "Jary",
+    "name": "Ulrike Jary",
+    "vorname": "Ulrike"
+  },
+  "kalthoff": {
+    "nachname": "Kalthoff",
+    "name": "Moritz Kalthoff",
+    "vorname": "Moritz"
+  },
+  "kießling": {
+    "nachname": "Kießling",
+    "name": "Olaf Kießling",
+    "vorname": "Olaf"
+  },
+  "kobelt": {
+    "nachname": "Kobelt",
+    "name": "Roberto Kobelt",
+    "vorname": "Roberto"
+  },
+  "kowalleck": {
+    "nachname": "Kowalleck",
+    "name": "Maik Kowalleck",
+    "vorname": "Maik"
+  },
+  "kramer": {
+    "nachname": "Kramer",
+    "name": "Marcel Kramer",
+    "vorname": "Marcel"
+  },
+  "krell": {
+    "nachname": "Krell",
+    "name": "Uwe Krell",
+    "vorname": "Uwe"
+  },
+  "kummer": {
+    "nachname": "Kummer",
+    "name": "Tilo Kummer",
+    "vorname": "Tilo"
+  },
+  "kästner": {
+    "nachname": "Kästner",
+    "name": "Alexander Kästner",
+    "vorname": "Alexander"
+  },
+  "könig": {
+    "nachname": "König",
+    "name": "Thadäus Rudolf König",
+    "vorname": "Thadäus Rudolf"
+  },
+  "könig-preuss": {
+    "nachname": "König-Preuss",
+    "name": "Katharina König-Preuss",
+    "vorname": "Katharina"
+  },
+  "küntzel": {
+    "nachname": "Küntzel",
+    "name": "Sven Küntzel",
+    "vorname": "Sven"
+  },
+  "laudenbach": {
+    "nachname": "Laudenbach",
+    "name": "Dieter Laudenbach",
+    "vorname": "Dieter"
+  },
+  "lauerwald": {
+    "nachname": "Lauerwald",
+    "name": "Wolfgang Lauerwald",
+    "vorname": "Wolfgang"
+  },
+  "liebscher": {
+    "nachname": "Liebscher",
+    "name": "Lutz Liebscher",
+    "vorname": "Lutz"
+  },
+  "luhn": {
+    "nachname": "Luhn",
+    "name": "Thomas Luhn",
+    "vorname": "Thomas"
+  },
+  "marx": {
+    "nachname": "Marx",
+    "name": "Dorothea Marx",
+    "vorname": "Dorothea"
+  },
+  "maurer": {
+    "nachname": "Maurer",
+    "name": "Katja Maurer",
+    "vorname": "Katja"
+  },
+  "meißner": {
+    "nachname": "Meißner",
+    "name": "Beate Meißner",
+    "vorname": "Beate"
+  },
+  "mengel-stähle": {
+    "nachname": "Mengel-Stähle",
+    "name": "Elisabeth Mengel-Stähle",
+    "vorname": "Elisabeth"
+  },
+  "merz": {
+    "nachname": "Merz",
+    "name": "Janine Merz",
+    "vorname": "Janine"
+  },
+  "mitteldorf": {
+    "nachname": "Mitteldorf",
+    "name": "Katja Mitteldorf",
+    "vorname": "Katja"
+  },
+  "muhsal": {
+    "nachname": "Muhsal",
+    "name": "Wiebke Muhsal",
+    "vorname": "Wiebke"
+  },
+  "mühlmann": {
+    "nachname": "Mühlmann",
+    "name": "Ringo Mühlmann",
+    "vorname": "Ringo"
+  },
+  "müller": {
+    "nachname": "Müller",
+    "name": "Anja Müller",
+    "vorname": "Anja"
+  },
+  "nauer": {
+    "nachname": "Nauer",
+    "name": "Brunhilde Nauer",
+    "vorname": "Brunhilde"
+  },
+  "prophet": {
+    "nachname": "Prophet",
+    "name": "Jörg Prophet",
+    "vorname": "Jörg"
+  },
+  "quasebarth": {
+    "nachname": "Quasebarth",
+    "name": "Steffen Quasebarth",
+    "vorname": "Steffen"
+  },
+  "rosin": {
+    "nachname": "Rosin",
+    "name": "Marion Rosin",
+    "vorname": "Marion"
+  },
+  "rottstedt": {
+    "nachname": "Rottstedt",
+    "name": "Vivien Rottstedt",
+    "vorname": "Vivien"
+  },
+  "schaft": {
+    "nachname": "Schaft",
+    "name": "Christian Schaft",
+    "vorname": "Christian"
+  },
+  "schard": {
+    "nachname": "Schard",
+    "name": "Stefan Schard",
+    "vorname": "Stefan"
+  },
+  "schlösser": {
+    "nachname": "Schlösser",
+    "name": "Sascha Schlösser",
+    "vorname": "Sascha"
+  },
+  "schubert": {
+    "nachname": "Schubert",
+    "name": "Andreas Schubert",
+    "vorname": "Andreas"
+  },
+  "schweinsburg": {
+    "nachname": "Schweinsburg",
+    "name": "Martina Schweinsburg",
+    "vorname": "Martina"
+  },
+  "schütz": {
+    "nachname": "Schütz",
+    "name": "Steffen Schütz",
+    "vorname": "Steffen"
+  },
+  "stark": {
+    "nachname": "Stark",
+    "name": "Linda Stark",
+    "vorname": "Linda"
+  },
+  "steinbrück": {
+    "nachname": "Steinbrück",
+    "name": "Stephan Steinbrück",
+    "vorname": "Stephan"
+  },
+  "tasch": {
+    "nachname": "Tasch",
+    "name": "Christina Tasch",
+    "vorname": "Christina"
+  },
+  "thomas": {
+    "nachname": "Thomas",
+    "name": "Jens Thomas",
+    "vorname": "Jens"
+  },
+  "thrum": {
+    "nachname": "Thrum",
+    "name": "Uwe Thrum",
+    "vorname": "Uwe"
+  },
+  "tiesler": {
+    "nachname": "Tiesler",
+    "name": "Stephan Tiesler",
+    "vorname": "Stephan"
+  },
+  "tischner": {
+    "nachname": "Tischner",
+    "name": "Christian Tischner",
+    "vorname": "Christian"
+  },
+  "treutler": {
+    "nachname": "Treutler",
+    "name": "Jürgen Treutler",
+    "vorname": "Jürgen"
+  },
+  "urbach": {
+    "nachname": "Urbach",
+    "name": "Jonas Urbach",
+    "vorname": "Jonas"
+  },
+  "urban": {
+    "nachname": "Urban",
+    "name": "med. Cornelia Urban",
+    "vorname": "med. Cornelia"
+  },
+  "voigt": {
+    "nachname": "Voigt",
+    "name": "Mario Voigt",
+    "vorname": "Mario"
+  },
+  "waßmann": {
+    "nachname": "Waßmann",
+    "name": "Niklas Waßmann",
+    "vorname": "Niklas"
+  },
+  "weißkopf": {
+    "nachname": "Weißkopf",
+    "name": "Wolfgang Weißkopf",
+    "vorname": "Wolfgang"
+  },
+  "wirsing": {
+    "nachname": "Wirsing",
+    "name": "Anke Wirsing",
+    "vorname": "Anke"
+  },
+  "wloch": {
+    "nachname": "Wloch",
+    "name": "Pascal Wloch",
+    "vorname": "Pascal"
+  },
+  "wogawa": {
+    "nachname": "Wogawa",
+    "name": "Stefan Wogawa",
+    "vorname": "Stefan"
+  },
+  "wolf": {
+    "nachname": "Wolf",
+    "name": "Katja Wolf",
+    "vorname": "Katja"
+  },
+  "worm": {
+    "nachname": "Worm",
+    "name": "Henry Worm",
+    "vorname": "Henry"
+  },
+  "zippel": {
+    "nachname": "Zippel",
+    "name": "Christoph Zippel",
+    "vorname": "Christoph"
+  }
+}

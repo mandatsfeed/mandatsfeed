@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-33-marcel-kramer",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/33",
+  "date": "2025-12-17",
+  "persons": [
+    {
+      "slug": "marcel-kramer",
+      "name": "Marcel Kramer",
+      "name_padoka": "Kramer, Marcel",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/33",
+    "date": "2025-12-17"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105167"
+  }
+}

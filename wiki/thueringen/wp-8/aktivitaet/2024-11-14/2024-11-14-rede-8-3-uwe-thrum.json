@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-3-uwe-thrum",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in PlPr 8/3",
+  "date": "2024-11-14",
+  "persons": [
+    {
+      "slug": "uwe-thrum",
+      "name": "Uwe Thrum",
+      "name_padoka": "Thrum, Uwe",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/3",
+    "date": "2024-11-14"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/99624"
+  }
+}

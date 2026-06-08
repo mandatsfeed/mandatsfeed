@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-22-ronald-hande",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/22",
+  "date": "2025-09-10",
+  "persons": [
+    {
+      "slug": "ronald-hande",
+      "name": "Ronald Hande",
+      "name_padoka": "Hande, Ronald",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/22",
+    "date": "2025-09-10"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/103613"
+  }
+}
