@@ -30,6 +30,8 @@ const FRAKTION_LABELS: Record<string, string> = {
   "DIE LINKE": "die-linke",
   "FDP": "fdp",
   "BÜNDNIS 90/DIE GRÜNEN": "bundnis-90-die-gruenen",
+  "B90/GR": "bundnis-90-die-gruenen",
+  "B90/GRÜNE": "bundnis-90-die-gruenen",
   "FREIE WÄHLER": "freie-waehler",
   "FREIE WAEHLER": "freie-waehler",
 };
