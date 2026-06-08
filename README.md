@@ -28,16 +28,25 @@ mandatsfeed erzeugt pro **Abgeordneter** und pro **Fraktion** einen chronologisc
 
 ## Abgedeckte Parlamente
 
-| Parlament                       | System                    | Status                             |
-|---------------------------------|---------------------------|------------------------------------|
-| Landtag Sachsen-Anhalt          | PADOKA (STARWEB-Variante) | 🟢 Drucksachen + Reden + Abstimmungen (Forschungsphase wegen robots.txt) |
-| Landtag Brandenburg             | STARWEB                   | 🟢 Drucksachen + Reden (mit Regierungsmitglied-Erkennung), Abstimmungen offen (Forschungsphase wegen robots.txt) |
-| Landtag Mecklenburg-Vorpommern  | Parldok                   | 🟢 Drucksachen-Adapter aktiv (Reden + Abstimmungen offen) |
-| Thüringer Landtag               | Parldok                   | 🟢 Drucksachen-Adapter aktiv (Reden + Abstimmungen offen) |
-| Sächsischer Landtag             | EDAS / REDAS              | 🟢 Drucksachen + Reden (Abstimmungen offen — Roll-Call-PDF mit Layout-Problemen) |
-| Deutscher Bundestag             | DIP (offizielle API)      | 🟢 Drucksachen + Reden (TOP-Titel + Druckseite) + Namentliche Abstimmungen (XLSX) — `DIP_API_KEY` in `.env` setzen |
+| Parlament                       | System                          | Status                             |
+|---------------------------------|---------------------------------|------------------------------------|
+| Landtag Sachsen-Anhalt          | PADOKA (STARWEB-Variante)       | 🟢 Drucksachen + Reden + Abstimmungen (Forschungsphase wegen robots.txt) |
+| Landtag Brandenburg             | STARWEB + abgeordnetenwatch     | 🟢 Drucksachen + Reden (mit Regierungsmitglied-Erkennung) + namentliche Abstimmungen via abgeordnetenwatch (Forschungsphase wegen robots.txt) |
+| Landtag Mecklenburg-Vorpommern  | Parldok + abgeordnetenwatch     | 🟢 Drucksachen + namentliche Abstimmungen via abgeordnetenwatch (Reden offen) |
+| Thüringer Landtag               | Parldok + abgeordnetenwatch     | 🟢 Drucksachen + namentliche Abstimmungen via abgeordnetenwatch (Reden offen) |
+| Sächsischer Landtag             | EDAS / REDAS + abgeordnetenwatch | 🟢 Drucksachen + Reden + namentliche Abstimmungen via abgeordnetenwatch |
+| Deutscher Bundestag             | DIP (offizielle API)            | 🟢 Drucksachen + Reden (TOP-Titel + Druckseite) + Namentliche Abstimmungen (XLSX) — `DIP_API_KEY` in `.env` setzen |
 
 Den DIP-Key bekommt man formlos per E-Mail an `parlamentsdokumentation@bundestag.de` — siehe [DIP-Hilfe-Seite](https://dip.bundestag.de/über-dip/hilfe/api). Eintrag in `.env` (Vorlage: `.env.example`).
+
+### Namentliche Abstimmungen aus [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/)
+
+Brandenburg, Mecklenburg-Vorpommern, Thüringen und Sachsen veröffentlichen ihre namentlichen Abstimmungen nicht in einem maschinenlesbaren Format (anders als der Bundestag mit XLSX-Listen oder Sachsen-Anhalt mit Roll-Call-Anlagen im Plenarprotokoll-PDF). [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/) erfasst diese Daten redaktionell und stellt sie über die [öffentliche API](https://www.abgeordnetenwatch.de/api) (`api.abgeordnetenwatch.de/v2`, **CC0**, 30 Anfragen/Minute) als Polls + Votes bereit. mandatsfeed nutzt diese Quelle als Brücke, bis die Landtage selbst strukturierte Abstimmungsdaten exportieren. Pro Abstimmung entsteht eine Activity vom Typ `abstimmung` mit Per-MdL-Stimmen — identisches Schema wie bei XLSX/PADOKA-Abstimmungen, sodass Personen- und Fraktions-Feeds dieselben Felder bekommen.
+
+```bash
+PARLIAMENT=brandenburg pnpm run fetch-abstimmungen:abgeordnetenwatch
+PARLIAMENT=thueringen MIN_DATE=2024-09-26 pnpm run fetch-abstimmungen:abgeordnetenwatch
+```
 
 ## Datenstruktur
 
@@ -193,7 +202,7 @@ mandatsfeed gehört zu einem international etablierten Genre — **Parliamentary
 
 ### Quellen und Ökosystem-Nachbarn (deutschsprachiger Raum)
 
-- **[abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/)** — Bürgerportal mit Profilen, Abstimmungen, Bürger-Q&A und Nebeneinkünften. Liefert die Stammdaten als **CC0-API**. mandatsfeed lässt Bürgerfragen bewusst aus (Mandatsträger-*Aktivität* statt freiwillige Kommunikation), nutzt aber die Personen-Stammdaten potenziell als Ergänzung zu den Parlamentsquellen.
+- **[abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/)** — Bürgerportal mit Profilen, Abstimmungen, Bürger-Q&A und Nebeneinkünften. Liefert Stammdaten und namentliche Abstimmungen als **CC0-API** (30 Anfragen/Minute). mandatsfeed nutzt abgeordnetenwatch direkt als **Datenquelle für namentliche Abstimmungen in Brandenburg, MV, Thüringen und Sachsen** — überall dort, wo die Landtage selbst kein maschinenlesbares Roll-Call-Format publizieren. Bürgerfragen (Q&A) bleiben bewusst außen vor, weil mandatsfeed sich auf Mandatsträger-*Aktivität* im Protokoll fokussiert, nicht auf freiwillige Kommunikation.
 - **[ParlamentAI](https://parlament.ai/)** — KI-gestützte Recherche in Bundestagsdokumenten (Debattenprotokolle, Pressemitteilungen, Kleine Anfragen und Antworten) per Chat-Interface, plus tägliche E-Mail-Briefings; Freemium-Modell. Anderer Layer als mandatsfeed (KI-Chat statt RSS), aber ähnliche Datendomäne — gut für recherche-orientierte Nutzer, mandatsfeed ergänzt mit chronologischen Feeds pro Person/Fraktion.
 - **[Open Discourse](https://opendiscourse.de/)** — strukturierte Datenbank aller Bundestags-Reden seit 1949 (~900k Reden), MIT-Lizenz. Für mandatsfeed ein Backfill- und Forschungs-Bezugspunkt: basiert auf denselben Plenarprotokollen wie DIP, ist aber stärker normalisiert.
 - **[meineabgeordneten.at](https://www.meineabgeordneten.at/)** — österreichisches Transparenzportal seit 2011 mit Profilen, Mandaten und Nebenbeschäftigungen. Etablierte Inspiration auf der Profil-Ebene, fokussiert auf Österreich.
