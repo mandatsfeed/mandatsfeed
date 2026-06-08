@@ -94,6 +94,23 @@ export const PARLIAMENTS: ParliamentConfig[] = [
     sourceNotice:
       "Aufbereitung durch mandatsfeed. Quelle: Landtag Mecklenburg-Vorpommern – Parlamentsdatenbank (dokumentation.landtag-mv.de). Ohne Gewähr für Richtigkeit.",
   },
+  {
+    slug: "thueringen",
+    label: "Thüringer Landtag",
+    source: "parldok",
+    homepage: "https://parldok.thueringer-landtag.de/parldok/",
+    fraktionLabels: {
+      "cdu": "CDU",
+      "afd": "AfD",
+      "bsw": "BSW",
+      "die-linke": "Die Linke",
+      "spd": "SPD",
+      "fraktionslos": "Fraktionslose Abgeordnete",
+      "landesregierung": "Landesregierung",
+    },
+    sourceNotice:
+      "Aufbereitung durch mandatsfeed. Quelle: Thüringer Landtag – Parlamentsdatenbank (parldok.thueringer-landtag.de). Ohne Gewähr für Richtigkeit.",
+  },
 ];
 
 export const TYPE_LABELS: Record<string, string> = {

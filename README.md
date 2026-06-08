@@ -16,13 +16,13 @@ Den Befund zur robots.txt halten wir in `wiki/sachsen-anhalt/robots.json` (nur l
 
 mandatsfeed erzeugt pro **Abgeordneter** und pro **Fraktion** einen chronologischen RSS-Feed über deren *verhaltensbasierte* parlamentarische Aktivität — was Abgeordnete im Protokoll tun, nicht was sie freiwillig kommunizieren.
 
-**Aktuell implementiert** (Landtag Sachsen-Anhalt, PADOKA-Adapter, durch echte Daten verifiziert):
+**Aktuell implementiert** (Coverage je nach Parlament unterschiedlich — siehe Tabelle unten):
 
 - Kleine und Große Anfragen (ohne Antwort und mit Antwort, mit Verkettung zwischen Original-KA und Antwort über `relatedTo`)
 - Anträge, Alternativ-, Änderungs-, Entschließungsanträge, Berichterstattungsverlangen
 - Gesetzentwürfe
-- Reden im Plenum (Titel, Plenarprotokoll-Nummer und Seite, PDF-Deeplink, Redner mit Funktionsbezeichnung wenn als Minister:in/Präsident:in gesprochen wird)
-- Namentliche Abstimmungen (Aggregate ja/nein/enth/abw plus Per-MdL-Stimmen aus dem Plenarprotokoll-PDF)
+- Reden im Plenum (Titel/TOP, Plenarprotokoll-Nummer und Seite, PDF-Deeplink, Redner mit Funktionsbezeichnung wenn als Minister:in/Präsident:in gesprochen wird; Brandenburg-Adapter erkennt Regierungsmitglieder, die in fremde Drucksachen-Debatten antworten, und attribuiert die Rede dann zur Pseudo-Fraktion „Landesregierung")
+- Namentliche Abstimmungen (Aggregate ja/nein/enth/abw plus Per-MdL-Stimmen aus dem Plenarprotokoll-PDF bzw. aus XLSX-Listen beim Bundestag)
 
 **Bewusst NICHT abgedeckt:** Social-Media-Aktivität, persönliche Webseiten-RSS, freiwillige Q&A-Inhalte (z. B. abgeordnetenwatch-Bürgerfragen). Wir bilden ab, was eine Person *tut* (im Protokoll erfasst), nicht was sie *freiwillig kommuniziert*.
 
@@ -30,11 +30,12 @@ mandatsfeed erzeugt pro **Abgeordneter** und pro **Fraktion** einen chronologisc
 
 | Parlament                       | System                    | Status                             |
 |---------------------------------|---------------------------|------------------------------------|
-| Landtag Sachsen-Anhalt          | PADOKA (STARWEB-Variante) | 🟢 Adapter aktiv (Forschungsphase wegen robots.txt) |
-| Landtag Brandenburg             | STARWEB                   | 🟢 Drucksachen-Adapter aktiv (Forschungsphase wegen robots.txt, Reden + Abstimmungen offen) |
+| Landtag Sachsen-Anhalt          | PADOKA (STARWEB-Variante) | 🟢 Drucksachen + Reden + Abstimmungen (Forschungsphase wegen robots.txt) |
+| Landtag Brandenburg             | STARWEB                   | 🟢 Drucksachen + Reden (mit Regierungsmitglied-Erkennung), Abstimmungen offen (Forschungsphase wegen robots.txt) |
 | Landtag Mecklenburg-Vorpommern  | Parldok                   | 🟢 Drucksachen-Adapter aktiv (Reden + Abstimmungen offen) |
-| Sächsischer Landtag             | EDAS / REDAS              | 🟢 Drucksachen-Adapter aktiv (Reden + Abstimmungen offen) |
-| Deutscher Bundestag             | DIP (offizielle API)      | 🟡 Adapter steht — `DIP_API_KEY` in `.env` setzen, dann lauffähig |
+| Thüringer Landtag               | Parldok                   | 🟢 Drucksachen-Adapter aktiv (Reden + Abstimmungen offen) |
+| Sächsischer Landtag             | EDAS / REDAS              | 🟢 Drucksachen + Reden (Abstimmungen offen — Roll-Call-PDF mit Layout-Problemen) |
+| Deutscher Bundestag             | DIP (offizielle API)      | 🟢 Drucksachen + Reden (TOP-Titel + Druckseite) + Namentliche Abstimmungen (XLSX) — `DIP_API_KEY` in `.env` setzen |
 
 Den DIP-Key bekommt man formlos per E-Mail an `parlamentsdokumentation@bundestag.de` — siehe [DIP-Hilfe-Seite](https://dip.bundestag.de/über-dip/hilfe/api). Eintrag in `.env` (Vorlage: `.env.example`).
 
@@ -132,15 +133,24 @@ Voraussetzungen: [Node.js](https://nodejs.org/) ≥ 20, [pnpm](https://pnpm.io/)
 ```bash
 pnpm install
 
-# Drucksachen-Adapter (Anträge, KAs, Anfragen, Gesetzentwürfe, Antworten):
-#   Default-Zeitraum: aktuelles Kalenderjahr (PADOKA-Filter ?from=01.01.<JAHR>)
+# Drucksachen-Adapter pro Parlament (Anträge, KAs, Anfragen, Gesetzentwürfe, Antworten).
+# Default-Zeitraum: aktuelles Kalenderjahr; Sprung in eine andere WP über WP=N, anderes Jahr über YEAR=YYYY.
 YEAR=2026 pnpm run fetch:sachsen-anhalt
+YEAR=2026 pnpm run fetch:brandenburg
+pnpm run fetch:mecklenburg-vorpommern
+pnpm run fetch:thueringen
+YEAR=2026 pnpm run fetch:sachsen
+pnpm run fetch:bundestag                 # nutzt DIP_API_KEY aus .env
 
 # Reden-Adapter (Plenardebatten, eine Activity je Redner:in × Plenarprotokoll-Seite)
 YEAR=2026 pnpm run fetch-reden:sachsen-anhalt
+YEAR=2026 pnpm run fetch-reden:brandenburg
+YEAR=2026 pnpm run fetch-reden:sachsen
+YEAR=2026 pnpm run fetch-reden:bundestag
 
-# Namentliche-Abstimmungen-Adapter (Aggregate + Per-MdL-Stimmen aus Plenarprotokoll-PDF)
+# Namentliche-Abstimmungen-Adapter (Aggregate + Per-MdL-Stimmen)
 MIN_DATE=2026-01-01 pnpm run fetch-abstimmungen:sachsen-anhalt
+YEAR=2026 pnpm run fetch-abstimmungen:bundestag
 
 # RSS-Feeds pro Person und Fraktion generieren
 pnpm run generate-rss
@@ -153,6 +163,8 @@ pnpm run append-update-log
 ```
 
 Reihenfolge nach einem Fetch-Lauf: `generate-rss` → `generate-metadata` → `append-update-log`.
+
+Während der Adapter-Läufe werden Rohdokumente (Plenarprotokoll-PDFs, DIP-XMLs, Bundestags-XLSXs) unter `.cache/<adapter>/` zwischengespeichert, damit Re-Runs nicht jedes Mal beim Quellsystem neu ziehen. `.cache/` ist gitignored und kann jederzeit gelöscht werden — der nächste Lauf füllt sie wieder.
 
 ## Datenquellen und Urheberrecht
 

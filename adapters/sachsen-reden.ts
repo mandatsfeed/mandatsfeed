@@ -17,7 +17,7 @@ const PARLIAMENT_SLUG = "sachsen";
 const PARLIAMENT_DIR = resolve(import.meta.dirname, "../wiki", PARLIAMENT_SLUG);
 const WP = Number(process.env.WP ?? "8");
 const YEAR = Number(process.env.YEAR ?? new Date().getUTCFullYear());
-const PDF_CACHE = "/tmp/mandatsfeed-sachsen-plpr";
+const PDF_CACHE = resolve(import.meta.dirname, "../.cache/sachsen-plpr");
 
 const BASE = "https://redas.landtag.sachsen.de/redas";
 

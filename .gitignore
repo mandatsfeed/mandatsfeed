@@ -2,6 +2,10 @@ node_modules/
 .DS_Store
 *.log
 
+# Adapter-Cache: Rohdokumente (PDF, XML, XLSX) werden hier zwischengelagert,
+# damit Re-Runs nicht jedes Mal beim Quellsystem neu ziehen müssen.
+.cache/
+
 # Secrets — never commit (siehe .env.example fuer die Felder)
 .env
 

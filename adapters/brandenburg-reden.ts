@@ -27,6 +27,7 @@ interface RegistryEntry {
   name_padoka: string;
   fraktion: string | null;
   title?: string;
+  regierungsmitglied?: string; // Ressort-Label, wenn MdL Regierungsmitglied ist
   urls: { initiativen?: string | null; reden?: string | null };
 }
 
@@ -102,13 +103,44 @@ function parseGermanDate(s: string): string | null {
   return m ? `${m[3]}-${m[2]}-${m[1]}` : null;
 }
 
-interface ParsedMeta { date: string; drsNr: string | undefined }
+interface ParsedMeta {
+  date: string;
+  drsNr: string | undefined;
+  authorFraktionen: string[]; // Fraktionen, die als Antragsteller/Frager in der meta auftauchen
+  authorIsLandesregierung: boolean;
+  askerName?: string;
+}
 
 function parseMeta(meta: string): ParsedMeta {
   const dateMatch = meta.match(/(\d{2}\.\d{2}\.\d{4})/);
   const date = dateMatch ? parseGermanDate(dateMatch[1])! : "";
   const drsMatch = meta.match(/Drucksache\s+(\d+\/[A-Za-z0-9]+)/);
-  return { date, drsNr: drsMatch?.[1] };
+  // Antragsteller-Heuristik aus dem führenden Meta-Pattern:
+  //   "Mündliche Anfrage 422 Dr. Daniela Oeynhausen (AfD) 22.04.2026 ..."
+  //   "Antrag (BSW, CDU) 10.03.2026 ..."
+  //   "Gesetzentwurf (Landesregierung) 10.04.2026 ..."
+  //   "Dringliche Anfrage 11 Andreas Kutsche (BSW) 20.02.2026 ..."
+  const authorFraktionen: string[] = [];
+  let authorIsLandesregierung = false;
+  let askerName: string | undefined;
+  // Anfragen tauchen oft mit "Fragestunde …" als Prefix auf — daher ohne ^-Anker.
+  const askerRe = /(?:Mündliche|Dringliche|Schriftliche|Kleine|Große)\s+Anfrage\s+\d+\s+([^()]+?)\s*\(([^)]+)\)/;
+  const authorRe = /^(?:Antrag|Alternativantrag|Entschließungsantrag|Gesetzentwurf|Beschlussempfehlung|Bericht|Verordnung|Wahlvorschlag)\s+\(([^)]+)\)/;
+  const am = meta.match(askerRe);
+  const am2 = meta.match(authorRe);
+  if (am) {
+    askerName = am[1]!.trim();
+    for (const f of am[2]!.split(/[,/]/).map((s) => s.trim())) {
+      if (/Landesregierung/i.test(f)) authorIsLandesregierung = true;
+      else authorFraktionen.push(f);
+    }
+  } else if (am2) {
+    for (const f of am2[1]!.split(/[,/]/).map((s) => s.trim())) {
+      if (/Landesregierung/i.test(f)) authorIsLandesregierung = true;
+      else authorFraktionen.push(f);
+    }
+  }
+  return { date, drsNr: drsMatch?.[1], authorFraktionen, authorIsLandesregierung, askerName };
 }
 
 function slugifyFraktion(fr: string | null): string {
@@ -121,12 +153,33 @@ function buildActivity(slug: string, entry: RegistryEntry, raw: RawRecord, parse
   const drsNr = parsed.drsNr;
   const drsSlug = drsNr ? drsNr.replace(/\//g, "-") : `vorgang-${raw.recId.slice(-8)}`;
   const id = `starweb-bb-rede-${drsSlug}-${slug}`;
+
+  // Wenn der MdL Regierungsmitglied ist UND der Beitrag erkennbar zu einem fremden
+  // Vorgang gesprochen wurde (Anfrage anderer MdL, Antrag/Gesetzentwurf anderer
+  // Fraktion oder der Landesregierung selbst), wird die Rede als
+  // Regierungsbeitrag attribuiert — die normale Heim-Fraktion bleibt im
+  // persons[].fraktion erhalten, aber die top-level fraktionen[] zeigen auf
+  // "landesregierung", damit die Aggregation korrekt landet.
+  const ownFraktion = entry.fraktion;
+  const isMinister = !!entry.regierungsmitglied;
+  const askerIsSelf = parsed.askerName ? parsed.askerName.includes(entry.name.split(" ").slice(-1)[0]!) : false;
+  const authorMatchesOwn = ownFraktion && parsed.authorFraktionen.includes(ownFraktion);
+  const fremderVorgang =
+    (parsed.askerName !== undefined && !askerIsSelf) ||
+    (parsed.authorFraktionen.length > 0 && !authorMatchesOwn) ||
+    parsed.authorIsLandesregierung;
+  // Minister ohne eigene Fraktion (externe Kabinettsmitglieder) sprechen
+  // grundsätzlich für die Landesregierung.
+  const attributeAsRegierung = isMinister && (fremderVorgang || !ownFraktion);
+
   const person: ActivityPerson = {
     slug,
     name: entry.name,
     name_padoka: entry.name_padoka,
-    role: "redner",
-    fraktion: entry.fraktion ?? "fraktionslos",
+    role: attributeAsRegierung ? "antwortend" : "redner",
+    fraktion: attributeAsRegierung
+      ? (entry.regierungsmitglied ?? "Landesregierung")
+      : (ownFraktion ?? "fraktionslos"),
   };
   const a: Activity = {
     id,
@@ -137,7 +190,7 @@ function buildActivity(slug: string, entry: RegistryEntry, raw: RawRecord, parse
     title: raw.title,
     date: parsed.date,
     persons: [person],
-    fraktionen: [slugifyFraktion(entry.fraktion)],
+    fraktionen: [attributeAsRegierung ? "landesregierung" : slugifyFraktion(ownFraktion)],
   };
   if (drsNr) a.drsNr = drsNr;
   if (raw.documentUrl) {

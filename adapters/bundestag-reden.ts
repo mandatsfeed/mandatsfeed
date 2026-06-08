@@ -5,7 +5,7 @@
 //
 // Workflow:
 // 1. Plenarprotokoll-Liste aus DIP holen (eine Anfrage, ~30 Sitzungen pro Jahr).
-// 2. Pro Sitzung das XML laden (~600 KB), cachen unter /tmp/mandatsfeed-bundestag-plpr/.
+// 2. Pro Sitzung das XML laden (~600 KB), cachen unter .cache/bundestag-plpr/.
 // 3. Reden + Redner per Regex extrahieren (keine ausgewachsene XML-Lib nötig).
 // 4. Eine Activity pro Rede schreiben.
 //
@@ -20,7 +20,7 @@ import type { Activity, ActivityPerson } from "../scripts/types.ts";
 const PARLIAMENT_SLUG = "bundestag";
 const PARLIAMENT_DIR = resolve(import.meta.dirname, "../wiki", PARLIAMENT_SLUG);
 const YEAR = Number(process.env.YEAR ?? new Date().getUTCFullYear());
-const PDF_CACHE = "/tmp/mandatsfeed-bundestag-plpr";
+const PDF_CACHE = resolve(import.meta.dirname, "../.cache/bundestag-plpr");
 
 // Read .env directly (Node --env-file ist strikt)
 function loadDotenv(): void {
@@ -68,6 +68,8 @@ interface RedeRecord {
   titel: string;
   fraktion: string;
   rolleLang: string;
+  topTitel: string;
+  seite?: number;
 }
 
 async function fetchPlenarprotokolle(): Promise<PlPrEntry[]> {
@@ -101,28 +103,59 @@ function downloadXml(url: string): string {
   return readFileSync(cachePath, "utf-8");
 }
 
-// Sehr defensive Regex-Parser für die zwei Patterns, die im Plenarprotokoll-XML
-// existieren: <rede id="..."> ... <redner id="..."> ... <name>...<vorname>...
-// </name></redner> ... </rede>
-// Pro <rede> nehmen wir den ERSTEN <redner> als Hauptredner.
+// Parser läuft pro <tagesordnungspunkt> – so kennen wir den TOP-Titel für jede
+// Rede. Innerhalb des TOP-Blocks tracken wir die zuletzt gesehene <seite>, um
+// pro <rede> die Druckseite zu kennen.
+function extractTopTitle(block: string, topId: string): string {
+  // Ein bis zwei <p klasse="T_fett">…</p> direkt nach dem TOP-Aufruf enthalten
+  // den TOP-Titel. Mehrere Treffer joinen, "Tagesordnungspunkt X" rausfiltern.
+  const fett = Array.from(block.matchAll(/<p\s+klasse="T_fett"[^>]*>([\s\S]*?)<\/p>/g))
+    .map((m) => m[1]!.replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim())
+    .filter((t) => t && !/^Tagesordnungspunkt\s+\d/i.test(t) && !/^Zusatzpunkt\s+\d/i.test(t));
+  if (fett.length > 0) return fett.slice(0, 2).join(" — ");
+  return topId; // Fallback
+}
+
 function extractRedenFromXml(xml: string): RedeRecord[] {
+  // Erster Pass: globalen Linear-Walk durch <seite> und <rede id=...>
+  // bauen, damit wir pro redeId die zuletzt gesehene Druckseite kennen.
+  // (Die <seite>-Marker stehen nicht innerhalb der <tagesordnungspunkt>-Blöcke.)
+  const seitePerRede = new Map<string, number>();
+  let currentSeite: number | undefined;
+  const globalIter = xml.matchAll(/<seite>(\d+)<\/seite>|<rede[^>]*\bid="([^"]+)"/g);
+  for (const g of globalIter) {
+    if (g[1]) currentSeite = Number(g[1]);
+    else if (g[2] && currentSeite !== undefined) seitePerRede.set(g[2], currentSeite);
+  }
+
   const records: RedeRecord[] = [];
   const seen = new Set<string>();
-  // Match each <rede id="..."> opening, dann den ersten <redner>-Block bis </redner>
-  const redeIter = xml.matchAll(/<rede[^>]*\bid="([^"]+)"[^>]*>[\s\S]*?<redner[^>]*\bid="([^"]+)"[^>]*>([\s\S]*?)<\/redner>/g);
-  for (const m of redeIter) {
-    const redeId = m[1]!;
-    if (seen.has(redeId)) continue;
-    seen.add(redeId);
-    const rednerId = m[2]!;
-    const innerName = m[3]!;
-    const vorname = (innerName.match(/<vorname>([^<]+)<\/vorname>/)?.[1] ?? "").trim();
-    const nachname = (innerName.match(/<nachname>([^<]+)<\/nachname>/)?.[1] ?? "").trim();
-    const titel = (innerName.match(/<titel>([^<]+)<\/titel>/)?.[1] ?? "").trim();
-    const fraktion = (innerName.match(/<fraktion>([^<]+)<\/fraktion>/)?.[1] ?? "").trim();
-    const rolleLang = (innerName.match(/<rolle_lang>([^<]+)<\/rolle_lang>/)?.[1] ?? "").trim();
-    if (!vorname || !nachname) continue;
-    records.push({ redeId, rednerId, vorname, nachname, titel, fraktion, rolleLang });
+  const topIter = xml.matchAll(/<tagesordnungspunkt\s[^>]*\btop-id="([^"]+)"[^>]*>([\s\S]*?)<\/tagesordnungspunkt>/g);
+  for (const tm of topIter) {
+    const topId = tm[1]!;
+    const block = tm[2]!;
+    const topTitel = extractTopTitle(block, topId);
+    const redeIter = block.matchAll(/<rede[^>]*\bid="([^"]+)"[^>]*>([\s\S]*?)<\/rede>/g);
+    for (const rm of redeIter) {
+      const redeId = rm[1]!;
+      if (seen.has(redeId)) continue;
+      const rede = rm[2]!;
+      const rednerMatch = rede.match(/<redner[^>]*\bid="([^"]+)"[^>]*>([\s\S]*?)<\/redner>/);
+      if (!rednerMatch) continue;
+      const rednerId = rednerMatch[1]!;
+      const innerName = rednerMatch[2]!;
+      const vorname = (innerName.match(/<vorname>([^<]+)<\/vorname>/)?.[1] ?? "").trim();
+      const nachname = (innerName.match(/<nachname>([^<]+)<\/nachname>/)?.[1] ?? "").trim();
+      const titel = (innerName.match(/<titel>([^<]+)<\/titel>/)?.[1] ?? "").trim();
+      const fraktion = (innerName.match(/<fraktion>([^<]+)<\/fraktion>/)?.[1] ?? "").trim();
+      const rolleLang = (innerName.match(/<rolle_lang>([^<]+)<\/rolle_lang>/)?.[1] ?? "").trim();
+      if (!vorname || !nachname) continue;
+      seen.add(redeId);
+      records.push({
+        redeId, rednerId, vorname, nachname, titel, fraktion, rolleLang,
+        topTitel, seite: seitePerRede.get(redeId),
+      });
+    }
   }
   return records;
 }
@@ -156,11 +189,15 @@ function buildActivity(plpr: PlPrEntry, rede: RedeRecord): Activity | null {
     parliament: PARLIAMENT_SLUG,
     wp: plpr.wahlperiode,
     type: "rede",
-    title: `Rede im ${plpr.dokumentnummer}`,
+    title: rede.topTitel || `Rede im ${plpr.dokumentnummer}`,
     date: plpr.datum,
     persons: [person],
     fraktionen: fraktionSlug ? [fraktionSlug] : (rede.rolleLang ? ["bundesregierung"] : []),
-    plenarprotokoll: { nr: plpr.dokumentnummer, date: plpr.datum },
+    plenarprotokoll: {
+      nr: plpr.dokumentnummer,
+      date: plpr.datum,
+      ...(rede.seite ? { page: rede.seite } : {}),
+    },
   };
   if (plpr.fundstelle.pdf_url) a.document = { url: plpr.fundstelle.pdf_url };
   return a;

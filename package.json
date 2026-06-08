@@ -11,6 +11,7 @@
     "fetch-abstimmungen:sachsen-anhalt": "tsx adapters/sachsen-anhalt-abstimmungen.ts",
     "fetch:brandenburg": "tsx adapters/brandenburg.ts",
     "fetch:mecklenburg-vorpommern": "tsx adapters/mecklenburg-vorpommern.ts",
+    "fetch:thueringen": "tsx adapters/thueringen.ts",
     "fetch:sachsen": "tsx adapters/sachsen.ts",
     "fetch:bundestag": "tsx adapters/bundestag.ts",
     "generate-rss": "tsx scripts/generate-rss.ts",

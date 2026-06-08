@@ -22,7 +22,7 @@ import type { Activity, ActivityPerson, VoteResult } from "../scripts/types.ts";
 const PARLIAMENT_SLUG = "bundestag";
 const PARLIAMENT_DIR = resolve(import.meta.dirname, "../wiki", PARLIAMENT_SLUG);
 const YEAR = Number(process.env.YEAR ?? new Date().getUTCFullYear());
-const XLSX_CACHE = "/tmp/mandatsfeed-bundestag-abst";
+const XLSX_CACHE = resolve(import.meta.dirname, "../.cache/bundestag-abst");
 
 const LISTING_URL = "https://www.bundestag.de/parlament/plenum/abstimmung/liste";
 
@@ -85,6 +85,14 @@ function parseGermanDate(s: string): string {
   return m ? `${m[3]}-${m[2]}-${m[1]}` : "";
 }
 
+// XLSX-URL endet auf "...YYYYMMDD_N_xls.xlsx" oder "...YYYYMMDD_xls.xlsx".
+// Das Datum dort ist verlässlicher als der textContent-Scrape des Listings
+// (der bei Titeln wie "Haushalt 2026" leicht falsche Jahre matcht).
+function dateFromXlsxUrl(url: string): string {
+  const m = url.match(/(\d{4})(\d{2})(\d{2})_[^/]*\.xlsx$/i);
+  return m ? `${m[1]}-${m[2]}-${m[3]}` : "";
+}
+
 function downloadXlsx(url: string): Buffer {
   const id = url.split("/").slice(-2)[0]; // blob id
   const fname = `${id}-${url.split("/").pop()}`;
@@ -134,7 +142,7 @@ function buildActivity(abst: AbstAbst, rows: VoteRow[]): Activity | null {
   const wp = first.Wahlperiode;
   const sitzung = first.Sitzungnr;
   const abstNr = first.Abstimmnr;
-  const date = parseGermanDate(abst.date);
+  const date = dateFromXlsxUrl(abst.xlsxUrl) || parseGermanDate(abst.date);
   if (!date) return null;
   const id = `dip-abst-${wp}-${sitzung}-${abstNr}`;
 
@@ -199,7 +207,7 @@ function writeIfMissing(a: Activity): "written" | "skipped" {
 async function main(): Promise<void> {
   const all = fetchAbstimmungsListe();
   // Filter to YEAR
-  const inYear = all.filter((a) => parseGermanDate(a.date).startsWith(String(YEAR)));
+  const inYear = all.filter((a) => (dateFromXlsxUrl(a.xlsxUrl) || parseGermanDate(a.date)).startsWith(String(YEAR)));
   console.log(`[bundestag-abstimmungen] ${all.length} Abstimmungen gelistet, davon ${inYear.length} in ${YEAR}`);
   let written = 0, skipped = 0, errors = 0;
   for (const abst of inYear) {

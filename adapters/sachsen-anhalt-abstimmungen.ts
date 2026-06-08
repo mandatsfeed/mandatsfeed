@@ -18,7 +18,7 @@ const WP = Number(process.env.WP ?? "8");
 const WP_DIR = join(PARLIAMENT_DIR, `wp-${WP}`);
 const REGISTRY_PATH = join(WP_DIR, "personen.registry.json");
 const LISTING_URL = "https://padoka.landtag.sachsen-anhalt.de/portal/abstimmungen.tt.html";
-const PDF_CACHE = "/tmp/mandatsfeed-padoka-plpr";
+const PDF_CACHE = resolve(import.meta.dirname, "../.cache/sachsen-anhalt-plpr");
 const MIN_DATE = process.env.MIN_DATE ?? "2026-01-01";
 
 interface RegistryEntry {
