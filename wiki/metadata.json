@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T18:25:43.256Z",
+  "generatedAt": "2026-06-08T18:29:50.002Z",
   "parliaments": [
     {
       "slug": "bundestag",
@@ -18568,15 +18568,6 @@
             {
               "kind": "person",
               "parliament": "mecklenburg-vorpommern",
-              "slug": "ministerin-stefanie-drese",
-              "label": "Ministerin Stefanie Drese",
-              "count": 1,
-              "updatedAt": "2025-05-15T00:00:00.000Z",
-              "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/personen/ministerin-stefanie-drese/rss.xml"
-            },
-            {
-              "kind": "person",
-              "parliament": "mecklenburg-vorpommern",
               "slug": "monique-wolk",
               "label": "Monique Wölk",
               "count": 21,
@@ -18941,7 +18932,7 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "spd",
               "label": "Fraktion SPD",
-              "count": 928,
+              "count": 927,
               "updatedAt": "2026-06-03T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/fraktion/spd/rss.xml"
             }
