@@ -117,6 +117,44 @@ export const PARLIAMENTS: ParliamentConfig[] = [
       "Aufbereitung durch mandatsfeed. Quelle: Thüringer Landtag – Parlamentsdatenbank (parldok.thueringer-landtag.de). Ohne Gewähr für Richtigkeit.",
     published: true,
   },
+  {
+    slug: "hessen",
+    label: "Hessischer Landtag",
+    source: "starweb",
+    homepage: "https://starweb.hessen.de/",
+    fraktionLabels: {
+      "cdu": "CDU",
+      "spd": "SPD",
+      "afd": "AfD",
+      "bundnis-90-die-gruenen": "BÜNDNIS 90/DIE GRÜNEN",
+      "fdp": "FDP",
+      "die-linke": "Die Linke",
+      "fraktionslos": "Fraktionslose Abgeordnete",
+      "landesregierung": "Landesregierung",
+    },
+    sourceNotice:
+      "Aufbereitung durch mandatsfeed. Quelle: Hessischer Landtag – Landtagsinformationssystem (starweb.hessen.de). Ohne Gewähr für Richtigkeit.",
+    published: true,
+  },
+  {
+    slug: "berlin",
+    label: "Abgeordnetenhaus Berlin",
+    source: "starweb",
+    homepage: "https://pardok.parlament-berlin.de/",
+    fraktionLabels: {
+      "spd": "SPD",
+      "cdu": "CDU",
+      "afd": "AfD",
+      "die-linke": "Die Linke",
+      "bundnis-90-die-gruenen": "BÜNDNIS 90/DIE GRÜNEN",
+      "fdp": "FDP",
+      "fraktionslos": "Fraktionslose Abgeordnete",
+      "landesregierung": "Senat",
+    },
+    sourceNotice:
+      "Aufbereitung durch mandatsfeed. Quelle: Abgeordnetenhaus Berlin – Parlamentsdokumentation (pardok.parlament-berlin.de). Ohne Gewähr für Richtigkeit.",
+    published: true,
+  },
 ];
 
 export const TYPE_LABELS: Record<string, string> = {

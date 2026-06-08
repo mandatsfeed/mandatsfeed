@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T18:32:59.755Z",
+  "generatedAt": "2026-06-08T19:05:12.947Z",
   "parliaments": [
     {
       "slug": "bundestag",
@@ -19832,6 +19832,3285 @@
               "count": 137,
               "updatedAt": "2026-05-22T00:00:00.000Z",
               "rssUrl": "wiki/thueringen/wp-8/fraktion/spd/rss.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hessen",
+      "label": "Hessischer Landtag",
+      "homepage": "https://starweb.hessen.de/",
+      "wahlperioden": [
+        {
+          "wp": 21,
+          "label": "21. Wahlperiode",
+          "personen": [
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "alexander-bauer",
+              "label": "Alexander Bauer",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/alexander-bauer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "alexander-hofmann",
+              "label": "Alexander Hofmann",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/alexander-hofmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "andre-stolz",
+              "label": "André Stolz",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/andre-stolz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "andreas-ewald",
+              "label": "Andreas Ewald",
+              "count": 2,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/andreas-ewald/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "andreas-hofmeister",
+              "label": "Andreas Hofmeister",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/andreas-hofmeister/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "andreas-lichert",
+              "label": "Andreas Lichert",
+              "count": 5,
+              "updatedAt": "2026-06-01T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/andreas-lichert/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "andreas-lobenstein",
+              "label": "Andreas Lobenstein",
+              "count": 6,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/andreas-lobenstein/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "angela-dorn-rancke",
+              "label": "Angela Dorn-Rancke",
+              "count": 2,
+              "updatedAt": "2025-03-27T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/angela-dorn-rancke/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "anna-maria-scholch",
+              "label": "Anna-Maria Schölch",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/anna-maria-scholch/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "anna-nguyen",
+              "label": "Anna Nguyen",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/anna-nguyen/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "annette-wetekam",
+              "label": "Annette Wetekam",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/annette-wetekam/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "arno-enners",
+              "label": "Arno Enners",
+              "count": 10,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/arno-enners/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "astrid-wallmann",
+              "label": "Astrid Wallmann",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/astrid-wallmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "axel-wintermeyer",
+              "label": "Axel Wintermeyer",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/axel-wintermeyer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "bernd-erich-vohl",
+              "label": "Bernd-Erich Vohl",
+              "count": 8,
+              "updatedAt": "2026-06-03T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/bernd-erich-vohl/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "bijan-kaffenberger",
+              "label": "Bijan Kaffenberger",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/bijan-kaffenberger/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "birgit-heitland",
+              "label": "Birgit Heitland",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/birgit-heitland/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "boris-rhein",
+              "label": "Boris Rhein",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/boris-rhein/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "christian-heinz",
+              "label": "Christian Heinz",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/christian-heinz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "christian-rohde",
+              "label": "Christian Rohde",
+              "count": 9,
+              "updatedAt": "2026-06-03T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/christian-rohde/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "christian-wendel",
+              "label": "Christian Wendel",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/christian-wendel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "christin-ziegler",
+              "label": "Christin Ziegler",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/christin-ziegler/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "christoph-mikuschek",
+              "label": "Christoph Mikuschek",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/christoph-mikuschek/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "christoph-sippel",
+              "label": "Christoph Sippel",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/christoph-sippel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "cirsten-kunz-strueder",
+              "label": "Cirsten Kunz-Strueder",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/cirsten-kunz-strueder/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "claudia-ravensburg",
+              "label": "Claudia Ravensburg",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/claudia-ravensburg/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "daniel-may",
+              "label": "Daniel May",
+              "count": 5,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/daniel-may/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "daniela-sommer",
+              "label": "Daniela Sommer",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/daniela-sommer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "dimitri-schulz",
+              "label": "Dimitri Schulz",
+              "count": 6,
+              "updatedAt": "2026-06-02T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/dimitri-schulz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "dirk-bamberger",
+              "label": "Dirk Bamberger",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/dirk-bamberger/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "dirk-gaw",
+              "label": "Dirk Gaw",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/dirk-gaw/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "dominik-leyh",
+              "label": "Dominik Leyh",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/dominik-leyh/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "elke-barth",
+              "label": "Elke Barth",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/elke-barth/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "esther-kalveram",
+              "label": "Esther Kalveram",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/esther-kalveram/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "felix-martin",
+              "label": "Felix Martin",
+              "count": 8,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/felix-martin/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "frank-dr-grobe",
+              "label": "Frank Dr. Grobe",
+              "count": 2,
+              "updatedAt": "2026-06-02T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/frank-dr-grobe/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "frank-grobe",
+              "label": "Frank Grobe",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/frank-grobe/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "frank-lortz",
+              "label": "Frank Lortz",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/frank-lortz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "frank-steinraths",
+              "label": "Frank Steinraths",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/frank-steinraths/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "frederik-bouffier",
+              "label": "Frederik Bouffier",
+              "count": 2,
+              "updatedAt": "2025-03-27T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/frederik-bouffier/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "gerhard-barsch",
+              "label": "Gerhard Bärsch",
+              "count": 10,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/gerhard-barsch/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "gerhard-schenk",
+              "label": "Gerhard Schenk",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/gerhard-schenk/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "gunter-rudolph",
+              "label": "Günter Rudolph",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/gunter-rudolph/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "hans-christian-gottlicher",
+              "label": "Hans Christian Göttlicher",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/hans-christian-gottlicher/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "hans-jurgen-muller",
+              "label": "Hans-Jürgen Müller",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/hans-jurgen-muller/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "hartmut-honka",
+              "label": "Hartmut Honka",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/hartmut-honka/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "hartwig-jourdan",
+              "label": "Hartwig Jourdan",
+              "count": 2,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/hartwig-jourdan/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "heiko-kasseckert",
+              "label": "Heiko Kasseckert",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/heiko-kasseckert/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "heiko-scholz",
+              "label": "Heiko Scholz",
+              "count": 7,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/heiko-scholz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "hildegard-forster-heldmann",
+              "label": "Hildegard Förster-Heldmann",
+              "count": 5,
+              "updatedAt": "2026-03-30T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/hildegard-forster-heldmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "holger-bellino",
+              "label": "Holger Bellino",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/holger-bellino/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "ina-durr",
+              "label": "Ina Dürr",
+              "count": 2,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/ina-durr/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "ines-claus",
+              "label": "Ines Claus",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/ines-claus/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "ingo-schon",
+              "label": "Ingo Schon",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/ingo-schon/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "jan-wilhelm-pohlmann",
+              "label": "Jan-Wilhelm Pohlmann",
+              "count": 2,
+              "updatedAt": "2025-03-27T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/jan-wilhelm-pohlmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "jennifer-giessler",
+              "label": "Jennifer Gießler",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/jennifer-giessler/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "jochen-k-roos",
+              "label": "Jochen K. Roos",
+              "count": 1,
+              "updatedAt": "2026-06-02T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/jochen-k-roos/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "jochen-roos",
+              "label": "Jochen Roos",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/jochen-roos/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "johannes-marxen",
+              "label": "Johannes Marxen",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/johannes-marxen/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "jorg-michael-muller",
+              "label": "Jörg Michael Müller",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/jorg-michael-muller/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "josefine-koebe",
+              "label": "Josefine Koebe",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/josefine-koebe/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "julia-herz",
+              "label": "Julia Herz",
+              "count": 5,
+              "updatedAt": "2026-03-31T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/julia-herz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "jurgen-frommrich",
+              "label": "Jürgen Frömmrich",
+              "count": 6,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/jurgen-frommrich/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "karina-fissmann-renner",
+              "label": "Karina Fissmann-Renner",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/karina-fissmann-renner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "karsten-bletzer",
+              "label": "Karsten Bletzer",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/karsten-bletzer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "kathrin-anders",
+              "label": "Kathrin Anders",
+              "count": 5,
+              "updatedAt": "2026-04-13T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/kathrin-anders/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "katrin-schleenbecker",
+              "label": "Katrin Schleenbecker",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/katrin-schleenbecker/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "katy-walther",
+              "label": "Katy Walther",
+              "count": 6,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/katy-walther/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "kaya-kinkel",
+              "label": "Kaya Kinkel",
+              "count": 9,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/kaya-kinkel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "kerstin-geis",
+              "label": "Kerstin Geis",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/kerstin-geis/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "kim-sarah-speer",
+              "label": "Kim-Sarah Speer",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/kim-sarah-speer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "klaus-gagel",
+              "label": "Klaus Gagel",
+              "count": 6,
+              "updatedAt": "2026-06-02T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/klaus-gagel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "lara-klaes",
+              "label": "Lara Klaes",
+              "count": 7,
+              "updatedAt": "2026-06-02T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/lara-klaes/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "lena-arnoldt",
+              "label": "Lena Arnoldt",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/lena-arnoldt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "lisa-gnadl",
+              "label": "Lisa Gnadl",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/lisa-gnadl/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "lothar-mulch",
+              "label": "Lothar Mulch",
+              "count": 7,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/lothar-mulch/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "lucas-schmitz",
+              "label": "Lucas Schmitz",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/lucas-schmitz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "manfred-pentz",
+              "label": "Manfred Pentz",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/manfred-pentz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "marcus-bocklet",
+              "label": "Marcus Bocklet",
+              "count": 8,
+              "updatedAt": "2026-04-24T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/marcus-bocklet/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "marcus-resch",
+              "label": "Marcus Resch",
+              "count": 6,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/marcus-resch/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "marie-sophie-kunkel",
+              "label": "Marie-Sophie Künkel",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/marie-sophie-kunkel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "marion-schardt-sauer",
+              "label": "Marion Schardt-Sauer",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/marion-schardt-sauer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "marius-weiss",
+              "label": "Marius Weiß",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/marius-weiss/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "markus-fuchs",
+              "label": "Markus Fuchs",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/markus-fuchs/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "martina-feldmayer",
+              "label": "Martina Feldmayer",
+              "count": 7,
+              "updatedAt": "2026-06-02T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/martina-feldmayer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "mathias-wagner",
+              "label": "Mathias Wagner",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/mathias-wagner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "mathias-wagner-taunus",
+              "label": "Mathias Wagner(Taunus)",
+              "count": 1,
+              "updatedAt": "2026-03-30T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/mathias-wagner-taunus/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "matthias-buger",
+              "label": "Matthias Büger",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/matthias-buger/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "matthias-korner",
+              "label": "Matthias Körner",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/matthias-korner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "max-schad",
+              "label": "Max Schad",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/max-schad/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "maximilian-bathon",
+              "label": "Maximilian Bathon",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/maximilian-bathon/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "maximilian-muger",
+              "label": "Maximilian Müger",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/maximilian-muger/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "maximilian-schimmel",
+              "label": "Maximilian Schimmel",
+              "count": 2,
+              "updatedAt": "2025-03-27T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/maximilian-schimmel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "maximilian-ziegler",
+              "label": "Maximilian Ziegler",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/maximilian-ziegler/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "michael-boddenberg",
+              "label": "Michael Boddenberg",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/michael-boddenberg/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "michael-reul",
+              "label": "Michael Reul",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/michael-reul/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "michelle-kraft",
+              "label": "Michelle Kraft",
+              "count": 2,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/michelle-kraft/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "miriam-dahlke",
+              "label": "Miriam Dahlke",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/miriam-dahlke/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "mirjam-glanz",
+              "label": "Mirjam Glanz",
+              "count": 4,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/mirjam-glanz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "moritz-promny",
+              "label": "Moritz Promny",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/moritz-promny/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "nadine-gersberg",
+              "label": "Nadine Gersberg",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/nadine-gersberg/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "nina-eisenhardt",
+              "label": "Nina Eisenhardt",
+              "count": 5,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/nina-eisenhardt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "nina-heidt-sommer",
+              "label": "Nina Heidt-Sommer",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/nina-heidt-sommer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "olaf-schwaier",
+              "label": "Olaf Schwaier",
+              "count": 5,
+              "updatedAt": "2026-06-01T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/olaf-schwaier/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "oliver-stirbock",
+              "label": "Oliver Stirböck",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/oliver-stirbock/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "oliver-ulloth",
+              "label": "Oliver Ulloth",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/oliver-ulloth/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "pascal-schleich",
+              "label": "Pascal Schleich",
+              "count": 8,
+              "updatedAt": "2026-06-03T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/pascal-schleich/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "patrick-appel",
+              "label": "Patrick Appel",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/patrick-appel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "patrick-schenk",
+              "label": "Patrick Schenk",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/patrick-schenk/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "patrick-schenk-frankfurt",
+              "label": "Patrick Schenk(Frankfurt)",
+              "count": 1,
+              "updatedAt": "2026-06-02T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/patrick-schenk-frankfurt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "peter-franz",
+              "label": "Peter Franz",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/peter-franz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "r-alexander-lorz",
+              "label": "R. Alexander Lorz",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/r-alexander-lorz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "ralf-norbert-bartelt",
+              "label": "Ralf-Norbert Bartelt",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/ralf-norbert-bartelt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "rene-rock",
+              "label": "René Rock",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/rene-rock/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "robert-lambrou",
+              "label": "Robert Lambrou",
+              "count": 10,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/robert-lambrou/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "roman-bausch",
+              "label": "Roman Bausch",
+              "count": 5,
+              "updatedAt": "2026-06-02T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/roman-bausch/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "rudiger-holschuh",
+              "label": "Rüdiger Holschuh",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/rudiger-holschuh/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "sabine-bachle-scholz",
+              "label": "Sabine Bächle-Scholz",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/sabine-bachle-scholz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "sandra-funken",
+              "label": "Sandra Funken",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/sandra-funken/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "sandra-weegels",
+              "label": "Sandra Weegels",
+              "count": 8,
+              "updatedAt": "2026-06-03T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/sandra-weegels/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "sascha-herr",
+              "label": "Sascha Herr",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/sascha-herr/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "sascha-meier",
+              "label": "Sascha Meier",
+              "count": 6,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/sascha-meier/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "sebastian-muller",
+              "label": "Sebastian Müller",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/sebastian-muller/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "sebastian-sack",
+              "label": "Sebastian Sack",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/sebastian-sack/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "sebastian-sommer",
+              "label": "Sebastian Sommer",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/sebastian-sommer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "stefan-naas",
+              "label": "Stefan Naas",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/stefan-naas/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "stefan-schneider",
+              "label": "Stefan Schneider",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/stefan-schneider/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "stefanie-klee",
+              "label": "Stefanie Klee",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/stefanie-klee/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "stephan-gruger",
+              "label": "Stephan Grüger",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/stephan-gruger/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "tanja-hartdegen",
+              "label": "Tanja Hartdegen",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/tanja-hartdegen/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "tanja-jost",
+              "label": "Tanja Jost",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/tanja-jost/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "tarek-al-wazir",
+              "label": "Tarek Al-Wazir",
+              "count": 2,
+              "updatedAt": "2025-03-27T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/tarek-al-wazir/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "thomas-hering",
+              "label": "Thomas Hering",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/thomas-hering/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "tobias-eckert",
+              "label": "Tobias Eckert",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/tobias-eckert/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "tobias-utter",
+              "label": "Tobias Utter",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/tobias-utter/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "torsten-leveringhaus",
+              "label": "Torsten Leveringhaus",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/torsten-leveringhaus/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "turgut-yuksel",
+              "label": "Turgut Yüksel",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/turgut-yuksel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "uwe-serke",
+              "label": "Uwe Serke",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/uwe-serke/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "vanessa-gronemann",
+              "label": "Vanessa Gronemann",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/vanessa-gronemann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "volker-richter",
+              "label": "Volker Richter",
+              "count": 10,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/volker-richter/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "wiebke-knell",
+              "label": "Wiebke Knell",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/wiebke-knell/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "hessen",
+              "slug": "yanki-pursun",
+              "label": "Yanki Pürsün",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/personen/yanki-pursun/rss.xml"
+            }
+          ],
+          "fraktionen": [
+            {
+              "kind": "fraktion",
+              "parliament": "hessen",
+              "slug": "afd",
+              "label": "Fraktion AfD",
+              "count": 18,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/fraktion/afd/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "hessen",
+              "slug": "bundnis-90-die-gruenen",
+              "label": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+              "count": 23,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/fraktion/bundnis-90-die-gruenen/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "hessen",
+              "slug": "cdu",
+              "label": "Fraktion CDU",
+              "count": 10,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/fraktion/cdu/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "hessen",
+              "slug": "fdp",
+              "label": "Fraktion FDP",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/fraktion/fdp/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "hessen",
+              "slug": "fraktionslos",
+              "label": "Fraktion Fraktionslose Abgeordnete",
+              "count": 4,
+              "updatedAt": "2026-03-18T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/fraktion/fraktionslos/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "hessen",
+              "slug": "spd",
+              "label": "Fraktion SPD",
+              "count": 10,
+              "updatedAt": "2026-06-08T00:00:00.000Z",
+              "rssUrl": "wiki/hessen/wp-21/fraktion/spd/rss.xml"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "berlin",
+      "label": "Abgeordnetenhaus Berlin",
+      "homepage": "https://pardok.parlament-berlin.de/",
+      "wahlperioden": [
+        {
+          "wp": 19,
+          "label": "19. Wahlperiode",
+          "personen": [
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "adrian-grasse",
+              "label": "Adrian Grasse",
+              "count": 43,
+              "updatedAt": "2024-12-19T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/adrian-grasse/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "aferdita-suka",
+              "label": "Aferdita Suka",
+              "count": 1,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/aferdita-suka/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "aldona-niemczyk",
+              "label": "Aldona Niemczyk",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/aldona-niemczyk/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "alexander-bertram",
+              "label": "Alexander Bertram",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/alexander-bertram/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "alexander-freier-winterwerb",
+              "label": "Alexander Freier-Winterwerb",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/alexander-freier-winterwerb/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "alexander-herrmann",
+              "label": "Alexander Herrmann",
+              "count": 13,
+              "updatedAt": "2022-03-30T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/alexander-herrmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "alexander-j-herrmann",
+              "label": "Alexander J. Herrmann",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/alexander-j-herrmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "alexander-kaas-elias",
+              "label": "Alexander Kaas Elias",
+              "count": 1,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/alexander-kaas-elias/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "alexander-king",
+              "label": "Alexander King",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/alexander-king/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "andre-schulze",
+              "label": "André Schulze",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/andre-schulze/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "andreas-geisel",
+              "label": "Andreas Geisel",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/andreas-geisel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "andreas-otto",
+              "label": "Andreas Otto",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/andreas-otto/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "anne-helm",
+              "label": "Anne Helm",
+              "count": 8,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/anne-helm/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "antje-kapek",
+              "label": "Antje Kapek",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/antje-kapek/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "antonin-brousek",
+              "label": "Antonin Brousek",
+              "count": 8,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/antonin-brousek/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "ario-ebrahimpour-mirzaie",
+              "label": "Ario Ebrahimpour Mirzaie",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/ario-ebrahimpour-mirzaie/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "ariturel-hack",
+              "label": "Ariturel Hack",
+              "count": 7,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/ariturel-hack/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "bahar-haghanipour",
+              "label": "Bahar Haghanipour",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/bahar-haghanipour/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "benedikt-lux",
+              "label": "Benedikt Lux",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/benedikt-lux/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "bettina-jarasch",
+              "label": "Bettina Jarasch",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/bettina-jarasch/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "bettina-konig",
+              "label": "Bettina König",
+              "count": 6,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/bettina-konig/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "bettina-meissner",
+              "label": "Bettina Meißner",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/bettina-meissner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "bjorn-matthias-jotzo",
+              "label": "Björn Matthias Jotzo",
+              "count": 4,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/bjorn-matthias-jotzo/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "bjorn-wohlert",
+              "label": "Björn Wohlert",
+              "count": 7,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/bjorn-wohlert/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "burkard-dregger",
+              "label": "Burkard Dregger",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/burkard-dregger/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "carsten-schatz",
+              "label": "Carsten Schatz",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/carsten-schatz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "carsten-ubbelohde",
+              "label": "Carsten Ubbelohde",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/carsten-ubbelohde/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "catherina-pieroth-manelli",
+              "label": "Catherina Pieroth-Manelli",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/catherina-pieroth-manelli/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "catrin-wahlen",
+              "label": "Catrin Wahlen",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/catrin-wahlen/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "christian-goiny",
+              "label": "Christian Goiny",
+              "count": 5,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/christian-goiny/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "christian-graff",
+              "label": "Christian Gräff",
+              "count": 5,
+              "updatedAt": "2024-12-19T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/christian-graff/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "christian-hochgrebe",
+              "label": "Christian Hochgrebe",
+              "count": 2,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/christian-hochgrebe/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "christian-wolf",
+              "label": "Christian Wolf",
+              "count": 11,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/christian-wolf/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "christian-zander",
+              "label": "Christian Zander",
+              "count": 25,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/christian-zander/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "christoph-wapler",
+              "label": "Christoph Wapler",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/christoph-wapler/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "christopher-forster",
+              "label": "Christopher Förster",
+              "count": 6,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/christopher-forster/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "claudia-engelmann",
+              "label": "Claudia Engelmann",
+              "count": 9,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/claudia-engelmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "claudia-wein",
+              "label": "Claudia Wein",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/claudia-wein/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "cornelia-seibeld",
+              "label": "Cornelia Seibeld",
+              "count": 7,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/cornelia-seibeld/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "damiano-valgolio",
+              "label": "Damiano Valgolio",
+              "count": 6,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/damiano-valgolio/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "daniel-wesener",
+              "label": "Daniel Wesener",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/daniel-wesener/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "daniela-billig",
+              "label": "Daniela Billig",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/daniela-billig/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "danny-freymark",
+              "label": "Danny Freymark",
+              "count": 82,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/danny-freymark/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dennis-buchner",
+              "label": "Dennis Buchner",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dennis-buchner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dennis-haustein",
+              "label": "Dennis Haustein",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dennis-haustein/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "derya-caglar",
+              "label": "Derya Çağlar",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/derya-caglar/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dirk-liebe",
+              "label": "Dirk Liebe",
+              "count": 4,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dirk-liebe/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dirk-stettner",
+              "label": "Dirk Stettner",
+              "count": 15,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dirk-stettner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dr-alexander-king",
+              "label": "Dr. Alexander King",
+              "count": 2,
+              "updatedAt": "2022-02-07T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dr-alexander-king/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dr-hugh-bronson",
+              "label": "Dr. Hugh Bronson",
+              "count": 19,
+              "updatedAt": "2022-03-31T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dr-hugh-bronson/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dr-kristin-brinker",
+              "label": "Dr. Kristin Brinker",
+              "count": 21,
+              "updatedAt": "2022-03-09T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dr-kristin-brinker/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dr-manuela-schmidt",
+              "label": "Dr. Manuela Schmidt",
+              "count": 3,
+              "updatedAt": "2022-02-28T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dr-manuela-schmidt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dr-maren-jasper-winter",
+              "label": "Dr. Maren Jasper-Winter",
+              "count": 12,
+              "updatedAt": "2022-03-22T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dr-maren-jasper-winter/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dr-robbin-juhnke",
+              "label": "Dr. Robbin Juhnke",
+              "count": 2,
+              "updatedAt": "2022-03-16T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dr-robbin-juhnke/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dunja-wolff",
+              "label": "Dunja Wolff",
+              "count": 5,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dunja-wolff/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "elif-eralp",
+              "label": "Elif Eralp",
+              "count": 6,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/elif-eralp/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "elke-breitenbach",
+              "label": "Elke Breitenbach",
+              "count": 6,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/elke-breitenbach/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "ellen-haussdorfer",
+              "label": "Ellen Haußdörfer",
+              "count": 1,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/ellen-haussdorfer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "ersin-nas",
+              "label": "Ersin Nas",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/ersin-nas/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "felix-reifschneider",
+              "label": "Felix Reifschneider",
+              "count": 42,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/felix-reifschneider/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "ferat-kocak",
+              "label": "Ferat Koçak",
+              "count": 2,
+              "updatedAt": "2024-12-19T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/ferat-kocak/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "florian-dorstelmann",
+              "label": "Florian Dörstelmann",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/florian-dorstelmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "florian-kluckert",
+              "label": "Florian Kluckert",
+              "count": 3,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/florian-kluckert/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "frank-balzer",
+              "label": "Frank Balzer",
+              "count": 15,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/frank-balzer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "frank-christian-hansel",
+              "label": "Frank-Christian Hansel",
+              "count": 17,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/frank-christian-hansel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "frank-luhmann",
+              "label": "Frank Luhmann",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/frank-luhmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "frank-scheermesser",
+              "label": "Frank Scheermesser",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/frank-scheermesser/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "franziska-becker",
+              "label": "Franziska Becker",
+              "count": 2,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/franziska-becker/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "franziska-brychcy",
+              "label": "Franziska Brychcy",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/franziska-brychcy/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "franziska-giffey",
+              "label": "Franziska Giffey",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/franziska-giffey/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "franziska-leschewitz",
+              "label": "Franziska Leschewitz",
+              "count": 1,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/franziska-leschewitz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "gollaleh-ahmadi",
+              "label": "Gollaleh Ahmadi",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/gollaleh-ahmadi/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "gunnar-lindemann",
+              "label": "Gunnar Lindemann",
+              "count": 54,
+              "updatedAt": "2022-03-12T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/gunnar-lindemann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "gunnar-n-lindemann",
+              "label": "Gunnar N. Lindemann",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/gunnar-n-lindemann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "harald-laatsch",
+              "label": "Harald Laatsch",
+              "count": 18,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/harald-laatsch/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "heiko-melzer",
+              "label": "Heiko Melzer",
+              "count": 9,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/heiko-melzer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "hendrikje-klein",
+              "label": "Hendrikje Klein",
+              "count": 8,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/hendrikje-klein/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "holger-krestel",
+              "label": "Holger Krestel",
+              "count": 4,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/holger-krestel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "hugh-theodore-bronson",
+              "label": "Hugh Theodore Bronson",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/hugh-theodore-bronson/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "ina-czyborra",
+              "label": "Ina Czyborra",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/ina-czyborra/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "ines-schmidt",
+              "label": "Ines Schmidt",
+              "count": 2,
+              "updatedAt": "2024-12-19T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/ines-schmidt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "iris-gertig",
+              "label": "Iris Gertig",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/iris-gertig/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "iris-spranger",
+              "label": "Iris Spranger",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/iris-spranger/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "jan-lehmann",
+              "label": "Jan Lehmann",
+              "count": 16,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/jan-lehmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "jeannette-auricht",
+              "label": "Jeannette Auricht",
+              "count": 13,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/jeannette-auricht/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "jian-omar",
+              "label": "Jian Omar",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/jian-omar/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "johannes-kraft",
+              "label": "Johannes Kraft",
+              "count": 28,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/johannes-kraft/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "johannes-martin",
+              "label": "Johannes Martin",
+              "count": 1,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/johannes-martin/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "jorg-stroedter",
+              "label": "Jörg Stroedter",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/jorg-stroedter/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "julia-schneider",
+              "label": "Julia Schneider",
+              "count": 2,
+              "updatedAt": "2024-12-19T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/julia-schneider/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "julian-schwarze",
+              "label": "Julian Schwarze",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/julian-schwarze/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "june-tomiak",
+              "label": "June Tomiak",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/june-tomiak/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "kai-wegner",
+              "label": "Kai Wegner",
+              "count": 4,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/kai-wegner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "karsten-ludwig-woldeit",
+              "label": "Karsten Ludwig Woldeit",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/karsten-ludwig-woldeit/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "karsten-woldeit",
+              "label": "Karsten Woldeit",
+              "count": 5,
+              "updatedAt": "2022-03-22T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/karsten-woldeit/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "katalin-gennburg",
+              "label": "Katalin Gennburg",
+              "count": 16,
+              "updatedAt": "2024-12-19T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/katalin-gennburg/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "katharina-gunther-wunsch",
+              "label": "Katharina Günther-Wünsch",
+              "count": 77,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/katharina-gunther-wunsch/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "katharina-senge",
+              "label": "Katharina Senge",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/katharina-senge/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "katina-schubert",
+              "label": "Katina Schubert",
+              "count": 5,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/katina-schubert/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "katrin-schmidberger",
+              "label": "Katrin Schmidberger",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/katrin-schmidberger/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "katrin-seidel",
+              "label": "Katrin Seidel",
+              "count": 4,
+              "updatedAt": "2024-12-19T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/katrin-seidel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "kerstin-brauner",
+              "label": "Kerstin Brauner",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/kerstin-brauner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "klara-schedlich",
+              "label": "Klara Schedlich",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/klara-schedlich/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "klaus-lederer",
+              "label": "Klaus Lederer",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/klaus-lederer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "kristian-ronneburg",
+              "label": "Kristian Ronneburg",
+              "count": 48,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/kristian-ronneburg/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "kristin-brinker",
+              "label": "Kristin Brinker",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/kristin-brinker/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "kurt-wansner",
+              "label": "Kurt Wansner",
+              "count": 4,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/kurt-wansner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "lars-bocian",
+              "label": "Lars Bocian",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/lars-bocian/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "lars-dusterhoft",
+              "label": "Lars Düsterhöft",
+              "count": 17,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/lars-dusterhoft/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "lars-rauchfuss",
+              "label": "Lars Rauchfuß",
+              "count": 4,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/lars-rauchfuss/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "laura-neugebauer",
+              "label": "Laura Neugebauer",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/laura-neugebauer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "lilia-usik",
+              "label": "Lilia Usik",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/lilia-usik/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "linda-vierecke",
+              "label": "Linda Vierecke",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/linda-vierecke/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "lisa-knack",
+              "label": "Lisa Knack",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/lisa-knack/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "louis-kruger",
+              "label": "Louis Krüger",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/louis-kruger/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "lucas-schaal",
+              "label": "Lucas Schaal",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/lucas-schaal/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "maik-penn",
+              "label": "Maik Penn",
+              "count": 4,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/maik-penn/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "maja-lasic",
+              "label": "Maja Lasić",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/maja-lasic/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "manuela-schmidt",
+              "label": "Manuela Schmidt",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/manuela-schmidt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "marc-vallendar",
+              "label": "Marc Vallendar",
+              "count": 10,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/marc-vallendar/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "marcel-hopp",
+              "label": "Marcel Hopp",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/marcel-hopp/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "marco-hahnfeld",
+              "label": "Marco Hahnfeld",
+              "count": 1,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/marco-hahnfeld/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "maren-jasper-winter",
+              "label": "Maren Jasper-Winter",
+              "count": 1,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/maren-jasper-winter/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "marianne-burkert-eulitz",
+              "label": "Marianne Burkert-Eulitz",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/marianne-burkert-eulitz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "martin-matz",
+              "label": "Martin Matz",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/martin-matz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "martin-patzold",
+              "label": "Martin Pätzold",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/martin-patzold/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "martin-sattelkau",
+              "label": "Martin Sattelkau",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/martin-sattelkau/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "martin-trefzer",
+              "label": "Martin Trefzer",
+              "count": 14,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/martin-trefzer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "mathias-schulz",
+              "label": "Mathias Schulz",
+              "count": 5,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/mathias-schulz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "matthias-kollatz",
+              "label": "Matthias Kollatz",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/matthias-kollatz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "max-landero",
+              "label": "Max Landero",
+              "count": 1,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/max-landero/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "max-landero-alvarado",
+              "label": "Max Landero Alvarado",
+              "count": 3,
+              "updatedAt": "2022-02-09T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/max-landero-alvarado/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "melanie-kuhnemann-grunow",
+              "label": "Melanie Kühnemann-Grunow",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/melanie-kuhnemann-grunow/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "michael-dietmann",
+              "label": "Michael Dietmann",
+              "count": 12,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/michael-dietmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "michael-efler",
+              "label": "Michael Efler",
+              "count": 1,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/michael-efler/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "mirjam-golm",
+              "label": "Mirjam Golm",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/mirjam-golm/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "niklas-grasselt",
+              "label": "Niklas Graßelt",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/niklas-grasselt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "niklas-schenker",
+              "label": "Niklas Schenker",
+              "count": 20,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/niklas-schenker/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "niklas-schrader",
+              "label": "Niklas Schrader",
+              "count": 26,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/niklas-schrader/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "nina-lerch",
+              "label": "Nina Lerch",
+              "count": 5,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/nina-lerch/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "oda-hassepass",
+              "label": "Oda Hassepaß",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/oda-hassepass/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "olaf-schenk",
+              "label": "Olaf Schenk",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/olaf-schenk/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "olga-gauks",
+              "label": "Olga Gauks",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/olga-gauks/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "oliver-friederici",
+              "label": "Oliver Friederici",
+              "count": 12,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/oliver-friederici/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "orkan-ozdemir",
+              "label": "Orkan Özdemir",
+              "count": 10,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/orkan-ozdemir/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "paul-fresdorf",
+              "label": "Paul Fresdorf",
+              "count": 16,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/paul-fresdorf/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "peer-mock-stumer",
+              "label": "Peer Mock-Stümer",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/peer-mock-stumer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "petra-vandrey",
+              "label": "Petra Vandrey",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/petra-vandrey/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "philipp-bertram",
+              "label": "Philipp Bertram",
+              "count": 1,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/philipp-bertram/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "prof-dr-martin-patzold",
+              "label": "Prof. Dr. Martin Pätzold",
+              "count": 91,
+              "updatedAt": "2022-03-30T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/prof-dr-martin-patzold/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "raed-saleh",
+              "label": "Raed Saleh",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/raed-saleh/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "regina-kittler",
+              "label": "Regina Kittler",
+              "count": 1,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/regina-kittler/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "reinhard-naumann",
+              "label": "Reinhard Naumann",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/reinhard-naumann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "robbin-juhnke",
+              "label": "Robbin Juhnke",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/robbin-juhnke/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "robert-eschricht",
+              "label": "Robert Eschricht",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/robert-eschricht/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "robert-schaddach",
+              "label": "Robert Schaddach",
+              "count": 3,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/robert-schaddach/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "rolf-wiedenhaupt",
+              "label": "Rolf Wiedenhaupt",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/rolf-wiedenhaupt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "roman-francesco-rogat",
+              "label": "Roman-Francesco Rogat",
+              "count": 11,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/roman-francesco-rogat/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "roman-simon",
+              "label": "Roman Simon",
+              "count": 10,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/roman-simon/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "ronald-glaser",
+              "label": "Ronald Gläser",
+              "count": 7,
+              "updatedAt": "2024-12-19T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/ronald-glaser/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sandra-brunner",
+              "label": "Sandra Brunner",
+              "count": 8,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sandra-brunner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sandra-khalatbari",
+              "label": "Sandra Khalatbari",
+              "count": 17,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sandra-khalatbari/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "scott-korber",
+              "label": "Scott Körber",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/scott-korber/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sebahat-atli",
+              "label": "Sebahat Atli",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sebahat-atli/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sebastian-czaja",
+              "label": "Sebastian Czaja",
+              "count": 17,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sebastian-czaja/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sebastian-scheel",
+              "label": "Sebastian Scheel",
+              "count": 1,
+              "updatedAt": "2024-12-19T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sebastian-scheel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sebastian-schlusselburg",
+              "label": "Sebastian Schlüsselburg",
+              "count": 24,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sebastian-schlusselburg/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sebastian-walter",
+              "label": "Sebastian Walter",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sebastian-walter/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sevim-aydin",
+              "label": "Sevim Aydin",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sevim-aydin/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sibylle-meister",
+              "label": "Sibylle Meister",
+              "count": 3,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sibylle-meister/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "silke-gebel",
+              "label": "Silke Gebel",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/silke-gebel/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stefan-evers",
+              "label": "Stefan Evers",
+              "count": 30,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stefan-evers/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stefan-forster",
+              "label": "Stefan Förster",
+              "count": 52,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stefan-forster/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stefan-hantsch",
+              "label": "Stefan Häntsch",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stefan-hantsch/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stefan-taschner",
+              "label": "Stefan Taschner",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stefan-taschner/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stefan-ziller",
+              "label": "Stefan Ziller",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stefan-ziller/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stefanie-bung",
+              "label": "Stefanie Bung",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stefanie-bung/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stefanie-fuchs",
+              "label": "Stefanie Fuchs",
+              "count": 5,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stefanie-fuchs/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "steffen-zillich",
+              "label": "Steffen Zillich",
+              "count": 4,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/steffen-zillich/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stephan-lenz",
+              "label": "Stephan Lenz",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stephan-lenz/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stephan-machulik",
+              "label": "Stephan Machulik",
+              "count": 1,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stephan-machulik/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stephan-schmidt",
+              "label": "Stephan Schmidt",
+              "count": 4,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stephan-schmidt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "stephan-standfuss",
+              "label": "Stephan Standfuß",
+              "count": 6,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/stephan-standfuss/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "susanna-kahlefeld",
+              "label": "Susanna Kahlefeld",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/susanna-kahlefeld/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sven-heinemann",
+              "label": "Sven Heinemann",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sven-heinemann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sven-meyer",
+              "label": "Sven Meyer",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sven-meyer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "sven-rissmann",
+              "label": "Sven Rissmann",
+              "count": 7,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/sven-rissmann/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "tamara-ludke",
+              "label": "Tamara Lüdke",
+              "count": 6,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/tamara-ludke/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "taylan-kurt",
+              "label": "Taylan Kurt",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/taylan-kurt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "thorsten-weiss",
+              "label": "Thorsten Weiß",
+              "count": 17,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/thorsten-weiss/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "timur-husein",
+              "label": "Timur Husein",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/timur-husein/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "tino-schopf",
+              "label": "Tino Schopf",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/tino-schopf/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "tobias-bauschke",
+              "label": "Tobias Bauschke",
+              "count": 12,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/tobias-bauschke/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "tobias-schulze",
+              "label": "Tobias Schulze",
+              "count": 10,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/tobias-schulze/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "tom-cywinski",
+              "label": "Tom Cywinski",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/tom-cywinski/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "tom-schreiber",
+              "label": "Tom Schreiber",
+              "count": 12,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/tom-schreiber/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "tommy-tabor",
+              "label": "Tommy Tabor",
+              "count": 52,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/tommy-tabor/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "tonka-wojahn",
+              "label": "Tonka Wojahn",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/tonka-wojahn/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "torsten-hofer",
+              "label": "Torsten Hofer",
+              "count": 19,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/torsten-hofer/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "torsten-schneider",
+              "label": "Torsten Schneider",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/torsten-schneider/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "tuba-bozkurt",
+              "label": "Tuba Bozkurt",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/tuba-bozkurt/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "turgut-altug",
+              "label": "Turgut Altuğ",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/turgut-altug/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "ulker-radziwill",
+              "label": "Ülker Radziwill",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/ulker-radziwill/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "vasili-franco",
+              "label": "Vasili Franco",
+              "count": 11,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/vasili-franco/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "werner-graf",
+              "label": "Werner Graf",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/werner-graf/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "wiebke-neumann",
+              "label": "Wiebke Neumann",
+              "count": 2,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/wiebke-neumann/rss.xml"
+            }
+          ],
+          "fraktionen": [
+            {
+              "kind": "fraktion",
+              "parliament": "berlin",
+              "slug": "afd",
+              "label": "Fraktion AfD",
+              "count": 258,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/fraktion/afd/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "berlin",
+              "slug": "bundnis-90-die-gruenen",
+              "label": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+              "count": 8,
+              "updatedAt": "2022-03-30T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/fraktion/bundnis-90-die-gruenen/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "berlin",
+              "slug": "cdu",
+              "label": "Fraktion CDU",
+              "count": 447,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/fraktion/cdu/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "berlin",
+              "slug": "die-linke",
+              "label": "Fraktion Die Linke",
+              "count": 173,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/fraktion/die-linke/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "berlin",
+              "slug": "fdp",
+              "label": "Fraktion FDP",
+              "count": 208,
+              "updatedAt": "2022-10-06T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/fraktion/fdp/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "berlin",
+              "slug": "fraktionslos",
+              "label": "Fraktion Fraktionslose Abgeordnete",
+              "count": 3,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/fraktion/fraktionslos/rss.xml"
+            },
+            {
+              "kind": "fraktion",
+              "parliament": "berlin",
+              "slug": "spd",
+              "label": "Fraktion SPD",
+              "count": 103,
+              "updatedAt": "2026-03-26T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/fraktion/spd/rss.xml"
             }
           ]
         }

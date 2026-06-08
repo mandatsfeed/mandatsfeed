@@ -33,6 +33,8 @@ const PERIOD_BY_PARLIAMENT: Record<string, { wp: number; periodId: number }> = {
   "mecklenburg-vorpommern": { wp: 8, periodId: 134 }, // 2021–2026
   "sachsen-anhalt": { wp: 8, periodId: 131 },         // 2021–2026
   bundestag: { wp: 21, periodId: 161 },               // 2025–2029
+  hessen: { wp: 21, periodId: 150 },                   // 2024–2029
+  berlin: { wp: 19, periodId: 133 },                   // 2021–2026
 };
 
 // Fraktions-Slug pro Parlament. AbgeordnetenWatch liefert das nackte Label
@@ -46,6 +48,8 @@ const FRAKTION_SLUGS: Record<string, Record<string, string>> = {
   "mecklenburg-vorpommern": { "SPD": "spd", "AfD": "afd", "CDU": "cdu", "Die Linke": "die-linke", "FDP": "fdp", "fraktionslos": "fraktionslos" },
   "sachsen-anhalt": { "CDU": "cdu", "AfD": "afd", "Die Linke": "die-linke", "SPD": "spd", "FDP": "fdp", "BÜNDNIS 90/DIE GRÜNEN": "bundnis-90-die-gruenen", "fraktionslos": "fraktionslos" },
   bundestag: { "CDU/CSU": "cdu-csu", "SPD": "spd", "AfD": "afd", "BÜNDNIS 90/DIE GRÜNEN": "bundnis-90-die-gruenen", "Die Linke": "die-linke", "BSW": "bsw", "FDP": "fdp", "fraktionslos": "fraktionslos" },
+  hessen: { "CDU": "cdu", "SPD": "spd", "AfD": "afd", "BÜNDNIS 90/DIE GRÜNEN": "bundnis-90-die-gruenen", "FDP": "fdp", "Die Linke": "die-linke", "fraktionslos": "fraktionslos" },
+  berlin: { "SPD": "spd", "CDU": "cdu", "AfD": "afd", "Die Linke": "die-linke", "BÜNDNIS 90/DIE GRÜNEN": "bundnis-90-die-gruenen", "FDP": "fdp", "fraktionslos": "fraktionslos" },
 };
 
 const VOTE_MAP: Record<string, ActivityPerson["vote"]> = {
