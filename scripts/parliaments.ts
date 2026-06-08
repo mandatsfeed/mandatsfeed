@@ -19,6 +19,7 @@ export const PARLIAMENTS: ParliamentConfig[] = [
     },
     sourceNotice:
       "Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.",
+    published: true,
   },
   {
     slug: "sachsen-anhalt",
@@ -37,6 +38,7 @@ export const PARLIAMENTS: ParliamentConfig[] = [
     },
     sourceNotice:
       "Aufbereitung durch mandatsfeed. Quelle: Landtag Sachsen-Anhalt – PADOKA (padoka.landtag.sachsen-anhalt.de). Ohne Gewähr für Richtigkeit.",
+    published: false, // robots.txt: Disallow / — Forschungsphase
   },
   {
     slug: "sachsen",
@@ -56,6 +58,7 @@ export const PARLIAMENTS: ParliamentConfig[] = [
     },
     sourceNotice:
       "Aufbereitung durch mandatsfeed. Quelle: Sächsischer Landtag – EDAS (redas.landtag.sachsen.de). Ohne Gewähr für Richtigkeit.",
+    published: true,
   },
   {
     slug: "brandenburg",
@@ -74,6 +77,7 @@ export const PARLIAMENTS: ParliamentConfig[] = [
     },
     sourceNotice:
       "Aufbereitung durch mandatsfeed. Quelle: Landtag Brandenburg – Parlamentsdokumentation (www.parlamentsdokumentation.brandenburg.de). Ohne Gewähr für Richtigkeit.",
+    published: false, // robots.txt: Disallow / — Forschungsphase
   },
   {
     slug: "mecklenburg-vorpommern",
@@ -93,6 +97,7 @@ export const PARLIAMENTS: ParliamentConfig[] = [
     },
     sourceNotice:
       "Aufbereitung durch mandatsfeed. Quelle: Landtag Mecklenburg-Vorpommern – Parlamentsdatenbank (dokumentation.landtag-mv.de). Ohne Gewähr für Richtigkeit.",
+    published: true,
   },
   {
     slug: "thueringen",
@@ -110,6 +115,7 @@ export const PARLIAMENTS: ParliamentConfig[] = [
     },
     sourceNotice:
       "Aufbereitung durch mandatsfeed. Quelle: Thüringer Landtag – Parlamentsdatenbank (parldok.thueringer-landtag.de). Ohne Gewähr für Richtigkeit.",
+    published: true,
   },
 ];
 

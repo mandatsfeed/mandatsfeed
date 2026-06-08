@@ -70,6 +70,11 @@ export interface ParliamentConfig {
   homepage: string;
   fraktionLabels: Record<string, string>;
   sourceNotice: string;
+  // Wenn `false`: Adapter lokal vorhanden, aber Daten werden NICHT im Repo
+  // veroeffentlicht (z. B. Forschungsphase wegen robots.txt: Disallow /).
+  // metadata.json laesst diese Parlamente aus, damit die fuer GitHub Pages
+  // gebaute Public-Sicht konsistent bleibt.
+  published: boolean;
 }
 
 export interface FeedEntry {

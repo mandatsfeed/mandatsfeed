@@ -75,7 +75,7 @@ interface WPBlock {
 function main(): void {
   const meta = {
     generatedAt: new Date().toISOString(),
-    parliaments: PARLIAMENTS.map((p) => {
+    parliaments: PARLIAMENTS.filter((p) => p.published).map((p) => {
       const wahlperioden: WPBlock[] = [];
       for (const wpDir of listWPDirs(p.slug)) {
         const wpNum = Number(wpDir.replace("wp-", ""));
