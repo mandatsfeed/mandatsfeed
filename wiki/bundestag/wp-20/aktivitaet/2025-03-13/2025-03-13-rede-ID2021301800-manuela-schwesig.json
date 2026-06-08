@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2021301800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Nein zur Kriegstüchtigkeit – Ja zur Diplomatie und Abrüstung",
+  "date": "2025-03-13",
+  "persons": [
+    {
+      "slug": "manuela-schwesig",
+      "name": "Manuela Schwesig",
+      "name_padoka": "Schwesig, Manuela",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Ministerpräsidentin (Mecklenburg-Vorpommern)"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/213",
+    "date": "2025-03-13",
+    "page": 27730
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20213.pdf"
+  }
+}

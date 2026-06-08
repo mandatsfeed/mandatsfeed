@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-32-christian-winter",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/32",
+  "date": "2022-10-05",
+  "persons": [
+    {
+      "slug": "christian-winter",
+      "name": "Christian Winter",
+      "name_padoka": "Winter, Christian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/32",
+    "date": "2022-10-05"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/54864"
+  }
+}

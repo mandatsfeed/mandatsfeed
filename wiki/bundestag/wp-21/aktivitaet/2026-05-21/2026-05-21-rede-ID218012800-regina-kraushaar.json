@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218012800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bericht über das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung Neubaustrecke Dresden – Grenze Deutschland/Tschechien (–Prag) — Bericht über das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung der Ausbaustrecke Niebüll – Klanxbüll – Westerland",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "regina-kraushaar",
+      "name": "Regina Kraushaar",
+      "name_padoka": "Kraushaar, Regina",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsministerin (Sachsen)"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

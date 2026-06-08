@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6243",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verwendung von Fördermitteln für Ganztagsschulen in Mecklenburg-Vorpommern",
+  "date": "2026-02-26",
+  "drsNr": "8/6243",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70255"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

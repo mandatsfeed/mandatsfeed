@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215703200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Vom Parlamentarischen Rat zum Bundestag als Fundament unserer Demokratie – Zum 150. Geburtstag von Konrad Adenauer",
+  "date": "2026-01-30",
+  "persons": [
+    {
+      "slug": "alexander-gauland",
+      "name": "Alexander Gauland",
+      "name_padoka": "Gauland, Alexander",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/57",
+    "date": "2026-01-30",
+    "page": 6913
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21057.pdf"
+  }
+}

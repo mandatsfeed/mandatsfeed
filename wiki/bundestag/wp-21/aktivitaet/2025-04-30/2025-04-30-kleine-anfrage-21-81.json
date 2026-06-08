@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-81",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Neue Neonazigruppen",
+  "date": "2025-04-30",
+  "persons": [
+    {
+      "slug": "ferat-kocak",
+      "name": "Ferat Koçak",
+      "name_padoka": "Koçak, Ferat",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/81",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/000/2100081.pdf",
+    "filename": "2100081.pdf"
+  }
+}

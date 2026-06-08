@@ -1,0 +1,257 @@
+{
+  "id": "dip-drs-21-4833",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Technologische Souveränität durch deutsches Fachwissen sichern - Staatliche Koordination für ein europäisches KI-Kooperationsprojekt nach Vorbild von Airbus starten",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "steffen-kotre",
+      "name": "Steffen Kotré",
+      "name_padoka": "Kotré, Steffen",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-kraft",
+      "name": "Rainer Kraft",
+      "name_padoka": "Kraft, Rainer",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "maximilian-kneller",
+      "name": "Maximilian Kneller",
+      "name_padoka": "Kneller, Maximilian",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-bochmann",
+      "name": "René Bochmann",
+      "name_padoka": "Bochmann, René",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robin-junger",
+      "name": "Robin Jünger",
+      "name_padoka": "Jünger, Robin",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ruben-rupp",
+      "name": "Ruben Rupp",
+      "name_padoka": "Rupp, Ruben",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "dirk-brandes",
+      "name": "Dirk Brandes",
+      "name_padoka": "Brandes, Dirk",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "raimond-scheirich",
+      "name": "Raimond Scheirich",
+      "name_padoka": "Scheirich, Raimond",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nicole-hochst",
+      "name": "Nicole Höchst",
+      "name_padoka": "Höchst, Nicole",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "paul-schmidt",
+      "name": "Paul Schmidt",
+      "name_padoka": "Schmidt, Paul",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-ebenberger",
+      "name": "Tobias Ebenberger",
+      "name_padoka": "Ebenberger, Tobias",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-schattner",
+      "name": "Bernd Schattner",
+      "name_padoka": "Schattner, Bernd",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "leif-erik-holm",
+      "name": "Leif-Erik Holm",
+      "name_padoka": "Holm, Leif-Erik",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-arpaschi",
+      "name": "Alexander Arpaschi",
+      "name_padoka": "Arpaschi, Alexander",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "manfred-schiller",
+      "name": "Manfred Schiller",
+      "name_padoka": "Schiller, Manfred",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "name_padoka": "Maack, Sebastian",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "steffen-janich",
+      "name": "Steffen Janich",
+      "name_padoka": "Janich, Steffen",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-mayer",
+      "name": "Andreas Mayer",
+      "name_padoka": "Mayer, Andreas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "edgar-naujok",
+      "name": "Edgar Naujok",
+      "name_padoka": "Naujok, Edgar",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-schroder",
+      "name": "Stefan Schröder",
+      "name_padoka": "Schröder, Stefan",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "mathias-weiser",
+      "name": "Mathias Weiser",
+      "name_padoka": "Weiser, Mathias",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ingo-hahn",
+      "name": "Ingo Hahn",
+      "name_padoka": "Hahn, Ingo",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sven-wendorf",
+      "name": "Sven Wendorf",
+      "name_padoka": "Wendorf, Sven",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martin-reichardt",
+      "name": "Martin Reichardt",
+      "name_padoka": "Reichardt, Martin",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lars-haise",
+      "name": "Lars Haise",
+      "name_padoka": "Haise, Lars",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sergej-minich",
+      "name": "Sergej Minich",
+      "name_padoka": "Minich, Sergej",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-kaufmann",
+      "name": "Michael Kaufmann",
+      "name_padoka": "Kaufmann, Michael",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-reck",
+      "name": "Christian Reck",
+      "name_padoka": "Reck, Christian",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "enrico-komning",
+      "name": "Enrico Komning",
+      "name_padoka": "Komning, Enrico",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/4833",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/048/2104833.pdf",
+    "filename": "2104833.pdf"
+  }
+}

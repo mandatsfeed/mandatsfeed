@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3079",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schließung der Gynäkologie und des Brustzentrums am KMG Klinikum Sömmerda – Teil II",
+  "date": "2026-03-10",
+  "drsNr": "8/3079",
+  "persons": [
+    {
+      "slug": "dr-stefan-wogawa",
+      "name": "Dr. Stefan Wogawa",
+      "name_padoka": "Wogawa, Dr. Stefan",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106254"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

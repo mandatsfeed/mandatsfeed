@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216704200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "name_padoka": "Seidler, Stefan",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/67",
+    "date": "2026-03-25",
+    "page": 8125
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21067.pdf"
+  }
+}

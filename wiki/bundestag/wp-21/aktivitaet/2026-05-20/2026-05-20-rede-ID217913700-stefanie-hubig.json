@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID217913700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2026-05-20",
+  "persons": [
+    {
+      "slug": "stefanie-hubig",
+      "name": "Stefanie Hubig",
+      "name_padoka": "Hubig, Stefanie",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesministerin der Justiz und für Verbraucherschutz"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/79",
+    "date": "2026-05-20",
+    "page": 9506
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21079.pdf"
+  }
+}

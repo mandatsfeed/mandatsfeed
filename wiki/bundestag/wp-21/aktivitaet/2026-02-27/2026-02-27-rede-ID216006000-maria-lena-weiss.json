@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216006000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Versorgung bei Schwangerschaftsabbrüchen sichern — Reproduktive Gerechtigkeit verwirklichen – Selbstbestimmung gewährleisten",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "maria-lena-weiss",
+      "name": "Maria-Lena Weiss",
+      "name_padoka": "Weiss, Maria-Lena",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "dip-rede-21-41",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Klimaschutz nicht schwächen - Bundesregierung muss Führungsrolle in der Klimapolitik einnehmen",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "thomas-gebhart",
+      "name": "Thomas Gebhart",
+      "name_padoka": "Gebhart, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "daniel-rinkert",
+      "name": "Daniel Rinkert",
+      "name_padoka": "Rinkert, Daniel",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "ingo-hahn",
+      "name": "Ingo Hahn",
+      "name_padoka": "Hahn, Ingo",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-moser",
+      "name": "Christian Moser",
+      "name_padoka": "Moser, Christian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "julia-schneider",
+      "name": "Julia Schneider",
+      "name_padoka": "Schneider, Julia",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "nina-scheer",
+      "name": "Nina Scheer",
+      "name_padoka": "Scheer, Nina",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "micha-fehre",
+      "name": "Micha Fehre",
+      "name_padoka": "Fehre, Micha",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "anna-aeikens",
+      "name": "Anna Aeikens",
+      "name_padoka": "Aeikens, Anna",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "fabian-fahl",
+      "name": "Fabian Fahl",
+      "name_padoka": "Fahl, Fabian",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "paul-schmidt",
+      "name": "Paul Schmidt",
+      "name_padoka": "Schmidt, Paul",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rita-schwarzeluhr-sutter",
+      "name": "Rita Schwarzelühr-Sutter",
+      "name_padoka": "Schwarzelühr-Sutter, Rita",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "funktion": "Parl. Staatssekr."
+    },
+    {
+      "slug": "karsten-hilse",
+      "name": "Karsten Hilse",
+      "name_padoka": "Hilse, Karsten",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "mark-helfrich",
+      "name": "Mark Helfrich",
+      "name_padoka": "Helfrich, Mark",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "lisa-badum",
+      "name": "Lisa Badum",
+      "name_padoka": "Badum, Lisa",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "spd",
+    "afd",
+    "bundnis-90-die-gruenen",
+    "die-linke"
+  ],
+  "drsNr": "21/41",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf#P.4838",
+    "filename": "21041.pdf#P.4838"
+  }
+}

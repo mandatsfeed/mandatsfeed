@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3935",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kriegsvorbereitung in sächsischen Kommunen - Bundeswehrbesuche",
+  "date": "2025-08-26",
+  "drsNr": "8/3935",
+  "persons": [
+    {
+      "slug": "nico-rudolph",
+      "name": "Nico Rudolph",
+      "name_padoka": "Rudolph, Nico",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43967",
+    "filename": "Drs_8_3935_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

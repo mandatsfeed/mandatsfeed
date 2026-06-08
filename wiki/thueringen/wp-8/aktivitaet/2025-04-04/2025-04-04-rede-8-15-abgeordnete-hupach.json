@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-15-abgeordnete-hupach",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/15",
+  "date": "2025-04-04",
+  "persons": [
+    {
+      "slug": "abgeordnete-hupach",
+      "name": "Abgeordnete Hupach",
+      "name_padoka": "Hupach, Abgeordnete",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/15",
+    "date": "2025-04-04"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/101290"
+  }
+}

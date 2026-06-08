@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213014700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einbürgerungen unabhängig vom Einkommen ermöglichen",
+  "date": "2025-10-08",
+  "persons": [
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/30",
+    "date": "2025-10-08",
+    "page": 3212
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21030.pdf"
+  }
+}

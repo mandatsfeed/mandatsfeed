@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211004700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Europarecht einhalten, Schutzbedürftige schützen, Zurückweisungen an den Binnengrenzen beenden — Zurückweisung von Schutzsuchenden beenden",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214105600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 13",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "ansgar-heveling",
+      "name": "Ansgar Heveling",
+      "name_padoka": "Heveling, Ansgar",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/41",
+    "date": "2025-11-14",
+    "page": 4840
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf"
+  }
+}

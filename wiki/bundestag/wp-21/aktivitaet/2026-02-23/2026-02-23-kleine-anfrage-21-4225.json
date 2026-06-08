@@ -1,0 +1,133 @@
+{
+  "id": "dip-ka-21-4225",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Strafrechtliche Verfolgung von Wortfolgen",
+  "date": "2026-02-23",
+  "persons": [
+    {
+      "slug": "lisa-schubert",
+      "name": "Lisa Schubert",
+      "name_padoka": "Schubert, Lisa",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "violetta-bock",
+      "name": "Violetta Bock",
+      "name_padoka": "Bock, Violetta",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "aaron-valent",
+      "name": "Aaron Valent",
+      "name_padoka": "Valent, Aaron",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "luke-hoss",
+      "name": "Luke Hoß",
+      "name_padoka": "Hoß, Luke",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "nicole-gohlke",
+      "name": "Nicole Gohlke",
+      "name_padoka": "Gohlke, Nicole",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "charlotte-antonia-neuhauser",
+      "name": "Charlotte Antonia Neuhäuser",
+      "name_padoka": "Neuhäuser, Charlotte Antonia",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "lea-reisner",
+      "name": "Lea Reisner",
+      "name_padoka": "Reisner, Lea",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "vinzenz-glaser",
+      "name": "Vinzenz Glaser",
+      "name_padoka": "Glaser, Vinzenz",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "marcel-bauer",
+      "name": "Marcel Bauer",
+      "name_padoka": "Bauer, Marcel",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ferat-kocak",
+      "name": "Ferat Koçak",
+      "name_padoka": "Koçak, Ferat",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "tamara-mazzi",
+      "name": "Tamara Mazzi",
+      "name_padoka": "Mazzi, Tamara",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "name_padoka": "Conrad, Agnes",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "stella-merendino",
+      "name": "Stella Merendino",
+      "name_padoka": "Merendino, Stella",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "cansin-kokturk",
+      "name": "Cansin Köktürk",
+      "name_padoka": "Köktürk, Cansin",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/4225",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/042/2104225.pdf",
+    "filename": "2104225.pdf"
+  }
+}

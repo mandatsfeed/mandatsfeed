@@ -1,0 +1,34 @@
+{
+  "id": "parldok-ka-8-2776",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Situation von vietnamesischen Pflegeauszubildenden in Altenburg",
+  "date": "2026-01-21",
+  "drsNr": "8/2776",
+  "persons": [
+    {
+      "slug": "sven-kuntzel",
+      "name": "Sven Küntzel",
+      "name_padoka": "Küntzel, Sven",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    },
+    {
+      "slug": "dr-stefan-wogawa",
+      "name": "Dr. Stefan Wogawa",
+      "name_padoka": "Wogawa, Dr. Stefan",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105495"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

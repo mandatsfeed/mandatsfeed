@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216606300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Natur, Klima und Zivilgesellschaft schützen – Einschränkungen verhindern",
+  "date": "2026-03-20",
+  "persons": [
+    {
+      "slug": "michael-blos",
+      "name": "Michael Blos",
+      "name_padoka": "Blos, Michael",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/66",
+    "date": "2026-03-20",
+    "page": 8028
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21066.pdf"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "dip-ka-21-60",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Tatverdächtigenbelastungszahl in Bezug auf ausgewählte Bevölkerungsgruppen",
+  "date": "2025-04-23",
+  "persons": [
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "name_padoka": "Hess, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-baumann",
+      "name": "Bernd Baumann",
+      "name_padoka": "Baumann, Bernd",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gottfried-curio",
+      "name": "Gottfried Curio",
+      "name_padoka": "Curio, Gottfried",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "steffen-janich",
+      "name": "Steffen Janich",
+      "name_padoka": "Janich, Steffen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/60",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/000/2100060.pdf",
+    "filename": "2100060.pdf"
+  }
+}

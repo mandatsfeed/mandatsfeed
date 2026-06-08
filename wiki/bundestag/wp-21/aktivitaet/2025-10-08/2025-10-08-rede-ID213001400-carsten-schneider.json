@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213001400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-10-08",
+  "persons": [
+    {
+      "slug": "carsten-schneider",
+      "name": "Carsten Schneider",
+      "name_padoka": "Schneider, Carsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/30",
+    "date": "2025-10-08",
+    "page": 3212
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21030.pdf"
+  }
+}

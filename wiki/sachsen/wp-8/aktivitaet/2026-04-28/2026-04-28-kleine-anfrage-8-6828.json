@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6828",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Straftaten im Landkreis Meißen in den Jahren 2024 und 2025",
+  "date": "2026-04-28",
+  "drsNr": "8/6828",
+  "persons": [
+    {
+      "slug": "thomas-kirste",
+      "name": "Thomas Kirste",
+      "name_padoka": "Kirste, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50350",
+    "filename": "Drs_8_6828_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

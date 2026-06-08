@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4052",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Sexualisierte Gewalt und sexuellen Missbrauch an Kindern und Jugendlichen in Sachsen 2019 - 2024",
+  "date": "2025-09-04",
+  "drsNr": "8/4052",
+  "persons": [
+    {
+      "slug": "janina-pfau",
+      "name": "Janina Pfau",
+      "name_padoka": "Pfau, Janina",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44142",
+    "filename": "Drs_8_4052_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

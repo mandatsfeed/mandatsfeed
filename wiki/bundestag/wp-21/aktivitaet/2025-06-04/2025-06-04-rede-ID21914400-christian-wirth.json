@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21914400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ausreisegewahrsam und Abschiebehaft für ausreisepflichtige Personen, insbesondere für Straftäter und Gefährder, wirksam umsetzen",
+  "date": "2025-06-04",
+  "persons": [
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/9",
+    "date": "2025-06-04",
+    "page": 741
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21009.pdf"
+  }
+}

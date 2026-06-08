@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-14-heiterkeit-bei-torsten-renz",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/14",
+  "date": "2022-03-10",
+  "persons": [
+    {
+      "slug": "heiterkeit-bei-torsten-renz",
+      "name": "Heiterkeit bei Torsten Renz",
+      "name_padoka": "Renz, Heiterkeit bei Torsten",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/14",
+    "date": "2022-03-10"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/52185"
+  }
+}

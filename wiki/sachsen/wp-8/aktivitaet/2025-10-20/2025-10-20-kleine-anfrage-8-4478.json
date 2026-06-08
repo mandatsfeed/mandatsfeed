@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4478",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Straftaten in der Gemeinde Spreetal",
+  "date": "2025-10-20",
+  "drsNr": "8/4478",
+  "persons": [
+    {
+      "slug": "doreen-schwietzer",
+      "name": "Doreen Schwietzer",
+      "name_padoka": "Schwietzer, Doreen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45159",
+    "filename": "Drs_8_4478_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

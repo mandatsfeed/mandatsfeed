@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216800900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Energiepreisschocks durch Irankrieg ernst nehmen – Unternehmen und Verbraucher nachhaltig und dauerhaft entlasten — Sofortige Entlastung der Bevölkerung wegen des Anstiegs der Energiepreise",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

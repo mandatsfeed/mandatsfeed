@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-74-falko-beitz",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/74",
+  "date": "2024-01-26",
+  "persons": [
+    {
+      "slug": "falko-beitz",
+      "name": "Falko Beitz",
+      "name_padoka": "Beitz, Falko",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/74",
+    "date": "2024-01-26"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/59743"
+  }
+}

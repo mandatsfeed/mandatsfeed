@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-91-michael-noetzel",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/91",
+  "date": "2024-11-14",
+  "persons": [
+    {
+      "slug": "michael-noetzel",
+      "name": "Michael Noetzel",
+      "name_padoka": "Noetzel, Michael",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/91",
+    "date": "2024-11-14"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/63106"
+  }
+}

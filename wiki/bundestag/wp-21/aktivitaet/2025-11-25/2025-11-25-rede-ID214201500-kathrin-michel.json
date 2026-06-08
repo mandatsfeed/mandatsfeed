@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214201500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "I.4 Einzelplan 08",
+  "date": "2025-11-25",
+  "persons": [
+    {
+      "slug": "kathrin-michel",
+      "name": "Kathrin Michel",
+      "name_padoka": "Michel, Kathrin",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/42",
+    "date": "2025-11-25",
+    "page": 4944
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21042.pdf"
+  }
+}

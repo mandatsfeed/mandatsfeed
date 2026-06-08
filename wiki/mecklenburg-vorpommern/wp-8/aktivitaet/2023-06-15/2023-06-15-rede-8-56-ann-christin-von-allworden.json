@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-56-ann-christin-von-allworden",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/56",
+  "date": "2023-06-15",
+  "persons": [
+    {
+      "slug": "ann-christin-von-allworden",
+      "name": "Ann Christin von Allwörden",
+      "name_padoka": "von Allwörden, Ann Christin",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/56",
+    "date": "2023-06-15"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/57045"
+  }
+}

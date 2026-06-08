@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216003700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für eine Gesamtstrategie zum Schutz vor häuslicher und geschlechtsspezifischer Gewalt anstelle von isolierten Einzelmaßnahmen",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "kathrin-gebel",
+      "name": "Kathrin Gebel",
+      "name_padoka": "Gebel, Kathrin",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

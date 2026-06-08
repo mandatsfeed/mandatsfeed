@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21903700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-06-04",
+  "persons": [
+    {
+      "slug": "nancy-faeser",
+      "name": "Nancy Faeser",
+      "name_padoka": "Faeser, Nancy",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/9",
+    "date": "2025-06-04",
+    "page": 741
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21009.pdf"
+  }
+}

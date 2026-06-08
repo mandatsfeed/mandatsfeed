@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212413300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 15",
+  "date": "2025-09-17",
+  "persons": [
+    {
+      "slug": "carina-schiessl",
+      "name": "Carina Schießl",
+      "name_padoka": "Schießl, Carina",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/24",
+    "date": "2025-09-17",
+    "page": 2613
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21024.pdf"
+  }
+}

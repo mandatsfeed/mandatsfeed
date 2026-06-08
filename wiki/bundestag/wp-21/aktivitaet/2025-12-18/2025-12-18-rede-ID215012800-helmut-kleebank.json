@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215012800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Beitritt Deutschlands zur europäischen Nuklearallianz",
+  "date": "2025-12-18",
+  "persons": [
+    {
+      "slug": "helmut-kleebank",
+      "name": "Helmut Kleebank",
+      "name_padoka": "Kleebank, Helmut",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/50",
+    "date": "2025-12-18",
+    "page": 6008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21050.pdf"
+  }
+}

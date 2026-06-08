@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5281",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Lagebild \"Gewalt gegen Polizeibeamte\" für die Jahre 2024 und 2025",
+  "date": "2026-01-01",
+  "drsNr": "8/5281",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46861",
+    "filename": "Drs_8_5281_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

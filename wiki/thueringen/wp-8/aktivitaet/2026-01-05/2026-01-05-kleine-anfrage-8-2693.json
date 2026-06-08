@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2693",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Wiederbewirtschaftung des stillgelegten Walds bei Sondershausen",
+  "date": "2026-01-05",
+  "drsNr": "8/2693",
+  "persons": [
+    {
+      "slug": "stefan-schard",
+      "name": "Stefan Schard",
+      "name_padoka": "Schard, Stefan",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105379"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

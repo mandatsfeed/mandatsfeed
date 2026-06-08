@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5714",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ölförderpläne vor der polnischen Küste – Mögliche Umweltauswirkungen, deutsche Hoheitsrechte und Sicherung eigener Rohstoffinteressen",
+  "date": "2026-02-17",
+  "drsNr": "8/5714",
+  "persons": [
+    {
+      "slug": "petra-federau",
+      "name": "Petra Federau",
+      "name_padoka": "Federau, Petra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68713"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5833",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bezug von Produkten aus Werkstätten für behinderte Menschen durch Landesministerien",
+  "date": "2026-01-20",
+  "drsNr": "8/5833",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68901"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

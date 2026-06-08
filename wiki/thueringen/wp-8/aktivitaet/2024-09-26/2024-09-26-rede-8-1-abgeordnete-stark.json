@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-1-abgeordnete-stark",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/1",
+  "date": "2024-09-26",
+  "persons": [
+    {
+      "slug": "abgeordnete-stark",
+      "name": "Abgeordnete Stark",
+      "name_padoka": "Stark, Abgeordnete",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/1",
+    "date": "2024-09-26"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/99387"
+  }
+}

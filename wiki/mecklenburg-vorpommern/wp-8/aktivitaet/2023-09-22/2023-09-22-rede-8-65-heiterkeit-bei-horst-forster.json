@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-65-heiterkeit-bei-horst-forster",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/65",
+  "date": "2023-09-22",
+  "persons": [
+    {
+      "slug": "heiterkeit-bei-horst-forster",
+      "name": "Heiterkeit bei Horst Förster",
+      "name_padoka": "Förster, Heiterkeit bei Horst",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/65",
+    "date": "2023-09-22"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/57969"
+  }
+}

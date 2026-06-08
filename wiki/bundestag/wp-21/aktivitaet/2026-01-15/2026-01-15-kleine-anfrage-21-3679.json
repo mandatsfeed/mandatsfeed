@@ -1,0 +1,63 @@
+{
+  "id": "dip-ka-21-3679",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Gefahren für Deutsche durch Tourismus in Risikogebiete",
+  "date": "2026-01-15",
+  "persons": [
+    {
+      "slug": "dario-seifert",
+      "name": "Dario Seifert",
+      "name_padoka": "Seifert, Dario",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-wenzel-schmidt",
+      "name": "Jan Wenzel Schmidt",
+      "name_padoka": "Schmidt, Jan Wenzel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "erhard-brucker",
+      "name": "Erhard Brucker",
+      "name_padoka": "Brucker, Erhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sebastian-munzenmaier",
+      "name": "Sebastian Münzenmaier",
+      "name_padoka": "Münzenmaier, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/3679",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/036/2103679.pdf",
+    "filename": "2103679.pdf"
+  }
+}

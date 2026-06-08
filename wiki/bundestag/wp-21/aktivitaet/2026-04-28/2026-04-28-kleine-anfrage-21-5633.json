@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-5633",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Sprengung von Geldautomaten in den Jahren von 2005 bis 2025",
+  "date": "2026-04-28",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5633",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/056/2105633.pdf",
+    "filename": "2105633.pdf"
+  }
+}

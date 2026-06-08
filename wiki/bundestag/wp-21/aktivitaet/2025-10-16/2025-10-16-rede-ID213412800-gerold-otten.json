@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213412800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in Südsudan (UNMISS)",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "gerold-otten",
+      "name": "Gerold Otten",
+      "name_padoka": "Otten, Gerold",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

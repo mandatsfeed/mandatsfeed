@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5045",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Landkreise und kreisfreie Städte mit nicht genehmigten Haushalten für 2025 bzw. Doppelhaushalte 2025/2026 zum Stichtag 31.10.2025",
+  "date": "2025-12-04",
+  "drsNr": "8/5045",
+  "persons": [
+    {
+      "slug": "andre-barth",
+      "name": "André Barth",
+      "name_padoka": "Barth, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46439",
+    "filename": "Drs_8_5045_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

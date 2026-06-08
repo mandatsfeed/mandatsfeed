@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-84-christian-winter",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/84",
+  "date": "2024-07-10",
+  "persons": [
+    {
+      "slug": "christian-winter",
+      "name": "Christian Winter",
+      "name_padoka": "Winter, Christian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/84",
+    "date": "2024-07-10"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/61177"
+  }
+}

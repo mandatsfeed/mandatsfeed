@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216000200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zugang statt Blockade – Zulassungsstopp zu Sprach- und Integrationskursen aufheben",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "maximilian-krah",
+      "name": "Maximilian Krah",
+      "name_padoka": "Krah, Maximilian",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

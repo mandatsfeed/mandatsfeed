@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218014000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für ein Handwerk mit Zukunft — Wirtschaft 2045 – Innovationen stärken, Zukunftstechnologien fördern, fairen Wettbewerb sichern",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

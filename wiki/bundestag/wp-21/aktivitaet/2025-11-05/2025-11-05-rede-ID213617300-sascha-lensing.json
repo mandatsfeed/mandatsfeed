@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213617300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 5",
+  "date": "2025-11-05",
+  "persons": [
+    {
+      "slug": "sascha-lensing",
+      "name": "Sascha Lensing",
+      "name_padoka": "Lensing, Sascha",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/36",
+    "date": "2025-11-05",
+    "page": 4047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21036.pdf"
+  }
+}

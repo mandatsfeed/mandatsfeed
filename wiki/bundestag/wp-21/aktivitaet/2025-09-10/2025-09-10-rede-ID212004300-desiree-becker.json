@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212004300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-09-10",
+  "persons": [
+    {
+      "slug": "desiree-becker",
+      "name": "Desiree Becker",
+      "name_padoka": "Becker, Desiree",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/20",
+    "date": "2025-09-10",
+    "page": 2027
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21020.pdf"
+  }
+}

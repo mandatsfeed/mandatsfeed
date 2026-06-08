@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2021107600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Für eine Einstellung der Finanzierung frühkindlicher Sexualaufklärung in der Bundesrepublik Deutschland — Schutz von Kindern und Jugendlichen mit Geschlechtsdysphorie vor geschlechtsangleichenden medizinischen Eingriffen",
+  "date": "2025-01-31",
+  "persons": [
+    {
+      "slug": "stefan-kaufmann",
+      "name": "Stefan Kaufmann",
+      "name_padoka": "Kaufmann, Stefan",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/211",
+    "date": "2025-01-31",
+    "page": 27629
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20211.pdf"
+  }
+}

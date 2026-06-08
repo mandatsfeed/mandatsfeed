@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212400900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 04",
+  "date": "2025-09-17",
+  "persons": [
+    {
+      "slug": "bernd-baumann",
+      "name": "Bernd Baumann",
+      "name_padoka": "Baumann, Bernd",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/24",
+    "date": "2025-09-17",
+    "page": 2613
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21024.pdf"
+  }
+}

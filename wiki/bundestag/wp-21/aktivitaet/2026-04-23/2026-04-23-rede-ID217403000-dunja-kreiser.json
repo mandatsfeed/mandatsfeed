@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217403000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschlands maritime Wirtschaft stärken – Sicherheit, Resilienz und Innovation vom Hinterland über die Küste bis zur Hohen See — Bedeutung der maritimen Wirtschaft für ganz Deutschland anerkennen – Maritime Wirtschaft nachhaltig stärken und absichern",
+  "date": "2026-04-23",
+  "persons": [
+    {
+      "slug": "dunja-kreiser",
+      "name": "Dunja Kreiser",
+      "name_padoka": "Kreiser, Dunja",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/74",
+    "date": "2026-04-23",
+    "page": 8958
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21074.pdf"
+  }
+}

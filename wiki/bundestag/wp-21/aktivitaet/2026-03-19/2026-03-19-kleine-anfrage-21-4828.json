@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-4828",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Implikationen der bevorstehenden spanischen Legalisierungsoffensive für die Bundesrepublik Deutschland",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "christopher-drossler",
+      "name": "Christopher Drößler",
+      "name_padoka": "Drößler, Christopher",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/4828",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/048/2104828.pdf",
+    "filename": "2104828.pdf"
+  }
+}

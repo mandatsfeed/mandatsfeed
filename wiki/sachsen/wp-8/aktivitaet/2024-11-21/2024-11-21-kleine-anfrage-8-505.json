@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-505",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ausarbeitung von Gesetzentwürfen und deren anschließende Überlassung an die regierungstragenden Fraktionen",
+  "date": "2024-11-21",
+  "drsNr": "8/505",
+  "persons": [
+    {
+      "slug": "roberto-kuhnert",
+      "name": "Roberto Kuhnert",
+      "name_padoka": "Kuhnert, Roberto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37041",
+    "filename": "Drs_8_505_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

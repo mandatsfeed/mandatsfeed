@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-705",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ausreiseverbote gegenüber politisch motivierten Personen im Zeitraum 2015 bis 2025",
+  "date": "2025-06-30",
+  "persons": [
+    {
+      "slug": "jan-wenzel-schmidt",
+      "name": "Jan Wenzel Schmidt",
+      "name_padoka": "Schmidt, Jan Wenzel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/705",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/007/2100705.pdf",
+    "filename": "2100705.pdf"
+  }
+}

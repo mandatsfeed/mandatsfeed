@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216710000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 5",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "thomas-fetsch",
+      "name": "Thomas Fetsch",
+      "name_padoka": "Fetsch, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/67",
+    "date": "2026-03-25",
+    "page": 8125
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21067.pdf"
+  }
+}

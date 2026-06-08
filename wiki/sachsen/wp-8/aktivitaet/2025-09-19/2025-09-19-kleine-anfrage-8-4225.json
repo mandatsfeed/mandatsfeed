@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4225",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Anerkennungsquoten und Vergleich mit anderen Impfungen sowie Bundesländern",
+  "date": "2025-09-19",
+  "drsNr": "8/4225",
+  "persons": [
+    {
+      "slug": "andre-wendt",
+      "name": "André Wendt",
+      "name_padoka": "Wendt, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44647",
+    "filename": "Drs_8_4225_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

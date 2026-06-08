@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216204300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktivierende Grundsicherung statt Grundsicherungsgeld — Bürgergeldleistungen stoppen bei Haftbefehlen – Keine Unterstützung für gesuchte Straftäter",
+  "date": "2026-03-05",
+  "persons": [
+    {
+      "slug": "hulya-duber",
+      "name": "Hülya Düber",
+      "name_padoka": "Düber, Hülya",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/62",
+    "date": "2026-03-05",
+    "page": 7583
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21062.pdf"
+  }
+}

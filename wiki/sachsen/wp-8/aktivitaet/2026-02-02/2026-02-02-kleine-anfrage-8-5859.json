@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5859",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Erfassung kommunaler Haushaltsdaten im Freistaat Sachsen",
+  "date": "2026-02-02",
+  "drsNr": "8/5859",
+  "persons": [
+    {
+      "slug": "andreas-gerold",
+      "name": "Andreas Gerold",
+      "name_padoka": "Gerold, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47803",
+    "filename": "Drs_8_5859_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

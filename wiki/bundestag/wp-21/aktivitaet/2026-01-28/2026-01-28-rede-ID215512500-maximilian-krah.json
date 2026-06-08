@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215512500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sieben Jahre Vertrag von Aachen – Gemeinsam Zukunft gestalten",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "maximilian-krah",
+      "name": "Maximilian Krah",
+      "name_padoka": "Krah, Maximilian",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/55",
+    "date": "2026-01-28",
+    "page": 6646
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21055.pdf"
+  }
+}

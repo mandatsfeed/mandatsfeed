@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4087",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Reformkommission zur Stärkung und Entlastung der Kommunen",
+  "date": "2025-09-09",
+  "drsNr": "8/4087",
+  "persons": [
+    {
+      "slug": "thomas-thumm",
+      "name": "Thomas Thumm",
+      "name_padoka": "Thumm, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44324",
+    "filename": "Drs_8_4087_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

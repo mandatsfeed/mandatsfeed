@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21503200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+  "date": "2025-05-16",
+  "persons": [
+    {
+      "slug": "elisabeth-winkelmeier-becker",
+      "name": "Elisabeth Winkelmeier-Becker",
+      "name_padoka": "Winkelmeier-Becker, Elisabeth",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/5",
+    "date": "2025-05-16",
+    "page": 377
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21005.pdf"
+  }
+}

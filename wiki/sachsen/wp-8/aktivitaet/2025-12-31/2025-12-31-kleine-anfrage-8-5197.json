@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5197",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Offene Vorgänge bei der Polizei und anhängige Ermittlungsverfahren bei den Staatsanwaltschaften in Sachsen im Dezember 2025",
+  "date": "2025-12-31",
+  "drsNr": "8/5197",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46777",
+    "filename": "Drs_8_5197_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

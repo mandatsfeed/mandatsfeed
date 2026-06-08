@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6920",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Planungen der Staatsregierung zur Schaffung geschlossener bzw. gesicherter Unterbringungsmöglichkeiten für Minderjährige im Freistaat Sachsen",
+  "date": "2026-05-07",
+  "drsNr": "8/6920",
+  "persons": [
+    {
+      "slug": "christin-melcher",
+      "name": "Christin Melcher",
+      "name_padoka": "Melcher, Christin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50590",
+    "filename": "Drs_8_6920_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

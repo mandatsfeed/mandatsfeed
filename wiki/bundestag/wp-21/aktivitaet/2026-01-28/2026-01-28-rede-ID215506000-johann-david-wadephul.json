@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID215506000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "johann-david-wadephul",
+      "name": "Johann David Wadephul",
+      "name_padoka": "Wadephul, Johann David",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesminister des Auswärtigen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/55",
+    "date": "2026-01-28",
+    "page": 6646
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21055.pdf"
+  }
+}

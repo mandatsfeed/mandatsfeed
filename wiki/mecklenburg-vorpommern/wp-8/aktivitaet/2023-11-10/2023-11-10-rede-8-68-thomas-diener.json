@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-68-thomas-diener",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/68",
+  "date": "2023-11-10",
+  "persons": [
+    {
+      "slug": "thomas-diener",
+      "name": "Thomas Diener",
+      "name_padoka": "Diener, Thomas",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/68",
+    "date": "2023-11-10"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/58787"
+  }
+}

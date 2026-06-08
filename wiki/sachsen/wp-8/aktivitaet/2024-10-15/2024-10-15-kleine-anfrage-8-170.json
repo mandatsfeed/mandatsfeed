@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-170",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Straftaten zwischen dem 06. und 08. September 2024",
+  "date": "2024-10-15",
+  "drsNr": "8/170",
+  "persons": [
+    {
+      "slug": "sebastian-wippel",
+      "name": "Sebastian Wippel",
+      "name_padoka": "Wippel, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36337",
+    "filename": "Drs_8_170_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

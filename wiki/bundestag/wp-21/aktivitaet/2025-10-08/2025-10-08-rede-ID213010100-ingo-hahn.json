@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213010100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-10-08",
+  "persons": [
+    {
+      "slug": "ingo-hahn",
+      "name": "Ingo Hahn",
+      "name_padoka": "Hahn, Ingo",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/30",
+    "date": "2025-10-08",
+    "page": 3212
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21030.pdf"
+  }
+}

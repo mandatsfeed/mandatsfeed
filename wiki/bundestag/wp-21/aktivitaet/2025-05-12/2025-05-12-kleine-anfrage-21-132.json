@@ -1,0 +1,98 @@
+{
+  "id": "dip-ka-21-132",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Auftreten von Keuchhusten in Thüringen - Stand 30. April 2025",
+  "date": "2025-05-12",
+  "persons": [
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carina-schiessl",
+      "name": "Carina Schießl",
+      "name_padoka": "Schießl, Carina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christina-baum",
+      "name": "Christina Baum",
+      "name_padoka": "Baum, Christina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kerstin-przygodda",
+      "name": "Kerstin Przygodda",
+      "name_padoka": "Przygodda, Kerstin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-ebenberger",
+      "name": "Tobias Ebenberger",
+      "name_padoka": "Ebenberger, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-kempf",
+      "name": "Martina Kempf",
+      "name_padoka": "Kempf, Martina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kay-uwe-ziegler",
+      "name": "Kay-Uwe Ziegler",
+      "name_padoka": "Ziegler, Kay-Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-dietz",
+      "name": "Thomas Dietz",
+      "name_padoka": "Dietz, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martin-sichert",
+      "name": "Martin Sichert",
+      "name_padoka": "Sichert, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "claudia-weiss",
+      "name": "Claudia Weiss",
+      "name_padoka": "Weiss, Claudia",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/132",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/001/2100132.pdf",
+    "filename": "2100132.pdf"
+  }
+}

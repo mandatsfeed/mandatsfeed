@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6136",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung der Geburtenzahlen, Staatsangehörigkeit von Neugeborenen und der Mütter in Mecklenburg-Vorpommern",
+  "date": "2026-02-20",
+  "drsNr": "8/6136",
+  "persons": [
+    {
+      "slug": "petra-federau",
+      "name": "Petra Federau",
+      "name_padoka": "Federau, Petra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69441"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

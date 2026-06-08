@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213108200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "35 Jahre Deutsche Einheit – Gleichwertige Lebensverhältnisse in Ost wie West jetzt umsetzen",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "lars-rohwer",
+      "name": "Lars Rohwer",
+      "name_padoka": "Rohwer, Lars",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

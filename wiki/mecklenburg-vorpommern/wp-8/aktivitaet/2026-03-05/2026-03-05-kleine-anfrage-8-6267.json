@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6267",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Modellversuch zum Fach Gesellschaftswissenschaften",
+  "date": "2026-03-05",
+  "drsNr": "8/6267",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70331"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

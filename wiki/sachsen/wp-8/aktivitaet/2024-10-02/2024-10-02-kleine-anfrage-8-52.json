@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-52",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vorläufige Haushaltsführung im Bereich Kunst und Kultur im Jahr 2025",
+  "date": "2024-10-02",
+  "drsNr": "8/52",
+  "persons": [
+    {
+      "slug": "claudia-maicher",
+      "name": "Claudia Maicher",
+      "name_padoka": "Maicher, Claudia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52",
+    "filename": "Drs_8_52_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

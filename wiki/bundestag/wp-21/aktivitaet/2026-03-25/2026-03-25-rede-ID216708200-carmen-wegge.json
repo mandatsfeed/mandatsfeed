@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216708200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Jegliche Gewalt gegen Frauen und Mädchen bekämpfen – Staatliche Aufgabe und gesellschaftliche Verantwortung",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "name_padoka": "Wegge, Carmen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/67",
+    "date": "2026-03-25",
+    "page": 8125
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21067.pdf"
+  }
+}

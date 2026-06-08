@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6182",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Maritimes Erbe – Finanzielle Förderung von Schiffs-Kulturdenkmälern",
+  "date": "2026-02-11",
+  "drsNr": "8/6182",
+  "persons": [
+    {
+      "slug": "thore-stein",
+      "name": "Thore Stein",
+      "name_padoka": "Stein, Thore",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69899"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

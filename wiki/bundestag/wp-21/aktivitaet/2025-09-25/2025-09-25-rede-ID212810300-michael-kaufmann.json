@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212810300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Berichtigung",
+  "date": "2025-09-25",
+  "persons": [
+    {
+      "slug": "michael-kaufmann",
+      "name": "Michael Kaufmann",
+      "name_padoka": "Kaufmann, Michael",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/28",
+    "date": "2025-09-25",
+    "page": 3041
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21028.pdf"
+  }
+}

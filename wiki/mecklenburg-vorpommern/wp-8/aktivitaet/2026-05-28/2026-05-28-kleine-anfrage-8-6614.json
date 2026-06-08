@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6614",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umgang mit dem Tourismusverband Mecklenburg-Vorpommern e. V. – Prüfung und Kosten",
+  "date": "2026-05-28",
+  "drsNr": "8/6614",
+  "persons": [
+    {
+      "slug": "wolfgang-waldmuller",
+      "name": "Wolfgang Waldmüller",
+      "name_padoka": "Waldmüller, Wolfgang",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71571"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

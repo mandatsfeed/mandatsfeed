@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214405400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.15",
+  "date": "2025-11-27",
+  "persons": [
+    {
+      "slug": "thomas-dietz",
+      "name": "Thomas Dietz",
+      "name_padoka": "Dietz, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/44",
+    "date": "2025-11-27",
+    "page": 5202
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21044.pdf"
+  }
+}

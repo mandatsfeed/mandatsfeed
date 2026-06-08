@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215905100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Effektive Kontrollen und Zurückweisungen an der Grenze durch Schaffung einer sicheren Rechtsgrundlage",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "christina-stumpp",
+      "name": "Christina Stumpp",
+      "name_padoka": "Stumpp, Christina",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

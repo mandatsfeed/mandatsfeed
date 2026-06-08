@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-729",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Situation und finanzielle Auswirkungen bei der \"aufkommensneutralen Umsetzung\" der Grundsteuerreform 2025 in Sachsen",
+  "date": "2024-12-16",
+  "drsNr": "8/729",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37447",
+    "filename": "Drs_8_729_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

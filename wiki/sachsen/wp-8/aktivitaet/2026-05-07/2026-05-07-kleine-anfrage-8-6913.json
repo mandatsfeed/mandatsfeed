@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6913",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Fachliche Bewertung der GICON-Geruchsprognose der Stadt Stolpen",
+  "date": "2026-05-07",
+  "drsNr": "8/6913",
+  "persons": [
+    {
+      "slug": "stefan-hartmann",
+      "name": "Stefan Hartmann",
+      "name_padoka": "Hartmann, Stefan",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50574",
+    "filename": "Drs_8_6913_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

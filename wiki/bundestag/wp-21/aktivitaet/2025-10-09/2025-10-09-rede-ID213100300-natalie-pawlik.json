@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213100300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 7",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "natalie-pawlik",
+      "name": "Natalie Pawlik",
+      "name_padoka": "Pawlik, Natalie",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsministerin bei der Bundesministerin für Arbeit und Soziales"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

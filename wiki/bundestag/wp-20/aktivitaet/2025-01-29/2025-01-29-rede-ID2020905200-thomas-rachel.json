@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2020905200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-01-29",
+  "persons": [
+    {
+      "slug": "thomas-rachel",
+      "name": "Thomas Rachel",
+      "name_padoka": "Rachel, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/209",
+    "date": "2025-01-29",
+    "page": 27188
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20209.pdf"
+  }
+}

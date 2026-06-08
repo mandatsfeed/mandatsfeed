@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3882",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zu Drs. 8/2304, 8/2305, 8/2306 und 8/2307 Umfang Verspätungen und Ausfälle RE - und RB - Verbindungen zwischen Chemnitz und Leipzig sowie Chemnitz und Dresden seit 01.01.2024 sowie deren Auswirkungen",
+  "date": "2025-08-20",
+  "drsNr": "8/3882",
+  "persons": [
+    {
+      "slug": "katja-meier",
+      "name": "Katja Meier",
+      "name_padoka": "Meier, Katja",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43826",
+    "filename": "Drs_8_3882_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

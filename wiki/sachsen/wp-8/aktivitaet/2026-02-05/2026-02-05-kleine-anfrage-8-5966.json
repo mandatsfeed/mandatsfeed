@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5966",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Tuberkulose-, Hepatitis- und Herpesinfektionen in Sachsen 2025",
+  "date": "2026-02-05",
+  "drsNr": "8/5966",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48153",
+    "filename": "Drs_8_5966_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

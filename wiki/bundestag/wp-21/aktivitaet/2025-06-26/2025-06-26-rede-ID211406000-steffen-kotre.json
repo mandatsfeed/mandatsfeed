@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211406000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 11",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "steffen-kotre",
+      "name": "Steffen Kotré",
+      "name_padoka": "Kotré, Steffen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/14",
+    "date": "2025-06-26",
+    "page": 1330
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf"
+  }
+}

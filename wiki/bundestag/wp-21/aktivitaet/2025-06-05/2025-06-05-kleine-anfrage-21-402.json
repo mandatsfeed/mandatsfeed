@@ -1,0 +1,63 @@
+{
+  "id": "dip-ka-21-402",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bergung, Identifizierung und Überführung deutscher Kriegstoter seit 1945",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-wenzel-schmidt",
+      "name": "Jan Wenzel Schmidt",
+      "name_padoka": "Schmidt, Jan Wenzel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "name_padoka": "Koch, Heinrich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hannes-gnauck",
+      "name": "Hannes Gnauck",
+      "name_padoka": "Gnauck, Hannes",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "birgit-bessin",
+      "name": "Birgit Bessin",
+      "name_padoka": "Bessin, Birgit",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "torben-braga",
+      "name": "Torben Braga",
+      "name_padoka": "Braga, Torben",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/402",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/004/2100402.pdf",
+    "filename": "2100402.pdf"
+  }
+}

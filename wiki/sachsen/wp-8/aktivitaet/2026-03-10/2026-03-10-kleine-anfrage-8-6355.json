@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6355",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schließung der Aufnahmeeinrichtung in Grillenburg",
+  "date": "2026-03-10",
+  "drsNr": "8/6355",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48954",
+    "filename": "Drs_8_6355_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

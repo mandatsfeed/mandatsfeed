@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-353",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verfassungswidriges Graffito an der Kirche Neumark im September 2023",
+  "date": "2024-11-05",
+  "drsNr": "8/353",
+  "persons": [
+    {
+      "slug": "tobias-keller",
+      "name": "Tobias Keller",
+      "name_padoka": "Keller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36700",
+    "filename": "Drs_8_353_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

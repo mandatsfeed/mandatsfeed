@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6246",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verdachtsunabhängige Kontrollen an besonderen Orten durch die Landespolizei",
+  "date": "2026-03-06",
+  "drsNr": "8/6246",
+  "persons": [
+    {
+      "slug": "constanze-oehlrich",
+      "name": "Constanze Oehlrich",
+      "name_padoka": "Oehlrich, Constanze",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70280"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

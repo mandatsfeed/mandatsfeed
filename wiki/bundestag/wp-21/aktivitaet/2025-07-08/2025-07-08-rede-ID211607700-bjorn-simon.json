@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211607700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 12",
+  "date": "2025-07-08",
+  "persons": [
+    {
+      "slug": "bjorn-simon",
+      "name": "Björn Simon",
+      "name_padoka": "Simon, Björn",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/16",
+    "date": "2025-07-08",
+    "page": 1572
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21016.pdf"
+  }
+}

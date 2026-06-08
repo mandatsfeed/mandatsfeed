@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6645",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Agrarinvestitionsprogramm Mecklenburg-Vorpommern",
+  "date": "2026-06-04",
+  "drsNr": "8/6645",
+  "persons": [
+    {
+      "slug": "beate-schlupp",
+      "name": "Beate Schlupp",
+      "name_padoka": "Schlupp, Beate",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71681"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217803700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tag der Städtebauförderung 2026 – Motor für starke Städte und Gemeinden",
+  "date": "2026-05-08",
+  "persons": [
+    {
+      "slug": "ruppert-stuwe",
+      "name": "Ruppert Stüwe",
+      "name_padoka": "Stüwe, Ruppert",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/78",
+    "date": "2026-05-08",
+    "page": 9394
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21078.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5010",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zu Drs.-Nr. 8/3344: Stand der Prozesse (und Ermittlungen) in Sachen neonazistischer Angriff in Leipzig-Connewitz am 11. Januar 2016",
+  "date": "2025-12-03",
+  "drsNr": "8/5010",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46385",
+    "filename": "Drs_8_5010_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

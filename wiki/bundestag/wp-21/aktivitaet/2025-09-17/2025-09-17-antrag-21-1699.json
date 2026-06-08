@@ -1,0 +1,96 @@
+{
+  "id": "dip-drs-21-1699",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Keine Bürokratie auf Kosten des Mittelstandes - Urlaubsgeld ohne zusätzliches Pflichtverfahren",
+  "date": "2025-09-17",
+  "persons": [
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "name_padoka": "Stephan, Thomas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-feser",
+      "name": "Jan Feser",
+      "name_padoka": "Feser, Jan",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-springer",
+      "name": "René Springer",
+      "name_padoka": "Springer, René",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrike-schielke-ziesing",
+      "name": "Ulrike Schielke-Ziesing",
+      "name_padoka": "Schielke-Ziesing, Ulrike",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tino-chrupalla",
+      "name": "Tino Chrupalla",
+      "name_padoka": "Chrupalla, Tino",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lukas-rehm",
+      "name": "Lukas Rehm",
+      "name_padoka": "Rehm, Lukas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hans-jurgen-gossner",
+      "name": "Hans-Jürgen Goßner",
+      "name_padoka": "Goßner, Hans-Jürgen",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-teske",
+      "name": "Robert Teske",
+      "name_padoka": "Teske, Robert",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carsten-becker",
+      "name": "Carsten Becker",
+      "name_padoka": "Becker, Carsten",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerrit-huy",
+      "name": "Gerrit Huy",
+      "name_padoka": "Huy, Gerrit",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/1699",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/016/2101699.pdf",
+    "filename": "2101699.pdf"
+  }
+}

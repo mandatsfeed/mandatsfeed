@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3540",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Messe Erfurt: Landesmittel, Beteiligungssteuerung und Veranstaltungsverträge",
+  "date": "2026-05-27",
+  "drsNr": "8/3540",
+  "persons": [
+    {
+      "slug": "sascha-bilay",
+      "name": "Sascha Bilay",
+      "name_padoka": "Bilay, Sascha",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107314"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

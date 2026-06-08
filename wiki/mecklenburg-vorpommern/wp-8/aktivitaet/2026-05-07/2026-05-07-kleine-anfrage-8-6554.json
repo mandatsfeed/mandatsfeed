@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6554",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Politische und weltanschauliche Ausrichtung von Bildungspublikationen, RAA-Materialien und öffentliche Äußerungen der Ministerin für Bildung und Kindertagesförderung",
+  "date": "2026-05-07",
+  "drsNr": "8/6554",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71273"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

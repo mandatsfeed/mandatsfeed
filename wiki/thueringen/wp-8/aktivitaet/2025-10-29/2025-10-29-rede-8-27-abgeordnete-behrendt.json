@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-27-abgeordnete-behrendt",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/27",
+  "date": "2025-10-29",
+  "persons": [
+    {
+      "slug": "abgeordnete-behrendt",
+      "name": "Abgeordnete Behrendt",
+      "name_padoka": "Behrendt, Abgeordnete",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/27",
+    "date": "2025-10-29"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/104452"
+  }
+}

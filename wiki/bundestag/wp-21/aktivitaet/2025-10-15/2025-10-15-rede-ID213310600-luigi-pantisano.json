@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213310600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-10-15",
+  "persons": [
+    {
+      "slug": "luigi-pantisano",
+      "name": "Luigi Pantisano",
+      "name_padoka": "Pantisano, Luigi",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/33",
+    "date": "2025-10-15",
+    "page": 3628
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21033.pdf"
+  }
+}

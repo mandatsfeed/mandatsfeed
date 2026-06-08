@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Dirk Spaniel (Deutscher Bundestag, WP-20)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021404300</guid>
+      <title>Nein zur Kriegstüchtigkeit – Ja zur Diplomatie und Abrüstung</title>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20214.pdf</link>
+      <description>Rede · Plenarprotokoll 20/214, S. 27828</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-20-212</guid>
+      <title>Vereinbarte Debatte zur Situation in Deutschland</title>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20212.pdf#P.27680</link>
+      <description>Rede · 20/212</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021201600</guid>
+      <title>Zur Situation in Deutschland</title>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20212.pdf</link>
+      <description>Rede · Plenarprotokoll 20/212, S. 27680</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021104700</guid>
+      <title>Zusatzpunkt 35</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20211.pdf</link>
+      <description>Rede · Plenarprotokoll 20/211, S. 27629</description>
+    </item>
+  </channel>
+</rss>

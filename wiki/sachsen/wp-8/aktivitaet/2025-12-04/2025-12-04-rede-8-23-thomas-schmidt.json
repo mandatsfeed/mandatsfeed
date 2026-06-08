@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-23-thomas-schmidt",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in 23. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-12-04",
+  "persons": [
+    {
+      "slug": "thomas-schmidt",
+      "name": "Thomas Schmidt",
+      "name_padoka": "Schmidt, Thomas",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/23",
+    "date": "2025-12-04"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=46663"
+  }
+}

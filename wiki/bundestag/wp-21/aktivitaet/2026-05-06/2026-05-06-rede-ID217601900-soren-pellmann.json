@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217601900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-05-06",
+  "persons": [
+    {
+      "slug": "soren-pellmann",
+      "name": "Sören Pellmann",
+      "name_padoka": "Pellmann, Sören",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/76",
+    "date": "2026-05-06",
+    "page": 9151
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21076.pdf"
+  }
+}

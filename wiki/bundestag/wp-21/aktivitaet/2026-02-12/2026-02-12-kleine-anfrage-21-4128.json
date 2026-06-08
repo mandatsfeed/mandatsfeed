@@ -1,0 +1,63 @@
+{
+  "id": "dip-ka-21-4128",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Mindestlohnbetrug und Kontrollen zur Einhaltung des allgemeinen gesetzlichen Mindestlohns in Hessen 2025",
+  "date": "2026-02-12",
+  "persons": [
+    {
+      "slug": "anne-zerr",
+      "name": "Anne Zerr",
+      "name_padoka": "Zerr, Anne",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "desiree-becker",
+      "name": "Desiree Becker",
+      "name_padoka": "Becker, Desiree",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "violetta-bock",
+      "name": "Violetta Bock",
+      "name_padoka": "Bock, Violetta",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "janine-wissler",
+      "name": "Janine Wissler",
+      "name_padoka": "Wissler, Janine",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "jorg-cezanne",
+      "name": "Jörg Cezanne",
+      "name_padoka": "Cezanne, Jörg",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "cem-ince",
+      "name": "Cem Ince",
+      "name_padoka": "Ince, Cem",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/4128",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/041/2104128.pdf",
+    "filename": "2104128.pdf"
+  }
+}

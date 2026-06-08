@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214403900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.15",
+  "date": "2025-11-27",
+  "persons": [
+    {
+      "slug": "martin-sichert",
+      "name": "Martin Sichert",
+      "name_padoka": "Sichert, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/44",
+    "date": "2025-11-27",
+    "page": 5202
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21044.pdf"
+  }
+}

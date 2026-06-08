@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-70-torsten-renz",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "15 Redebeiträge in PlPr 8/70",
+  "date": "2023-12-14",
+  "persons": [
+    {
+      "slug": "torsten-renz",
+      "name": "Torsten Renz",
+      "name_padoka": "Renz, Torsten",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/70",
+    "date": "2023-12-14"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/59079"
+  }
+}

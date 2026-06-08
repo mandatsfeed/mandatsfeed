@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216908400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Demokratie leben – Engagement schützen, Förderstrukturen erhalten",
+  "date": "2026-03-27",
+  "persons": [
+    {
+      "slug": "wolfgang-dahler",
+      "name": "Wolfgang Dahler",
+      "name_padoka": "Dahler, Wolfgang",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/69",
+    "date": "2026-03-27",
+    "page": 8419
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21069.pdf"
+  }
+}

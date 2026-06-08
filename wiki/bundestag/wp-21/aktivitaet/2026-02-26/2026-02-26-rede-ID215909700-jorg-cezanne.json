@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215909700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 13",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "jorg-cezanne",
+      "name": "Jörg Cezanne",
+      "name_padoka": "Cezanne, Jörg",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

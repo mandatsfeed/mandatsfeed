@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216708500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/67",
+    "date": "2026-03-25",
+    "page": 8125
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21067.pdf"
+  }
+}

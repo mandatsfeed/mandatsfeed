@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213710700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zuwanderung in das Gesundheitssystem begrenzen – Zurückführung der medizinischen Versorgung von Ausländern auf das verfassungsrechtlich gebotene Minimum – Orientierung am dänischen Modell",
+  "date": "2025-11-06",
+  "persons": [
+    {
+      "slug": "serdar-yuksel",
+      "name": "Serdar Yüksel",
+      "name_padoka": "Yüksel, Serdar",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/37",
+    "date": "2025-11-06",
+    "page": 4261
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21037.pdf"
+  }
+}

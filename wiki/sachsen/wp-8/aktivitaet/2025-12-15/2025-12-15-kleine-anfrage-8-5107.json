@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5107",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Weibliche Genitalverstümmelung in Sachsen (2019-2024)",
+  "date": "2025-12-15",
+  "drsNr": "8/5107",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46589",
+    "filename": "Drs_8_5107_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

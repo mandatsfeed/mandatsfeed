@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217915400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zur Situation im Sudan und zur Verständigung auf die Berliner Prinzipien",
+  "date": "2026-05-20",
+  "persons": [
+    {
+      "slug": "stephan-mayer",
+      "name": "Stephan Mayer",
+      "name_padoka": "Mayer, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/79",
+    "date": "2026-05-20",
+    "page": 9506
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21079.pdf"
+  }
+}

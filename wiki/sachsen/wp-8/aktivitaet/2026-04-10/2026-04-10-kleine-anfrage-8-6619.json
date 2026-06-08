@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6619",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Politisch motivierte Sachbeschädigung durch Graffiti in Oberwiesenthal im März 2026",
+  "date": "2026-04-10",
+  "drsNr": "8/6619",
+  "persons": [
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49801",
+    "filename": "Drs_8_6619_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

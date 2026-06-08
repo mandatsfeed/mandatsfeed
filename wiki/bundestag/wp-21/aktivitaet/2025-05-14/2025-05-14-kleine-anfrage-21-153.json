@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-153",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Aktuelle Terminvergabepraxis der deutschen Auslandsvertretungen",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/153",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/001/2100153.pdf",
+    "filename": "2100153.pdf"
+  }
+}

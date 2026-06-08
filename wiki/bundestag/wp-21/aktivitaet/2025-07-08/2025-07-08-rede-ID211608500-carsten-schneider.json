@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211608500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 16",
+  "date": "2025-07-08",
+  "persons": [
+    {
+      "slug": "carsten-schneider",
+      "name": "Carsten Schneider",
+      "name_padoka": "Schneider, Carsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/16",
+    "date": "2025-07-08",
+    "page": 1572
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21016.pdf"
+  }
+}

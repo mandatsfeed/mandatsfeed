@@ -1,0 +1,26 @@
+{
+  "id": "dip-drs-21-1557",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Änderung der Geschäftsordnung des Deutschen Bundestages \r\nhier: Änderung der Voraussetzung zur Einbringung eines Wahlvorschlags zur Wahl des Bundeskanzlers in § 4 Satz 2 und der Voraussetzung zur Einbringung eines Misstrauensantrags gegen den Bundeskanzler in § 97 Absatz 1 Satz 2",
+  "date": "2025-09-09",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/1557",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/015/2101557.pdf",
+    "filename": "2101557.pdf"
+  }
+}

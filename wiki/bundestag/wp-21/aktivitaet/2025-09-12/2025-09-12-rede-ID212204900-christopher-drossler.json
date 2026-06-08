@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212204900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 29",
+  "date": "2025-09-12",
+  "persons": [
+    {
+      "slug": "christopher-drossler",
+      "name": "Christopher Drößler",
+      "name_padoka": "Drößler, Christopher",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/22",
+    "date": "2025-09-12",
+    "page": 2305
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21022.pdf"
+  }
+}

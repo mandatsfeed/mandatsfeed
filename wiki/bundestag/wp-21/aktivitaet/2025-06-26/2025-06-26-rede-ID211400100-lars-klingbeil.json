@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211400100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gerechtigkeitslücken im Steuersystem schließen, Steuerbetrug wirksam bekämpfen und Einnahmebasis des Staates stärken",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "lars-klingbeil",
+      "name": "Lars Klingbeil",
+      "name_padoka": "Klingbeil, Lars",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister der Finanzen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/14",
+    "date": "2025-06-26",
+    "page": 1330
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf"
+  }
+}

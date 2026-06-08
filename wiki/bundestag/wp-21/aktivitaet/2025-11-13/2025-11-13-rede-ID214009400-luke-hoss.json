@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214009400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 15",
+  "date": "2025-11-13",
+  "persons": [
+    {
+      "slug": "luke-hoss",
+      "name": "Luke Hoß",
+      "name_padoka": "Hoß, Luke",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/40",
+    "date": "2025-11-13",
+    "page": 4645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21040.pdf"
+  }
+}

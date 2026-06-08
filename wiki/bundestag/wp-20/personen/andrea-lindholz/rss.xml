@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Andrea Lindholz (Deutscher Bundestag, WP-20)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-20-211</guid>
+      <title>Magdeburg und Aschaffenburg - Hintergründe und Konsequenzen</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20211.pdf#P.27629</link>
+      <description>Rede · 20/211</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021110700</guid>
+      <title>Aktuelle Stunde — Magdeburg und Aschaffenburg – Hintergründe und Konsequenzen</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20211.pdf</link>
+      <description>Rede · Plenarprotokoll 20/211, S. 27629</description>
+    </item>
+  </channel>
+</rss>

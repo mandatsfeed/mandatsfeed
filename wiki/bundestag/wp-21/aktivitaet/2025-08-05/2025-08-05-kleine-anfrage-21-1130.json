@@ -1,0 +1,42 @@
+{
+  "id": "dip-ka-21-1130",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bürgschaften des Bundes für Unternehmen",
+  "date": "2025-08-05",
+  "persons": [
+    {
+      "slug": "enrico-komning",
+      "name": "Enrico Komning",
+      "name_padoka": "Komning, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "raimond-scheirich",
+      "name": "Raimond Scheirich",
+      "name_padoka": "Scheirich, Raimond",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "leif-erik-holm",
+      "name": "Leif-Erik Holm",
+      "name_padoka": "Holm, Leif-Erik",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/1130",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/011/2101130.pdf",
+    "filename": "2101130.pdf"
+  }
+}

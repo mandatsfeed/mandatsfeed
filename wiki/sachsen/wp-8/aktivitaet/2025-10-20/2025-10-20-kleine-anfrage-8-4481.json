@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4481",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Erkenntnisse zum Angriff auf das Sportgymnasium am Schellerhauer Weg (Altenberg), eine Lok und den Bahnhof Altenberg",
+  "date": "2025-10-20",
+  "drsNr": "8/4481",
+  "persons": [
+    {
+      "slug": "valentin-lippmann",
+      "name": "Valentin Lippmann",
+      "name_padoka": "Lippmann, Valentin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45167",
+    "filename": "Drs_8_4481_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

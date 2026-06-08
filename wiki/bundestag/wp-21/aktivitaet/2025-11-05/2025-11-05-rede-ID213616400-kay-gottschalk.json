@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213616400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Digitalabgabe für Werbeumsätze einführen – Medienvielfalt und Kulturstandort stärken — Steuergerechtigkeit im digitalen Zeitalter – Digitalsteuer einführen",
+  "date": "2025-11-05",
+  "persons": [
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "name_padoka": "Gottschalk, Kay",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/36",
+    "date": "2025-11-05",
+    "page": 4047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21036.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7197",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verwendung der GAK-Mittel im Bereich Landwirtschaft im Freistaat Sachsen - Letztzuwendungsempfänger, Betriebe und zivilgesellschaftliche Organisationen",
+  "date": "2026-06-03",
+  "drsNr": "8/7197",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51150",
+    "filename": "Drs_8_7197_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211807100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einsetzung einer Enquete-Kommission „Aufarbeitung der Coronapandemie und Lehren für zukünftige pandemische Ereignisse“ — Einsetzung eines 1. Untersuchungsausschusses der 21. Wahlperiode (Aufarbeitung der Coronapandemie)",
+  "date": "2025-07-10",
+  "persons": [
+    {
+      "slug": "mechthilde-wittmann",
+      "name": "Mechthilde Wittmann",
+      "name_padoka": "Wittmann, Mechthilde",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/18",
+    "date": "2025-07-10",
+    "page": 1859
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21018.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213701800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 7",
+  "date": "2025-11-06",
+  "persons": [
+    {
+      "slug": "daniel-zerbin",
+      "name": "Daniel Zerbin",
+      "name_padoka": "Zerbin, Daniel",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/37",
+    "date": "2025-11-06",
+    "page": 4261
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21037.pdf"
+  }
+}

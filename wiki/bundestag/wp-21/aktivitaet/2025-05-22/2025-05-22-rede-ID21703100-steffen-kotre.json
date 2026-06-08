@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21703100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sicherheit stärken, Energieabhängigkeiten durch erneuerbare Energien verringern – Rückkehr zu Nord-Stream-Pipelines ausschließen",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "steffen-kotre",
+      "name": "Steffen Kotré",
+      "name_padoka": "Kotré, Steffen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/7",
+    "date": "2025-05-22",
+    "page": 573
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21007.pdf"
+  }
+}

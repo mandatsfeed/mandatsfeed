@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2831",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktuelle Prüfung und Bewertung von Voraussetzungen sowie möglichen Standorten für eine thermische Verwertungsanlage in Thüringen und insbesondere im Landkreis Saalfeld-Rudolstadt",
+  "date": "2026-02-02",
+  "drsNr": "8/2831",
+  "persons": [
+    {
+      "slug": "maik-kowalleck",
+      "name": "Maik Kowalleck",
+      "name_padoka": "Kowalleck, Maik",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105666"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

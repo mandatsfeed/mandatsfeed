@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213112300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 16",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "name_padoka": "Wagner, Sascha",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

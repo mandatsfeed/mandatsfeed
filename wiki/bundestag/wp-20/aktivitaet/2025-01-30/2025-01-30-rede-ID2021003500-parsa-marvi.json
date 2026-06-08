@@ -1,0 +1,28 @@
+{
+  "id": "dip-rede-ID2021003500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Mehr Netto vom Brutto",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "parsa-marvi",
+      "name": "Parsa Marvi",
+      "name_padoka": "Marvi, Parsa",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

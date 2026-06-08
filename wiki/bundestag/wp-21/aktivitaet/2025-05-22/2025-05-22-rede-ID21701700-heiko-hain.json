@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21701700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Reform der Einbürgerungspolitik als Voraussetzung einer wirklichen Migrationswende",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "heiko-hain",
+      "name": "Heiko Hain",
+      "name_padoka": "Hain, Heiko",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/7",
+    "date": "2025-05-22",
+    "page": 573
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21007.pdf"
+  }
+}

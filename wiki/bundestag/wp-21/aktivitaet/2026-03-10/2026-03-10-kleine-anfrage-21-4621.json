@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-4621",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bundesmittel für Kampfmittelräumung in Thüringen - Stand: 31. Dezember 2025",
+  "date": "2026-03-10",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/4621",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/046/2104621.pdf",
+    "filename": "2104621.pdf"
+  }
+}

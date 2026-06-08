@@ -1,0 +1,73 @@
+{
+  "id": "dip-rede-21-48",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "30. Jahrestag des Vertrags von Dayton",
+  "date": "2025-12-05",
+  "persons": [
+    {
+      "slug": "jasmina-hostert",
+      "name": "Jasmina Hostert",
+      "name_padoka": "Hostert, Jasmina",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "carl-philipp-sassenrath",
+      "name": "Carl-Philipp Sassenrath",
+      "name_padoka": "Sassenrath, Carl-Philipp",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "gokay-akbulut",
+      "name": "Gökay Akbulut",
+      "name_padoka": "Akbulut, Gökay",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "boris-mijatovic",
+      "name": "Boris Mijatović",
+      "name_padoka": "Mijatović, Boris",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "adis-ahmetovic",
+      "name": "Adis Ahmetovic",
+      "name_padoka": "Ahmetovic, Adis",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "alexander-wolf",
+      "name": "Alexander Wolf",
+      "name_padoka": "Wolf, Alexander",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "johann-david-wadephul",
+      "name": "Johann David Wadephul",
+      "name_padoka": "Wadephul, Johann David",
+      "role": "redner",
+      "fraktion": "Auswärtiges Amt",
+      "funktion": "Bundesmin."
+    }
+  ],
+  "fraktionen": [
+    "spd",
+    "cdu-csu",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "afd"
+  ],
+  "drsNr": "21/48",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21048.pdf#P.5702",
+    "filename": "21048.pdf#P.5702"
+  }
+}

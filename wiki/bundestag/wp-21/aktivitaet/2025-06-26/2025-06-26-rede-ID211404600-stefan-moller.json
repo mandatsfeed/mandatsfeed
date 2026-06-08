@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211404600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mietpreisbremse verschärfen – Mieten stoppen",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "stefan-moller",
+      "name": "Stefan Möller",
+      "name_padoka": "Möller, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/14",
+    "date": "2025-06-26",
+    "page": 1330
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf"
+  }
+}

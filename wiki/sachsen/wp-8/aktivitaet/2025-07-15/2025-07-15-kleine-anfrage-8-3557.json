@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3557",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einnahmen der Landkreise und kreisfreie Städte aus Corona-Bußgeldbescheiden und Verwarnungen mit Verwarnungsgeld",
+  "date": "2025-07-15",
+  "drsNr": "8/3557",
+  "persons": [
+    {
+      "slug": "timo-schreyer",
+      "name": "Timo Schreyer",
+      "name_padoka": "Schreyer, Timo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43057",
+    "filename": "Drs_8_3557_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

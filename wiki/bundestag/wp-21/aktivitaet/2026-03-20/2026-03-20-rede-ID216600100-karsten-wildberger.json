@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID216600100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesellschaftliche Risiken von KI-Anwendungen ernst nehmen — Für öffentliche Räume ohne automatisierte biometrische Erkennungssysteme",
+  "date": "2026-03-20",
+  "persons": [
+    {
+      "slug": "karsten-wildberger",
+      "name": "Karsten Wildberger",
+      "name_padoka": "Wildberger, Karsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesminister für Digitales und Staatsmodernisierung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/66",
+    "date": "2026-03-20",
+    "page": 8028
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21066.pdf"
+  }
+}

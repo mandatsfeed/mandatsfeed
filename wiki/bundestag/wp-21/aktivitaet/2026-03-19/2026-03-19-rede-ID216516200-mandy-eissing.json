@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216516200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Neunter Bericht zur Lage der älteren Generation in der Bundesrepublik Deutschland — Alt werden in Deutschland – Vielfalt der Potenziale und Ungleichheit der Teilhabechancen",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "mandy-eissing",
+      "name": "Mandy Eißing",
+      "name_padoka": "Eißing, Mandy",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

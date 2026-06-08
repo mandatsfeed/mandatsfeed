@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214908600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zum Europäischen Rat am 18. und 19. Dezember 2025 in Brüssel",
+  "date": "2025-12-17",
+  "persons": [
+    {
+      "slug": "bernd-baumann",
+      "name": "Bernd Baumann",
+      "name_padoka": "Baumann, Bernd",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/49",
+    "date": "2025-12-17",
+    "page": 5843
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21049.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215914000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Faire Mieten jetzt – Schutz und Aufklärung für Mieterinnen und Mieter — Fünfter Bericht der Bundesregierung über die Wohnungs- und Immobilienwirtschaft in Deutschland",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "jan-marco-luczak",
+      "name": "Jan-Marco Luczak",
+      "name_padoka": "Luczak, Jan-Marco",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5771",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Die Streichung der ICE-Halte in Riesa durch die Deutsche Bahn AG und deren Bedeutung für die Staatsregierung - Nachfrage zu den Drucksachen 8/4793 und 8/5099",
+  "date": "2026-01-27",
+  "drsNr": "8/5771",
+  "persons": [
+    {
+      "slug": "carsten-hutter-afd-tobias-keller",
+      "name": "Carsten Hütter AfD, Tobias Keller",
+      "name_padoka": "Keller, Carsten Hütter AfD, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47653",
+    "filename": "Drs_8_5771_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

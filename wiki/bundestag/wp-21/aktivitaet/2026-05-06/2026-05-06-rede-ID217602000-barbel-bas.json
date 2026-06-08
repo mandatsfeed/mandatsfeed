@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217602000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-05-06",
+  "persons": [
+    {
+      "slug": "barbel-bas",
+      "name": "Bärbel Bas",
+      "name_padoka": "Bas, Bärbel",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Arbeit und Soziales"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/76",
+    "date": "2026-05-06",
+    "page": 9151
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21076.pdf"
+  }
+}

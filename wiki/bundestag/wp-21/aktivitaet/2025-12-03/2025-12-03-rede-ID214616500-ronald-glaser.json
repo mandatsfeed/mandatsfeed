@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214616500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Konzeption des Bundes für die Gedenkstätten zur Aufarbeitung der NS-Terrorherrschaft und der SED-Diktatur — Für eine plurale Gedenkarbeit der Gegenwart – Die im November 2024 vorgelegte Novellierung des Gedenkstättenkonzepts umsetzen",
+  "date": "2025-12-03",
+  "persons": [
+    {
+      "slug": "ronald-glaser",
+      "name": "Ronald Gläser",
+      "name_padoka": "Gläser, Ronald",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/46",
+    "date": "2025-12-03",
+    "page": 5398
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21046.pdf"
+  }
+}

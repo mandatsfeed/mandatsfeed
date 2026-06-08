@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217404200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 8",
+  "date": "2026-04-23",
+  "persons": [
+    {
+      "slug": "knuth-meyer-soltau",
+      "name": "Knuth Meyer-Soltau",
+      "name_padoka": "Meyer-Soltau, Knuth",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/74",
+    "date": "2026-04-23",
+    "page": 8958
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21074.pdf"
+  }
+}

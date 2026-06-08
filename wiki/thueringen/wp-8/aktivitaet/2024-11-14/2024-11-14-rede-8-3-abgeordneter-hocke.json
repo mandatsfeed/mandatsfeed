@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-3-abgeordneter-hocke",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/3",
+  "date": "2024-11-14",
+  "persons": [
+    {
+      "slug": "abgeordneter-hocke",
+      "name": "Abgeordneter Höcke",
+      "name_padoka": "Höcke, Abgeordneter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/3",
+    "date": "2024-11-14"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/99624"
+  }
+}

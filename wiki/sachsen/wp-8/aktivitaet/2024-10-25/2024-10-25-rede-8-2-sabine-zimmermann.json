@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-2-sabine-zimmermann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in 2. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-10-25",
+  "persons": [
+    {
+      "slug": "sabine-zimmermann",
+      "name": "Sabine Zimmermann",
+      "name_padoka": "Zimmermann, Sabine",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/2",
+    "date": "2024-10-25"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=36783"
+  }
+}

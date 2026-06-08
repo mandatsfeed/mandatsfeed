@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213714100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Frei benennen, klar erkennen – Bezeichnungsverbote für Fleischalternativen verhindern",
+  "date": "2025-11-06",
+  "persons": [
+    {
+      "slug": "esra-limbacher",
+      "name": "Esra Limbacher",
+      "name_padoka": "Limbacher, Esra",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/37",
+    "date": "2025-11-06",
+    "page": 4261
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21037.pdf"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "dip-ka-21-5992",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Zunehmende Brandrisiken durch Lithium-Ionen-Akkus im Hausmüll für kommunale Entsorgungsbetriebe",
+  "date": "2026-05-19",
+  "persons": [
+    {
+      "slug": "otto-strauss",
+      "name": "Otto Strauß",
+      "name_padoka": "Strauß, Otto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "olaf-hilmer",
+      "name": "Olaf Hilmer",
+      "name_padoka": "Hilmer, Olaf",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "volker-scheurell",
+      "name": "Volker Scheurell",
+      "name_padoka": "Scheurell, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bastian-treuheit",
+      "name": "Bastian Treuheit",
+      "name_padoka": "Treuheit, Bastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carolin-bachmann",
+      "name": "Carolin Bachmann",
+      "name_padoka": "Bachmann, Carolin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sebastian-munzenmaier",
+      "name": "Sebastian Münzenmaier",
+      "name_padoka": "Münzenmaier, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5992",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/059/2105992.pdf",
+    "filename": "2105992.pdf"
+  }
+}

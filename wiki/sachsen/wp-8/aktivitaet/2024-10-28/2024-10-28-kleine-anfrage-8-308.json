@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-308",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verordnung nach § 55 Abs. 2 SächsWahlG",
+  "date": "2024-10-28",
+  "drsNr": "8/308",
+  "persons": [
+    {
+      "slug": "valentin-lippmann",
+      "name": "Valentin Lippmann",
+      "name_padoka": "Lippmann, Valentin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36528",
+    "filename": "Drs_8_308_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

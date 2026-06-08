@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6651",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Politisch motivierte Straftaten in Mecklenburg-Vorpommern im 1. Quartal 2026",
+  "date": "2026-06-05",
+  "drsNr": "8/6651",
+  "persons": [
+    {
+      "slug": "michael-noetzel",
+      "name": "Michael Noetzel",
+      "name_padoka": "Noetzel, Michael",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71688"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217315700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einfluss von Milliardären weltweit zurückdrängen – Globale Gerechtigkeit durch mehr Umverteilung und Entwicklungszusammenarbeit voranbringen",
+  "date": "2026-04-22",
+  "persons": [
+    {
+      "slug": "charlotte-antonia-neuhauser",
+      "name": "Charlotte Antonia Neuhäuser",
+      "name_padoka": "Neuhäuser, Charlotte Antonia",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/73",
+    "date": "2026-04-22",
+    "page": 8809
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21073.pdf"
+  }
+}

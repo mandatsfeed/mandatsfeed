@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214300700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.9",
+  "date": "2025-11-26",
+  "persons": [
+    {
+      "slug": "soren-pellmann",
+      "name": "Sören Pellmann",
+      "name_padoka": "Pellmann, Sören",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/43",
+    "date": "2025-11-26",
+    "page": 5070
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21043.pdf"
+  }
+}

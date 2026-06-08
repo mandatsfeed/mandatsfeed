@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-18-abgeordneter-kobelt",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in PlPr 8/18",
+  "date": "2025-05-16",
+  "persons": [
+    {
+      "slug": "abgeordneter-kobelt",
+      "name": "Abgeordneter Kobelt",
+      "name_padoka": "Kobelt, Abgeordneter",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/18",
+    "date": "2025-05-16"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/101842"
+  }
+}

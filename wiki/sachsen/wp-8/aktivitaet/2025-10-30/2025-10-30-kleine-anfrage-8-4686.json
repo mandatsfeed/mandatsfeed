@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4686",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vogelgrippe im Anflug - Vorbereitung, Zuständigkeiten und Schutzmaßnahmen in Sachsen",
+  "date": "2025-10-30",
+  "drsNr": "8/4686",
+  "persons": [
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45498",
+    "filename": "Drs_8_4686_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

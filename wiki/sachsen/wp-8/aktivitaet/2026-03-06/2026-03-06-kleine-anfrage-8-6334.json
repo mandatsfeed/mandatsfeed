@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6334",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Veröffentlichung der Corona-Verordnungen im Sächsischen Gesetz- und Verordnungsblatt (SächsGVBl.)",
+  "date": "2026-03-06",
+  "drsNr": "8/6334",
+  "persons": [
+    {
+      "slug": "andre-wendt",
+      "name": "André Wendt",
+      "name_padoka": "Wendt, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48896",
+    "filename": "Drs_8_6334_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

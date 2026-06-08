@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213803800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Den zweiten UN-Weltgipfel für soziale Entwicklung stark machen – Mehr globale Gerechtigkeit durch Milliardärssteuern",
+  "date": "2025-11-07",
+  "persons": [
+    {
+      "slug": "johannes-volkmann",
+      "name": "Johannes Volkmann",
+      "name_padoka": "Volkmann, Johannes",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/38",
+    "date": "2025-11-07",
+    "page": 4369
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21038.pdf"
+  }
+}

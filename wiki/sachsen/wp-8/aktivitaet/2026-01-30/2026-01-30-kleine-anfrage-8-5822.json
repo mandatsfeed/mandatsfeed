@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5822",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Wartezeiten in der ambulanten onkologischen Versorgung in Sachsen",
+  "date": "2026-01-30",
+  "drsNr": "8/5822",
+  "persons": [
+    {
+      "slug": "ronny-kupke",
+      "name": "Ronny Kupke",
+      "name_padoka": "Kupke, Ronny",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47735",
+    "filename": "Drs_8_5822_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

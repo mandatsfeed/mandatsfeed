@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21615900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "zu dem Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über mit bestimmten neuen genomischen Techniken gewonnene Pflanzen und die aus ihnen gewonnenen Lebens- und Futtermittel sowie zur Änderung der Verordnung (EU) 2017/625 KOM(2023) 411 endg.; Ratsdok. 11592/23 — hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes",
+  "date": "2025-05-21",
+  "persons": [
+    {
+      "slug": "pierre-lamely",
+      "name": "Pierre Lamely",
+      "name_padoka": "Lamely, Pierre",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/6",
+    "date": "2025-05-21",
+    "page": 470
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21006.pdf"
+  }
+}

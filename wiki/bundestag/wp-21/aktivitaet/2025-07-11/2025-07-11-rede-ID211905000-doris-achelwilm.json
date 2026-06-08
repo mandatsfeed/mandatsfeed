@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211905000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2025-07-11",
+  "persons": [
+    {
+      "slug": "doris-achelwilm",
+      "name": "Doris Achelwilm",
+      "name_padoka": "Achelwilm, Doris",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/19",
+    "date": "2025-07-11",
+    "page": 1931
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21019.pdf"
+  }
+}

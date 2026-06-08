@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216415100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde tato — Wettbewerb an der Tankstelle durchsetzen – Verbraucher und Unternehmen stärken",
+  "date": "2026-03-18",
+  "persons": [
+    {
+      "slug": "sebastian-roloff",
+      "name": "Sebastian Roloff",
+      "name_padoka": "Roloff, Sebastian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/64",
+    "date": "2026-03-18",
+    "page": 7765
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21064.pdf"
+  }
+}

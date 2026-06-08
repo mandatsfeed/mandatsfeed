@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-5295",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Möglicher Widerspruch zwischen angestrebter Klimatransformation und tatsächlichem Papierverbrauch von Bundesbehörden",
+  "date": "2026-04-14",
+  "persons": [
+    {
+      "slug": "stefan-schroder",
+      "name": "Stefan Schröder",
+      "name_padoka": "Schröder, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5295",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/052/2105295.pdf",
+    "filename": "2105295.pdf"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "dip-ka-20-15097",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "kleine_anfrage",
+  "title": "Die Bundestagswahl 2025",
+  "date": "2025-03-10",
+  "persons": [
+    {
+      "slug": "ali-al-dailami",
+      "name": "Ali Al-Dailami",
+      "name_padoka": "Al-Dailami, Ali",
+      "role": "fragesteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "sevim-dagdelen",
+      "name": "Sevim Dagdelen",
+      "name_padoka": "Dagdelen, Sevim",
+      "role": "fragesteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "klaus-ernst",
+      "name": "Klaus Ernst",
+      "name_padoka": "Ernst, Klaus",
+      "role": "fragesteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "andrej-hunko",
+      "name": "Andrej Hunko",
+      "name_padoka": "Hunko, Andrej",
+      "role": "fragesteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "christian-leye",
+      "name": "Christian Leye",
+      "name_padoka": "Leye, Christian",
+      "role": "fragesteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "amira-mohamed-ali",
+      "name": "Amira Mohamed Ali",
+      "name_padoka": "Ali, Amira Mohamed",
+      "role": "fragesteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "zaklin-nastic",
+      "name": "Zaklin Nastic",
+      "name_padoka": "Nastic, Zaklin",
+      "role": "fragesteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "jessica-tatti",
+      "name": "Jessica Tatti",
+      "name_padoka": "Tatti, Jessica",
+      "role": "fragesteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "alexander-ulrich",
+      "name": "Alexander Ulrich",
+      "name_padoka": "Ulrich, Alexander",
+      "role": "fragesteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "sahra-wagenknecht",
+      "name": "Sahra Wagenknecht",
+      "name_padoka": "Wagenknecht, Sahra",
+      "role": "fragesteller",
+      "fraktion": "BSW (Gruppe)"
+    }
+  ],
+  "fraktionen": [],
+  "drsNr": "20/15097",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/150/2015097.pdf",
+    "filename": "2015097.pdf"
+  }
+}

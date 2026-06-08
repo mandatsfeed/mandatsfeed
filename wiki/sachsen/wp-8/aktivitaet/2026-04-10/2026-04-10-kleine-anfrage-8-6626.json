@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6626",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Grundstücke in Nordsachsen, die im Grundbuch derzeit als Anteile an einem ungetrennten Hofraum eingetragen sind",
+  "date": "2026-04-10",
+  "drsNr": "8/6626",
+  "persons": [
+    {
+      "slug": "tobias-heller",
+      "name": "Tobias Heller",
+      "name_padoka": "Heller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49808",
+    "filename": "Drs_8_6626_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2020906000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-01-29",
+  "persons": [
+    {
+      "slug": "daniela-de-ridder",
+      "name": "Daniela De Ridder",
+      "name_padoka": "De Ridder, Daniela",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/209",
+    "date": "2025-01-29",
+    "page": 27188
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20209.pdf"
+  }
+}

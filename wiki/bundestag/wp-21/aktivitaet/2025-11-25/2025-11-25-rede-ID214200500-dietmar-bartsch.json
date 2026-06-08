@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214200500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "I.4 Einzelplan 08",
+  "date": "2025-11-25",
+  "persons": [
+    {
+      "slug": "dietmar-bartsch",
+      "name": "Dietmar Bartsch",
+      "name_padoka": "Bartsch, Dietmar",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/42",
+    "date": "2025-11-25",
+    "page": 4944
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21042.pdf"
+  }
+}

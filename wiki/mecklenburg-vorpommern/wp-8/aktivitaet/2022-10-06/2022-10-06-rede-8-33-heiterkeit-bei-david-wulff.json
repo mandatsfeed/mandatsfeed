@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-33-heiterkeit-bei-david-wulff",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/33",
+  "date": "2022-10-06",
+  "persons": [
+    {
+      "slug": "heiterkeit-bei-david-wulff",
+      "name": "Heiterkeit bei David Wulff",
+      "name_padoka": "Wulff, Heiterkeit bei David",
+      "role": "redner",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/33",
+    "date": "2022-10-06"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/54880"
+  }
+}

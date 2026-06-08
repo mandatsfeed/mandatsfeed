@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5857",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vorgehen der Verbundzentrale des Gemeinsamen Bibliotheksverbundes gegen die Bibliothek des Konservatismus",
+  "date": "2026-01-12",
+  "drsNr": "8/5857",
+  "persons": [
+    {
+      "slug": "paul-joachim-timm",
+      "name": "Paul-Joachim Timm",
+      "name_padoka": "Timm, Paul-Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68951"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

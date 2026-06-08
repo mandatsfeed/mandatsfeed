@@ -1,0 +1,133 @@
+{
+  "id": "dip-ka-21-879",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung und Nutzung des neuen Kursformats Job-BSK nach § 45a AufenthG",
+  "date": "2025-07-15",
+  "persons": [
+    {
+      "slug": "ates-gurpinar",
+      "name": "Ates Gürpinar",
+      "name_padoka": "Gürpinar, Ates",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "michael-arndt",
+      "name": "Michael Arndt",
+      "name_padoka": "Arndt, Michael",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "anne-mieke-bremer",
+      "name": "Anne-Mieke Bremer",
+      "name_padoka": "Bremer, Anne-Mieke",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "violetta-bock",
+      "name": "Violetta Bock",
+      "name_padoka": "Bock, Violetta",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "maren-kaminski",
+      "name": "Maren Kaminski",
+      "name_padoka": "Kaminski, Maren",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "nicole-gohlke",
+      "name": "Nicole Gohlke",
+      "name_padoka": "Gohlke, Nicole",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sonja-lemke",
+      "name": "Sonja Lemke",
+      "name_padoka": "Lemke, Sonja",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "kathrin-gebel",
+      "name": "Kathrin Gebel",
+      "name_padoka": "Gebel, Kathrin",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "evelyn-schotz",
+      "name": "Evelyn Schötz",
+      "name_padoka": "Schötz, Evelyn",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "soren-pellmann",
+      "name": "Sören Pellmann",
+      "name_padoka": "Pellmann, Sören",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "julia-christina-stange",
+      "name": "Julia-Christina Stange",
+      "name_padoka": "Stange, Julia-Christina",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "mandy-eissing",
+      "name": "Mandy Eißing",
+      "name_padoka": "Eißing, Mandy",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "christian-gorke",
+      "name": "Christian Görke",
+      "name_padoka": "Görke, Christian",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "name_padoka": "Latendorf, Ina",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "name_padoka": "Conrad, Agnes",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "stella-merendino",
+      "name": "Stella Merendino",
+      "name_padoka": "Merendino, Stella",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/879",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/008/2100879.pdf",
+    "filename": "2100879.pdf"
+  }
+}

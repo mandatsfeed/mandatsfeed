@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5141",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Perspektiven der Weihnachtsfeuerwehr-Tradition",
+  "date": "2025-12-18",
+  "drsNr": "8/5141",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46666",
+    "filename": "Drs_8_5141_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

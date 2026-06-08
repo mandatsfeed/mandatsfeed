@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21805600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ein Tierschutzgesetz, das Tiere wirksam schützt",
+  "date": "2025-05-23",
+  "persons": [
+    {
+      "slug": "anna-aeikens",
+      "name": "Anna Aeikens",
+      "name_padoka": "Aeikens, Anna",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/8",
+    "date": "2025-05-23",
+    "page": 653
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21008.pdf"
+  }
+}

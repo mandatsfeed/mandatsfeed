@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-191",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Reaktivierung der Bahnstrecke Meißen - Nossen - Döbeln",
+  "date": "2024-10-17",
+  "drsNr": "8/191",
+  "persons": [
+    {
+      "slug": "thomas-kirste",
+      "name": "Thomas Kirste",
+      "name_padoka": "Kirste, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36359",
+    "filename": "Drs_8_191_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

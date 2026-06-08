@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215504000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "alois-rainer",
+      "name": "Alois Rainer",
+      "name_padoka": "Rainer, Alois",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister für Landwirtschaft, Ernährung und Heimat"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/55",
+    "date": "2026-01-28",
+    "page": 6646
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21055.pdf"
+  }
+}

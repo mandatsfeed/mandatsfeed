@@ -1,0 +1,175 @@
+{
+  "id": "dip-ka-21-70",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Stand der Umsetzung und Auswertung der China-Strategie der Bundesregierung",
+  "date": "2025-04-25",
+  "persons": [
+    {
+      "slug": "janine-wissler",
+      "name": "Janine Wissler",
+      "name_padoka": "Wissler, Janine",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "maren-kaminski",
+      "name": "Maren Kaminski",
+      "name_padoka": "Kaminski, Maren",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "christian-gorke",
+      "name": "Christian Görke",
+      "name_padoka": "Görke, Christian",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "uwe-foullong",
+      "name": "Uwe Foullong",
+      "name_padoka": "Foullong, Uwe",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "maik-bruckner",
+      "name": "Maik Brückner",
+      "name_padoka": "Brückner, Maik",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "marcel-bauer",
+      "name": "Marcel Bauer",
+      "name_padoka": "Bauer, Marcel",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "name_padoka": "Conrad, Agnes",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "david-schliesing",
+      "name": "David Schliesing",
+      "name_padoka": "Schliesing, David",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "jan-kostering",
+      "name": "Jan Köstering",
+      "name_padoka": "Köstering, Jan",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ines-schwerdtner",
+      "name": "Ines Schwerdtner",
+      "name_padoka": "Schwerdtner, Ines",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "aaron-valent",
+      "name": "Aaron Valent",
+      "name_padoka": "Valent, Aaron",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "charlotte-antonia-neuhauser",
+      "name": "Charlotte Antonia Neuhäuser",
+      "name_padoka": "Neuhäuser, Charlotte Antonia",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "jorg-cezanne",
+      "name": "Jörg Cezanne",
+      "name_padoka": "Cezanne, Jörg",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "name_padoka": "Wagner, Sascha",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "tamara-mazzi",
+      "name": "Tamara Mazzi",
+      "name_padoka": "Mazzi, Tamara",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "julia-christina-stange",
+      "name": "Julia-Christina Stange",
+      "name_padoka": "Stange, Julia-Christina",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "mirze-edis",
+      "name": "Mirze Edis",
+      "name_padoka": "Edis, Mirze",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "janina-bottger",
+      "name": "Janina Böttger",
+      "name_padoka": "Böttger, Janina",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sahra-mirow",
+      "name": "Sahra Mirow",
+      "name_padoka": "Mirow, Sahra",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ulrich-thoden",
+      "name": "Ulrich Thoden",
+      "name_padoka": "Thoden, Ulrich",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/70",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/000/2100070.pdf",
+    "filename": "2100070.pdf"
+  }
+}

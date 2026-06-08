@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217711400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesundheitssystem stärken statt Versicherte belasten – Echte Reformen für eine stabile gesetzliche Krankenversicherung",
+  "date": "2026-05-07",
+  "persons": [
+    {
+      "slug": "ates-gurpinar",
+      "name": "Ates Gürpinar",
+      "name_padoka": "Gürpinar, Ates",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/77",
+    "date": "2026-05-07",
+    "page": 9307
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21077.pdf"
+  }
+}

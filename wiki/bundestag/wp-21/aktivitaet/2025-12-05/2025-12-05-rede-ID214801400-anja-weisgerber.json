@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214801400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Streichung der Wehrpflicht aus dem Grundgesetz",
+  "date": "2025-12-05",
+  "persons": [
+    {
+      "slug": "anja-weisgerber",
+      "name": "Anja Weisgerber",
+      "name_padoka": "Weisgerber, Anja",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/48",
+    "date": "2025-12-05",
+    "page": 5732
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21048.pdf"
+  }
+}

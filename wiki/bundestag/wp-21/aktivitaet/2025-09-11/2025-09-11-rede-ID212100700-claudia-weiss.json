@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212100700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 7",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "claudia-weiss",
+      "name": "Claudia Weiss",
+      "name_padoka": "Weiss, Claudia",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/21",
+    "date": "2025-09-11",
+    "page": 2179
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21021.pdf"
+  }
+}

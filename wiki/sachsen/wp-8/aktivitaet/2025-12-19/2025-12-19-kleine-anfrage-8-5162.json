@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5162",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zusätzliche ANK-Mittel zur Heckenförderung im Rahmen der GAK in Sachsen ab 2026",
+  "date": "2025-12-19",
+  "drsNr": "8/5162",
+  "persons": [
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46710",
+    "filename": "Drs_8_5162_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

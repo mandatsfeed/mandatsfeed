@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-50-heiko-mirass",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/50",
+  "date": "2023-03-24",
+  "persons": [
+    {
+      "slug": "heiko-mirass",
+      "name": "Heiko Miraß",
+      "name_padoka": "Miraß, Heiko",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/50",
+    "date": "2023-03-24"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/56368"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211014700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Schwarz-Rot-Gold als identitätsstiftendes Symbol für unsere Demokratie konsequent bewahren – Traditionelle Beflaggung von Dienstgebäuden des Staates wiederherstellen",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "gotz-fromming",
+      "name": "Götz Frömming",
+      "name_padoka": "Frömming, Götz",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

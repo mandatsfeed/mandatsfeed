@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-394",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Gegenstände der Evaluation des Sächsischen Kulturraumgesetzes",
+  "date": "2024-11-11",
+  "drsNr": "8/394",
+  "persons": [
+    {
+      "slug": "claudia-maicher",
+      "name": "Claudia Maicher",
+      "name_padoka": "Maicher, Claudia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36813",
+    "filename": "Drs_8_394_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

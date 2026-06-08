@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3233",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beschaffung von Schnittschutzschals für die Thüringer Polizei im Jahr 2026",
+  "date": "2026-03-31",
+  "drsNr": "8/3233",
+  "persons": [
+    {
+      "slug": "ronald-hande",
+      "name": "Ronald Hande",
+      "name_padoka": "Hande, Ronald",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106573"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

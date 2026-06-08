@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7015",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zuschüsse zur Unterstützung von Projekten der Seniorenpolitik Titel 08 05 686 58 - Haushaltsvollzug 2025/2026",
+  "date": "2026-05-19",
+  "drsNr": "8/7015",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50815",
+    "filename": "Drs_8_7015_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

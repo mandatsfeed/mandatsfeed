@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6511",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "(Un)Zulässigkeit und Regelungen von Abschiebungen aus Gesundheitseinrichtungen",
+  "date": "2026-03-26",
+  "drsNr": "8/6511",
+  "persons": [
+    {
+      "slug": "nam-duy-nguyen-die-linke-susanne-schaper",
+      "name": "Nam Duy Nguyen Die Linke, Susanne Schaper",
+      "name_padoka": "Schaper, Nam Duy Nguyen Die Linke, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49467",
+    "filename": "Drs_8_6511_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

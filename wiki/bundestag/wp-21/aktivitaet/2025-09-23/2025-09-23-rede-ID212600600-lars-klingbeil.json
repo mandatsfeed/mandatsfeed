@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212600600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Finanzplan des Bundes 2025 bis 2029",
+  "date": "2025-09-23",
+  "persons": [
+    {
+      "slug": "lars-klingbeil",
+      "name": "Lars Klingbeil",
+      "name_padoka": "Klingbeil, Lars",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister der Finanzen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/26",
+    "date": "2025-09-23",
+    "page": 2797
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21026.pdf"
+  }
+}

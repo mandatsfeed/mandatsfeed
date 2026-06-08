@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213411500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deindustrialisierung stoppen – Verbrenner-Verbot aufheben",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "enrico-komning",
+      "name": "Enrico Komning",
+      "name_padoka": "Komning, Enrico",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

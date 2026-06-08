@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212500600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 06",
+  "date": "2025-09-18",
+  "persons": [
+    {
+      "slug": "alexander-dobrindt",
+      "name": "Alexander Dobrindt",
+      "name_padoka": "Dobrindt, Alexander",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister des Innern"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/25",
+    "date": "2025-09-18",
+    "page": 2682
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21025.pdf"
+  }
+}

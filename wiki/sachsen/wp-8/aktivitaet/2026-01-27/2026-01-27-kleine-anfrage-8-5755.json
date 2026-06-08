@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5755",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zeitlicher Ablauf zum Einsatzgeschehen Großbrand Gohrischheide 2025",
+  "date": "2026-01-27",
+  "drsNr": "8/5755",
+  "persons": [
+    {
+      "slug": "lars-kuppi",
+      "name": "Lars Kuppi",
+      "name_padoka": "Kuppi, Lars",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47636",
+    "filename": "Drs_8_5755_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

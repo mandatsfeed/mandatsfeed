@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212202800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mehrwertsteuer auf Grundnahrungsmittel, Hygieneprodukte und auf Bus und Bahn abschaffen",
+  "date": "2025-09-12",
+  "persons": [
+    {
+      "slug": "iris-nieland",
+      "name": "Iris Nieland",
+      "name_padoka": "Nieland, Iris",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/22",
+    "date": "2025-09-12",
+    "page": 2305
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21022.pdf"
+  }
+}

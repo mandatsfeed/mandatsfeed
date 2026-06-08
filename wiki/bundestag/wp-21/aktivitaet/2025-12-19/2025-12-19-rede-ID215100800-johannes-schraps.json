@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215100800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aufhebung der sogenannten Wegzugsbesteuerung gemäß § 6 des Außensteuergesetzes",
+  "date": "2025-12-19",
+  "persons": [
+    {
+      "slug": "johannes-schraps",
+      "name": "Johannes Schraps",
+      "name_padoka": "Schraps, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/51",
+    "date": "2025-12-19",
+    "page": 6172
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21051.pdf"
+  }
+}

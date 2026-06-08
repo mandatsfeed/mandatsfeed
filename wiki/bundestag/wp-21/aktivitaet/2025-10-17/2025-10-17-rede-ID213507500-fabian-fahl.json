@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213507500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Erster Klimakipppunkt laut internationaler Studie überschritten – Konsequenzen für das Handeln der Bundesregierung",
+  "date": "2025-10-17",
+  "persons": [
+    {
+      "slug": "fabian-fahl",
+      "name": "Fabian Fahl",
+      "name_padoka": "Fahl, Fabian",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/35",
+    "date": "2025-10-17",
+    "page": 3937
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21035.pdf"
+  }
+}

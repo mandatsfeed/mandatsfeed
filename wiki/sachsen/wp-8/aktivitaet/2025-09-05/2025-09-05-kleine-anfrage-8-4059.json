@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4059",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beprobung des Gewässers des \"Naturbades Luppa\" im Jahr 2024",
+  "date": "2025-09-05",
+  "drsNr": "8/4059",
+  "persons": [
+    {
+      "slug": "tobias-heller",
+      "name": "Tobias Heller",
+      "name_padoka": "Heller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44208",
+    "filename": "Drs_8_4059_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

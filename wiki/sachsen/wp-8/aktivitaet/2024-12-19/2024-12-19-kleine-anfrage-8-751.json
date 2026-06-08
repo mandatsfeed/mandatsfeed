@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-751",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Brückensperrung und Abriss der B101-Brücke in Großenhain",
+  "date": "2024-12-19",
+  "drsNr": "8/751",
+  "persons": [
+    {
+      "slug": "mario-beger",
+      "name": "Mario Beger",
+      "name_padoka": "Beger, Mario",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37520",
+    "filename": "Drs_8_751_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3081",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Unterrichtsbefreiung zum Zuckerfest für muslimische Schüler an der Regelschule „Johann Carl Fuhlrott“ Leinefelde",
+  "date": "2026-03-11",
+  "drsNr": "8/3081",
+  "persons": [
+    {
+      "slug": "bjorn-hocke",
+      "name": "Björn Höcke",
+      "name_padoka": "Höcke, Björn",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106300"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

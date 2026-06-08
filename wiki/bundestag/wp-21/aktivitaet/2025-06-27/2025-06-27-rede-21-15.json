@@ -1,0 +1,317 @@
+{
+  "id": "dip-rede-21-15",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz zum Verbot der Finanzierung von parteinahen Nichtregierungsorganisationen aus öffentlichen Mitteln",
+  "date": "2025-06-27",
+  "persons": [
+    {
+      "slug": "philip-m-a-hoffmann",
+      "name": "Philip M. A. Hoffmann",
+      "name_padoka": "Hoffmann, Philip M. A.",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "felix-doring",
+      "name": "Felix Döring",
+      "name_padoka": "Döring, Felix",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "sergej-minich",
+      "name": "Sergej Minich",
+      "name_padoka": "Minich, Sergej",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "melanie-bernstein",
+      "name": "Melanie Bernstein",
+      "name_padoka": "Bernstein, Melanie",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "svenja-stadler",
+      "name": "Svenja Stadler",
+      "name_padoka": "Stadler, Svenja",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "name_padoka": "Maack, Sebastian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "florian-ossner",
+      "name": "Florian Oßner",
+      "name_padoka": "Oßner, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "tamara-mazzi",
+      "name": "Tamara Mazzi",
+      "name_padoka": "Mazzi, Tamara",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "martin-gerster",
+      "name": "Martin Gerster",
+      "name_padoka": "Gerster, Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "annalena-baerbock",
+      "name": "Annalena Baerbock",
+      "name_padoka": "Baerbock, Annalena",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lukas-krieger",
+      "name": "Lukas Krieger",
+      "name_padoka": "Krieger, Lukas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "name_padoka": "Peterka, Tobias Matthias",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-kempf",
+      "name": "Martina Kempf",
+      "name_padoka": "Kempf, Martina",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bastian-treuheit",
+      "name": "Bastian Treuheit",
+      "name_padoka": "Treuheit, Bastian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-galla",
+      "name": "Rainer Galla",
+      "name_padoka": "Galla, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-boehringer",
+      "name": "Peter Boehringer",
+      "name_padoka": "Boehringer, Peter",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kurt-kleinschmidt",
+      "name": "Kurt Kleinschmidt",
+      "name_padoka": "Kleinschmidt, Kurt",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "erhard-brucker",
+      "name": "Erhard Brucker",
+      "name_padoka": "Brucker, Erhard",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nicole-hochst",
+      "name": "Nicole Höchst",
+      "name_padoka": "Höchst, Nicole",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerold-otten",
+      "name": "Gerold Otten",
+      "name_padoka": "Otten, Gerold",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lars-schieske",
+      "name": "Lars Schieske",
+      "name_padoka": "Schieske, Lars",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carina-schiessl",
+      "name": "Carina Schießl",
+      "name_padoka": "Schießl, Carina",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christoph-grimm",
+      "name": "Christoph Grimm",
+      "name_padoka": "Grimm, Christoph",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marcus-buhl",
+      "name": "Marcus Bühl",
+      "name_padoka": "Bühl, Marcus",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "otto-strauss",
+      "name": "Otto Strauß",
+      "name_padoka": "Strauß, Otto",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-uhr",
+      "name": "Martina Uhr",
+      "name_padoka": "Uhr, Martina",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-arpaschi",
+      "name": "Alexander Arpaschi",
+      "name_padoka": "Arpaschi, Alexander",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerrit-huy",
+      "name": "Gerrit Huy",
+      "name_padoka": "Huy, Gerrit",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "steffen-janich",
+      "name": "Steffen Janich",
+      "name_padoka": "Janich, Steffen",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-wenzel-schmidt",
+      "name": "Jan Wenzel Schmidt",
+      "name_padoka": "Schmidt, Jan Wenzel",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "fabian-jacobi",
+      "name": "Fabian Jacobi",
+      "name_padoka": "Jacobi, Fabian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gereon-bollmann",
+      "name": "Gereon Bollmann",
+      "name_padoka": "Bollmann, Gereon",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sven-wendorf",
+      "name": "Sven Wendorf",
+      "name_padoka": "Wendorf, Sven",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Rainer Rothfuß",
+      "name_padoka": "Rothfuß, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-kaufmann",
+      "name": "Michael Kaufmann",
+      "name_padoka": "Kaufmann, Michael",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "reinhard-mixl",
+      "name": "Reinhard Mixl",
+      "name_padoka": "Mixl, Reinhard",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-moller",
+      "name": "Stefan Möller",
+      "name_padoka": "Möller, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-henze",
+      "name": "Stefan Henze",
+      "name_padoka": "Henze, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "name_padoka": "von Zons, Ulrich",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "spd",
+    "afd",
+    "die-linke",
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/15",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21015.pdf#P.1391",
+    "filename": "21015.pdf#P.1391"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6598",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Geplante Anpassungen und Änderungen von Förderrichtlinien und Gesetzen im Sächsischen Staatsministerium  für Soziales, Gesundheit und Gesellschaftlichen Zusammenhalt (SMS)",
+  "date": "2026-04-06",
+  "drsNr": "8/6598",
+  "persons": [
+    {
+      "slug": "janina-pfau",
+      "name": "Janina Pfau",
+      "name_padoka": "Pfau, Janina",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49737",
+    "filename": "Drs_8_6598_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

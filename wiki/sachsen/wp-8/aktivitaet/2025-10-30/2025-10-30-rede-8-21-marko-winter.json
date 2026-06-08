@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-21-marko-winter",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in 21. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-10-30",
+  "persons": [
+    {
+      "slug": "marko-winter",
+      "name": "Marko Winter",
+      "name_padoka": "Winter, Marko",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/21",
+    "date": "2025-10-30"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=45759"
+  }
+}

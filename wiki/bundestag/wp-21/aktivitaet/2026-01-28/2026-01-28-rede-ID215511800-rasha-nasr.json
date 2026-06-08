@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215511800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Krankheitstage, Teilzeit, Achtstundentag – Aushöhlung von Beschäftigtenrechten verhindern",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "rasha-nasr",
+      "name": "Rasha Nasr",
+      "name_padoka": "Nasr, Rasha",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/55",
+    "date": "2026-01-28",
+    "page": 6646
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21055.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-130-elke-annette-schmidt",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/130",
+  "date": "2026-05-06",
+  "persons": [
+    {
+      "slug": "elke-annette-schmidt",
+      "name": "Elke-Annette Schmidt",
+      "name_padoka": "Schmidt, Elke-Annette",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/130",
+    "date": "2026-05-06"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71226"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216306200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2026 — Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2025",
+  "date": "2026-03-06",
+  "persons": [
+    {
+      "slug": "dorothee-bar",
+      "name": "Dorothee Bär",
+      "name_padoka": "Bär, Dorothee",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Forschung, Technologie und Raumfahrt"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/63",
+    "date": "2026-03-06",
+    "page": 7655
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21063.pdf"
+  }
+}

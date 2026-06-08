@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3616",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Überlastungsanzeigen von Lehrern und Schulleitungen in den Schuljahren 2022/23 und 2023/24",
+  "date": "2025-07-21",
+  "drsNr": "8/3616",
+  "persons": [
+    {
+      "slug": "romy-penz",
+      "name": "Romy Penz",
+      "name_padoka": "Penz, Romy",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43150",
+    "filename": "Drs_8_3616_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

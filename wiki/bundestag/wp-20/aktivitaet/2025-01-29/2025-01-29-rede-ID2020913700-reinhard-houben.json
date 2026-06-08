@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2020913700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Sorgen von Wirtschaft und Menschen ernst nehmen – Deutschland braucht jetzt eine Wirtschaftswende",
+  "date": "2025-01-29",
+  "persons": [
+    {
+      "slug": "reinhard-houben",
+      "name": "Reinhard Houben",
+      "name_padoka": "Houben, Reinhard",
+      "role": "redner",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/209",
+    "date": "2025-01-29",
+    "page": 27188
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20209.pdf"
+  }
+}

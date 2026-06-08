@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6138",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Sachstand der Vorermittlungen gegen den Minister Dr. Till Backhaus",
+  "date": "2026-02-03",
+  "drsNr": "8/6138",
+  "persons": [
+    {
+      "slug": "horst-forster",
+      "name": "Horst Förster",
+      "name_padoka": "Förster, Horst",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69443"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216900500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Private Altersvorsorge modernisieren – ETF-Sparplan für die Rente ermöglichen — Ein Bürgerfonds für eine bessere ergänzende Altersvorsorge – Einfach, sicher, renditestark",
+  "date": "2026-03-27",
+  "persons": [
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/69",
+    "date": "2026-03-27",
+    "page": 8419
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21069.pdf"
+  }
+}

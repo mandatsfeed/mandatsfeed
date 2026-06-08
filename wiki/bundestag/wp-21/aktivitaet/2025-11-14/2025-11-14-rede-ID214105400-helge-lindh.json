@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214105400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 13",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "helge-lindh",
+      "name": "Helge Lindh",
+      "name_padoka": "Lindh, Helge",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/41",
+    "date": "2025-11-14",
+    "page": 4840
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213316000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUNAVFOR MED IRINI",
+  "date": "2025-10-15",
+  "persons": [
+    {
+      "slug": "derya-turk-nachbaur",
+      "name": "Derya Türk-Nachbaur",
+      "name_padoka": "Türk-Nachbaur, Derya",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/33",
+    "date": "2025-10-15",
+    "page": 3628
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21033.pdf"
+  }
+}

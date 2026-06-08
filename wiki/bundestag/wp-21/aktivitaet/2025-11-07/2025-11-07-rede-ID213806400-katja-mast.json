@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213806400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 35",
+  "date": "2025-11-07",
+  "persons": [
+    {
+      "slug": "katja-mast",
+      "name": "Katja Mast",
+      "name_padoka": "Mast, Katja",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretärin bei der Bundesministerin für Arbeit und Soziales"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/38",
+    "date": "2025-11-07",
+    "page": 4369
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21038.pdf"
+  }
+}

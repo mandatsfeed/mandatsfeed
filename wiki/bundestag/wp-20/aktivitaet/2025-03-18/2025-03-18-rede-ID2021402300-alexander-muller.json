@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2021402300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Nein zur Kriegstüchtigkeit – Ja zur Diplomatie und Abrüstung",
+  "date": "2025-03-18",
+  "persons": [
+    {
+      "slug": "alexander-muller",
+      "name": "Alexander Müller",
+      "name_padoka": "Müller, Alexander",
+      "role": "redner",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/214",
+    "date": "2025-03-18",
+    "page": 27828
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20214.pdf"
+  }
+}

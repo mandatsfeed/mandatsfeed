@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213205700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für zufriedene Kunden auf der Schiene erforderliche eisenbahnpolitische Maßnahmen zügig umsetzen — Investitionen in die Erweiterung des Schienennetzes sicherstellen – Deutschlandtakt auf den Weg bringen",
+  "date": "2025-10-10",
+  "persons": [
+    {
+      "slug": "maximilian-kneller",
+      "name": "Maximilian Kneller",
+      "name_padoka": "Kneller, Maximilian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/32",
+    "date": "2025-10-10",
+    "page": 3522
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21032.pdf"
+  }
+}

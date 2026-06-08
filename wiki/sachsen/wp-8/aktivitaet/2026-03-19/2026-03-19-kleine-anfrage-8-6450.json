@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6450",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung der Empfehlungen der DGPPN zur Prävention von Gewalttaten im Kontext psychischer Erkrankungen und die Rolle der kommunalen Versorgungsstrukturen in Sachsen",
+  "date": "2026-03-19",
+  "drsNr": "8/6450",
+  "persons": [
+    {
+      "slug": "thomas-loser",
+      "name": "Thomas Löser",
+      "name_padoka": "Löser, Thomas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49269",
+    "filename": "Drs_8_6450_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

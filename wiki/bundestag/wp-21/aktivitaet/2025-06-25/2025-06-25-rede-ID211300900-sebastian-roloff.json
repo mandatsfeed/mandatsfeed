@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211300900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-06-25",
+  "persons": [
+    {
+      "slug": "sebastian-roloff",
+      "name": "Sebastian Roloff",
+      "name_padoka": "Roloff, Sebastian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/13",
+    "date": "2025-06-25",
+    "page": 1104
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21013.pdf"
+  }
+}

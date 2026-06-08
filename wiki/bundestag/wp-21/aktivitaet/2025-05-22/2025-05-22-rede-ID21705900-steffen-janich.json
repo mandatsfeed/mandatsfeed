@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21705900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Freiheitlichen Rechtsstaat schützen – Gewalt gegen Sicherheitskräfte konsequent entgegentreten",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "steffen-janich",
+      "name": "Steffen Janich",
+      "name_padoka": "Janich, Steffen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/7",
+    "date": "2025-05-22",
+    "page": 573
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21007.pdf"
+  }
+}

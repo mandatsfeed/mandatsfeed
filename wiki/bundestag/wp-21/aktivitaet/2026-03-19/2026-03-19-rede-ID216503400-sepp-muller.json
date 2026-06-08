@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216503400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Energiepreisschocks durch Irankrieg ernst nehmen – Unternehmen und Verbraucher nachhaltig und dauerhaft entlasten — Bezahlbares Leben statt fossiler Profite – Übergewinne abschöpfen und raus aus der fossilen Kostenfalle",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "sepp-muller",
+      "name": "Sepp Müller",
+      "name_padoka": "Müller, Sepp",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

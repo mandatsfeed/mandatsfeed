@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-105-jens-holger-schneider",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/105",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "jens-holger-schneider",
+      "name": "Jens-Holger Schneider",
+      "name_padoka": "Schneider, Jens-Holger",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/105",
+    "date": "2025-05-14"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/64605"
+  }
+}

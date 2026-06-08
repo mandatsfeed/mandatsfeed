@@ -1,0 +1,49 @@
+{
+  "id": "dip-ka-21-816",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Technische und infrastrukturelle Realisierbarkeit wasserstoffbasierter Gaskraftwerke bis 2030",
+  "date": "2025-07-09",
+  "persons": [
+    {
+      "slug": "enrico-komning",
+      "name": "Enrico Komning",
+      "name_padoka": "Komning, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "raimond-scheirich",
+      "name": "Raimond Scheirich",
+      "name_padoka": "Scheirich, Raimond",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "steffen-kotre",
+      "name": "Steffen Kotré",
+      "name_padoka": "Kotré, Steffen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "leif-erik-holm",
+      "name": "Leif-Erik Holm",
+      "name_padoka": "Holm, Leif-Erik",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/816",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/008/2100816.pdf",
+    "filename": "2100816.pdf"
+  }
+}

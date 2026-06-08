@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215813700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Schwerwiegende Fehler bei der Berichterstattung durch den öffentlich-rechtlichen Rundfunk",
+  "date": "2026-02-25",
+  "persons": [
+    {
+      "slug": "martin-rabanus",
+      "name": "Martin Rabanus",
+      "name_padoka": "Rabanus, Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/58",
+    "date": "2026-02-25",
+    "page": 7018
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21058.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-11-frage-katja-dietz",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 11. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-03-27",
+  "persons": [
+    {
+      "slug": "frage-katja-dietz",
+      "name": "Frage\nKatja Dietz",
+      "name_padoka": "Dietz, Frage Katja",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/11",
+    "date": "2025-03-27"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=40619"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214702400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Rückbau der EU-Klimapolitik stoppen – Deutschlands Klimaschutzlücke jetzt schließen — Klimagerechtigkeit – CO2 bepreisen und das Leben für alle Menschen bezahlbar machen",
+  "date": "2025-12-04",
+  "persons": [
+    {
+      "slug": "isabel-cademartori",
+      "name": "Isabel Cademartori",
+      "name_padoka": "Cademartori, Isabel",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/47",
+    "date": "2025-12-04",
+    "page": 5560
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21047.pdf"
+  }
+}

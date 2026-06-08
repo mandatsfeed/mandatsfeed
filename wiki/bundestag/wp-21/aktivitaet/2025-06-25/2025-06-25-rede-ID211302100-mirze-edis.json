@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211302100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-06-25",
+  "persons": [
+    {
+      "slug": "mirze-edis",
+      "name": "Mirze Edis",
+      "name_padoka": "Edis, Mirze",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/13",
+    "date": "2025-06-25",
+    "page": 1104
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21013.pdf"
+  }
+}

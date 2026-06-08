@@ -1,0 +1,73 @@
+{
+  "id": "dip-rede-21-34",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz zum Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) - Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG - NOOTS-Staatsvertrag",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "sonja-lemke",
+      "name": "Sonja Lemke",
+      "name_padoka": "Lemke, Sonja",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "anna-luhrmann",
+      "name": "Anna Lührmann",
+      "name_padoka": "Lührmann, Anna",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "parsa-marvi",
+      "name": "Parsa Marvi",
+      "name_padoka": "Marvi, Parsa",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "name_padoka": "Maack, Sebastian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "markus-reichel",
+      "name": "Markus Reichel",
+      "name_padoka": "Reichel, Markus",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "moritz-heuberger",
+      "name": "Moritz Heuberger",
+      "name_padoka": "Heuberger, Moritz",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "karsten-wildberger",
+      "name": "Karsten Wildberger",
+      "name_padoka": "Wildberger, Karsten",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Digitales und Staatsmodernisierung",
+      "funktion": "Bundesmin."
+    }
+  ],
+  "fraktionen": [
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "afd",
+    "cdu-csu"
+  ],
+  "drsNr": "21/34",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf#P.3850",
+    "filename": "21034.pdf#P.3850"
+  }
+}

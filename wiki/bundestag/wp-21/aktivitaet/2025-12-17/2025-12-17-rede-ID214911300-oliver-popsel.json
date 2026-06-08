@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214911300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Keine digitale Überwachung – Gegen jede Form einer Chatkontrolle",
+  "date": "2025-12-17",
+  "persons": [
+    {
+      "slug": "oliver-popsel",
+      "name": "Oliver Pöpsel",
+      "name_padoka": "Pöpsel, Oliver",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/49",
+    "date": "2025-12-17",
+    "page": 5843
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21049.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211703600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-07-09",
+  "persons": [
+    {
+      "slug": "bernd-baumann",
+      "name": "Bernd Baumann",
+      "name_padoka": "Baumann, Bernd",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/17",
+    "date": "2025-07-09",
+    "page": 1700
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21017.pdf"
+  }
+}

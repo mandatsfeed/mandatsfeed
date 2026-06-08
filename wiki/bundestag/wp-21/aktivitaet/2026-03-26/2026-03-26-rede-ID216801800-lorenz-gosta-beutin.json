@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216801800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Energiepreisschocks durch Irankrieg ernst nehmen – Unternehmen und Verbraucher nachhaltig und dauerhaft entlasten — Sofortige Entlastung der Bevölkerung wegen des Anstiegs der Energiepreise",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

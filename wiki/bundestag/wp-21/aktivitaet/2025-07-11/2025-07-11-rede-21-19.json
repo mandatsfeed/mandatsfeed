@@ -1,0 +1,137 @@
+{
+  "id": "dip-rede-21-19",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Vereinbarte Debatte aus Anlass des 30. Jahrestages des Völkermords von Srebrenica",
+  "date": "2025-07-11",
+  "persons": [
+    {
+      "slug": "thomas-silberhorn",
+      "name": "Thomas Silberhorn",
+      "name_padoka": "Silberhorn, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "falko-drossmann",
+      "name": "Falko Droßmann",
+      "name_padoka": "Droßmann, Falko",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "tobias-teich",
+      "name": "Tobias Teich",
+      "name_padoka": "Teich, Tobias",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-brand-fulda",
+      "name": "Michael Brand (Fulda)",
+      "name_padoka": "(Fulda), Michael Brand",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jasmina-hostert",
+      "name": "Jasmina Hostert",
+      "name_padoka": "Hostert, Jasmina",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "johann-david-wadephul",
+      "name": "Johann David Wadephul",
+      "name_padoka": "Wadephul, Johann David",
+      "role": "redner",
+      "fraktion": "Auswärtiges Amt",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "anna-rathert",
+      "name": "Anna Rathert",
+      "name_padoka": "Rathert, Anna",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-beyer",
+      "name": "Peter Beyer",
+      "name_padoka": "Beyer, Peter",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "adis-ahmetovic",
+      "name": "Adis Ahmetovic",
+      "name_padoka": "Ahmetovic, Adis",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "martin-sichert",
+      "name": "Martin Sichert",
+      "name_padoka": "Sichert, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jurgen-hardt",
+      "name": "Jürgen Hardt",
+      "name_padoka": "Hardt, Jürgen",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "gokay-akbulut",
+      "name": "Gökay Akbulut",
+      "name_padoka": "Akbulut, Gökay",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "boris-mijatovic",
+      "name": "Boris Mijatović",
+      "name_padoka": "Mijatović, Boris",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "siemtje-moller",
+      "name": "Siemtje Möller",
+      "name_padoka": "Möller, Siemtje",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "alexander-wolf",
+      "name": "Alexander Wolf",
+      "name_padoka": "Wolf, Alexander",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gunther-krichbaum",
+      "name": "Gunther Krichbaum",
+      "name_padoka": "Krichbaum, Gunther",
+      "role": "redner",
+      "fraktion": "Auswärtiges Amt",
+      "funktion": "Staatsmin."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "spd",
+    "afd",
+    "die-linke",
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/19",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21019.pdf#P.1886",
+    "filename": "21019.pdf#P.1886"
+  }
+}

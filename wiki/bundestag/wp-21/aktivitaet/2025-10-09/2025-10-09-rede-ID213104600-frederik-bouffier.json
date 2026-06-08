@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213104600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die Migrationswende hinsichtlich Syriens umsetzen – Die weitere Aufnahme stoppen und die Rückkehr vorantreiben",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "frederik-bouffier",
+      "name": "Frederik Bouffier",
+      "name_padoka": "Bouffier, Frederik",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

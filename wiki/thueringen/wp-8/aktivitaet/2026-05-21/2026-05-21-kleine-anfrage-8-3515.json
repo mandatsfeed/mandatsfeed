@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3515",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verkehrsbehindernde halbseitige Sperrung mit Ampelregelung in der Ortslage Auma (Marktberg) auf der Landesstraße 3002 (ehemalige Bundesstraße 2)",
+  "date": "2026-05-21",
+  "drsNr": "8/3515",
+  "persons": [
+    {
+      "slug": "martina-schweinsburg",
+      "name": "Martina Schweinsburg",
+      "name_padoka": "Schweinsburg, Martina",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107371"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

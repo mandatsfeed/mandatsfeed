@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6285",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Öffentliche Kommunikation und Informationsangebote der Landesregierung zum Zivilschutz und zur zivilen Verteidigung",
+  "date": "2026-03-12",
+  "drsNr": "8/6285",
+  "persons": [
+    {
+      "slug": "sabine-enseleit",
+      "name": "Sabine Enseleit",
+      "name_padoka": "Enseleit, Sabine",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70360"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

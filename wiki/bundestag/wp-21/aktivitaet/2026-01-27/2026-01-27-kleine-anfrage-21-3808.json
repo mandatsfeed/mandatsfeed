@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-3808",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Nachfragen zur Finanzierungsleistung des Bundes gemäß den tourismuspolitisch relevanten Haushaltsansätzen im Bundeshaushalt 2025",
+  "date": "2026-01-27",
+  "persons": [
+    {
+      "slug": "erhard-brucker",
+      "name": "Erhard Brucker",
+      "name_padoka": "Brucker, Erhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/3808",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/038/2103808.pdf",
+    "filename": "2103808.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2021104700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Zusatzpunkt 35",
+  "date": "2025-01-31",
+  "persons": [
+    {
+      "slug": "dirk-spaniel",
+      "name": "Dirk Spaniel",
+      "name_padoka": "Spaniel, Dirk",
+      "role": "redner",
+      "fraktion": "fraktionslos",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/211",
+    "date": "2025-01-31",
+    "page": 27629
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20211.pdf"
+  }
+}

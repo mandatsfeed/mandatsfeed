@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215609500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte – Stabilisierung sichern, Wiedererstarken des IS verhindern, Versöhnung in Irak fördern",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "ulrich-thoden",
+      "name": "Ulrich Thoden",
+      "name_padoka": "Thoden, Ulrich",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/56",
+    "date": "2026-01-29",
+    "page": 6806
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21056.pdf"
+  }
+}

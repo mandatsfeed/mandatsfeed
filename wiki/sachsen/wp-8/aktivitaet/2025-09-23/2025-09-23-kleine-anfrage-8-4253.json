@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4253",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aus der Ukraine Geflüchtete in Sachsen 2024/2025",
+  "date": "2025-09-23",
+  "drsNr": "8/4253",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44724",
+    "filename": "Drs_8_4253_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

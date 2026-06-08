@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-340",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Richtlinie zur Bekämpfung der Varroatose bei Honigbienen",
+  "date": "2024-11-01",
+  "drsNr": "8/340",
+  "persons": [
+    {
+      "slug": "timo-schreyer",
+      "name": "Timo Schreyer",
+      "name_padoka": "Schreyer, Timo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36639",
+    "filename": "Drs_8_340_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211410900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL)",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "ralph-edelhausser",
+      "name": "Ralph Edelhäußer",
+      "name_padoka": "Edelhäußer, Ralph",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/14",
+    "date": "2025-06-26",
+    "page": 1330
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf"
+  }
+}

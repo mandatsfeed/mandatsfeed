@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6995",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Pensionierungen und Renteneintritte im Staatsministerium der Finanzen, nachgeordneter Behörden und Staatsbetriebe 2027 und 2028",
+  "date": "2026-05-19",
+  "drsNr": "8/6995",
+  "persons": [
+    {
+      "slug": "norbert-otto-mayer",
+      "name": "Norbert Otto Mayer",
+      "name_padoka": "Mayer, Norbert Otto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50795",
+    "filename": "Drs_8_6995_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

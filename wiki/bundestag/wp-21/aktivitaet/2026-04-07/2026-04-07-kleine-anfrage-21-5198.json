@@ -1,0 +1,42 @@
+{
+  "id": "dip-ka-21-5198",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Digitale Alarmierungs- und Verwaltungsanwendung \"Meine Reserve\" für Reservisten der Bundeswehr",
+  "date": "2026-04-07",
+  "persons": [
+    {
+      "slug": "andreas-paul",
+      "name": "Andreas Paul",
+      "name_padoka": "Paul, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-ralf-nolte",
+      "name": "Jan Ralf Nolte",
+      "name_padoka": "Nolte, Jan Ralf",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-espendiller",
+      "name": "Michael Espendiller",
+      "name_padoka": "Espendiller, Michael",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5198",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/051/2105198.pdf",
+    "filename": "2105198.pdf"
+  }
+}

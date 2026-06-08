@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3186",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Abruf und Verwendung von Landesmitteln der örtlichen Jugendförderung für Jugendverbandsarbeit",
+  "date": "2026-03-26",
+  "drsNr": "8/3186",
+  "persons": [
+    {
+      "slug": "linda-stark",
+      "name": "Linda Stark",
+      "name_padoka": "Stark, Linda",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106502"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

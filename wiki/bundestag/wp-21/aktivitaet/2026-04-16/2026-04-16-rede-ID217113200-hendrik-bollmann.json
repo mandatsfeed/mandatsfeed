@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217113200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Rekommunalisierung statt Ausverkauf – Für ein Vorkaufsrecht, das Mieterinnen und Mieter sowie Gewerbe schützt — Forderungen der Initiative HouseEurope für Erhalt, Renovierung und Umbau umsetzen und unnötigen Abriss beenden",
+  "date": "2026-04-16",
+  "persons": [
+    {
+      "slug": "hendrik-bollmann",
+      "name": "Hendrik Bollmann",
+      "name_padoka": "Bollmann, Hendrik",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/71",
+    "date": "2026-04-16",
+    "page": 8645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21071.pdf"
+  }
+}

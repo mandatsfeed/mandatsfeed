@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-7-wolf-dietrich-rost",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 7. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-02-12",
+  "persons": [
+    {
+      "slug": "wolf-dietrich-rost",
+      "name": "Wolf-Dietrich Rost",
+      "name_padoka": "Rost, Wolf-Dietrich",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/7",
+    "date": "2025-02-12"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=39371"
+  }
+}

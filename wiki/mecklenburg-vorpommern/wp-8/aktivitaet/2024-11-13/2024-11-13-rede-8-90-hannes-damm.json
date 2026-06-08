@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-90-hannes-damm",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "15 Redebeiträge in PlPr 8/90",
+  "date": "2024-11-13",
+  "persons": [
+    {
+      "slug": "hannes-damm",
+      "name": "Hannes Damm",
+      "name_padoka": "Damm, Hannes",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/90",
+    "date": "2024-11-13"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/63097"
+  }
+}

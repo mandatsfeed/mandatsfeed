@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5977",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Maßnahmen Tourismusverbände (DMO) und Landestourismusverband // DHH 23/24: Maßnahmen Tourismusverbände (DMO) und LTV (SMWK) nach der FÖMISAX Richtliniennummer 02590",
+  "date": "2026-02-06",
+  "drsNr": "8/5977",
+  "persons": [
+    {
+      "slug": "hajo-exner",
+      "name": "Hajo Exner",
+      "name_padoka": "Exner, Hajo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48168",
+    "filename": "Drs_8_5977_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

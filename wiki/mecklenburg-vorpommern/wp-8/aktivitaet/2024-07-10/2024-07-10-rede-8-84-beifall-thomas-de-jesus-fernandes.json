@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-84-beifall-thomas-de-jesus-fernandes",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/84",
+  "date": "2024-07-10",
+  "persons": [
+    {
+      "slug": "beifall-thomas-de-jesus-fernandes",
+      "name": "Beifall Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Beifall Thomas de Jesus",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/84",
+    "date": "2024-07-10"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/61177"
+  }
+}

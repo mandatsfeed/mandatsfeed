@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5184",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur Antwort auf Drucksache 8 /4826 Rolle von Auftritten der Bundeswehr in sächsischen \nBildungseinrichtungen",
+  "date": "2025-12-30",
+  "drsNr": "8/5184",
+  "persons": [
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46761",
+    "filename": "Drs_8_5184_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

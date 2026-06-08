@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214308600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 23",
+  "date": "2025-11-26",
+  "persons": [
+    {
+      "slug": "reem-alabali-radovan",
+      "name": "Reem Alabali Radovan",
+      "name_padoka": "Alabali Radovan, Reem",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/43",
+    "date": "2025-11-26",
+    "page": 5070
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21043.pdf"
+  }
+}

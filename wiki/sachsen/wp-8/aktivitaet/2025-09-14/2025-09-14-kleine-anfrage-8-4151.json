@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4151",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung der Investitionspauschalen und der Pauschalierung kommunaler Förderprogramme gemäß Koalitionsvertrag",
+  "date": "2025-09-14",
+  "drsNr": "8/4151",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44501",
+    "filename": "Drs_8_4151_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

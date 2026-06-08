@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216304600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Starke Kommunen, starke Demokratie – Für mehr Zusammenhalt vor Ort — Gutes Leben für alle – Handlungsfähigkeit der Kommunen wiederherstellen",
+  "date": "2026-03-06",
+  "persons": [
+    {
+      "slug": "wilhelm-gebhard",
+      "name": "Wilhelm Gebhard",
+      "name_padoka": "Gebhard, Wilhelm",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/63",
+    "date": "2026-03-06",
+    "page": 7655
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21063.pdf"
+  }
+}

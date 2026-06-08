@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216900800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Private Altersvorsorge modernisieren – ETF-Sparplan für die Rente ermöglichen — Ein Bürgerfonds für eine bessere ergänzende Altersvorsorge – Einfach, sicher, renditestark",
+  "date": "2026-03-27",
+  "persons": [
+    {
+      "slug": "carsten-brodesser",
+      "name": "Carsten Brodesser",
+      "name_padoka": "Brodesser, Carsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/69",
+    "date": "2026-03-27",
+    "page": 8419
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21069.pdf"
+  }
+}

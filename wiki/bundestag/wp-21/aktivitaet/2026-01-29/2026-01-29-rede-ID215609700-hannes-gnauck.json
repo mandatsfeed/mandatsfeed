@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215609700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte – Stabilisierung sichern, Wiedererstarken des IS verhindern, Versöhnung in Irak fördern",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "hannes-gnauck",
+      "name": "Hannes Gnauck",
+      "name_padoka": "Gnauck, Hannes",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/56",
+    "date": "2026-01-29",
+    "page": 6806
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21056.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216415900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Primärversorgung gesetzlich verankern – Die Versorgung der Patientinnen und Patienten bedarfsgerecht steuern, Fachkräfte entlasten — Medizinische Versorgungszentren reformieren",
+  "date": "2026-03-18",
+  "persons": [
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "name_padoka": "Bloch, Joachim",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/64",
+    "date": "2026-03-18",
+    "page": 7765
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21064.pdf"
+  }
+}

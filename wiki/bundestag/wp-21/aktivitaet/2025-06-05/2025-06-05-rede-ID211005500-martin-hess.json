@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211005500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Europarecht einhalten, Schutzbedürftige schützen, Zurückweisungen an den Binnengrenzen beenden — Zurückweisung von Schutzsuchenden beenden",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "name_padoka": "Hess, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

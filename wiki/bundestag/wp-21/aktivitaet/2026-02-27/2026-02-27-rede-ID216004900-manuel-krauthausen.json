@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216004900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für das Recht auf Heizen – Bezahlbar und erneuerbar",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "manuel-krauthausen",
+      "name": "Manuel Krauthausen",
+      "name_padoka": "Krauthausen, Manuel",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

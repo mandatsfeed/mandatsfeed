@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211602600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 09",
+  "date": "2025-07-08",
+  "persons": [
+    {
+      "slug": "wolfgang-wiehle",
+      "name": "Wolfgang Wiehle",
+      "name_padoka": "Wiehle, Wolfgang",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/16",
+    "date": "2025-07-08",
+    "page": 1572
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21016.pdf"
+  }
+}

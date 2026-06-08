@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215911900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Technisierung statt Zuwanderung – Für einen leistungsfähigen Arbeitsmarkt",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "markus-reichel",
+      "name": "Markus Reichel",
+      "name_padoka": "Reichel, Markus",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

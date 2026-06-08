@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6301",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ausrichtung der Grünen Woche 2026 durch das Land Mecklenburg-Vorpommern",
+  "date": "2026-03-31",
+  "drsNr": "8/6301",
+  "persons": [
+    {
+      "slug": "thomas-diener",
+      "name": "Thomas Diener",
+      "name_padoka": "Diener, Thomas",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70461"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21710200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Berichtigung",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "name_padoka": "Wagner, Sascha",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/7",
+    "date": "2025-05-22",
+    "page": 573
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21007.pdf"
+  }
+}

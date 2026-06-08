@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216414700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde tato — Wettbewerb an der Tankstelle durchsetzen – Verbraucher und Unternehmen stärken",
+  "date": "2026-03-18",
+  "persons": [
+    {
+      "slug": "klaus-wiener",
+      "name": "Klaus Wiener",
+      "name_padoka": "Wiener, Klaus",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/64",
+    "date": "2026-03-18",
+    "page": 7765
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21064.pdf"
+  }
+}

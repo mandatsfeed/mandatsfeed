@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217804800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zwingende Mitbestimmungsrechte des Betriebsrats ausbauen — Arbeitsgrundlagen von Betriebsräten verbessern",
+  "date": "2026-05-08",
+  "persons": [
+    {
+      "slug": "angelika-glockner",
+      "name": "Angelika Glöckner",
+      "name_padoka": "Glöckner, Angelika",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/78",
+    "date": "2026-05-08",
+    "page": 9394
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21078.pdf"
+  }
+}

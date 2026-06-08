@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-40-julian-barlen",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "8 Redebeiträge in PlPr 8/40",
+  "date": "2022-12-08",
+  "persons": [
+    {
+      "slug": "julian-barlen",
+      "name": "Julian Barlen",
+      "name_padoka": "Barlen, Julian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/40",
+    "date": "2022-12-08"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/55585"
+  }
+}

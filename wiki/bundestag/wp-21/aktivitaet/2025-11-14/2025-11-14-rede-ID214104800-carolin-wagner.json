@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214104800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Strategie zur digitalen Souveränität – Für eine selbstbestimmte digitale Zukunft Deutschlands und Europas — Vertrauenswürdige Künstliche Intelligenz ermöglichen – Umsetzung der europäischen KI-Verordnung in Deutschland beschleunigen, Innovation fördern und digitale Souveränität stärken",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "carolin-wagner",
+      "name": "Carolin Wagner",
+      "name_padoka": "Wagner, Carolin",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/41",
+    "date": "2025-11-14",
+    "page": 4840
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213313900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Bedrohungslage Deutschlands ernst nehmen",
+  "date": "2025-10-15",
+  "persons": [
+    {
+      "slug": "florian-hahn",
+      "name": "Florian Hahn",
+      "name_padoka": "Hahn, Florian",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsminister beim Bundesminister des Auswärtigen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/33",
+    "date": "2025-10-15",
+    "page": 3628
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21033.pdf"
+  }
+}

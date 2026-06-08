@@ -1,0 +1,168 @@
+{
+  "id": "dip-ka-21-3965",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Position der Bundesregierung zur Reform von Transparenz und Nachhaltigkeit bei der Handelsfinanzierung der International Finance Corporation der Weltbankgruppe",
+  "date": "2026-02-03",
+  "persons": [
+    {
+      "slug": "maren-kaminski",
+      "name": "Maren Kaminski",
+      "name_padoka": "Kaminski, Maren",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "lea-reisner",
+      "name": "Lea Reisner",
+      "name_padoka": "Reisner, Lea",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "vinzenz-glaser",
+      "name": "Vinzenz Glaser",
+      "name_padoka": "Glaser, Vinzenz",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "zada-salihovic",
+      "name": "Zada Salihovic",
+      "name_padoka": "Salihovic, Zada",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "name_padoka": "Conrad, Agnes",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "desiree-becker",
+      "name": "Desiree Becker",
+      "name_padoka": "Becker, Desiree",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "lisa-schubert",
+      "name": "Lisa Schubert",
+      "name_padoka": "Schubert, Lisa",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "jan-kostering",
+      "name": "Jan Köstering",
+      "name_padoka": "Köstering, Jan",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "aaron-valent",
+      "name": "Aaron Valent",
+      "name_padoka": "Valent, Aaron",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "name_padoka": "Latendorf, Ina",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "charlotte-antonia-neuhauser",
+      "name": "Charlotte Antonia Neuhäuser",
+      "name_padoka": "Neuhäuser, Charlotte Antonia",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "donata-vogtschmidt",
+      "name": "Donata Vogtschmidt",
+      "name_padoka": "Vogtschmidt, Donata",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "name_padoka": "Wagner, Sascha",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "mirze-edis",
+      "name": "Mirze Edis",
+      "name_padoka": "Edis, Mirze",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "christin-willnat",
+      "name": "Christin Willnat",
+      "name_padoka": "Willnat, Christin",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ulrich-thoden",
+      "name": "Ulrich Thoden",
+      "name_padoka": "Thoden, Ulrich",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "doris-achelwilm",
+      "name": "Doris Achelwilm",
+      "name_padoka": "Achelwilm, Doris",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "cansu-ozdemir",
+      "name": "Cansu Özdemir",
+      "name_padoka": "Özdemir, Cansu",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "gokay-akbulut",
+      "name": "Gökay Akbulut",
+      "name_padoka": "Akbulut, Gökay",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "katrin-fey",
+      "name": "Katrin Fey",
+      "name_padoka": "Fey, Katrin",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/3965",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/039/2103965.pdf",
+    "filename": "2103965.pdf"
+  }
+}

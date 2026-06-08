@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214108400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Klimaschutz nicht schwächen – Bundesregierung muss Führungsrolle in der Klimapolitik einnehmen",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "micha-fehre",
+      "name": "Micha Fehre",
+      "name_padoka": "Fehre, Micha",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/41",
+    "date": "2025-11-14",
+    "page": 4840
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf"
+  }
+}

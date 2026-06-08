@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-23-abgeordneter-thomas",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/23",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "abgeordneter-thomas",
+      "name": "Abgeordneter Thomas",
+      "name_padoka": "Thomas, Abgeordneter",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/23",
+    "date": "2025-09-11"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/103644"
+  }
+}

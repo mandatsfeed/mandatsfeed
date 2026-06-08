@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-610",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage Kleine Anfrage Drs.-Nr. 7/14630 \"Geriatrische Versorgung in Sachsen 2018-2023\"",
+  "date": "2024-12-04",
+  "drsNr": "8/610",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37248",
+    "filename": "Drs_8_610_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

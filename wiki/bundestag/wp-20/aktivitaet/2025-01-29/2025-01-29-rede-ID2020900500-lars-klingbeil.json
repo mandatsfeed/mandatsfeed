@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2020900500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Zu aktuellen innenpolitischen Themen",
+  "date": "2025-01-29",
+  "persons": [
+    {
+      "slug": "lars-klingbeil",
+      "name": "Lars Klingbeil",
+      "name_padoka": "Klingbeil, Lars",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/209",
+    "date": "2025-01-29",
+    "page": 27188
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20209.pdf"
+  }
+}

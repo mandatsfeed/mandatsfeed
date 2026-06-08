@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217305100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-04-22",
+  "persons": [
+    {
+      "slug": "hans-jurgen-gossner",
+      "name": "Hans-Jürgen Goßner",
+      "name_padoka": "Goßner, Hans-Jürgen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/73",
+    "date": "2026-04-22",
+    "page": 8809
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21073.pdf"
+  }
+}

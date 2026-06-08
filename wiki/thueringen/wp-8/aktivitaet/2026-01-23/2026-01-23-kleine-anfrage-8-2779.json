@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2779",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Auffassung und Abstimmung der Landesregierung zum Infrastruktur-Zukunftsgesetz",
+  "date": "2026-01-23",
+  "drsNr": "8/2779",
+  "persons": [
+    {
+      "slug": "nadine-hoffmann",
+      "name": "Nadine Hoffmann",
+      "name_padoka": "Hoffmann, Nadine",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105566"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

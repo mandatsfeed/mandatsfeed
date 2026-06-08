@@ -1,0 +1,35 @@
+{
+  "id": "dip-ka-20-14548",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "kleine_anfrage",
+  "title": "Bürokratische Hürden bei Planwagenfahrten zur Brauchtumspflege",
+  "date": "2025-01-16",
+  "persons": [
+    {
+      "slug": "fabian-griewel",
+      "name": "Fabian Griewel",
+      "name_padoka": "Griewel, Fabian",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "carina-konrad",
+      "name": "Carina Konrad",
+      "name_padoka": "Konrad, Carina",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "drsNr": "20/14548",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/145/2014548.pdf",
+    "filename": "2014548.pdf"
+  }
+}

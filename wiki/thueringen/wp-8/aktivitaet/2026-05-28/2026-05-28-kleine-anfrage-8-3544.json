@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3544",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Deeskalation, milde Mittel und versammlungsfreundliches Verwaltungshandeln beim Zusammentreffen von AfD-Bundesparteitag und Gegenprotesten in Erfurt",
+  "date": "2026-05-28",
+  "drsNr": "8/3544",
+  "persons": [
+    {
+      "slug": "anja-muller",
+      "name": "Anja Müller",
+      "name_padoka": "Müller, Anja",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107312"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215312400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Stärkung des Katastrophenschutzes und der Resistenz kritischer Infrastrukturen in Deutschland – Lehren aus dem Stromausfall in Berlin ziehen",
+  "date": "2026-01-15",
+  "persons": [
+    {
+      "slug": "jan-kostering",
+      "name": "Jan Köstering",
+      "name_padoka": "Köstering, Jan",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/53",
+    "date": "2026-01-15",
+    "page": 6420
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21053.pdf"
+  }
+}

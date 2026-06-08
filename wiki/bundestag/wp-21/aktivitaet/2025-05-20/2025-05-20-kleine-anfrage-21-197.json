@@ -1,0 +1,133 @@
+{
+  "id": "dip-ka-21-197",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Engagement der Bundesregierung im Zusammenhang mit Wasserstoffprojekten in Uruguay, Chile und Kolumbien",
+  "date": "2025-05-20",
+  "persons": [
+    {
+      "slug": "sahra-mirow",
+      "name": "Sahra Mirow",
+      "name_padoka": "Mirow, Sahra",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "jorg-cezanne",
+      "name": "Jörg Cezanne",
+      "name_padoka": "Cezanne, Jörg",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "katrin-fey",
+      "name": "Katrin Fey",
+      "name_padoka": "Fey, Katrin",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "maren-kaminski",
+      "name": "Maren Kaminski",
+      "name_padoka": "Kaminski, Maren",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "janine-wissler",
+      "name": "Janine Wissler",
+      "name_padoka": "Wissler, Janine",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "charlotte-antonia-neuhauser",
+      "name": "Charlotte Antonia Neuhäuser",
+      "name_padoka": "Neuhäuser, Charlotte Antonia",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "cem-ince",
+      "name": "Cem Ince",
+      "name_padoka": "Ince, Cem",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "lea-reisner",
+      "name": "Lea Reisner",
+      "name_padoka": "Reisner, Lea",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "name_padoka": "Wagner, Sascha",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "mirze-edis",
+      "name": "Mirze Edis",
+      "name_padoka": "Edis, Mirze",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "gokay-akbulut",
+      "name": "Gökay Akbulut",
+      "name_padoka": "Akbulut, Gökay",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "maik-bruckner",
+      "name": "Maik Brückner",
+      "name_padoka": "Brückner, Maik",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "vinzenz-glaser",
+      "name": "Vinzenz Glaser",
+      "name_padoka": "Glaser, Vinzenz",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "name_padoka": "Conrad, Agnes",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/197",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/001/2100197.pdf",
+    "filename": "2100197.pdf"
+  }
+}

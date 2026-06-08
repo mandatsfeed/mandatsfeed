@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211407500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Lage im Nahen und Mittleren Osten",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "jurgen-hardt",
+      "name": "Jürgen Hardt",
+      "name_padoka": "Hardt, Jürgen",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/14",
+    "date": "2025-06-26",
+    "page": 1330
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf"
+  }
+}

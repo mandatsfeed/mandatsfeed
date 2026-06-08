@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211500700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Familiennachzug zu Schutzbedürftigen erleichtern statt aussetzen",
+  "date": "2025-06-27",
+  "persons": [
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/15",
+    "date": "2025-06-27",
+    "page": 1439
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21015.pdf"
+  }
+}

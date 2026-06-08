@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211013800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Frühjahrsdürre und Hitzeprognosen ernst nehmen – Jetzt entschlossen handeln — Unterstützung des Bundes im Rahmen der Waldbrand- und Vegetationsbrandbekämpfung",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "jan-kostering",
+      "name": "Jan Köstering",
+      "name_padoka": "Köstering, Jan",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-205",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kosten für den YouTube-Kanal des Staatsministeriums für Regionalentwicklung",
+  "date": "2024-10-18",
+  "drsNr": "8/205",
+  "persons": [
+    {
+      "slug": "roberto-kuhnert",
+      "name": "Roberto Kuhnert",
+      "name_padoka": "Kuhnert, Roberto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36373",
+    "filename": "Drs_8_205_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

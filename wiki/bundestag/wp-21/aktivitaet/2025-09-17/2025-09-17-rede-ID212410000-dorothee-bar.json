@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212410000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 30",
+  "date": "2025-09-17",
+  "persons": [
+    {
+      "slug": "dorothee-bar",
+      "name": "Dorothee Bär",
+      "name_padoka": "Bär, Dorothee",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Forschung, Technologie und Raumfahrt"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/24",
+    "date": "2025-09-17",
+    "page": 2613
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21024.pdf"
+  }
+}

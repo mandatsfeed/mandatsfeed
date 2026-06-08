@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215212400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Mutmaßlich linksextremistischer Terroranschlag auf die Stromversorgung in Berlin – Krisenmanagement und mögliches Versagen untersuchen",
+  "date": "2026-01-14",
+  "persons": [
+    {
+      "slug": "jan-marco-luczak",
+      "name": "Jan-Marco Luczak",
+      "name_padoka": "Luczak, Jan-Marco",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/52",
+    "date": "2026-01-14",
+    "page": 6266
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21052.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5990",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Rechtsgrundlagen der Gewährung finanzieller Hilfen aus dem Bundesprogrammes Corona-Soforthilfe-Zuschuss ab März 2020 im Freistaat Sachsen",
+  "date": "2026-02-09",
+  "drsNr": "8/5990",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48216",
+    "filename": "Drs_8_5990_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

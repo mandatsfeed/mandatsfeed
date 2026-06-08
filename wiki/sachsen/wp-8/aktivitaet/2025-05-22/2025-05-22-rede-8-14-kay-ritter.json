@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-14-kay-ritter",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 14. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "kay-ritter",
+      "name": "Kay Ritter",
+      "name_padoka": "Ritter, Kay",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/14",
+    "date": "2025-05-22"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=42103"
+  }
+}

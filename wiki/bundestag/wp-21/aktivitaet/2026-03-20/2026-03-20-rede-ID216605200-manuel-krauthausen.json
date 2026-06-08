@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216605200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Klimageld – Sofort und sozial gerecht",
+  "date": "2026-03-20",
+  "persons": [
+    {
+      "slug": "manuel-krauthausen",
+      "name": "Manuel Krauthausen",
+      "name_padoka": "Krauthausen, Manuel",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/66",
+    "date": "2026-03-20",
+    "page": 8028
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21066.pdf"
+  }
+}

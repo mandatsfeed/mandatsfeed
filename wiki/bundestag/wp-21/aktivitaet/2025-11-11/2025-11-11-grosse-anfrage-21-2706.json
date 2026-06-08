@@ -1,0 +1,40 @@
+{
+  "id": "dip-ka-21-2706",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "grosse_anfrage",
+  "title": "Verdienste der Beauftragten und Koordinatoren der Bundesregierung in der 20. Wahlperiode",
+  "date": "2025-11-11",
+  "persons": [
+    {
+      "slug": "rainer-galla",
+      "name": "Rainer Galla",
+      "name_padoka": "Galla, Rainer",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "name_padoka": "Bloch, Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/2706",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/027/2102706.pdf",
+    "filename": "2102706.pdf"
+  }
+}

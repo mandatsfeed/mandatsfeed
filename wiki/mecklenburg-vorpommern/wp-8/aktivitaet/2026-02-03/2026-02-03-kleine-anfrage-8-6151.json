@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6151",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "MLC-Einstufung von Brücken",
+  "date": "2026-02-03",
+  "drsNr": "8/6151",
+  "persons": [
+    {
+      "slug": "sabine-enseleit",
+      "name": "Sabine Enseleit",
+      "name_padoka": "Enseleit, Sabine",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69562"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

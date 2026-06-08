@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213114100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bürger, Mittelstand und Industrie entlasten – Stromsteuer für alle dauerhaft auf europäisches Mindestmaß absenken",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "stefan-korbach",
+      "name": "Stefan Korbach",
+      "name_padoka": "Korbach, Stefan",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

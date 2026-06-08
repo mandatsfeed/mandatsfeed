@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215510100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "norbert-maria-altenkamp",
+      "name": "Norbert Maria Altenkamp",
+      "name_padoka": "Altenkamp, Norbert Maria",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/55",
+    "date": "2026-01-28",
+    "page": 6646
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21055.pdf"
+  }
+}

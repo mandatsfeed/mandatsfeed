@@ -1,0 +1,79 @@
+{
+  "id": "dip-rede-21-7",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 143i)",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "daniel-walter",
+      "name": "Daniel Walter",
+      "name_padoka": "Walter, Daniel",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "name_padoka": "Finger, Hauke",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "florian-ossner",
+      "name": "Florian Oßner",
+      "name_padoka": "Oßner, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "karoline-otte",
+      "name": "Karoline Otte",
+      "name_padoka": "Otte, Karoline",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "hendrik-bollmann",
+      "name": "Hendrik Bollmann",
+      "name_padoka": "Bollmann, Hendrik",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "mirco-hanker",
+      "name": "Mirco Hanker",
+      "name_padoka": "Hanker, Mirco",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-haase",
+      "name": "Christian Haase",
+      "name_padoka": "Haase, Christian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "name_padoka": "Wagner, Sascha",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "spd",
+    "afd",
+    "cdu-csu",
+    "bundnis-90-die-gruenen",
+    "die-linke"
+  ],
+  "drsNr": "21/7",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21007.pdf#P.572",
+    "filename": "21007.pdf#P.572"
+  }
+}

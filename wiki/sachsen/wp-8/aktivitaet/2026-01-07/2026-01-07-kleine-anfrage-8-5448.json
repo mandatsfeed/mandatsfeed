@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5448",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entschließungsantrag: Beschlussempfehlung und Bericht des Ausschusses für Soziales und Gesellschaftlichen Zusammenhalt zum \"Sächsischen Gesetz zur Reform der Hilfen und Schutzmaßnahmen bei psychischen Erkrankungen\" (Drs. 7/16656)",
+  "date": "2026-01-07",
+  "drsNr": "8/5448",
+  "persons": [
+    {
+      "slug": "doreen-voigt",
+      "name": "Doreen Voigt",
+      "name_padoka": "Voigt, Doreen",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47127",
+    "filename": "Drs_8_5448_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21302200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "thorsten-frei",
+      "name": "Thorsten Frei",
+      "name_padoka": "Frei, Thorsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister für besondere Aufgaben"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/3",
+    "date": "2025-05-14",
+    "page": 175
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21003.pdf"
+  }
+}

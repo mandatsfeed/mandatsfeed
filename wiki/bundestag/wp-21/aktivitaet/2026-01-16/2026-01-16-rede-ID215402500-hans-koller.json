@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215402500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kommunen, Landschaft und Natur schützen – Keine Sonderrechte für Windkraft-, Solar- und Wasserstoffanlagen — Insektenbiomasse und -vielfalt vor weiterem Ausbau der Windindustrie schützen",
+  "date": "2026-01-16",
+  "persons": [
+    {
+      "slug": "hans-koller",
+      "name": "Hans Koller",
+      "name_padoka": "Koller, Hans",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/54",
+    "date": "2026-01-16",
+    "page": 6545
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21054.pdf"
+  }
+}

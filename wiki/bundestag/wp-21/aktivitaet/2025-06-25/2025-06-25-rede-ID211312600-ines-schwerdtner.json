@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211312600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Bericht der Sonderbeauftragten für die Maskenbeschaffung – Volle Transparenz und Aufklärung jetzt",
+  "date": "2025-06-25",
+  "persons": [
+    {
+      "slug": "ines-schwerdtner",
+      "name": "Ines Schwerdtner",
+      "name_padoka": "Schwerdtner, Ines",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/13",
+    "date": "2025-06-25",
+    "page": 1104
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21013.pdf"
+  }
+}

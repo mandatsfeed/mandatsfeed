@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3220",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Auslastung der Intercity-Linie IC 51 (Gera–Kassel/Düsseldorf)",
+  "date": "2026-03-30",
+  "drsNr": "8/3220",
+  "persons": [
+    {
+      "slug": "andreas-schubert",
+      "name": "Andreas Schubert",
+      "name_padoka": "Schubert, Andreas",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106567"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-25-laura-stellbrink",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in 25. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-02-05",
+  "persons": [
+    {
+      "slug": "laura-stellbrink",
+      "name": "Laura Stellbrink",
+      "name_padoka": "Stellbrink, Laura",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/25",
+    "date": "2026-02-05"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=48297"
+  }
+}

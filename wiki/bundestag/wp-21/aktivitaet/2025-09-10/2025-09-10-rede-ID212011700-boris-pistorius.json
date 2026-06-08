@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212011700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-09-10",
+  "persons": [
+    {
+      "slug": "boris-pistorius",
+      "name": "Boris Pistorius",
+      "name_padoka": "Pistorius, Boris",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister der Verteidigung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/20",
+    "date": "2025-09-10",
+    "page": 2027
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21020.pdf"
+  }
+}

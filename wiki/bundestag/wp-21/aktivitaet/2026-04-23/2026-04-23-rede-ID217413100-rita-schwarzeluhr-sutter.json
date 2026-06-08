@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217413100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "40 Jahre Tschernobyl – Atomkraft und ihre Folgen",
+  "date": "2026-04-23",
+  "persons": [
+    {
+      "slug": "rita-schwarzeluhr-sutter",
+      "name": "Rita Schwarzelühr-Sutter",
+      "name_padoka": "Schwarzelühr-Sutter, Rita",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretärin beim Bundesminister für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/74",
+    "date": "2026-04-23",
+    "page": 8958
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21074.pdf"
+  }
+}

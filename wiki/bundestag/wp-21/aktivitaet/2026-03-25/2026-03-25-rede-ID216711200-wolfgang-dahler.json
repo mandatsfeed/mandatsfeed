@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216711200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Unterhaltsvorschuss reformieren – Chancen für Kinder Alleinerziehender verbessern",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "wolfgang-dahler",
+      "name": "Wolfgang Dahler",
+      "name_padoka": "Dahler, Wolfgang",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/67",
+    "date": "2026-03-25",
+    "page": 8125
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21067.pdf"
+  }
+}

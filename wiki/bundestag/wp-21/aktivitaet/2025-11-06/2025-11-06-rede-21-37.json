@@ -1,0 +1,58 @@
+{
+  "id": "dip-rede-21-37",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz zur Einschränkung der Aufsuchung und Gewinnung von Bodenschätzen in den geschützten Meeresgebieten im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels",
+  "date": "2025-11-06",
+  "persons": [
+    {
+      "slug": "carsten-trager",
+      "name": "Carsten Träger",
+      "name_padoka": "Träger, Carsten",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "funktion": "Parl. Staatssekr."
+    },
+    {
+      "slug": "steffi-lemke",
+      "name": "Steffi Lemke",
+      "name_padoka": "Lemke, Steffi",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "leif-erik-bodin",
+      "name": "Leif Erik Bodin",
+      "name_padoka": "Bodin, Leif Erik",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "michael-blos",
+      "name": "Michael Blos",
+      "name_padoka": "Blos, Michael",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen",
+    "die-linke",
+    "cdu-csu",
+    "afd"
+  ],
+  "drsNr": "21/37",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21037.pdf#P.4269",
+    "filename": "21037.pdf#P.4269"
+  }
+}

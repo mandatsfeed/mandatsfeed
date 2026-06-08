@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-77-harry-glawe",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in PlPr 8/77",
+  "date": "2024-03-15",
+  "persons": [
+    {
+      "slug": "harry-glawe",
+      "name": "Harry Glawe",
+      "name_padoka": "Glawe, Harry",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/77",
+    "date": "2024-03-15"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/60136"
+  }
+}

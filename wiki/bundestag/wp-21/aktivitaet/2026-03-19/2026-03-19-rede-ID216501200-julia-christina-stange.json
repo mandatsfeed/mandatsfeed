@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216501200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Internationaler Frauentag",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "julia-christina-stange",
+      "name": "Julia-Christina Stange",
+      "name_padoka": "Stange, Julia-Christina",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

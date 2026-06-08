@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212100300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Unterstützung alter Menschen und Pflege zukunftssicher machen – Qualität sichern und bezahlbar gestalten",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "sabine-dittmar",
+      "name": "Sabine Dittmar",
+      "name_padoka": "Dittmar, Sabine",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/21",
+    "date": "2025-09-11",
+    "page": 2179
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21021.pdf"
+  }
+}

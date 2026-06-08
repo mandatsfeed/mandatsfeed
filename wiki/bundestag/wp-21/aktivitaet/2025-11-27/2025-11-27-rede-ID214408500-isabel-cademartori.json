@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214408500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.17",
+  "date": "2025-11-27",
+  "persons": [
+    {
+      "slug": "isabel-cademartori",
+      "name": "Isabel Cademartori",
+      "name_padoka": "Cademartori, Isabel",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/44",
+    "date": "2025-11-27",
+    "page": 5202
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21044.pdf"
+  }
+}

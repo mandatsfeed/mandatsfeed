@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2021202000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Zur Situation in Deutschland",
+  "date": "2025-02-11",
+  "persons": [
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "name_padoka": "Seidler, Stefan",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/212",
+    "date": "2025-02-11",
+    "page": 27680
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20212.pdf"
+  }
+}

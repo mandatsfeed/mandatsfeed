@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID211000200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mietpreisbremse verschärfen – Mieten stoppen",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "stefanie-hubig",
+      "name": "Stefanie Hubig",
+      "name_padoka": "Hubig, Stefanie",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesministerin der Justiz und für Verbraucherschutz"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

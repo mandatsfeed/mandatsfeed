@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-25-beifall-sebastian-ehlers",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/25",
+  "date": "2022-06-28",
+  "persons": [
+    {
+      "slug": "beifall-sebastian-ehlers",
+      "name": "Beifall Sebastian Ehlers",
+      "name_padoka": "Ehlers, Beifall Sebastian",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/25",
+    "date": "2022-06-28"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/53338"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217413000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "40 Jahre Tschernobyl – Atomkraft und ihre Folgen",
+  "date": "2026-04-23",
+  "persons": [
+    {
+      "slug": "rainer-kraft",
+      "name": "Rainer Kraft",
+      "name_padoka": "Kraft, Rainer",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/74",
+    "date": "2026-04-23",
+    "page": 8958
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21074.pdf"
+  }
+}

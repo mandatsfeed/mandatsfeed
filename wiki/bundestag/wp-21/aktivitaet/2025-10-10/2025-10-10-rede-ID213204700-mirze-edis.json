@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213204700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wirtschaftspartnerschaftsabkommen mit Afrika – Chancen für fairen Handel und gerechtere Globalisierung nutzen",
+  "date": "2025-10-10",
+  "persons": [
+    {
+      "slug": "mirze-edis",
+      "name": "Mirze Edis",
+      "name_padoka": "Edis, Mirze",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/32",
+    "date": "2025-10-10",
+    "page": 3522
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21032.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212207000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 31",
+  "date": "2025-09-12",
+  "persons": [
+    {
+      "slug": "thomas-fetsch",
+      "name": "Thomas Fetsch",
+      "name_padoka": "Fetsch, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/22",
+    "date": "2025-09-12",
+    "page": 2305
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21022.pdf"
+  }
+}

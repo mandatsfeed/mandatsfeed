@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211805700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 7",
+  "date": "2025-07-10",
+  "persons": [
+    {
+      "slug": "nina-scheer",
+      "name": "Nina Scheer",
+      "name_padoka": "Scheer, Nina",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/18",
+    "date": "2025-07-10",
+    "page": 1859
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21018.pdf"
+  }
+}

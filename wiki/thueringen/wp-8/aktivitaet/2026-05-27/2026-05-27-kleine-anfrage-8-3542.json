@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3542",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Rechtssichere Einsatzführung und Unterrichtung auswärtiger Polizeikräfte beim AfD-Bundesparteitag in Erfurt",
+  "date": "2026-05-27",
+  "drsNr": "8/3542",
+  "persons": [
+    {
+      "slug": "christian-schaft",
+      "name": "Christian Schaft",
+      "name_padoka": "Schaft, Christian",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107399"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

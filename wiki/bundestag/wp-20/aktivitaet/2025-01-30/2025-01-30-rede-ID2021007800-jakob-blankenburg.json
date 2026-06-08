@@ -1,0 +1,28 @@
+{
+  "id": "dip-rede-ID2021007800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Abschluss der Beweisaufnahme im 2. Untersuchungsausschuss",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "jakob-blankenburg",
+      "name": "Jakob Blankenburg",
+      "name_padoka": "Blankenburg, Jakob",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217916900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Keine Stationierung von Mittelstreckenraketen in Deutschland",
+  "date": "2026-05-20",
+  "persons": [
+    {
+      "slug": "ralf-stegner",
+      "name": "Ralf Stegner",
+      "name_padoka": "Stegner, Ralf",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/79",
+    "date": "2026-05-20",
+    "page": 9506
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21079.pdf"
+  }
+}

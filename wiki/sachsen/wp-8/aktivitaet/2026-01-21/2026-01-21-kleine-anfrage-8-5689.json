@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5689",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Versorgungslage Schwangerschaftsabbrüche - Datengrundlagen und Bewertungsmaßstäbe",
+  "date": "2026-01-21",
+  "drsNr": "8/5689",
+  "persons": [
+    {
+      "slug": "katja-meier",
+      "name": "Katja Meier",
+      "name_padoka": "Meier, Katja",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47511",
+    "filename": "Drs_8_5689_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

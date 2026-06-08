@@ -1,0 +1,61 @@
+{
+  "id": "dip-drs-21-4293",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Fanrechte im Fußball stärken - Diskriminierung und Repression bekämpfen, demokratische Beteiligung fördern",
+  "date": "2026-02-24",
+  "persons": [
+    {
+      "slug": "ophelia-nick",
+      "name": "Ophelia Nick",
+      "name_padoka": "Nick, Ophelia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marcel-emmerich",
+      "name": "Marcel Emmerich",
+      "name_padoka": "Emmerich, Marcel",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "tina-winklmann",
+      "name": "Tina Winklmann",
+      "name_padoka": "Winklmann, Tina",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "konstantin-von-notz",
+      "name": "Konstantin von Notz",
+      "name_padoka": "von Notz, Konstantin",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "helge-limburg",
+      "name": "Helge Limburg",
+      "name_padoka": "Limburg, Helge",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "nyke-slawik",
+      "name": "Nyke Slawik",
+      "name_padoka": "Slawik, Nyke",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/4293",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/042/2104293.pdf",
+    "filename": "2104293.pdf"
+  }
+}

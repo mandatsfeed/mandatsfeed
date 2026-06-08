@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211502900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 30",
+  "date": "2025-06-27",
+  "persons": [
+    {
+      "slug": "melanie-bernstein",
+      "name": "Melanie Bernstein",
+      "name_padoka": "Bernstein, Melanie",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/15",
+    "date": "2025-06-27",
+    "page": 1439
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21015.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-23-thomas-wurdisch",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/23",
+  "date": "2022-05-19",
+  "persons": [
+    {
+      "slug": "thomas-wurdisch",
+      "name": "Thomas Würdisch",
+      "name_padoka": "Würdisch, Thomas",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/23",
+    "date": "2022-05-19"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/52827"
+  }
+}

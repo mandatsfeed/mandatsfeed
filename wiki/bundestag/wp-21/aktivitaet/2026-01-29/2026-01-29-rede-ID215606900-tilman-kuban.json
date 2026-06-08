@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215606900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Mercosur-Abkommen zügig anwenden – Europas Souveränität und Handlungsfähigkeit durch Freihandel stärken",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "tilman-kuban",
+      "name": "Tilman Kuban",
+      "name_padoka": "Kuban, Tilman",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/56",
+    "date": "2026-01-29",
+    "page": 6806
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21056.pdf"
+  }
+}

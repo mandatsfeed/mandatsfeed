@@ -12,12 +12,21 @@ node_modules/
 # Secrets — never commit (siehe .env.example fuer die Felder)
 .env
 
-# Forschungsphase: keine Daten-Artefakte im Repo committen.
-# Bis schriftliche Erlaubnis vorliegt (siehe README, Abschnitt „Status"), bleiben
-# alle vom Adapter erzeugten JSONs und generierten RSS-Feeds nur lokal.
+# Daten-Veröffentlichungs-Policy (siehe README, Abschnitt „Status"):
+#
+# Standard: alle adapter-erzeugten JSONs + RSS-Feeds bleiben lokal …
 wiki/**/*.json
 wiki/**/*.xml
-
-# UPDATES.md ist die Diff-Zusammenfassung der Daten-Commits — solange keine Daten
-# im Repo sind, hat sie keine Aussagekraft und bleibt lokal.
-UPDATES.md
+#
+# … außer für Parlamente, deren Quell-robots.txt das nicht ausschließt:
+!wiki/bundestag/**
+!wiki/mecklenburg-vorpommern/**
+!wiki/thueringen/**
+!wiki/sachsen/**
+!wiki/metadata.json
+#
+# Forschungsphase (robots.txt = "Disallow: /") — Daten nur lokal, bis
+# eine schriftliche Erlaubnis der Parlamentsdokumentation vorliegt:
+#   • Sachsen-Anhalt PADOKA
+#   • Brandenburg STARWEB
+# Diese werden durch die wiki/**/*.json-Regel oben weiter ausgeschlossen.

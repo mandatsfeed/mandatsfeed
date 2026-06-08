@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214715400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gewaltschutz ganzheitlich denken – Istanbul-Konvention vollständig umsetzen",
+  "date": "2025-12-04",
+  "persons": [
+    {
+      "slug": "birgit-bessin",
+      "name": "Birgit Bessin",
+      "name_padoka": "Bessin, Birgit",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/47",
+    "date": "2025-12-04",
+    "page": 5560
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21047.pdf"
+  }
+}

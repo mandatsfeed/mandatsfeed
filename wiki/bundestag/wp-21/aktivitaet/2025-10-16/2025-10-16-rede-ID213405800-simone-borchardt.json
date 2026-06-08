@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213405800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 10",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "simone-borchardt",
+      "name": "Simone Borchardt",
+      "name_padoka": "Borchardt, Simone",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

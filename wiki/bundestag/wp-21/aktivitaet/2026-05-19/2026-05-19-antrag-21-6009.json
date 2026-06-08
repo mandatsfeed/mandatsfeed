@@ -1,0 +1,68 @@
+{
+  "id": "dip-drs-21-6009",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Mutterschutz von Athletinnen wirksam absichern - Schutzlücken für selbstständige Spitzensportlerinnen schließen",
+  "date": "2026-05-19",
+  "persons": [
+    {
+      "slug": "ophelia-nick",
+      "name": "Ophelia Nick",
+      "name_padoka": "Nick, Ophelia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sandra-stein",
+      "name": "Sandra Stein",
+      "name_padoka": "Stein, Sandra",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "tina-winklmann",
+      "name": "Tina Winklmann",
+      "name_padoka": "Winklmann, Tina",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "helge-limburg",
+      "name": "Helge Limburg",
+      "name_padoka": "Limburg, Helge",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "denise-loop",
+      "name": "Denise Loop",
+      "name_padoka": "Loop, Denise",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "leon-eckert",
+      "name": "Leon Eckert",
+      "name_padoka": "Eckert, Leon",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kirsten-kappert-gonther",
+      "name": "Kirsten Kappert-Gonther",
+      "name_padoka": "Kappert-Gonther, Kirsten",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/6009",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/060/2106009.pdf",
+    "filename": "2106009.pdf"
+  }
+}

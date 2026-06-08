@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-28-abgeordneter-schard",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/28",
+  "date": "2025-10-30",
+  "persons": [
+    {
+      "slug": "abgeordneter-schard",
+      "name": "Abgeordneter Schard",
+      "name_padoka": "Schard, Abgeordneter",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/28",
+    "date": "2025-10-30"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/104473"
+  }
+}

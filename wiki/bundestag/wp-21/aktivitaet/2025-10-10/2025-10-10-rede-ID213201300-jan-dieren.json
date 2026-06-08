@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213201300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 32",
+  "date": "2025-10-10",
+  "persons": [
+    {
+      "slug": "jan-dieren",
+      "name": "Jan Dieren",
+      "name_padoka": "Dieren, Jan",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/32",
+    "date": "2025-10-10",
+    "page": 3522
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21032.pdf"
+  }
+}

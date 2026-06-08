@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-127-noah-bohringer",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/127",
+  "date": "2026-03-18",
+  "persons": [
+    {
+      "slug": "noah-bohringer",
+      "name": "Noah Böhringer",
+      "name_padoka": "Böhringer, Noah",
+      "role": "redner",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/127",
+    "date": "2026-03-18"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70709"
+  }
+}

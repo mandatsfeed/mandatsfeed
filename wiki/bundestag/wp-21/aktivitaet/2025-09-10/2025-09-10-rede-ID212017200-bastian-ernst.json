@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212017200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUNAVFOR ASPIDES",
+  "date": "2025-09-10",
+  "persons": [
+    {
+      "slug": "bastian-ernst",
+      "name": "Bastian Ernst",
+      "name_padoka": "Ernst, Bastian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/20",
+    "date": "2025-09-10",
+    "page": 2027
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21020.pdf"
+  }
+}

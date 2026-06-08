@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-128-heiterkeit-bei-enrico-schult",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/128",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "heiterkeit-bei-enrico-schult",
+      "name": "Heiterkeit bei Enrico Schult",
+      "name_padoka": "Schult, Heiterkeit bei Enrico",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/128",
+    "date": "2026-03-19"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70719"
+  }
+}

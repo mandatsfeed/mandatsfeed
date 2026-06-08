@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-2928",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Polizeiliche Erfassung von Angriffen, die unter Einsatz von Schusswaffen begangen werden",
+  "date": "2025-11-26",
+  "persons": [
+    {
+      "slug": "steffen-janich",
+      "name": "Steffen Janich",
+      "name_padoka": "Janich, Steffen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/2928",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/029/2102928.pdf",
+    "filename": "2102928.pdf"
+  }
+}

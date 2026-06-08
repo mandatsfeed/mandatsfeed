@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4903",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einreise und Aufenthalt unbegleiteter minderjähriger Ausländer (umA) Dezember 2025",
+  "date": "2025-11-24",
+  "drsNr": "8/4903",
+  "persons": [
+    {
+      "slug": "jonas-dunzel",
+      "name": "Jonas Dünzel",
+      "name_padoka": "Dünzel, Jonas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46009",
+    "filename": "Drs_8_4903_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215309700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Beschlussempfehlung und Bericht des Ausschusses für Landwirtschaft, Ernährung und Heimat (10. Ausschuss)",
+  "date": "2026-01-15",
+  "persons": [
+    {
+      "slug": "christoph-frauenpreiss",
+      "name": "Christoph Frauenpreiß",
+      "name_padoka": "Frauenpreiß, Christoph",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/53",
+    "date": "2026-01-15",
+    "page": 6420
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21053.pdf"
+  }
+}

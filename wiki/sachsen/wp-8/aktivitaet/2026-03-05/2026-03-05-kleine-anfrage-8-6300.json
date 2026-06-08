@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6300",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Finanzielle Auswirkungen der Corona-Politik und Begünstigte staatlicher Maßnahmen (2019-2024)",
+  "date": "2026-03-05",
+  "drsNr": "8/6300",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48808",
+    "filename": "Drs_8_6300_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

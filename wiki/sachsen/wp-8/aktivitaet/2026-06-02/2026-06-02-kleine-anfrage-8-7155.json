@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7155",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Machbarkeitsstudie \"IBA Landschaft Region Leipzig\" - Transparenz, Finanzierung und Beteiligung des Freistaats Sachsen",
+  "date": "2026-06-02",
+  "drsNr": "8/7155",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51088",
+    "filename": "Drs_8_7155_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

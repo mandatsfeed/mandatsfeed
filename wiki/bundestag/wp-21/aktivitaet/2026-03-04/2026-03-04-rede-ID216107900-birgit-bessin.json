@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216107900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-03-04",
+  "persons": [
+    {
+      "slug": "birgit-bessin",
+      "name": "Birgit Bessin",
+      "name_padoka": "Bessin, Birgit",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/61",
+    "date": "2026-03-04",
+    "page": 7423
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21061.pdf"
+  }
+}

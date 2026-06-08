@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6123",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Arbeit der Autobahn GmbH auf der Baustelle Anschlussstelle Wittenburg – Gudow auf der A 24",
+  "date": "2026-01-22",
+  "drsNr": "8/6123",
+  "persons": [
+    {
+      "slug": "henning-foerster",
+      "name": "Henning Foerster",
+      "name_padoka": "Foerster, Henning",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69344"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

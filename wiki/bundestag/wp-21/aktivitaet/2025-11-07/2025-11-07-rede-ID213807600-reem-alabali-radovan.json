@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213807600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+  "date": "2025-11-07",
+  "persons": [
+    {
+      "slug": "reem-alabali-radovan",
+      "name": "Reem Alabali Radovan",
+      "name_padoka": "Alabali Radovan, Reem",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/38",
+    "date": "2025-11-07",
+    "page": 4369
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21038.pdf"
+  }
+}

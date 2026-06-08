@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214015200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 18",
+  "date": "2025-11-13",
+  "persons": [
+    {
+      "slug": "stephan-stracke",
+      "name": "Stephan Stracke",
+      "name_padoka": "Stracke, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/40",
+    "date": "2025-11-13",
+    "page": 4645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21040.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-10-joachim-michael-keiler",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "7 Redebeiträge in zu Drs 8/1725\r\nWahl der Mitglieder und stellvertretenden Mitglieder im Stiftungsrat der Sächsischen Landesstiftung Natur und Umwelt",
+  "date": "2025-03-26",
+  "persons": [
+    {
+      "slug": "joachim-michael-keiler",
+      "name": "Joachim Michael Keiler",
+      "name_padoka": "Keiler, Joachim Michael",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/10",
+    "date": "2025-03-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=40618"
+  }
+}

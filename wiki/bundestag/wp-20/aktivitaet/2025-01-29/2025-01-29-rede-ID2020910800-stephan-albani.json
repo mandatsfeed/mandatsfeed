@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2020910800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 2",
+  "date": "2025-01-29",
+  "persons": [
+    {
+      "slug": "stephan-albani",
+      "name": "Stephan Albani",
+      "name_padoka": "Albani, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/209",
+    "date": "2025-01-29",
+    "page": 27188
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20209.pdf"
+  }
+}

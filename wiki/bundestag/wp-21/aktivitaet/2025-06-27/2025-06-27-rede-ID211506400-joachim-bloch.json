@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211506400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Priorität für Pflege – Jetzt Sofortmaßnahmen ergreifen",
+  "date": "2025-06-27",
+  "persons": [
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "name_padoka": "Bloch, Joachim",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/15",
+    "date": "2025-06-27",
+    "page": 1439
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21015.pdf"
+  }
+}

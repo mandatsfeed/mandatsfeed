@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-6-carsten-hutter",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 6. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-01-15",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/6",
+    "date": "2025-01-15"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=38454"
+  }
+}

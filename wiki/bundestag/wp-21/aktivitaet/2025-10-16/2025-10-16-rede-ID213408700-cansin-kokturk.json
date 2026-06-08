@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213408700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bürgergeldleistungen stoppen bei Haftbefehlen – Keine Unterstützung für gesuchte Straftäter",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "cansin-kokturk",
+      "name": "Cansin Köktürk",
+      "name_padoka": "Köktürk, Cansin",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

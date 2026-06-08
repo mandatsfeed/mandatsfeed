@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6794",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "\"Hammer auf den Kopf, Sichel in den Bauch\" - Aufruf zu Gewalt und Mord auf der Kundgebung des Anmelders \"Grimma zeigt Kante\", am 17.04.2026 ab 18.00 Uhr auf dem Marktplatz in 04668 Grimma.",
+  "date": "2026-04-23",
+  "drsNr": "8/6794",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50240",
+    "filename": "Drs_8_6794_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

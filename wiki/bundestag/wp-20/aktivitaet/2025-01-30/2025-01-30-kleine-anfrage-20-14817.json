@@ -1,0 +1,54 @@
+{
+  "id": "dip-ka-20-14817",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "kleine_anfrage",
+  "title": "Sportstätten in Berlin und deren Förderung durch den Bund",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "gregor-gysi",
+      "name": "Gregor Gysi",
+      "name_padoka": "Gysi, Gregor",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "andre-hahn",
+      "name": "André Hahn",
+      "name_padoka": "Hahn, André",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "gesine-lotzsch",
+      "name": "Gesine Lötzsch",
+      "name_padoka": "Lötzsch, Gesine",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "christian-gorke",
+      "name": "Christian Görke",
+      "name_padoka": "Görke, Christian",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "petra-pau",
+      "name": "Petra Pau",
+      "name_padoka": "Pau, Petra",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    }
+  ],
+  "fraktionen": [],
+  "drsNr": "20/14817",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/148/2014817.pdf",
+    "filename": "2014817.pdf"
+  }
+}

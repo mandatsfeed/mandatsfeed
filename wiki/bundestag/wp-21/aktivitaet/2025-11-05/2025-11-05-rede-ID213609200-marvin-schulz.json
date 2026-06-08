@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213609200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-11-05",
+  "persons": [
+    {
+      "slug": "marvin-schulz",
+      "name": "Marvin Schulz",
+      "name_padoka": "Schulz, Marvin",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/36",
+    "date": "2025-11-05",
+    "page": 4047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21036.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-21-sophie-koch",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 21. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-10-30",
+  "persons": [
+    {
+      "slug": "sophie-koch",
+      "name": "Sophie Koch",
+      "name_padoka": "Koch, Sophie",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/21",
+    "date": "2025-10-30"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=45759"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213308000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-10-15",
+  "persons": [
+    {
+      "slug": "hans-jurgen-gossner",
+      "name": "Hans-Jürgen Goßner",
+      "name_padoka": "Goßner, Hans-Jürgen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/33",
+    "date": "2025-10-15",
+    "page": 3628
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21033.pdf"
+  }
+}

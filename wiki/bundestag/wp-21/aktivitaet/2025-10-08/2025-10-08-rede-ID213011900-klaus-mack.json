@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213011900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-10-08",
+  "persons": [
+    {
+      "slug": "klaus-mack",
+      "name": "Klaus Mack",
+      "name_padoka": "Mack, Klaus",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/30",
+    "date": "2025-10-08",
+    "page": 3212
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21030.pdf"
+  }
+}

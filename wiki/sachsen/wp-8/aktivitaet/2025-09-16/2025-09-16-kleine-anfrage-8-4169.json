@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4169",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ausstieg aus dem Lehramt",
+  "date": "2025-09-16",
+  "drsNr": "8/4169",
+  "persons": [
+    {
+      "slug": "juliane-nagel-die-linke-luise-neuhaus-wartenberg",
+      "name": "Juliane Nagel Die Linke, Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Juliane Nagel Die Linke, Luise",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44530",
+    "filename": "Drs_8_4169_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

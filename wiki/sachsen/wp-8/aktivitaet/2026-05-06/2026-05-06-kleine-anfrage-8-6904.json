@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6904",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Diversitäts-Checkliste des Kinderkanals bei gleichzeitiger negativer Darstellung der deutschen Mehrheitsbevölkerung?",
+  "date": "2026-05-06",
+  "drsNr": "8/6904",
+  "persons": [
+    {
+      "slug": "torsten-gahler",
+      "name": "Torsten Gahler",
+      "name_padoka": "Gahler, Torsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50538",
+    "filename": "Drs_8_6904_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

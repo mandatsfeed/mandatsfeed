@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211507000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 33",
+  "date": "2025-06-27",
+  "persons": [
+    {
+      "slug": "sonja-lemke",
+      "name": "Sonja Lemke",
+      "name_padoka": "Lemke, Sonja",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/15",
+    "date": "2025-06-27",
+    "page": 1439
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21015.pdf"
+  }
+}

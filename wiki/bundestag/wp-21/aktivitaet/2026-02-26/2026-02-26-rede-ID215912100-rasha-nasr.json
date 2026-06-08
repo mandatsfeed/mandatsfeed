@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215912100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Technisierung statt Zuwanderung – Für einen leistungsfähigen Arbeitsmarkt",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "rasha-nasr",
+      "name": "Rasha Nasr",
+      "name_padoka": "Nasr, Rasha",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

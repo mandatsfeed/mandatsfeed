@@ -1,0 +1,34 @@
+{
+  "id": "parldok-ka-8-5837",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Solidaritätspauschalen für Kommunen mit hohen Kapazitäten in Flüchtlingsunterkünften",
+  "date": "2026-01-06",
+  "drsNr": "8/5837",
+  "persons": [
+    {
+      "slug": "martin-schmidt",
+      "name": "Martin Schmidt",
+      "name_padoka": "Schmidt, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jens-holger-schneider",
+      "name": "Jens-Holger Schneider",
+      "name_padoka": "Schneider, Jens-Holger",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68898"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

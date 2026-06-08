@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218107200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Erhalt des Gaskraftwerks am Standort Lubmin und Integration in die deutsche Energieinfrastruktur",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "enrico-komning",
+      "name": "Enrico Komning",
+      "name_padoka": "Komning, Enrico",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/81",
+    "date": "2026-05-22",
+    "page": 9804
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21081.pdf"
+  }
+}

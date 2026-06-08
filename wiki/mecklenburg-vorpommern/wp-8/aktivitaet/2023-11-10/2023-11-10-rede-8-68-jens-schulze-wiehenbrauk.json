@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-68-jens-schulze-wiehenbrauk",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/68",
+  "date": "2023-11-10",
+  "persons": [
+    {
+      "slug": "jens-schulze-wiehenbrauk",
+      "name": "Jens Schulze-Wiehenbrauk",
+      "name_padoka": "Schulze-Wiehenbrauk, Jens",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/68",
+    "date": "2023-11-10"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/58787"
+  }
+}

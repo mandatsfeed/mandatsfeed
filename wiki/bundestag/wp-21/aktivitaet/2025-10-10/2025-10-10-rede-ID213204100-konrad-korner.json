@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213204100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mindestbetrag des Elterngelds erhöhen – Familien und ihre Kinder stärken",
+  "date": "2025-10-10",
+  "persons": [
+    {
+      "slug": "konrad-korner",
+      "name": "Konrad Körner",
+      "name_padoka": "Körner, Konrad",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/32",
+    "date": "2025-10-10",
+    "page": 3522
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21032.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214205600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.6",
+  "date": "2025-11-25",
+  "persons": [
+    {
+      "slug": "paul-schmidt",
+      "name": "Paul Schmidt",
+      "name_padoka": "Schmidt, Paul",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/42",
+    "date": "2025-11-25",
+    "page": 4944
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21042.pdf"
+  }
+}

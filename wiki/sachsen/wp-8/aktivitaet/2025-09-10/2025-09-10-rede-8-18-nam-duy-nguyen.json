@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-18-nam-duy-nguyen",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in zu Drs 8/2094\r\nGesetz zur Änderung des Gesetzes zur Raumordnung und Landesplanung des Freistaates Sachsen (Landesplanungsgesetz - SächsLPlG) - Sächsisches Windenergieordnungsgesetz ",
+  "date": "2025-09-10",
+  "persons": [
+    {
+      "slug": "nam-duy-nguyen",
+      "name": "Nam Duy Nguyen",
+      "name_padoka": "Nguyen, Nam Duy",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/18",
+    "date": "2025-09-10"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=44683"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-27-wolfgang-waldmuller",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/27",
+  "date": "2022-06-30",
+  "persons": [
+    {
+      "slug": "wolfgang-waldmuller",
+      "name": "Wolfgang Waldmüller",
+      "name_padoka": "Waldmüller, Wolfgang",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/27",
+    "date": "2022-06-30"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/53356"
+  }
+}

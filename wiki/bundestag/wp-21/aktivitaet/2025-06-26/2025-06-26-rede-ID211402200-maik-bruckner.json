@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211402200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Queerfeindliche Hasskriminalität wirksam bekämpfen und die rechtliche Diskriminierung von Lesben, Schwulen, Bisexuellen, trans- und intergeschlechtlichen sowie anderen queeren Personen (LSBTIQ-Personen) beenden",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "maik-bruckner",
+      "name": "Maik Brückner",
+      "name_padoka": "Brückner, Maik",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/14",
+    "date": "2025-06-26",
+    "page": 1330
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf"
+  }
+}

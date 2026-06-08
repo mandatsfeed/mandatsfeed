@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6172",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Voraussetzungen des Freistaates Sachsen zur Umsetzung des Bundesaktionsplans gegen Organisierte Kriminalität",
+  "date": "2026-02-26",
+  "drsNr": "8/6172",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48589",
+    "filename": "Drs_8_6172_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

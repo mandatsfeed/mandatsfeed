@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216507700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Kernenergiegipfel in Paris – Widersprüche deutscher Energiepolitik auf europäischer und nationaler Ebene",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "helmut-kleebank",
+      "name": "Helmut Kleebank",
+      "name_padoka": "Kleebank, Helmut",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

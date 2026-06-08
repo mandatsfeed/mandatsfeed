@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212115400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Umbenennung des Bismarck-Zimmers im Auswärtigen Amt zurücknehmen",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "vinzenz-glaser",
+      "name": "Vinzenz Glaser",
+      "name_padoka": "Glaser, Vinzenz",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/21",
+    "date": "2025-09-11",
+    "page": 2179
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21021.pdf"
+  }
+}

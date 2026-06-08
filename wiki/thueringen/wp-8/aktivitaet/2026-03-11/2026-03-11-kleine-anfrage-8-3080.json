@@ -1,0 +1,34 @@
+{
+  "id": "parldok-ka-8-3080",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Mögliche Auffang- oder Übergangsgesellschaft für Zalando-Beschäftigte mit zeitlich befristetem Aufenthaltstitel am Standort Erfurt",
+  "date": "2026-03-11",
+  "drsNr": "8/3080",
+  "persons": [
+    {
+      "slug": "pascal-wloch",
+      "name": "Pascal Wloch",
+      "name_padoka": "Wloch, Pascal",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "daniel-haseloff",
+      "name": "Daniel Haseloff",
+      "name_padoka": "Haseloff, Daniel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106184"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

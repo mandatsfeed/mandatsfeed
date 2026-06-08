@@ -1,0 +1,87 @@
+{
+  "id": "dip-rede-21-9",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Vereinbarte Debatte aus Anlass des Nationalen Gedenktages an den Volksaufstand in der DDR von 1953",
+  "date": "2025-06-04",
+  "persons": [
+    {
+      "slug": "ottilie-klein",
+      "name": "Ottilie Klein",
+      "name_padoka": "Klein, Ottilie",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "maja-wallstein",
+      "name": "Maja Wallstein",
+      "name_padoka": "Wallstein, Maja",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "ronald-glaser",
+      "name": "Ronald Gläser",
+      "name_padoka": "Gläser, Ronald",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sepp-muller",
+      "name": "Sepp Müller",
+      "name_padoka": "Müller, Sepp",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "gregor-gysi",
+      "name": "Gregor Gysi",
+      "name_padoka": "Gysi, Gregor",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "paula-piechotta",
+      "name": "Paula Piechotta",
+      "name_padoka": "Piechotta, Paula",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "holger-mann",
+      "name": "Holger Mann",
+      "name_padoka": "Mann, Holger",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "gotz-fromming",
+      "name": "Götz Frömming",
+      "name_padoka": "Frömming, Götz",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "wolfram-weimer",
+      "name": "Wolfram Weimer",
+      "name_padoka": "Weimer, Wolfram",
+      "role": "redner",
+      "fraktion": "Beauftr. der Bundesregierung für Kultur und Medien",
+      "funktion": "Staatsmin."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "spd",
+    "afd",
+    "die-linke",
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/9",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21009.pdf#P.710",
+    "filename": "21009.pdf#P.710"
+  }
+}

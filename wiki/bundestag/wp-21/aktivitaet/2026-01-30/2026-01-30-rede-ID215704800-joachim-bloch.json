@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215704800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 5",
+  "date": "2026-01-30",
+  "persons": [
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "name_padoka": "Bloch, Joachim",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/57",
+    "date": "2026-01-30",
+    "page": 6913
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21057.pdf"
+  }
+}

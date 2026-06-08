@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2982",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Geplante Auftritte der Rechtsrock-Band „Amok“ in einer Immobilie der rechten Szene in Brattendorf im März 2026",
+  "date": "2026-02-24",
+  "drsNr": "8/2982",
+  "persons": [
+    {
+      "slug": "katharina-konig-preuss",
+      "name": "Katharina König-Preuss",
+      "name_padoka": "König-Preuss, Katharina",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105990"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

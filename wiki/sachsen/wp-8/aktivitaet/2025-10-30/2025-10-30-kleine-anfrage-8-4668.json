@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4668",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ergebnisse und Anschlussfähigkeit des Pilotprojekts zur Stärkung der kinder- und jugendpsychiatrischen und -psychotherapeutischen Versorgung im Landkreis Görlitz",
+  "date": "2025-10-30",
+  "drsNr": "8/4668",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45476",
+    "filename": "Drs_8_4668_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

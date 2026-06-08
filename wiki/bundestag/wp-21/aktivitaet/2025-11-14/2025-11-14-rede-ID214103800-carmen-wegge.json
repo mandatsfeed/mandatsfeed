@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214103800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 12",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "name_padoka": "Wegge, Carmen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/41",
+    "date": "2025-11-14",
+    "page": 4840
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf"
+  }
+}

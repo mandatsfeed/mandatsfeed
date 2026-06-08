@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-4430",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ausgaben der Bundesregierung für Fotografen, Visagisten, Frisöre, Masseure und repräsentative Kleidung in der 21. Legislaturperiode - Stand: 28. Februar 2026",
+  "date": "2026-03-03",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/4430",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/044/2104430.pdf",
+    "filename": "2104430.pdf"
+  }
+}

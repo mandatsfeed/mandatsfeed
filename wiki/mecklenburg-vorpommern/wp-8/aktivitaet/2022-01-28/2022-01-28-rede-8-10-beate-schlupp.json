@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-10-beate-schlupp",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/10",
+  "date": "2022-01-28",
+  "persons": [
+    {
+      "slug": "beate-schlupp",
+      "name": "Beate Schlupp",
+      "name_padoka": "Schlupp, Beate",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/10",
+    "date": "2022-01-28"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/51781"
+  }
+}

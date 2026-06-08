@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217800600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für eine Gesamtstrategie zum Schutz vor häuslicher und geschlechtsspezifischer Gewalt anstelle von isolierten Einzelmaßnahmen",
+  "date": "2026-05-08",
+  "persons": [
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "name_padoka": "Wegge, Carmen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/78",
+    "date": "2026-05-08",
+    "page": 9394
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21078.pdf"
+  }
+}

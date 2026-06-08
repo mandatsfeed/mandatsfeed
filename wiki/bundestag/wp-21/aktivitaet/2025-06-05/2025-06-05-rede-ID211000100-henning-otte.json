@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211000100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Eidesleistung des Wehrbeauftragten",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "henning-otte",
+      "name": "Henning Otte",
+      "name_padoka": "Otte, Henning",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Wehrbeauftragter des Deutschen Bundestages"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

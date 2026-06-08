@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211902600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 11",
+  "date": "2025-07-11",
+  "persons": [
+    {
+      "slug": "tamara-mazzi",
+      "name": "Tamara Mazzi",
+      "name_padoka": "Mazzi, Tamara",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/19",
+    "date": "2025-07-11",
+    "page": 1931
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21019.pdf"
+  }
+}

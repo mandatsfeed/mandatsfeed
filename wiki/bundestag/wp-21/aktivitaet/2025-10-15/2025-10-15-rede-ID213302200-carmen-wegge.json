@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213302200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-10-15",
+  "persons": [
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "name_padoka": "Wegge, Carmen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/33",
+    "date": "2025-10-15",
+    "page": 3628
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21033.pdf"
+  }
+}

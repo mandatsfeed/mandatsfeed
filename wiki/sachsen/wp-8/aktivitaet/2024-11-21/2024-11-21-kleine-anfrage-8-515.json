@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-515",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Folgen des Herrenberg-Urteils für Musik- und Volkshochschulen",
+  "date": "2024-11-21",
+  "drsNr": "8/515",
+  "persons": [
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37063",
+    "filename": "Drs_8_515_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

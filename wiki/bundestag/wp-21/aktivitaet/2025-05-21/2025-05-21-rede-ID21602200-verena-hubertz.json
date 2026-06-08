@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21602200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-05-21",
+  "persons": [
+    {
+      "slug": "verena-hubertz",
+      "name": "Verena Hubertz",
+      "name_padoka": "Hubertz, Verena",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/6",
+    "date": "2025-05-21",
+    "page": 470
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21006.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-98-henning-foerster",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "7 Redebeiträge in PlPr 8/98",
+  "date": "2025-01-31",
+  "persons": [
+    {
+      "slug": "henning-foerster",
+      "name": "Henning Foerster",
+      "name_padoka": "Foerster, Henning",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/98",
+    "date": "2025-01-31"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/63771"
+  }
+}

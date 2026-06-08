@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213507600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Erster Klimakipppunkt laut internationaler Studie überschritten – Konsequenzen für das Handeln der Bundesregierung",
+  "date": "2025-10-17",
+  "persons": [
+    {
+      "slug": "anna-aeikens",
+      "name": "Anna Aeikens",
+      "name_padoka": "Aeikens, Anna",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/35",
+    "date": "2025-10-17",
+    "page": 3937
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21035.pdf"
+  }
+}

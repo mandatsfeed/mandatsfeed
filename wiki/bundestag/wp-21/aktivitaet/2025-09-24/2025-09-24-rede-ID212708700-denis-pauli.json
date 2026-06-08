@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212708700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 23",
+  "date": "2025-09-24",
+  "persons": [
+    {
+      "slug": "denis-pauli",
+      "name": "Denis Pauli",
+      "name_padoka": "Pauli, Denis",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/27",
+    "date": "2025-09-24",
+    "page": 2909
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21027.pdf"
+  }
+}

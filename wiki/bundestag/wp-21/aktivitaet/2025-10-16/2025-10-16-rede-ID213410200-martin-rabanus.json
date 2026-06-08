@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213410200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bildungsfinanzierung dauerhaft sichern – Kooperationsverbot abschaffen",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "martin-rabanus",
+      "name": "Martin Rabanus",
+      "name_padoka": "Rabanus, Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

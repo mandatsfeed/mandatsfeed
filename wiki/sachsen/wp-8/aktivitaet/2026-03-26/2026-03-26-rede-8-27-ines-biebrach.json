@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-27-ines-biebrach",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 27. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "ines-biebrach",
+      "name": "Ines Biebrach",
+      "name_padoka": "Biebrach, Ines",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/27",
+    "date": "2026-03-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=49956"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6961",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zu Drucksache 8/6561",
+  "date": "2026-05-13",
+  "drsNr": "8/6961",
+  "persons": [
+    {
+      "slug": "katja-dietz",
+      "name": "Katja Dietz",
+      "name_padoka": "Dietz, Katja",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50682",
+    "filename": "Drs_8_6961_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

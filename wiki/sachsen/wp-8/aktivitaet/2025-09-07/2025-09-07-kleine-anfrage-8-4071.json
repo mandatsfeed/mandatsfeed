@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4071",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Versammlungslage im Rahmen des CSD Zittau am 06.09.2025 in Zittau",
+  "date": "2025-09-07",
+  "drsNr": "8/4071",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44273",
+    "filename": "Drs_8_4071_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

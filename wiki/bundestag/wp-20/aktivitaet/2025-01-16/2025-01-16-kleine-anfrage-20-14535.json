@@ -1,0 +1,56 @@
+{
+  "id": "dip-ka-20-14535",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "kleine_anfrage",
+  "title": "Kriminalitätsentwicklung am Hauptbahnhof Dresden im zweiten Halbjahr 2024 und Gesamtjahr 2024",
+  "date": "2025-01-16",
+  "persons": [
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "name_padoka": "Hess, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-baumann",
+      "name": "Bernd Baumann",
+      "name_padoka": "Baumann, Bernd",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gottfried-curio",
+      "name": "Gottfried Curio",
+      "name_padoka": "Curio, Gottfried",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "steffen-janich",
+      "name": "Steffen Janich",
+      "name_padoka": "Janich, Steffen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "20/14535",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/145/2014535.pdf",
+    "filename": "2014535.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-20-henning-homann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 20. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-10-29",
+  "persons": [
+    {
+      "slug": "henning-homann",
+      "name": "Henning Homann",
+      "name_padoka": "Homann, Henning",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/20",
+    "date": "2025-10-29"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=45726"
+  }
+}

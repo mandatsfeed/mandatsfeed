@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4607",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zukunft der Werkdatenbank Bildende Kunst Sachsen",
+  "date": "2025-10-30",
+  "drsNr": "8/4607",
+  "persons": [
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45412",
+    "filename": "Drs_8_4607_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

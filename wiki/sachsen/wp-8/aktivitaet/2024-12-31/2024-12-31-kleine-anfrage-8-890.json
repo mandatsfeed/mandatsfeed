@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-890",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Proteste gegen und Übergriffe auf Unterkünfte von Geflüchteten und auf Geflüchtete im Freistaat Sachsen/ 2. Halbjahr 2024",
+  "date": "2024-12-31",
+  "drsNr": "8/890",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37728",
+    "filename": "Drs_8_890_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

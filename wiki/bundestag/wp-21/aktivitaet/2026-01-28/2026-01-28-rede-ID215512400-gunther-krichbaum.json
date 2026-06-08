@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215512400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sieben Jahre Vertrag von Aachen – Gemeinsam Zukunft gestalten",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "gunther-krichbaum",
+      "name": "Gunther Krichbaum",
+      "name_padoka": "Krichbaum, Gunther",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsminister beim Bundesminister des Auswärtigen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/55",
+    "date": "2026-01-28",
+    "page": 6646
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21055.pdf"
+  }
+}

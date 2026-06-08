@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6157",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Gewalt und Bedrohungen gegen Beschäftigte im Gesundheitswesen in Mecklenburg-Vorpommern – Erfassung, Lagebild, Strafverfolgung und Meldewege",
+  "date": "2026-02-11",
+  "drsNr": "8/6157",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69654"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

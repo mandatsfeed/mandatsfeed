@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6430",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zukunft unserer Dörfer und Natur sichern - Mögliche Kürzung der GAK-Bundesmittel für Ländliche Entwicklung, Ökolandbau und Biodiversität und deren Bedeutung für den Freistaat Sachsen",
+  "date": "2026-03-17",
+  "drsNr": "8/6430",
+  "persons": [
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49142",
+    "filename": "Drs_8_6430_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

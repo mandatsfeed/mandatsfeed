@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6638",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ausbildungs- und Studienbedingungen an der Fachhochschule für öffentliche Verwaltung, Polizei und Rechtspflege Mecklenburg-Vorpommern in Güstrow",
+  "date": "2026-06-03",
+  "drsNr": "8/6638",
+  "persons": [
+    {
+      "slug": "nikolaus-kramer",
+      "name": "Nikolaus Kramer",
+      "name_padoka": "Kramer, Nikolaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71636"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

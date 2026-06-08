@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-22-david-wulff",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in PlPr 8/22",
+  "date": "2022-05-18",
+  "persons": [
+    {
+      "slug": "david-wulff",
+      "name": "David Wulff",
+      "name_padoka": "Wulff, David",
+      "role": "redner",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/22",
+    "date": "2022-05-18"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/52794"
+  }
+}

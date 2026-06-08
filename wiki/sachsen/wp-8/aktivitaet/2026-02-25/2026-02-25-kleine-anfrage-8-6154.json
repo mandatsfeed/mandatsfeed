@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6154",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Besondere Betroffenheit von Solo-Selbstständigen und Kulturschaffenden bei den Rückforderungen von Corona-Soforthilfen",
+  "date": "2026-02-25",
+  "drsNr": "8/6154",
+  "persons": [
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48559",
+    "filename": "Drs_8_6154_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

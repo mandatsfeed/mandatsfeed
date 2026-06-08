@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-1-abgeordneter-kummer",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "8 Redebeiträge in PlPr 8/1",
+  "date": "2024-09-26",
+  "persons": [
+    {
+      "slug": "abgeordneter-kummer",
+      "name": "Abgeordneter Kummer",
+      "name_padoka": "Kummer, Abgeordneter",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/1",
+    "date": "2024-09-26"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/99387"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216810200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Förderung sowie Unterstützung von LGBTIQ- und Gender-Projekten sowie Abtreibung im Ausland — Zusammen mit den USA für nationale Selbstbestimmung, Souveränität und den Schutz der abendländischen Zivilisation eintreten – Woke Positionen international zurückdrängen",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "maik-bruckner",
+      "name": "Maik Brückner",
+      "name_padoka": "Brückner, Maik",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

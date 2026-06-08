@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7018",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zuschüsse für Investitionen zur Sicherstellung der medizinischen Versorgung insbesondere im ländlichen Raum Titel 08 07 891 60 - Haushaltsvollzug 2025/2026",
+  "date": "2026-05-19",
+  "drsNr": "8/7018",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50818",
+    "filename": "Drs_8_7018_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

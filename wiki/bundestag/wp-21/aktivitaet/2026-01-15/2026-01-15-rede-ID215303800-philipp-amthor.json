@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215303800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bericht der Bundesregierung über Maßnahmen der Bundesregierung für Bürokratierückbau",
+  "date": "2026-01-15",
+  "persons": [
+    {
+      "slug": "philipp-amthor",
+      "name": "Philipp Amthor",
+      "name_padoka": "Amthor, Philipp",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär beim Bundesminister für Digitales und Staatsmodernisierung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/53",
+    "date": "2026-01-15",
+    "page": 6420
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21053.pdf"
+  }
+}

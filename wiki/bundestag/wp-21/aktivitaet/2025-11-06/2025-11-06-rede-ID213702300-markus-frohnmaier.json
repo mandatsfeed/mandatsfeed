@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213702300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "25 Jahre UN-Resolution 1325 „Frauen, Frieden und Sicherheit“ – Feministische Außenpolitik verteidigen und Frieden geschlechtergerecht gestalten",
+  "date": "2025-11-06",
+  "persons": [
+    {
+      "slug": "markus-frohnmaier",
+      "name": "Markus Frohnmaier",
+      "name_padoka": "Frohnmaier, Markus",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/37",
+    "date": "2025-11-06",
+    "page": 4261
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21037.pdf"
+  }
+}

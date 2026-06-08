@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211504100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mehrwertsteuer auf Grundnahrungsmittel, Hygieneprodukte und auf Bus und Bahn abschaffen",
+  "date": "2025-06-27",
+  "persons": [
+    {
+      "slug": "doris-achelwilm",
+      "name": "Doris Achelwilm",
+      "name_padoka": "Achelwilm, Doris",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/15",
+    "date": "2025-06-27",
+    "page": 1439
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21015.pdf"
+  }
+}

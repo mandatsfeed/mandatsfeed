@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211806800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einsetzung einer Enquete-Kommission „Aufarbeitung der Coronapandemie und Lehren für zukünftige pandemische Ereignisse“ — Einsetzung eines 1. Untersuchungsausschusses der 21. Wahlperiode (Aufarbeitung der Coronapandemie)",
+  "date": "2025-07-10",
+  "persons": [
+    {
+      "slug": "lina-seitzl",
+      "name": "Lina Seitzl",
+      "name_padoka": "Seitzl, Lina",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/18",
+    "date": "2025-07-10",
+    "page": 1859
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21018.pdf"
+  }
+}

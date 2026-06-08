@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216411100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-03-18",
+  "persons": [
+    {
+      "slug": "katherina-reiche",
+      "name": "Katherina Reiche",
+      "name_padoka": "Reiche, Katherina",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Wirtschaft und Energie"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/64",
+    "date": "2026-03-18",
+    "page": 7765
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21064.pdf"
+  }
+}

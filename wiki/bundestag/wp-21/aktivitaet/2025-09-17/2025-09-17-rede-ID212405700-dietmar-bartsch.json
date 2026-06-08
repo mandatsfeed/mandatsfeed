@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212405700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 14",
+  "date": "2025-09-17",
+  "persons": [
+    {
+      "slug": "dietmar-bartsch",
+      "name": "Dietmar Bartsch",
+      "name_padoka": "Bartsch, Dietmar",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/24",
+    "date": "2025-09-17",
+    "page": 2613
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21024.pdf"
+  }
+}

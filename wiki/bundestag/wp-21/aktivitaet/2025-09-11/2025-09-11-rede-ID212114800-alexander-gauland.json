@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212114800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Umbenennung des Bismarck-Zimmers im Auswärtigen Amt zurücknehmen",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "alexander-gauland",
+      "name": "Alexander Gauland",
+      "name_padoka": "Gauland, Alexander",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/21",
+    "date": "2025-09-11",
+    "page": 2179
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21021.pdf"
+  }
+}

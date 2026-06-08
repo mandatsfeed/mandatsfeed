@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-5961",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Fortgang, Kostenentwicklung und Verwaltungssteuerung bei der Rückholung der radioaktiven Abfälle aus der Schachtanlage Asse II",
+  "date": "2026-05-18",
+  "persons": [
+    {
+      "slug": "rainer-kraft",
+      "name": "Rainer Kraft",
+      "name_padoka": "Kraft, Rainer",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5961",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/059/2105961.pdf",
+    "filename": "2105961.pdf"
+  }
+}

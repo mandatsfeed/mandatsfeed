@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5150",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Berufsbegleitende wissenschaftliche Ausbildung von Seiteneinsteigerinnen und Seiteneinsteigern sowie Lehrkräften an Schulen",
+  "date": "2025-12-18",
+  "drsNr": "8/5150",
+  "persons": [
+    {
+      "slug": "claudia-maicher",
+      "name": "Claudia Maicher",
+      "name_padoka": "Maicher, Claudia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46685",
+    "filename": "Drs_8_5150_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

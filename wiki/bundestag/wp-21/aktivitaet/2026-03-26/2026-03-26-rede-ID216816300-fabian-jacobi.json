@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216816300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 4",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "fabian-jacobi",
+      "name": "Fabian Jacobi",
+      "name_padoka": "Jacobi, Fabian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

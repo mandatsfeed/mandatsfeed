@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2754",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Arbeitszeitgerechtigkeit am Universitätsklinikum Jena",
+  "date": "2026-01-20",
+  "drsNr": "8/2754",
+  "persons": [
+    {
+      "slug": "jens-thomas",
+      "name": "Jens Thomas",
+      "name_padoka": "Thomas, Jens",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105470"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

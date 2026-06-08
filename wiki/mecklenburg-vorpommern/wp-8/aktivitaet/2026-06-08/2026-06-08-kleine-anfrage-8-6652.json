@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6652",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Suizide und Suizidversuche von in Mecklenburg-Vorpommern lebenden Asylsuchenden und Geduldeten",
+  "date": "2026-06-08",
+  "drsNr": "8/6652",
+  "persons": [
+    {
+      "slug": "anne-shepley",
+      "name": "Anne Shepley",
+      "name_padoka": "Shepley, Anne",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71690"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

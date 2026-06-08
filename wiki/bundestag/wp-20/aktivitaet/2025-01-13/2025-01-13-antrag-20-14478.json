@@ -1,0 +1,61 @@
+{
+  "id": "dip-drs-20-14478",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "antrag",
+  "title": "Entwicklungspolitik neu strukturieren - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung abschaffen und Entwicklungshilfe in das Auswärtige Amt und das Bundesministerium für Wirtschaft und Klimaschutz eingliedern",
+  "date": "2025-01-13",
+  "persons": [
+    {
+      "slug": "jan-wenzel-schmidt",
+      "name": "Jan Wenzel Schmidt",
+      "name_padoka": "Schmidt, Jan Wenzel",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-bochmann",
+      "name": "René Bochmann",
+      "name_padoka": "Bochmann, René",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-espendiller",
+      "name": "Michael Espendiller",
+      "name_padoka": "Espendiller, Michael",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "joachim-wundrak",
+      "name": "Joachim Wundrak",
+      "name_padoka": "Wundrak, Joachim",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "markus-frohnmaier",
+      "name": "Markus Frohnmaier",
+      "name_padoka": "Frohnmaier, Markus",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "edgar-naujok",
+      "name": "Edgar Naujok",
+      "name_padoka": "Naujok, Edgar",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "20/14478",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/144/2014478.pdf",
+    "filename": "2014478.pdf"
+  }
+}

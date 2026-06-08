@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216514000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gewerbesteuer als kommunale Einnahmequelle stärken",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "michael-schrodi",
+      "name": "Michael Schrodi",
+      "name_padoka": "Schrodi, Michael",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär beim Bundesminister der Finanzen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213201100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 32",
+  "date": "2025-10-10",
+  "persons": [
+    {
+      "slug": "leif-erik-holm",
+      "name": "Leif-Erik Holm",
+      "name_padoka": "Holm, Leif-Erik",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/32",
+    "date": "2025-10-10",
+    "page": 3522
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21032.pdf"
+  }
+}

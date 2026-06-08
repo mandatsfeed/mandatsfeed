@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211600300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 08",
+  "date": "2025-07-08",
+  "persons": [
+    {
+      "slug": "mathias-middelberg",
+      "name": "Mathias Middelberg",
+      "name_padoka": "Middelberg, Mathias",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/16",
+    "date": "2025-07-08",
+    "page": 1572
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21016.pdf"
+  }
+}

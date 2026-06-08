@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211306900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-06-25",
+  "persons": [
+    {
+      "slug": "johannes-steiniger",
+      "name": "Johannes Steiniger",
+      "name_padoka": "Steiniger, Johannes",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/13",
+    "date": "2025-06-25",
+    "page": 1104
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21013.pdf"
+  }
+}

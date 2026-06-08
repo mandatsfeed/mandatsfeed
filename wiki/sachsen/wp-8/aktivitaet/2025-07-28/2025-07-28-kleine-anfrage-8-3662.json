@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3662",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Überlandstraßenbahnen im Verkehrskonzept des Freistaates Sachsen",
+  "date": "2025-07-28",
+  "drsNr": "8/3662",
+  "persons": [
+    {
+      "slug": "tobias-keller",
+      "name": "Tobias Keller",
+      "name_padoka": "Keller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43241",
+    "filename": "Drs_8_3662_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-101-heiterkeit-bei-andreas-butzki",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/101",
+  "date": "2025-03-14",
+  "persons": [
+    {
+      "slug": "heiterkeit-bei-andreas-butzki",
+      "name": "Heiterkeit bei Andreas Butzki",
+      "name_padoka": "Butzki, Heiterkeit bei Andreas",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/101",
+    "date": "2025-03-14"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/64096"
+  }
+}

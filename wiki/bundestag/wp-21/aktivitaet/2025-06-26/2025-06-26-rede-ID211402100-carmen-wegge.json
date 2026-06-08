@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211402100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Queerfeindliche Hasskriminalität wirksam bekämpfen und die rechtliche Diskriminierung von Lesben, Schwulen, Bisexuellen, trans- und intergeschlechtlichen sowie anderen queeren Personen (LSBTIQ-Personen) beenden",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "name_padoka": "Wegge, Carmen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/14",
+    "date": "2025-06-26",
+    "page": 1330
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf"
+  }
+}

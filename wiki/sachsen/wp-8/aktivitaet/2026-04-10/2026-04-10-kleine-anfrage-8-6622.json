@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6622",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einsatzgeschehen, Rechtsgrundlagen, Dokumentation und Einsatzführung im Zusammenhang mit dem polizeilichen Handeln am 17. April 2021 am Postplatz Dresden",
+  "date": "2026-04-10",
+  "drsNr": "8/6622",
+  "persons": [
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49804",
+    "filename": "Drs_8_6622_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

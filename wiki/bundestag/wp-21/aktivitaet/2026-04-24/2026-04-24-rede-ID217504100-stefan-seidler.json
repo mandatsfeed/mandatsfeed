@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217504100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 20",
+  "date": "2026-04-24",
+  "persons": [
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "name_padoka": "Seidler, Stefan",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/75",
+    "date": "2026-04-24",
+    "page": 9047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21075.pdf"
+  }
+}

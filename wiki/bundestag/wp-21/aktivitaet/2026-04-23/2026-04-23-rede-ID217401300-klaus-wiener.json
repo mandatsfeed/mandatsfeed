@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217401300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 3",
+  "date": "2026-04-23",
+  "persons": [
+    {
+      "slug": "klaus-wiener",
+      "name": "Klaus Wiener",
+      "name_padoka": "Wiener, Klaus",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/74",
+    "date": "2026-04-23",
+    "page": 8958
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21074.pdf"
+  }
+}

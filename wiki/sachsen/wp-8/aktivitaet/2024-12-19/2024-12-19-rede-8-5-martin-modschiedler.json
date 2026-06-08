@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-5-martin-modschiedler",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 5. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-12-19",
+  "persons": [
+    {
+      "slug": "martin-modschiedler",
+      "name": "Martin Modschiedler",
+      "name_padoka": "Modschiedler, Martin",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/5",
+    "date": "2024-12-19"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=38290"
+  }
+}

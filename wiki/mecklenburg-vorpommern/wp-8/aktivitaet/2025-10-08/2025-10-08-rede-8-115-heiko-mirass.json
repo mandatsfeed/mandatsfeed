@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-115-heiko-mirass",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/115",
+  "date": "2025-10-08",
+  "persons": [
+    {
+      "slug": "heiko-mirass",
+      "name": "Heiko Miraß",
+      "name_padoka": "Miraß, Heiko",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/115",
+    "date": "2025-10-08"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/66888"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-10-henning-homann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "8 Redebeiträge in zu Drs 8/1725\r\nWahl der Mitglieder und stellvertretenden Mitglieder im Stiftungsrat der Sächsischen Landesstiftung Natur und Umwelt",
+  "date": "2025-03-26",
+  "persons": [
+    {
+      "slug": "henning-homann",
+      "name": "Henning Homann",
+      "name_padoka": "Homann, Henning",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/10",
+    "date": "2025-03-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=40618"
+  }
+}

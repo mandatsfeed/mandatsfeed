@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217711700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesundheitssystem stärken statt Versicherte belasten – Echte Reformen für eine stabile gesetzliche Krankenversicherung",
+  "date": "2026-05-07",
+  "persons": [
+    {
+      "slug": "hendrik-streeck",
+      "name": "Hendrik Streeck",
+      "name_padoka": "Streeck, Hendrik",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/77",
+    "date": "2026-05-07",
+    "page": 9307
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21077.pdf"
+  }
+}

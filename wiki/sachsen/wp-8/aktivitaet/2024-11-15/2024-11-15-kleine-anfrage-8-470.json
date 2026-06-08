@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-470",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Erweiterung der Notfallkompetenz für Notfallsanitäter",
+  "date": "2024-11-15",
+  "drsNr": "8/470",
+  "persons": [
+    {
+      "slug": "katja-dietz",
+      "name": "Katja Dietz",
+      "name_padoka": "Dietz, Katja",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36945",
+    "filename": "Drs_8_470_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

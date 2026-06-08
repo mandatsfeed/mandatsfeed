@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5706",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Polizeieinsätze zur Sicherung und Bestreifung von Weihnachtsmärkten in den Jahren 2015 bis 2024 in Mecklenburg-Vorpommern",
+  "date": "2026-01-06",
+  "drsNr": "8/5706",
+  "persons": [
+    {
+      "slug": "nikolaus-kramer",
+      "name": "Nikolaus Kramer",
+      "name_padoka": "Kramer, Nikolaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68615"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

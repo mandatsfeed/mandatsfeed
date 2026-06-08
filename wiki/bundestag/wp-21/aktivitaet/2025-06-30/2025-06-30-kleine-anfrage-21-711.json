@@ -1,0 +1,42 @@
+{
+  "id": "dip-ka-21-711",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bürokratische Belastung und wirtschaftliche Bedrohung kleiner und mittelständischer Unternehmen in Deutschland im Jahr 2025",
+  "date": "2025-06-30",
+  "persons": [
+    {
+      "slug": "raimond-scheirich",
+      "name": "Raimond Scheirich",
+      "name_padoka": "Scheirich, Raimond",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "dirk-brandes",
+      "name": "Dirk Brandes",
+      "name_padoka": "Brandes, Dirk",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "leif-erik-holm",
+      "name": "Leif-Erik Holm",
+      "name_padoka": "Holm, Leif-Erik",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/711",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/007/2100711.pdf",
+    "filename": "2100711.pdf"
+  }
+}

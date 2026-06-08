@@ -1,0 +1,28 @@
+{
+  "id": "dip-rede-ID2021004200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Mehr Netto vom Brutto",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "janine-wissler",
+      "name": "Janine Wissler",
+      "name_padoka": "Wissler, Janine",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

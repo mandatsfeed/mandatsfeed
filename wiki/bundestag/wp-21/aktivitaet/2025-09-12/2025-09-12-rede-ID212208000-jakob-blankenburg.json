@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212208000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Herbst des Klimaschutzes",
+  "date": "2025-09-12",
+  "persons": [
+    {
+      "slug": "jakob-blankenburg",
+      "name": "Jakob Blankenburg",
+      "name_padoka": "Blankenburg, Jakob",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/22",
+    "date": "2025-09-12",
+    "page": 2305
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21022.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211300300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-06-25",
+  "persons": [
+    {
+      "slug": "leif-erik-holm",
+      "name": "Leif-Erik Holm",
+      "name_padoka": "Holm, Leif-Erik",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/13",
+    "date": "2025-06-25",
+    "page": 1104
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21013.pdf"
+  }
+}

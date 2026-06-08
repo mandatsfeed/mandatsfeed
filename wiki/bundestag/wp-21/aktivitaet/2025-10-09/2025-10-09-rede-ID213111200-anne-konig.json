@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213111200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Dem deutschen Volke – Unsere Zukunft gestalten und durch geeignete Familienpolitik sichern",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "anne-konig",
+      "name": "Anne König",
+      "name_padoka": "König, Anne",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

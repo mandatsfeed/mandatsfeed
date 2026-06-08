@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217611900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-05-06",
+  "persons": [
+    {
+      "slug": "wolfgang-stefinger",
+      "name": "Wolfgang Stefinger",
+      "name_padoka": "Stefinger, Wolfgang",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/76",
+    "date": "2026-05-06",
+    "page": 9151
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21076.pdf"
+  }
+}

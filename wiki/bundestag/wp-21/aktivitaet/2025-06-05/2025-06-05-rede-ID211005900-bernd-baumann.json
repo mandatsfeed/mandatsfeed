@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211005900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "zur Auslegung der Geschäftsordnung — hier: Verteilung des Vorschlagsrechts für die Vorsitze und stellvertretenden Vorsitze der ständigen Ausschüsse im Wege des Zugriffsverfahrens",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "bernd-baumann",
+      "name": "Bernd Baumann",
+      "name_padoka": "Baumann, Bernd",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

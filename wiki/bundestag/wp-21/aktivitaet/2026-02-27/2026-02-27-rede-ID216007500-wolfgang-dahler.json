@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216007500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Kein Wegschauen auf Kosten der Betroffenen – Gewalt gegen Frauen, sexuellen Missbrauch und Netzwerke des Machtmissbrauchs aufklären und bekämpfen",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "wolfgang-dahler",
+      "name": "Wolfgang Dahler",
+      "name_padoka": "Dahler, Wolfgang",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

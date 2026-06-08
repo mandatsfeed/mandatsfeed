@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216502900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die Zeitenwende in der Zivilen Verteidigung umsetzen",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "josef-oster",
+      "name": "Josef Oster",
+      "name_padoka": "Oster, Josef",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

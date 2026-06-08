@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21312700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "tobias-winkler",
+      "name": "Tobias Winkler",
+      "name_padoka": "Winkler, Tobias",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/3",
+    "date": "2025-05-14",
+    "page": 175
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21003.pdf"
+  }
+}

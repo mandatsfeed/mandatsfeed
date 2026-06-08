@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5776",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beamtin der Landesdirektion Sachsen als Versammlungsleiterin der extremistischen Handala-Demonstration am 17.01.2026",
+  "date": "2026-01-28",
+  "drsNr": "8/5776",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47658",
+    "filename": "Drs_8_5776_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

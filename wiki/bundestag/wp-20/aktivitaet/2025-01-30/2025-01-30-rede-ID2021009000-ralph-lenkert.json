@@ -1,0 +1,28 @@
+{
+  "id": "dip-rede-ID2021009000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Abschluss der Beweisaufnahme im 2. Untersuchungsausschuss",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "ralph-lenkert",
+      "name": "Ralph Lenkert",
+      "name_padoka": "Lenkert, Ralph",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

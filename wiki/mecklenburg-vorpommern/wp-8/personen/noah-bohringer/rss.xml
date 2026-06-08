@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Noah Böhringer (Landtag Mecklenburg-Vorpommern, WP-8)</title>
+    <link>https://www.dokumentation.landtag-mv.de/parldok</link>
+    <description>Aufbereitung durch mandatsfeed. Quelle: Landtag Mecklenburg-Vorpommern – Parlamentsdatenbank (dokumentation.landtag-mv.de). Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">parldok-rede-mecklenburg-vorpommern-8-130-noah-bohringer</guid>
+      <title>3 Redebeiträge in PlPr 8/130</title>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <link>https://www.dokumentation.landtag-mv.de/parldok/dokument/71226</link>
+      <description>Rede · Plenarprotokoll 8/130, S. ?</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">parldok-rede-mecklenburg-vorpommern-8-128-noah-bohringer</guid>
+      <title>4 Redebeiträge in PlPr 8/128</title>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://www.dokumentation.landtag-mv.de/parldok/dokument/70719</link>
+      <description>Rede · Plenarprotokoll 8/128, S. ?</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">parldok-rede-mecklenburg-vorpommern-8-127-noah-bohringer</guid>
+      <title>4 Redebeiträge in PlPr 8/127</title>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://www.dokumentation.landtag-mv.de/parldok/dokument/70709</link>
+      <description>Rede · Plenarprotokoll 8/127, S. ?</description>
+    </item>
+  </channel>
+</rss>

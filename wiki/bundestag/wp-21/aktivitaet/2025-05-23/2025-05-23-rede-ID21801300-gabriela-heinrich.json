@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21801300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "75 Jahre Mitgliedschaft Deutschlands im Europarat",
+  "date": "2025-05-23",
+  "persons": [
+    {
+      "slug": "gabriela-heinrich",
+      "name": "Gabriela Heinrich",
+      "name_padoka": "Heinrich, Gabriela",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/8",
+    "date": "2025-05-23",
+    "page": 653
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21008.pdf"
+  }
+}

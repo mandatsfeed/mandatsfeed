@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213505500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 32",
+  "date": "2025-10-17",
+  "persons": [
+    {
+      "slug": "frank-schwabe",
+      "name": "Frank Schwabe",
+      "name_padoka": "Schwabe, Frank",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär bei der Bundesministerin der Justiz und für Verbraucherschutz"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/35",
+    "date": "2025-10-17",
+    "page": 3937
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21035.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212800600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 06",
+  "date": "2025-09-25",
+  "persons": [
+    {
+      "slug": "gunter-krings",
+      "name": "Günter Krings",
+      "name_padoka": "Krings, Günter",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/28",
+    "date": "2025-09-25",
+    "page": 3041
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21028.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-613",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Staatsangehörigkeit von Personen im Landkreis Meißen",
+  "date": "2024-12-04",
+  "drsNr": "8/613",
+  "persons": [
+    {
+      "slug": "mario-beger",
+      "name": "Mario Beger",
+      "name_padoka": "Beger, Mario",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37251",
+    "filename": "Drs_8_613_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

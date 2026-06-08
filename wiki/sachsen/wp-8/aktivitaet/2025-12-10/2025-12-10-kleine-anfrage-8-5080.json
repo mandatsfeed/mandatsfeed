@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5080",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung und Erkenntnisse aus der Meldepflicht in Bezug SARS-CoV-2 und COVID-19",
+  "date": "2025-12-10",
+  "drsNr": "8/5080",
+  "persons": [
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46539",
+    "filename": "Drs_8_5080_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

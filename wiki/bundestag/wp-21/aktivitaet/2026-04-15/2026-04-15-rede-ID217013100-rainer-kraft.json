@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217013100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-04-15",
+  "persons": [
+    {
+      "slug": "rainer-kraft",
+      "name": "Rainer Kraft",
+      "name_padoka": "Kraft, Rainer",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/70",
+    "date": "2026-04-15",
+    "page": 8515
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21070.pdf"
+  }
+}

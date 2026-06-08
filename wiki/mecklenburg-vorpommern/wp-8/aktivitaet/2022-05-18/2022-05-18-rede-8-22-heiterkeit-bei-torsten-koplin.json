@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-22-heiterkeit-bei-torsten-koplin",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/22",
+  "date": "2022-05-18",
+  "persons": [
+    {
+      "slug": "heiterkeit-bei-torsten-koplin",
+      "name": "Heiterkeit bei Torsten Koplin",
+      "name_padoka": "Koplin, Heiterkeit bei Torsten",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/22",
+    "date": "2022-05-18"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/52794"
+  }
+}

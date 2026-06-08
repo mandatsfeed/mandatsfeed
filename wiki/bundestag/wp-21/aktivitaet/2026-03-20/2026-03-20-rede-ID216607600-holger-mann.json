@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216607600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — auf Verlangen der Fraktion Die Linke",
+  "date": "2026-03-20",
+  "persons": [
+    {
+      "slug": "holger-mann",
+      "name": "Holger Mann",
+      "name_padoka": "Mann, Holger",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/66",
+    "date": "2026-03-20",
+    "page": 8028
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21066.pdf"
+  }
+}

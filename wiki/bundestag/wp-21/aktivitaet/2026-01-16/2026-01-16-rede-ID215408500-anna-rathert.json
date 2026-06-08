@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215408500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Deutschlands Rolle bei der Verteidigung der internationalen Ordnung",
+  "date": "2026-01-16",
+  "persons": [
+    {
+      "slug": "anna-rathert",
+      "name": "Anna Rathert",
+      "name_padoka": "Rathert, Anna",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/54",
+    "date": "2026-01-16",
+    "page": 6545
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21054.pdf"
+  }
+}

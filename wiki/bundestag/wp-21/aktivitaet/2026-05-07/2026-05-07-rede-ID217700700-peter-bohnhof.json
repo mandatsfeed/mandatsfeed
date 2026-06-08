@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217700700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bürokratie abbauen, Teilhabe stärken – Für ein unbürokratisches Anerkennungssystem von Assistenzhunden — Barrierefreiheit für eine moderne und inklusive Gesellschaft ernsthaft umsetzen",
+  "date": "2026-05-07",
+  "persons": [
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/77",
+    "date": "2026-05-07",
+    "page": 9307
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21077.pdf"
+  }
+}

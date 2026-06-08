@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212904300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 1",
+  "date": "2025-09-26",
+  "persons": [
+    {
+      "slug": "michael-espendiller",
+      "name": "Michael Espendiller",
+      "name_padoka": "Espendiller, Michael",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/29",
+    "date": "2025-09-26",
+    "page": 3108
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21029.pdf"
+  }
+}

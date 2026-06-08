@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211714700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 23",
+  "date": "2025-07-09",
+  "persons": [
+    {
+      "slug": "dirk-brandes",
+      "name": "Dirk Brandes",
+      "name_padoka": "Brandes, Dirk",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/17",
+    "date": "2025-07-09",
+    "page": 1700
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21017.pdf"
+  }
+}

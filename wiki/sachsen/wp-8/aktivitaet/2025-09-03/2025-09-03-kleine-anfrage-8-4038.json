@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4038",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Landwirtschaftsflächen in Sachsen - Verkauf, Verpachtung und Preisentwicklung",
+  "date": "2025-09-03",
+  "drsNr": "8/4038",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44122",
+    "filename": "Drs_8_4038_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

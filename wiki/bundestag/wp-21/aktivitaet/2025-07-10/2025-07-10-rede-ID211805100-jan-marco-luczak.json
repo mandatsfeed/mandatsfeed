@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211805100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 6",
+  "date": "2025-07-10",
+  "persons": [
+    {
+      "slug": "jan-marco-luczak",
+      "name": "Jan-Marco Luczak",
+      "name_padoka": "Luczak, Jan-Marco",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/18",
+    "date": "2025-07-10",
+    "page": 1859
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21018.pdf"
+  }
+}

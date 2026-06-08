@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-106-steffi-pulz-debler",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/106",
+  "date": "2025-05-15",
+  "persons": [
+    {
+      "slug": "steffi-pulz-debler",
+      "name": "Steffi Pulz-Debler",
+      "name_padoka": "Pulz-Debler, Steffi",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/106",
+    "date": "2025-05-15"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/64607"
+  }
+}

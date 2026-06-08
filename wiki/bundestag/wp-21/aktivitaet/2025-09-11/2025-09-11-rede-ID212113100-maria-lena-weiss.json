@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212113100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zukunft sichern, Klima schützen – Naturverträgliche Lösungen vor Verfahren zur CO2-Abscheidung und -Speicherung",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "maria-lena-weiss",
+      "name": "Maria-Lena Weiss",
+      "name_padoka": "Weiss, Maria-Lena",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/21",
+    "date": "2025-09-11",
+    "page": 2179
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21021.pdf"
+  }
+}

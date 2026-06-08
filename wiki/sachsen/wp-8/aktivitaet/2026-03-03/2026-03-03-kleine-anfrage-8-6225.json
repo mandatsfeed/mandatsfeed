@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6225",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Die Zukunft der Sächsischen Agentur für Strukturentwicklung GmbH im Rahmen von Strukturanpassungsmaßnahmen Nachfrage zu Drs. 8/5951",
+  "date": "2026-03-03",
+  "drsNr": "8/6225",
+  "persons": [
+    {
+      "slug": "holger-hentschel",
+      "name": "Holger Hentschel",
+      "name_padoka": "Hentschel, Holger",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48699",
+    "filename": "Drs_8_6225_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

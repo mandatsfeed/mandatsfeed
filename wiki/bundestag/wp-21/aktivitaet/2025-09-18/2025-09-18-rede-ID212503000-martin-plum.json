@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212503000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 07",
+  "date": "2025-09-18",
+  "persons": [
+    {
+      "slug": "martin-plum",
+      "name": "Martin Plum",
+      "name_padoka": "Plum, Martin",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/25",
+    "date": "2025-09-18",
+    "page": 2682
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21025.pdf"
+  }
+}

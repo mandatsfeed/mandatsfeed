@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6291",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ministerwagen, Fahrer und Personenschutz im Wahlkampfeinsatz – Abrechnung, Rechtsgrundlagen und Umfang",
+  "date": "2026-04-09",
+  "drsNr": "8/6291",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70379"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

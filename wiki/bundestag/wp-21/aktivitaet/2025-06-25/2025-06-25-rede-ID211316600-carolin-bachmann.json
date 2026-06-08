@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211316600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Keine planungsrechtlichen Sonderrechte für Flüchtlingsunterkünfte",
+  "date": "2025-06-25",
+  "persons": [
+    {
+      "slug": "carolin-bachmann",
+      "name": "Carolin Bachmann",
+      "name_padoka": "Bachmann, Carolin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/13",
+    "date": "2025-06-25",
+    "page": 1104
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21013.pdf"
+  }
+}

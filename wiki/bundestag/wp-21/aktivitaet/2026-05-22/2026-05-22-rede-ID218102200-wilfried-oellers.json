@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218102200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Achtstundentag im EU-Recht verankern und Beschäftigte schützen — Vereinbarkeit statt Verfügbarkeit – Für eine moderne Arbeitszeitpolitik",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "wilfried-oellers",
+      "name": "Wilfried Oellers",
+      "name_padoka": "Oellers, Wilfried",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/81",
+    "date": "2026-05-22",
+    "page": 9804
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21081.pdf"
+  }
+}

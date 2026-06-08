@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218107600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Geschäftsmodelle der großen Immobilienkonzerne bekämpfen – Mieterinnen und Mieter konsequent schützen",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "philipp-rottwilm",
+      "name": "Philipp Rottwilm",
+      "name_padoka": "Rottwilm, Philipp",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/81",
+    "date": "2026-05-22",
+    "page": 9804
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21081.pdf"
+  }
+}

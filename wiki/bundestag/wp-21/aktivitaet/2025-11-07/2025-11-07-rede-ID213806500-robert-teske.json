@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213806500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 35",
+  "date": "2025-11-07",
+  "persons": [
+    {
+      "slug": "robert-teske",
+      "name": "Robert Teske",
+      "name_padoka": "Teske, Robert",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/38",
+    "date": "2025-11-07",
+    "page": 4369
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21038.pdf"
+  }
+}

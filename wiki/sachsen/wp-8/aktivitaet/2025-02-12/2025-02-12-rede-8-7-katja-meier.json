@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-7-katja-meier",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 7. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-02-12",
+  "persons": [
+    {
+      "slug": "katja-meier",
+      "name": "Katja Meier",
+      "name_padoka": "Meier, Katja",
+      "role": "redner",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/7",
+    "date": "2025-02-12"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=39371"
+  }
+}

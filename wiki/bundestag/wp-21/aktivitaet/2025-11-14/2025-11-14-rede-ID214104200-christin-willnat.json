@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214104200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 12",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "christin-willnat",
+      "name": "Christin Willnat",
+      "name_padoka": "Willnat, Christin",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/41",
+    "date": "2025-11-14",
+    "page": 4840
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf"
+  }
+}

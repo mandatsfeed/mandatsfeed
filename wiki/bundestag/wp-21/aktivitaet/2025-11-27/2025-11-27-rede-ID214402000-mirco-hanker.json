@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214402000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.14",
+  "date": "2025-11-27",
+  "persons": [
+    {
+      "slug": "mirco-hanker",
+      "name": "Mirco Hanker",
+      "name_padoka": "Hanker, Mirco",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/44",
+    "date": "2025-11-27",
+    "page": 5202
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21044.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21611400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-05-21",
+  "persons": [
+    {
+      "slug": "wilhelm-gebhard",
+      "name": "Wilhelm Gebhard",
+      "name_padoka": "Gebhard, Wilhelm",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/6",
+    "date": "2025-05-21",
+    "page": 470
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21006.pdf"
+  }
+}

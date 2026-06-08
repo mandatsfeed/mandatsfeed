@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215706900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Energiesouveränität stärken – Klimaziele umsetzen",
+  "date": "2026-01-30",
+  "persons": [
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/57",
+    "date": "2026-01-30",
+    "page": 6913
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21057.pdf"
+  }
+}

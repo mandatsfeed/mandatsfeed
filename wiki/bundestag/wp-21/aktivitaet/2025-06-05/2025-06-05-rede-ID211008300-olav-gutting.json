@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211008300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Standort Deutschland stärken – Solidaritätszuschlag abschaffen",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "olav-gutting",
+      "name": "Olav Gutting",
+      "name_padoka": "Gutting, Olav",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

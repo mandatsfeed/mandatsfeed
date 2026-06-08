@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-3-hajo-exner",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 3. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-11-19",
+  "persons": [
+    {
+      "slug": "hajo-exner",
+      "name": "Hajo Exner",
+      "name_padoka": "Exner, Hajo",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/3",
+    "date": "2024-11-19"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=37186"
+  }
+}

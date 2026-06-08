@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214400500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.13",
+  "date": "2025-11-27",
+  "persons": [
+    {
+      "slug": "jan-kostering",
+      "name": "Jan Köstering",
+      "name_padoka": "Köstering, Jan",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/44",
+    "date": "2025-11-27",
+    "page": 5202
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21044.pdf"
+  }
+}

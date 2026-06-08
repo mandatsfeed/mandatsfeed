@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214410800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.18",
+  "date": "2025-11-27",
+  "persons": [
+    {
+      "slug": "albert-stegemann",
+      "name": "Albert Stegemann",
+      "name_padoka": "Stegemann, Albert",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/44",
+    "date": "2025-11-27",
+    "page": 5202
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21044.pdf"
+  }
+}

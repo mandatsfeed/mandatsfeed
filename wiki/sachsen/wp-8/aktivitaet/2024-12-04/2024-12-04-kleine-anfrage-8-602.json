@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-602",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Windkraft- und Solaranlagen in der Gemeinde Glaubitz",
+  "date": "2024-12-04",
+  "drsNr": "8/602",
+  "persons": [
+    {
+      "slug": "mario-beger",
+      "name": "Mario Beger",
+      "name_padoka": "Beger, Mario",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37240",
+    "filename": "Drs_8_602_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

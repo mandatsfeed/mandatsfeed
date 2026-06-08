@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215401800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kommunen, Landschaft und Natur schützen – Keine Sonderrechte für Windkraft-, Solar- und Wasserstoffanlagen — Insektenbiomasse und -vielfalt vor weiterem Ausbau der Windindustrie schützen",
+  "date": "2026-01-16",
+  "persons": [
+    {
+      "slug": "philipp-rottwilm",
+      "name": "Philipp Rottwilm",
+      "name_padoka": "Rottwilm, Philipp",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/54",
+    "date": "2026-01-16",
+    "page": 6545
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21054.pdf"
+  }
+}

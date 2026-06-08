@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4180",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verträge für Studenten des Modellprojekts \"Studieren in Europa\"",
+  "date": "2025-09-17",
+  "drsNr": "8/4180",
+  "persons": [
+    {
+      "slug": "katja-dietz",
+      "name": "Katja Dietz",
+      "name_padoka": "Dietz, Katja",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44566",
+    "filename": "Drs_8_4180_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

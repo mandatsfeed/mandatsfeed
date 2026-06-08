@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-401",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Straftaten mit der Tatörtlichkeit \"Kirche  kirchliche Einrichtung\" im ersten Halbjahr 2024",
+  "date": "2024-11-11",
+  "drsNr": "8/401",
+  "persons": [
+    {
+      "slug": "tobias-keller",
+      "name": "Tobias Keller",
+      "name_padoka": "Keller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36820",
+    "filename": "Drs_8_401_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

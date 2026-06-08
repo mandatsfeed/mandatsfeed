@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215706700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Energiesouveränität stärken – Klimaziele umsetzen",
+  "date": "2026-01-30",
+  "persons": [
+    {
+      "slug": "karsten-hilse",
+      "name": "Karsten Hilse",
+      "name_padoka": "Hilse, Karsten",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/57",
+    "date": "2026-01-30",
+    "page": 6913
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21057.pdf"
+  }
+}

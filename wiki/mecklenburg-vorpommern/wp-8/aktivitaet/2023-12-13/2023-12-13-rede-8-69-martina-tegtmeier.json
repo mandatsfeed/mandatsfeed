@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-69-martina-tegtmeier",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/69",
+  "date": "2023-12-13",
+  "persons": [
+    {
+      "slug": "martina-tegtmeier",
+      "name": "Martina Tegtmeier",
+      "name_padoka": "Tegtmeier, Martina",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/69",
+    "date": "2023-12-13"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/59046"
+  }
+}

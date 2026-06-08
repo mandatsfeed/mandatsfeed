@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213701400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 7",
+  "date": "2025-11-06",
+  "persons": [
+    {
+      "slug": "lars-haise",
+      "name": "Lars Haise",
+      "name_padoka": "Haise, Lars",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/37",
+    "date": "2025-11-06",
+    "page": 4261
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21037.pdf"
+  }
+}

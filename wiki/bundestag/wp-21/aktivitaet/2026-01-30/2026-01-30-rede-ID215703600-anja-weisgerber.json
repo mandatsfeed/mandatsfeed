@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215703600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Vom Parlamentarischen Rat zum Bundestag als Fundament unserer Demokratie – Zum 150. Geburtstag von Konrad Adenauer",
+  "date": "2026-01-30",
+  "persons": [
+    {
+      "slug": "anja-weisgerber",
+      "name": "Anja Weisgerber",
+      "name_padoka": "Weisgerber, Anja",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/57",
+    "date": "2026-01-30",
+    "page": 6913
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21057.pdf"
+  }
+}

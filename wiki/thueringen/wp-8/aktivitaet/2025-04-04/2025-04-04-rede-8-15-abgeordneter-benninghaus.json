@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-15-abgeordneter-benninghaus",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/15",
+  "date": "2025-04-04",
+  "persons": [
+    {
+      "slug": "abgeordneter-benninghaus",
+      "name": "Abgeordneter Benninghaus",
+      "name_padoka": "Benninghaus, Abgeordneter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/15",
+    "date": "2025-04-04"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/101290"
+  }
+}

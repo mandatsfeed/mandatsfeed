@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6105",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verfahrenstechnische Fragen zur Novelle des Bürger- und Gemeindenbeteiligungsgesetzes",
+  "date": "2026-03-19",
+  "drsNr": "8/6105",
+  "persons": [
+    {
+      "slug": "jutta-wegner",
+      "name": "Jutta Wegner",
+      "name_padoka": "Wegner, Jutta",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69044"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

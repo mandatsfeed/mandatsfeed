@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3854",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung Zahl der Schwangerschaftsabbrüche und Höhe der Kosten",
+  "date": "2025-08-18",
+  "drsNr": "8/3854",
+  "persons": [
+    {
+      "slug": "ronny-kupke",
+      "name": "Ronny Kupke",
+      "name_padoka": "Kupke, Ronny",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43746",
+    "filename": "Drs_8_3854_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

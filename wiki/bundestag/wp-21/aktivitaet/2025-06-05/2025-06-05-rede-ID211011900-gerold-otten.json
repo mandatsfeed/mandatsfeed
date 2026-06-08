@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211011900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Nationalen Sicherheitsrat einrichten – Nationale Sicherheitsstrategie entwerfen und konsequent umsetzen – Für eine Realpolitik im deutschen Interesse",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "gerold-otten",
+      "name": "Gerold Otten",
+      "name_padoka": "Otten, Gerold",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

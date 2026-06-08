@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216212200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Baukulturbericht 2024/25 der Bundesstiftung Baukultur — mit",
+  "date": "2026-03-05",
+  "persons": [
+    {
+      "slug": "soren-bartol",
+      "name": "Sören Bartol",
+      "name_padoka": "Bartol, Sören",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär bei der Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/62",
+    "date": "2026-03-05",
+    "page": 7583
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21062.pdf"
+  }
+}

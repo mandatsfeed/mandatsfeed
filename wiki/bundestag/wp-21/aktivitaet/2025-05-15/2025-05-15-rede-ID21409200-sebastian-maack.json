@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21409200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+  "date": "2025-05-15",
+  "persons": [
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "name_padoka": "Maack, Sebastian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/4",
+    "date": "2025-05-15",
+    "page": 313
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21004.pdf"
+  }
+}

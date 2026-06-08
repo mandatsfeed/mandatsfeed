@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-27-ulf-gunter-lange",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in 27. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "ulf-gunter-lange",
+      "name": "Ulf Günter Lange",
+      "name_padoka": "Lange, Ulf Günter",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/27",
+    "date": "2026-03-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=49956"
+  }
+}

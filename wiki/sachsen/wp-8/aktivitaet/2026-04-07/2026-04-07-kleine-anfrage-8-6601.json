@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6601",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Versorgungssituation in der Frauenheilkunde und Geburtshilfe im Freistaat Sachsen",
+  "date": "2026-04-07",
+  "drsNr": "8/6601",
+  "persons": [
+    {
+      "slug": "ronny-kupke",
+      "name": "Ronny Kupke",
+      "name_padoka": "Kupke, Ronny",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49740",
+    "filename": "Drs_8_6601_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211010100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Leistungskürzungen und Beitragsexplosion in Gesundheit und Pflege verhindern – Jetzt gerechte Finanzierung einführen",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "christos-pantazis",
+      "name": "Christos Pantazis",
+      "name_padoka": "Pantazis, Christos",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213106200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Deutsches Nein zur EU-Chatkontrolle",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "tijen-ataoglu",
+      "name": "Tijen Ataoğlu",
+      "name_padoka": "Ataoğlu, Tijen",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215015600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 20",
+  "date": "2025-12-18",
+  "persons": [
+    {
+      "slug": "thomas-silberhorn",
+      "name": "Thomas Silberhorn",
+      "name_padoka": "Silberhorn, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/50",
+    "date": "2025-12-18",
+    "page": 6008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21050.pdf"
+  }
+}

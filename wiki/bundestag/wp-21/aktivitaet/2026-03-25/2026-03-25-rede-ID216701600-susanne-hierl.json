@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216701600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "susanne-hierl",
+      "name": "Susanne Hierl",
+      "name_padoka": "Hierl, Susanne",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/67",
+    "date": "2026-03-25",
+    "page": 8125
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21067.pdf"
+  }
+}

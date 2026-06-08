@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7201",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Personen im sog. Landesausreisezentrum",
+  "date": "2026-06-03",
+  "drsNr": "8/7201",
+  "persons": [
+    {
+      "slug": "nam-duy-nguyen",
+      "name": "Nam Duy Nguyen",
+      "name_padoka": "Nguyen, Nam Duy",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51167",
+    "filename": "Drs_8_7201_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

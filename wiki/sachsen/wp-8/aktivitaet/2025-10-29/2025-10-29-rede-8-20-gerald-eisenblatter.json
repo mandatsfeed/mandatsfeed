@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-20-gerald-eisenblatter",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 20. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-10-29",
+  "persons": [
+    {
+      "slug": "gerald-eisenblatter",
+      "name": "Gerald Eisenblätter",
+      "name_padoka": "Eisenblätter, Gerald",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/20",
+    "date": "2025-10-29"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=45726"
+  }
+}

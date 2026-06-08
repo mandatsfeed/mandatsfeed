@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216814100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Verbesserung der Überprüfungsverfahren zur Approbation von Ärzten aus Drittstaaten zur Gewährleistung der öffentlichen Sicherheit und Qualität der medizinischen Versorgung — Gefälschte Berufsausbildungszeugnisse bei Pflegepersonal bekämpfen",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "serdar-yuksel",
+      "name": "Serdar Yüksel",
+      "name_padoka": "Yüksel, Serdar",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

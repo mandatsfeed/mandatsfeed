@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213316300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für Transparenz und Aufklärung sorgen – Der Öffentlichkeit einen vollständigen Überblick über die deutschen Zahlungen an internationale Organisationen und Nichtregierungsorganisationen vorlegen",
+  "date": "2025-10-15",
+  "persons": [
+    {
+      "slug": "rocco-kever",
+      "name": "Rocco Kever",
+      "name_padoka": "Kever, Rocco",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/33",
+    "date": "2025-10-15",
+    "page": 3628
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21033.pdf"
+  }
+}

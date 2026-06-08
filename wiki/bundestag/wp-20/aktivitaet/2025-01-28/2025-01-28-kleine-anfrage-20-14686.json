@@ -1,0 +1,103 @@
+{
+  "id": "dip-ka-20-14686",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung der feministischen Außen- und Entwicklungspolitik Deutschlands",
+  "date": "2025-01-28",
+  "persons": [
+    {
+      "slug": "heidi-reichinnek",
+      "name": "Heidi Reichinnek",
+      "name_padoka": "Reichinnek, Heidi",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "gokay-akbulut",
+      "name": "Gökay Akbulut",
+      "name_padoka": "Akbulut, Gökay",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "anke-domscheit-berg",
+      "name": "Anke Domscheit-Berg",
+      "name_padoka": "Domscheit-Berg, Anke",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "janine-wissler",
+      "name": "Janine Wissler",
+      "name_padoka": "Wissler, Janine",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "susanne-ferschl",
+      "name": "Susanne Ferschl",
+      "name_padoka": "Ferschl, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "jorg-cezanne",
+      "name": "Jörg Cezanne",
+      "name_padoka": "Cezanne, Jörg",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "ates-gurpinar",
+      "name": "Ates Gürpinar",
+      "name_padoka": "Gürpinar, Ates",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "gregor-gysi",
+      "name": "Gregor Gysi",
+      "name_padoka": "Gysi, Gregor",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "jan-korte",
+      "name": "Jan Korte",
+      "name_padoka": "Korte, Jan",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "caren-lay",
+      "name": "Caren Lay",
+      "name_padoka": "Lay, Caren",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "cornelia-mohring",
+      "name": "Cornelia Möhring",
+      "name_padoka": "Möhring, Cornelia",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    }
+  ],
+  "fraktionen": [],
+  "drsNr": "20/14686",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/146/2014686.pdf",
+    "filename": "2014686.pdf"
+  }
+}

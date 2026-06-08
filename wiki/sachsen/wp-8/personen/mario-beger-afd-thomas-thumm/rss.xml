@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Mario Beger AfD, Thomas Thumm (Sächsischer Landtag, WP-8)</title>
+    <link>https://redas.landtag.sachsen.de/redas/</link>
+    <description>Aufbereitung durch mandatsfeed. Quelle: Sächsischer Landtag – EDAS (redas.landtag.sachsen.de). Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">edas-ka-8-486</guid>
+      <title>Brückenfonds für Sachsen</title>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+      <link>https://redas.landtag.sachsen.de/redas/download?datei_id=37008</link>
+      <description>Kleine Anfrage (Kleine Anfrage) · 8/486 · Urheber: Mario Beger AfD, Thomas Thumm (AfD)</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">edas-ka-8-121</guid>
+      <title>Ofenführerscheine für Sachsen von der Ofenakademie</title>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <link>https://redas.landtag.sachsen.de/redas/download?datei_id=36278</link>
+      <description>Kleine Anfrage (Kleine Anfrage) · 8/121 · Urheber: Mario Beger AfD, Thomas Thumm (AfD)</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">edas-ka-8-122</guid>
+      <title>Marode Brücken in Sachsen</title>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+      <link>https://redas.landtag.sachsen.de/redas/download?datei_id=36279</link>
+      <description>Kleine Anfrage (Kleine Anfrage) · 8/122 · Urheber: Mario Beger AfD, Thomas Thumm (AfD)</description>
+    </item>
+  </channel>
+</rss>

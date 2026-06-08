@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4679",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Abschiebung einer Familie aus Gröditz in den Irak",
+  "date": "2025-10-30",
+  "drsNr": "8/4679",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45490",
+    "filename": "Drs_8_4679_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

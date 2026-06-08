@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3539",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Abgrenzung journalistischer Tätigkeit und störender Einflussnahme bei filmender Begleitung von Versammlungen",
+  "date": "2026-05-27",
+  "drsNr": "8/3539",
+  "persons": [
+    {
+      "slug": "katja-mitteldorf",
+      "name": "Katja Mitteldorf",
+      "name_padoka": "Mitteldorf, Katja",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107316"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

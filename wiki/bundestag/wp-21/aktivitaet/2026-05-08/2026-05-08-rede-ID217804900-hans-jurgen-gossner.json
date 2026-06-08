@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217804900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zwingende Mitbestimmungsrechte des Betriebsrats ausbauen — Arbeitsgrundlagen von Betriebsräten verbessern",
+  "date": "2026-05-08",
+  "persons": [
+    {
+      "slug": "hans-jurgen-gossner",
+      "name": "Hans-Jürgen Goßner",
+      "name_padoka": "Goßner, Hans-Jürgen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/78",
+    "date": "2026-05-08",
+    "page": 9394
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21078.pdf"
+  }
+}

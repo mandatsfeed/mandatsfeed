@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID217708200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Meinungsvielfalt und Bürgerbeteiligung – Lokalmedien als unverzichtbarer Baustein unserer Demokratie",
+  "date": "2026-05-07",
+  "persons": [
+    {
+      "slug": "wolfram-weimer",
+      "name": "Wolfram Weimer",
+      "name_padoka": "Weimer, Wolfram",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Staatsminister beim Bundeskanzler"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/77",
+    "date": "2026-05-07",
+    "page": 9307
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21077.pdf"
+  }
+}

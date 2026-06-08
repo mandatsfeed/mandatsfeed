@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6633",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Fehlende Lehrer an der der Oberschule \"Friedrich Rückert\" in Plauen (Vogtlandkreis)",
+  "date": "2026-04-10",
+  "drsNr": "8/6633",
+  "persons": [
+    {
+      "slug": "janina-pfau",
+      "name": "Janina Pfau",
+      "name_padoka": "Pfau, Janina",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49815",
+    "filename": "Drs_8_6633_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213104200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die Migrationswende hinsichtlich Syriens umsetzen – Die weitere Aufnahme stoppen und die Rückkehr vorantreiben",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "detlef-seif",
+      "name": "Detlef Seif",
+      "name_padoka": "Seif, Detlef",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

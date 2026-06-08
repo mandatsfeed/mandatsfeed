@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3517",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Maßnahmen zum Schutz von Schülern, Schulpersonal und Schulgebäuden vor etwaigen Folgen der Proteste gegen den Bundesparteitag der Alternative für Deutschland",
+  "date": "2026-05-22",
+  "drsNr": "8/3517",
+  "persons": [
+    {
+      "slug": "denny-jankowski",
+      "name": "Denny Jankowski",
+      "name_padoka": "Jankowski, Denny",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107272"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

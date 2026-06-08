@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3955",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Angekündigte Verkleinerung des Braunkohlentagebaues Reichwalde",
+  "date": "2025-08-28",
+  "drsNr": "8/3955",
+  "persons": [
+    {
+      "slug": "stefan-hartmann",
+      "name": "Stefan Hartmann",
+      "name_padoka": "Hartmann, Stefan",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43991",
+    "filename": "Drs_8_3955_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID21703900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL)",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "nils-schmid",
+      "name": "Nils Schmid",
+      "name_padoka": "Schmid, Nils",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Parl. Staatssekretär beim Bundesminister der Verteidigung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/7",
+    "date": "2025-05-22",
+    "page": 573
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21007.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215704400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Freiheit für die Menschen in Iran – Solidarität mit der Zivilgesellschaft, Druck auf das iranische Regime",
+  "date": "2026-01-30",
+  "persons": [
+    {
+      "slug": "reza-asghari",
+      "name": "Reza Asghari",
+      "name_padoka": "Asghari, Reza",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/57",
+    "date": "2026-01-30",
+    "page": 6913
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21057.pdf"
+  }
+}

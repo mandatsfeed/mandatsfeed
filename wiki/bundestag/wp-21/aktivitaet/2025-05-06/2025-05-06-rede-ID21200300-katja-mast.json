@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21200300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zur Geschäftsordnung",
+  "date": "2025-05-06",
+  "persons": [
+    {
+      "slug": "katja-mast",
+      "name": "Katja Mast",
+      "name_padoka": "Mast, Katja",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/2",
+    "date": "2025-05-06",
+    "page": 50
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21002.pdf"
+  }
+}

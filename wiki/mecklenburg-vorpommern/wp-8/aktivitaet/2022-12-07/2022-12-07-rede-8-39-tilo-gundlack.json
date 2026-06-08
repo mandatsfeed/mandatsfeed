@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-39-tilo-gundlack",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/39",
+  "date": "2022-12-07",
+  "persons": [
+    {
+      "slug": "tilo-gundlack",
+      "name": "Tilo Gundlack",
+      "name_padoka": "Gundlack, Tilo",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/39",
+    "date": "2022-12-07"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/55581"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-77-david-wulff",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "11 Redebeiträge in PlPr 8/77",
+  "date": "2024-03-15",
+  "persons": [
+    {
+      "slug": "david-wulff",
+      "name": "David Wulff",
+      "name_padoka": "Wulff, David",
+      "role": "redner",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/77",
+    "date": "2024-03-15"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/60136"
+  }
+}

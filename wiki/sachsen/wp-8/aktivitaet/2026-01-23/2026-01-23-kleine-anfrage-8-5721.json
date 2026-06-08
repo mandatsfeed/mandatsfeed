@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5721",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Wohnraumförderung Familien, ländlicher Raum, Förderfonds in 2025",
+  "date": "2026-01-23",
+  "drsNr": "8/5721",
+  "persons": [
+    {
+      "slug": "thomas-loser",
+      "name": "Thomas Löser",
+      "name_padoka": "Löser, Thomas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47598",
+    "filename": "Drs_8_5721_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

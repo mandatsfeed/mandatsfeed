@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3475",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Finanzielle Ausstattung der Museen in Thüringen – Ausbleibende Haushaltsmittel infolge der Globalen Minderausgabe",
+  "date": "2026-05-13",
+  "drsNr": "8/3475",
+  "persons": [
+    {
+      "slug": "steffen-quasebarth",
+      "name": "Steffen Quasebarth",
+      "name_padoka": "Quasebarth, Steffen",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107192"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

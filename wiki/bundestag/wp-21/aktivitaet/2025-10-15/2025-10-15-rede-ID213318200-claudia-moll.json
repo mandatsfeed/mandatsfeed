@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213318200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Keine Leistungskürzungen in der Pflege",
+  "date": "2025-10-15",
+  "persons": [
+    {
+      "slug": "claudia-moll",
+      "name": "Claudia Moll",
+      "name_padoka": "Moll, Claudia",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/33",
+    "date": "2025-10-15",
+    "page": 3628
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21033.pdf"
+  }
+}

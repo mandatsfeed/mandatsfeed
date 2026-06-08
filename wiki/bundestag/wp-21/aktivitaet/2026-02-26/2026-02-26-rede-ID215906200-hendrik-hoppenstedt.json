@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215906200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Verwandtenbeschäftigung bei AfD-Abgeordneten – Bereicherung auf Staatskosten vermeiden, rechtliche Konsequenzen ziehen",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "hendrik-hoppenstedt",
+      "name": "Hendrik Hoppenstedt",
+      "name_padoka": "Hoppenstedt, Hendrik",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-1-martin-dulig",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 1. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-10-01",
+  "persons": [
+    {
+      "slug": "martin-dulig",
+      "name": "Martin Dulig",
+      "name_padoka": "Dulig, Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/1",
+    "date": "2024-10-01"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=36287"
+  }
+}

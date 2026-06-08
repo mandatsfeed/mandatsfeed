@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21914300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ausreisegewahrsam und Abschiebehaft für ausreisepflichtige Personen, insbesondere für Straftäter und Gefährder, wirksam umsetzen",
+  "date": "2025-06-04",
+  "persons": [
+    {
+      "slug": "christina-stumpp",
+      "name": "Christina Stumpp",
+      "name_padoka": "Stumpp, Christina",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/9",
+    "date": "2025-06-04",
+    "page": 741
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21009.pdf"
+  }
+}

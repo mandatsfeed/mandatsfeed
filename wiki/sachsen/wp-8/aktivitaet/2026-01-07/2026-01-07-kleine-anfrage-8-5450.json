@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5450",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aus Venezuela Geflüchtete in Sachsen 2025",
+  "date": "2026-01-07",
+  "drsNr": "8/5450",
+  "persons": [
+    {
+      "slug": "nam-duy-nguyen",
+      "name": "Nam Duy Nguyen",
+      "name_padoka": "Nguyen, Nam Duy",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47129",
+    "filename": "Drs_8_5450_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

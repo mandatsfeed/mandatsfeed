@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-29-frank-peschel",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 29. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-05-13",
+  "persons": [
+    {
+      "slug": "frank-peschel",
+      "name": "Frank Peschel",
+      "name_padoka": "Peschel, Frank",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/29",
+    "date": "2026-05-13"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=51090"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4939",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Abschaffung der Verfassungsschutz-Kategorie \"Verfassungsschutzrelevante Delegitimierung des Staates\", Nachfrage zur Kleinen Anfrage Drs.-Nr.: 8/4299",
+  "date": "2025-11-26",
+  "drsNr": "8/4939",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46185",
+    "filename": "Drs_8_4939_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

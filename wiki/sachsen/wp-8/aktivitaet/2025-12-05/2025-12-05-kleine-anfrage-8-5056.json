@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5056",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aggressive Ladendiebe",
+  "date": "2025-12-05",
+  "drsNr": "8/5056",
+  "persons": [
+    {
+      "slug": "hans-jurgen-zickler",
+      "name": "Hans-Jürgen Zickler",
+      "name_padoka": "Zickler, Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46451",
+    "filename": "Drs_8_5056_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-24-nam-duy-nguyen",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in zu Drs 8/5923\r\nzum Antrag auf Aufhebung der Immunität eines Mitglieds des Sächsischen Landtags gemäß § 72 Abs. 3 GO in Verbindung mit der Anlage 3 zur Geschäftsordnung (Schreiben des  Staatsministeriums der Justiz vom 9. Dezember 2025 - Az.: 1044/1/3-III1)",
+  "date": "2026-02-04",
+  "persons": [
+    {
+      "slug": "nam-duy-nguyen",
+      "name": "Nam Duy Nguyen",
+      "name_padoka": "Nguyen, Nam Duy",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/24",
+    "date": "2026-02-04"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=48296"
+  }
+}

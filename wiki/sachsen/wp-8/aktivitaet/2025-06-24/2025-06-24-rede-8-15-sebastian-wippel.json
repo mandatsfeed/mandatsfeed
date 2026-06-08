@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-15-sebastian-wippel",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "13 Redebeiträge in Ein Atomkraftwerk direkt vor unserer Haustür - Schutz von Menschen und Natur in Sachsen sicherstellen",
+  "date": "2025-06-24",
+  "persons": [
+    {
+      "slug": "sebastian-wippel",
+      "name": "Sebastian Wippel",
+      "name_padoka": "Wippel, Sebastian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/15",
+    "date": "2025-06-24"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=43042"
+  }
+}

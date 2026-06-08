@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-25-ina-klemm",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in 25. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-02-05",
+  "persons": [
+    {
+      "slug": "ina-klemm",
+      "name": "Ina Klemm",
+      "name_padoka": "Klemm, Ina",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/25",
+    "date": "2026-02-05"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=48297"
+  }
+}

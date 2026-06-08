@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211314400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einsetzung einer Enquete-Kommission „Aufarbeitung der Corona-Pandemie und Lehren für zukünftige pandemische Ereignisse“ — Einsetzung des 1. Untersuchungsausschusses der 21. Wahlperiode (Aufarbeitung der Corona-Pandemie)",
+  "date": "2025-06-25",
+  "persons": [
+    {
+      "slug": "albert-stegemann",
+      "name": "Albert Stegemann",
+      "name_padoka": "Stegemann, Albert",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/13",
+    "date": "2025-06-25",
+    "page": 1104
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21013.pdf"
+  }
+}

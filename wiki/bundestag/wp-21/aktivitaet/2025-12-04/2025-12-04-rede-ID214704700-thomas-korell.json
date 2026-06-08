@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214704700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Olympische und Paralympische Sommerspiele – Volle Unterstützung einer deutschen Bewerbung — Deutsche Bewerbung für die Ausrichtung der Olympischen Winterspiele 2038 auf den Weg bringen",
+  "date": "2025-12-04",
+  "persons": [
+    {
+      "slug": "thomas-korell",
+      "name": "Thomas Korell",
+      "name_padoka": "Korell, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/47",
+    "date": "2025-12-04",
+    "page": 5560
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21047.pdf"
+  }
+}

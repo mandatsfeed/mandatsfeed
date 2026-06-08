@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5974",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einschränkungen im Bahnverkehr zwischen Chemnitz und Dresden Hauptbahnhof (Februar bis November 2026)",
+  "date": "2026-02-06",
+  "drsNr": "8/5974",
+  "persons": [
+    {
+      "slug": "katja-meier",
+      "name": "Katja Meier",
+      "name_padoka": "Meier, Katja",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48163",
+    "filename": "Drs_8_5974_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

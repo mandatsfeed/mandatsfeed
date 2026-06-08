@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-208",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zielvereinbarungen mit den sächsischen Hochschulen",
+  "date": "2024-10-21",
+  "drsNr": "8/208",
+  "persons": [
+    {
+      "slug": "romy-penz",
+      "name": "Romy Penz",
+      "name_padoka": "Penz, Romy",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36378",
+    "filename": "Drs_8_208_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

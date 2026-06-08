@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213114700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Akute Not der gesetzlichen Krankenversicherung lindern – Vollständige Finanzierung der Beiträge für Bürgergeldempfänger durch den Bund gewährleisten",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "ates-gurpinar",
+      "name": "Ates Gürpinar",
+      "name_padoka": "Gürpinar, Ates",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-41-abgeordneter-haseloff",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/41",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "abgeordneter-haseloff",
+      "name": "Abgeordneter Haseloff",
+      "name_padoka": "Haseloff, Abgeordneter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/41",
+    "date": "2026-03-26"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106549"
+  }
+}

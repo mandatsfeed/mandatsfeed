@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214410100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.18",
+  "date": "2025-11-27",
+  "persons": [
+    {
+      "slug": "esther-dilcher",
+      "name": "Esther Dilcher",
+      "name_padoka": "Dilcher, Esther",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/44",
+    "date": "2025-11-27",
+    "page": 5202
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21044.pdf"
+  }
+}

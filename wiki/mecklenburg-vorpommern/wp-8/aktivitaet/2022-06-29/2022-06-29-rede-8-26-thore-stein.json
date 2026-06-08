@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-26-thore-stein",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in PlPr 8/26",
+  "date": "2022-06-29",
+  "persons": [
+    {
+      "slug": "thore-stein",
+      "name": "Thore Stein",
+      "name_padoka": "Stein, Thore",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/26",
+    "date": "2022-06-29"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/53347"
+  }
+}

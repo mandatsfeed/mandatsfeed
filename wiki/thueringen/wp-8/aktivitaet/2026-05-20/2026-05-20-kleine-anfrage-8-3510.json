@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3510",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zukunft des Reparaturbonus nach Ablehnung im Bundesrat",
+  "date": "2026-05-20",
+  "drsNr": "8/3510",
+  "persons": [
+    {
+      "slug": "jens-thomas",
+      "name": "Jens Thomas",
+      "name_padoka": "Thomas, Jens",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107400"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

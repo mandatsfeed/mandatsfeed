@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213113300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Selbstbestimmung sichern und Teilhabe stärken – Die Fortschritte des Bundesteilhabegesetzes bewahren",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "hulya-duber",
+      "name": "Hülya Düber",
+      "name_padoka": "Düber, Hülya",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

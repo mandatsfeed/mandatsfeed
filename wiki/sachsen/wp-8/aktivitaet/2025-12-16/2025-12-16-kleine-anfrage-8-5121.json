@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5121",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "\"Kommunale Wärmeplanung - gesetzliche Grundlagen und Umsetzung in Sachsen\"",
+  "date": "2025-12-16",
+  "drsNr": "8/5121",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46638",
+    "filename": "Drs_8_5121_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

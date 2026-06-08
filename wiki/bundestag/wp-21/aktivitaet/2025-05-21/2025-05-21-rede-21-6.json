@@ -1,0 +1,107 @@
+{
+  "id": "dip-rede-21-6",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zahl der Messerangriffe in Deutschland steigt stark - Ursachen klar benennen und entschlossen handeln",
+  "date": "2025-05-21",
+  "persons": [
+    {
+      "slug": "christina-stumpp",
+      "name": "Christina Stumpp",
+      "name_padoka": "Stumpp, Christina",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "josef-oster",
+      "name": "Josef Oster",
+      "name_padoka": "Oster, Josef",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "lena-gumnior",
+      "name": "Lena Gumnior",
+      "name_padoka": "Gumnior, Lena",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "ingo-vogel",
+      "name": "Ingo Vogel",
+      "name_padoka": "Vogel, Ingo",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "sascha-lensing",
+      "name": "Sascha Lensing",
+      "name_padoka": "Lensing, Sascha",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-mayer-altotting",
+      "name": "Stephan Mayer (Altötting)",
+      "name_padoka": "(Altötting), Stephan Mayer",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "rasha-nasr",
+      "name": "Rasha Nasr",
+      "name_padoka": "Nasr, Rasha",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "lukas-benner",
+      "name": "Lukas Benner",
+      "name_padoka": "Benner, Lukas",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marc-henrichmann",
+      "name": "Marc Henrichmann",
+      "name_padoka": "Henrichmann, Marc",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "name_padoka": "Hess, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "afd",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "die-linke"
+  ],
+  "drsNr": "21/6",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21006.pdf#P.430",
+    "filename": "21006.pdf#P.430"
+  }
+}

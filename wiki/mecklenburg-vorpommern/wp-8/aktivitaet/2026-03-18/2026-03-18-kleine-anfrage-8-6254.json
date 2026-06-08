@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6254",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung von Gewaltvorfällen in Kindertageseinrichtungen und Kinderschutz in Mecklenburg-Vorpommern",
+  "date": "2026-03-18",
+  "drsNr": "8/6254",
+  "persons": [
+    {
+      "slug": "petra-federau",
+      "name": "Petra Federau",
+      "name_padoka": "Federau, Petra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70300"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

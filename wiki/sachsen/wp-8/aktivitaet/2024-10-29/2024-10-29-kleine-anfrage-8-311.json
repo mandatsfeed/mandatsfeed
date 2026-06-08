@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-311",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Das Landgericht Berlin II erlässt eine einstweilige Verfügung gegen den Mitteldeutschen Rundfunk (MDR) wegen unwahrer und ehrabträglicher Äußerungen - Wo bleibt die Verantwortung der Staatsregierung?",
+  "date": "2024-10-29",
+  "drsNr": "8/311",
+  "persons": [
+    {
+      "slug": "torsten-gahler",
+      "name": "Torsten Gahler",
+      "name_padoka": "Gahler, Torsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36532",
+    "filename": "Drs_8_311_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

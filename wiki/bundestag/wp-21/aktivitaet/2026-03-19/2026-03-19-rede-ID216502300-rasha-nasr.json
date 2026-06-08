@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216502300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die Zeitenwende in der Zivilen Verteidigung umsetzen",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "rasha-nasr",
+      "name": "Rasha Nasr",
+      "name_padoka": "Nasr, Rasha",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

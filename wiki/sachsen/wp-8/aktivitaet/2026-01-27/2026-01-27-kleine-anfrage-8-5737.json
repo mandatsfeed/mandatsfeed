@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5737",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kenntnis der SIKO über den Impfstatus von Hospitalisierungen mit COVID-19",
+  "date": "2026-01-27",
+  "drsNr": "8/5737",
+  "persons": [
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47619",
+    "filename": "Drs_8_5737_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

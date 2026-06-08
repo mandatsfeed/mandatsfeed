@@ -1,0 +1,42 @@
+{
+  "id": "dip-ka-21-5262",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Stand, Governance und Finanzierung des geplanten \"Digitalcenters\" des Bundesministeriums für Digitales und Staatsmodernisierung",
+  "date": "2026-04-13",
+  "persons": [
+    {
+      "slug": "ruben-rupp",
+      "name": "Ruben Rupp",
+      "name_padoka": "Rupp, Ruben",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robin-junger",
+      "name": "Robin Jünger",
+      "name_padoka": "Jünger, Robin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "edgar-naujok",
+      "name": "Edgar Naujok",
+      "name_padoka": "Naujok, Edgar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5262",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/052/2105262.pdf",
+    "filename": "2105262.pdf"
+  }
+}

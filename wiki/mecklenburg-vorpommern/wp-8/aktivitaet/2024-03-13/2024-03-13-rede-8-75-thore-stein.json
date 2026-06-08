@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-75-thore-stein",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "7 Redebeiträge in PlPr 8/75",
+  "date": "2024-03-13",
+  "persons": [
+    {
+      "slug": "thore-stein",
+      "name": "Thore Stein",
+      "name_padoka": "Stein, Thore",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/75",
+    "date": "2024-03-13"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/60105"
+  }
+}

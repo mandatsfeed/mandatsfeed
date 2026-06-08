@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-4-holger-gasse",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 4. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-12-18",
+  "persons": [
+    {
+      "slug": "holger-gasse",
+      "name": "Holger Gasse",
+      "name_padoka": "Gasse, Holger",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/4",
+    "date": "2024-12-18"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=38098"
+  }
+}

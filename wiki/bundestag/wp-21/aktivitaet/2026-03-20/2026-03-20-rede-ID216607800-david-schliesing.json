@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216607800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — auf Verlangen der Fraktion Die Linke",
+  "date": "2026-03-20",
+  "persons": [
+    {
+      "slug": "david-schliesing",
+      "name": "David Schliesing",
+      "name_padoka": "Schliesing, David",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/66",
+    "date": "2026-03-20",
+    "page": 8028
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21066.pdf"
+  }
+}

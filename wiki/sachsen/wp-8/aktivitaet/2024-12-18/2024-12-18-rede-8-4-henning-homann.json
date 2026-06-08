@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-4-henning-homann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 4. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-12-18",
+  "persons": [
+    {
+      "slug": "henning-homann",
+      "name": "Henning Homann",
+      "name_padoka": "Homann, Henning",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/4",
+    "date": "2024-12-18"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=38098"
+  }
+}

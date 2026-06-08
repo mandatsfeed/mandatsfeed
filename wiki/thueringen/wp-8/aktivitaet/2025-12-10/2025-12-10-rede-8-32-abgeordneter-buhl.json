@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-32-abgeordneter-buhl",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/32",
+  "date": "2025-12-10",
+  "persons": [
+    {
+      "slug": "abgeordneter-buhl",
+      "name": "Abgeordneter Bühl",
+      "name_padoka": "Bühl, Abgeordneter",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/32",
+    "date": "2025-12-10"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105011"
+  }
+}

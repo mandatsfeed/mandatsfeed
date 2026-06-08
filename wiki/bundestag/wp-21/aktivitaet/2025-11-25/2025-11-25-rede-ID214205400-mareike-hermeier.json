@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214205400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.6",
+  "date": "2025-11-25",
+  "persons": [
+    {
+      "slug": "mareike-hermeier",
+      "name": "Mareike Hermeier",
+      "name_padoka": "Hermeier, Mareike",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/42",
+    "date": "2025-11-25",
+    "page": 4944
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21042.pdf"
+  }
+}

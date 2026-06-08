@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212301400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 08",
+  "date": "2025-09-16",
+  "persons": [
+    {
+      "slug": "iris-nieland",
+      "name": "Iris Nieland",
+      "name_padoka": "Nieland, Iris",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/23",
+    "date": "2025-09-16",
+    "page": 2452
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21023.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217107000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Ungarn nach der Wahl – Neue Chance für Europa",
+  "date": "2026-04-16",
+  "persons": [
+    {
+      "slug": "janina-bottger",
+      "name": "Janina Böttger",
+      "name_padoka": "Böttger, Janina",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/71",
+    "date": "2026-04-16",
+    "page": 8645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21071.pdf"
+  }
+}

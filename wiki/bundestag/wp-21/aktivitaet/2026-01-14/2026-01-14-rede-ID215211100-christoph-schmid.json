@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215211100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-01-14",
+  "persons": [
+    {
+      "slug": "christoph-schmid",
+      "name": "Christoph Schmid",
+      "name_padoka": "Schmid, Christoph",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/52",
+    "date": "2026-01-14",
+    "page": 6266
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21052.pdf"
+  }
+}

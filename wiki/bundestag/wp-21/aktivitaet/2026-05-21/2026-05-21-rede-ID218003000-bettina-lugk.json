@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218003000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusammenhalt durch Engagement – Das Ehrenamt als Rückgrat unserer Gesellschaft",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "bettina-lugk",
+      "name": "Bettina Lugk",
+      "name_padoka": "Lugk, Bettina",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

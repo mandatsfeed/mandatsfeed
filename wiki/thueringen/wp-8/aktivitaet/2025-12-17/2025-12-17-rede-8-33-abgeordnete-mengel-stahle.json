@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-33-abgeordnete-mengel-stahle",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/33",
+  "date": "2025-12-17",
+  "persons": [
+    {
+      "slug": "abgeordnete-mengel-stahle",
+      "name": "Abgeordnete Mengel-Stähle",
+      "name_padoka": "Mengel-Stähle, Abgeordnete",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/33",
+    "date": "2025-12-17"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105167"
+  }
+}

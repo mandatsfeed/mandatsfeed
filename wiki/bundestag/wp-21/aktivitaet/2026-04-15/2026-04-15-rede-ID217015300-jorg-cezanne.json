@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217015300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2026-04-15",
+  "persons": [
+    {
+      "slug": "jorg-cezanne",
+      "name": "Jörg Cezanne",
+      "name_padoka": "Cezanne, Jörg",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/70",
+    "date": "2026-04-15",
+    "page": 8515
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21070.pdf"
+  }
+}

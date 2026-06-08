@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216815800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 8",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "lars-ehm",
+      "name": "Lars Ehm",
+      "name_padoka": "Ehm, Lars",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

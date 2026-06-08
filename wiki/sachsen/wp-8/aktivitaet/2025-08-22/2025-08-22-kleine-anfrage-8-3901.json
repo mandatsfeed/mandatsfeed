@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3901",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Waldgesetzliche Verpflichtungen des Freistaates Sachsen",
+  "date": "2025-08-22",
+  "drsNr": "8/3901",
+  "persons": [
+    {
+      "slug": "ulf-gunter-lange",
+      "name": "Ulf Günter Lange",
+      "name_padoka": "Lange, Ulf Günter",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43855",
+    "filename": "Drs_8_3901_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

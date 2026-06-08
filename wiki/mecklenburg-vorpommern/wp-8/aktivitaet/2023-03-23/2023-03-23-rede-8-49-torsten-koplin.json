@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-49-torsten-koplin",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/49",
+  "date": "2023-03-23",
+  "persons": [
+    {
+      "slug": "torsten-koplin",
+      "name": "Torsten Koplin",
+      "name_padoka": "Koplin, Torsten",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/49",
+    "date": "2023-03-23"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/56351"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2021108200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Verbesserung des Schutzes von Kindern und Jugendlichen vor sexuellem Missbrauch – Aufarbeitungskommission mit dem Recht zur Aufklärung und Mitwirkung einrichten sowie strafrechtliche Anzeigepflicht für bestimmte Personengruppen einführen — Gewalt gegen Frauen entschieden bekämpfen – Frauenhäuser ausbauen und Prävention stärken",
+  "date": "2025-01-31",
+  "persons": [
+    {
+      "slug": "lisa-paus",
+      "name": "Lisa Paus",
+      "name_padoka": "Paus, Lisa",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Familie, Senioren, Frauen und Jugend"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/211",
+    "date": "2025-01-31",
+    "page": 27629
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20211.pdf"
+  }
+}

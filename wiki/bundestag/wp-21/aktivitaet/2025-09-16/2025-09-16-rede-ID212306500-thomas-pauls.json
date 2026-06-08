@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212306500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 24",
+  "date": "2025-09-16",
+  "persons": [
+    {
+      "slug": "thomas-pauls",
+      "name": "Thomas Pauls",
+      "name_padoka": "Pauls, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/23",
+    "date": "2025-09-16",
+    "page": 2452
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21023.pdf"
+  }
+}

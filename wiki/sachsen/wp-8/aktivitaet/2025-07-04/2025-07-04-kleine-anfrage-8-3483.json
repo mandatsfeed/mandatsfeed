@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3483",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Erfolglose Abschiebungsversuche und Flugrückführungen im 2. Quartal 2025",
+  "date": "2025-07-04",
+  "drsNr": "8/3483",
+  "persons": [
+    {
+      "slug": "sebastian-wippel",
+      "name": "Sebastian Wippel",
+      "name_padoka": "Wippel, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=42852",
+    "filename": "Drs_8_3483_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

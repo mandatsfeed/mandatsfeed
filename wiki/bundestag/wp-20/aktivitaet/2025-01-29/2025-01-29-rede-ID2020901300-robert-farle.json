@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2020901300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Zu aktuellen innenpolitischen Themen",
+  "date": "2025-01-29",
+  "persons": [
+    {
+      "slug": "robert-farle",
+      "name": "Robert Farle",
+      "name_padoka": "Farle, Robert",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/209",
+    "date": "2025-01-29",
+    "page": 27188
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20209.pdf"
+  }
+}

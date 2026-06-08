@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4937",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vorfälle auf dem Schulweg und in der Waldblick-Oberschule Freital-Niederhäslich",
+  "date": "2025-11-26",
+  "drsNr": "8/4937",
+  "persons": [
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46183",
+    "filename": "Drs_8_4937_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

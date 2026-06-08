@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6266",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Polizeieinsätze und Gefahrenlagen in der Erstaufnahmeeinrichtung des Landes Mecklenburg-Vorpommern in den Jahren 2022 bis 2025",
+  "date": "2026-03-18",
+  "drsNr": "8/6266",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70346"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

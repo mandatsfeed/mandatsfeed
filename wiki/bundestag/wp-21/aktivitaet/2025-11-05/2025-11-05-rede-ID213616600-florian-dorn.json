@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213616600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Digitalabgabe für Werbeumsätze einführen – Medienvielfalt und Kulturstandort stärken — Steuergerechtigkeit im digitalen Zeitalter – Digitalsteuer einführen",
+  "date": "2025-11-05",
+  "persons": [
+    {
+      "slug": "florian-dorn",
+      "name": "Florian Dorn",
+      "name_padoka": "Dorn, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/36",
+    "date": "2025-11-05",
+    "page": 4047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21036.pdf"
+  }
+}

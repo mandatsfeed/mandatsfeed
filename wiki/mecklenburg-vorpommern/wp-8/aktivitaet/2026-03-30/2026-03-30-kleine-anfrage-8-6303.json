@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6303",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schutzkonzepte in Gemeinschaftsunterkünften",
+  "date": "2026-03-30",
+  "drsNr": "8/6303",
+  "persons": [
+    {
+      "slug": "anne-shepley",
+      "name": "Anne Shepley",
+      "name_padoka": "Shepley, Anne",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70463"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

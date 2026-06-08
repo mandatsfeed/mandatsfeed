@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5336",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Institute/Sonderprojekte SMJus nach der FÖMISAX Richtliniennummer 00901",
+  "date": "2026-01-05",
+  "drsNr": "8/5336",
+  "persons": [
+    {
+      "slug": "alexander-wiesner",
+      "name": "Alexander Wiesner",
+      "name_padoka": "Wiesner, Alexander",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46957",
+    "filename": "Drs_8_5336_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

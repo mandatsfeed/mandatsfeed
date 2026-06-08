@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-4654",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Anwendung des Linear-Non-Threshold-Modells bei verschiedenen Arten ionisierender Strahlung",
+  "date": "2026-03-12",
+  "persons": [
+    {
+      "slug": "paul-schmidt",
+      "name": "Paul Schmidt",
+      "name_padoka": "Schmidt, Paul",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/4654",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/046/2104654.pdf",
+    "filename": "2104654.pdf"
+  }
+}

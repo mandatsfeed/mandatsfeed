@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215102400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Steuerprivilegien für höchste Erbschaften streichen — Gerechtigkeitslücken im Steuersystem schließen – Ausnahmen bei Erbschaft- und Immobilienbesteuerung abbauen und organisierte Steuerhinterziehung wie Cum/Cum bekämpfen",
+  "date": "2025-12-19",
+  "persons": [
+    {
+      "slug": "fritz-guntzler",
+      "name": "Fritz Güntzler",
+      "name_padoka": "Güntzler, Fritz",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/51",
+    "date": "2025-12-19",
+    "page": 6172
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21051.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-3809",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Meinungsumfragen der Bundesregierung im Zeitraum vom 1. Januar 2000 bis zum 31. Dezember 2025",
+  "date": "2026-01-27",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/3809",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/038/2103809.pdf",
+    "filename": "2103809.pdf"
+  }
+}

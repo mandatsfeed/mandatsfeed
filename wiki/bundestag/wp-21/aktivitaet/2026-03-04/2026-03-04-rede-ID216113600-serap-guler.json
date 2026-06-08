@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216113600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Die Lage im Iran und in der Region",
+  "date": "2026-03-04",
+  "persons": [
+    {
+      "slug": "serap-guler",
+      "name": "Serap Güler",
+      "name_padoka": "Güler, Serap",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsministerin beim Bundesminister des Auswärtigen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/61",
+    "date": "2026-03-04",
+    "page": 7423
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21061.pdf"
+  }
+}

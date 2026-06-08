@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-64",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Kenntnis der Bundesregierung über Inhalte und Zielrichtung des YOUNA-Chatbots",
+  "date": "2025-04-23",
+  "persons": [
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "name_padoka": "Peterka, Tobias Matthias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/64",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/000/2100064.pdf",
+    "filename": "2100064.pdf"
+  }
+}

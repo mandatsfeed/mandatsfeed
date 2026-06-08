@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216417000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutsches Staatsgold vollständig nach Deutschland holen",
+  "date": "2026-03-18",
+  "persons": [
+    {
+      "slug": "oliver-popsel",
+      "name": "Oliver Pöpsel",
+      "name_padoka": "Pöpsel, Oliver",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/64",
+    "date": "2026-03-18",
+    "page": 7765
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21064.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-14-lars-wurzler",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in 14. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/14",
+    "date": "2025-05-22"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=42103"
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Bodo Ramelow (Thüringer Landtag, WP-8)</title>
+    <link>https://parldok.thueringer-landtag.de/parldok/</link>
+    <description>Aufbereitung durch mandatsfeed. Quelle: Thüringer Landtag – Parlamentsdatenbank (parldok.thueringer-landtag.de). Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">aw-abst-thueringen-6024</guid>
+      <title>Änderung der Geschäftsordnung des Thüringer Landtags</title>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <link>https://www.abgeordnetenwatch.de/thueringen/8/abstimmungen/aenderung-der-geschaeftsordnung-des-thueringer-landtags</link>
+      <description>Abstimmung · Ergebnis: 50 ja, 29 nein, 0 enth., 9 abw. von 88 (annahme) · Eigene Stimme: abwesend</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">aw-abst-thueringen-6022</guid>
+      <title>Änderung der Thüringer Bauordnung – Gewährleistung des vollständigen Rückbaus von Windenergieanlagen</title>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+      <link>https://www.abgeordnetenwatch.de/thueringen/8/abstimmungen/aenderung-der-thueringer-bauordnung-gewaehrleistung-des-vollstaendigen-rueckbaus-von-windenergieanlagen</link>
+      <description>Abstimmung · Ergebnis: 31 ja, 47 nein, 0 enth., 10 abw. von 88 (ablehnung) · Eigene Stimme: abwesend</description>
+    </item>
+  </channel>
+</rss>

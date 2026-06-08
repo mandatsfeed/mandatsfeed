@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-63-die-linke-und-torsten-renz",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/63",
+  "date": "2023-09-20",
+  "persons": [
+    {
+      "slug": "die-linke-und-torsten-renz",
+      "name": "DIE LINKE und Torsten Renz",
+      "name_padoka": "Renz, DIE LINKE und Torsten",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/63",
+    "date": "2023-09-20"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/57944"
+  }
+}

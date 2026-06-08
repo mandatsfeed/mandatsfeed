@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-37-abgeordneter-thomas",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/37",
+  "date": "2026-02-06",
+  "persons": [
+    {
+      "slug": "abgeordneter-thomas",
+      "name": "Abgeordneter Thomas",
+      "name_padoka": "Thomas, Abgeordneter",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/37",
+    "date": "2026-02-06"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105794"
+  }
+}

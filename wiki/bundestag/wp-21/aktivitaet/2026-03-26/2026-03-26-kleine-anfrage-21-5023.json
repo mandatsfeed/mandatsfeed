@@ -1,0 +1,35 @@
+{
+  "id": "dip-ka-21-5023",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Finanzierung eines Waldkaufs bei Stolberg (Harz) mit Steuermitteln des \"Aktionsprogramms Natürlicher Klimaschutz\"",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "peter-felser",
+      "name": "Peter Felser",
+      "name_padoka": "Felser, Peter",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-protschka",
+      "name": "Stephan Protschka",
+      "name_padoka": "Protschka, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5023",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/050/2105023.pdf",
+    "filename": "2105023.pdf"
+  }
+}

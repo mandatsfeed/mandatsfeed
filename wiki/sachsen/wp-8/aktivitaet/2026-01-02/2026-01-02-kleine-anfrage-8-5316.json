@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5316",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Defizite und Handlungsoptionen des Freistaates Sachsen im Bereich der Informationssicherheit",
+  "date": "2026-01-02",
+  "drsNr": "8/5316",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46896",
+    "filename": "Drs_8_5316_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

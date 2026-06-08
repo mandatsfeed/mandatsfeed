@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-8-martin-dulig",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in 8. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-02-13",
+  "persons": [
+    {
+      "slug": "martin-dulig",
+      "name": "Martin Dulig",
+      "name_padoka": "Dulig, Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/8",
+    "date": "2025-02-13"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=39594"
+  }
+}

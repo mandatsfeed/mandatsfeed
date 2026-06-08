@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3822",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Stand zur Einführung der Bezahlkarte für Leistungen nach dem Asylbewerberleistungsgesetz",
+  "date": "2025-08-14",
+  "drsNr": "8/3822",
+  "persons": [
+    {
+      "slug": "jonas-dunzel",
+      "name": "Jonas Dünzel",
+      "name_padoka": "Dünzel, Jonas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43668",
+    "filename": "Drs_8_3822_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

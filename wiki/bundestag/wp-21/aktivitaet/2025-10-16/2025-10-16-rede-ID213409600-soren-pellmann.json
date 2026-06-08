@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213409600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bitten und Beschwerden an den Deutschen Bundestag — Die Tätigkeit des Petitionsausschusses des Deutschen Bundestages im Jahr 2024",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "soren-pellmann",
+      "name": "Sören Pellmann",
+      "name_padoka": "Pellmann, Sören",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

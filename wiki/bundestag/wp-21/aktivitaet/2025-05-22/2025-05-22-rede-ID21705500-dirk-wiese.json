@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21705500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zeitplan des Deutschen Bundestages für das Jahr 2025 ab Juni 2025",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "dirk-wiese",
+      "name": "Dirk Wiese",
+      "name_padoka": "Wiese, Dirk",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/7",
+    "date": "2025-05-22",
+    "page": 573
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21007.pdf"
+  }
+}

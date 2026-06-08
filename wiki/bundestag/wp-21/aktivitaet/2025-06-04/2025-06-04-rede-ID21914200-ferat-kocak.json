@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21914200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ausreisegewahrsam und Abschiebehaft für ausreisepflichtige Personen, insbesondere für Straftäter und Gefährder, wirksam umsetzen",
+  "date": "2025-06-04",
+  "persons": [
+    {
+      "slug": "ferat-kocak",
+      "name": "Ferat Koçak",
+      "name_padoka": "Koçak, Ferat",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/9",
+    "date": "2025-06-04",
+    "page": 741
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21009.pdf"
+  }
+}

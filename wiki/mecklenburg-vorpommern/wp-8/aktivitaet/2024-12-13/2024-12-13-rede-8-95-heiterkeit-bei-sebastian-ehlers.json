@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-95-heiterkeit-bei-sebastian-ehlers",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/95",
+  "date": "2024-12-13",
+  "persons": [
+    {
+      "slug": "heiterkeit-bei-sebastian-ehlers",
+      "name": "Heiterkeit bei Sebastian Ehlers",
+      "name_padoka": "Ehlers, Heiterkeit bei Sebastian",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/95",
+    "date": "2024-12-13"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/63427"
+  }
+}

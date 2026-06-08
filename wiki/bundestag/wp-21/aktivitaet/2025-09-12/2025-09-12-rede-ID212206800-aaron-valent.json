@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212206800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 31",
+  "date": "2025-09-12",
+  "persons": [
+    {
+      "slug": "aaron-valent",
+      "name": "Aaron Valent",
+      "name_padoka": "Valent, Aaron",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/22",
+    "date": "2025-09-12",
+    "page": 2305
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21022.pdf"
+  }
+}

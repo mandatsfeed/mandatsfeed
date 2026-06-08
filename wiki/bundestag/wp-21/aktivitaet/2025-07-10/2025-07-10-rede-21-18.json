@@ -1,0 +1,107 @@
+{
+  "id": "dip-rede-21-18",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einsetzung einer Enquete-Kommission \"Aufarbeitung der Corona-Pandemie und Lehren für zukünftige pandemische Ereignisse\"",
+  "date": "2025-07-10",
+  "persons": [
+    {
+      "slug": "martin-sichert",
+      "name": "Martin Sichert",
+      "name_padoka": "Sichert, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "mechthilde-wittmann",
+      "name": "Mechthilde Wittmann",
+      "name_padoka": "Wittmann, Mechthilde",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ates-gurpinar",
+      "name": "Ates Gürpinar",
+      "name_padoka": "Gürpinar, Ates",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "helge-limburg",
+      "name": "Helge Limburg",
+      "name_padoka": "Limburg, Helge",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lina-seitzl",
+      "name": "Lina Seitzl",
+      "name_padoka": "Seitzl, Lina",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hendrik-hoppenstedt",
+      "name": "Hendrik Hoppenstedt",
+      "name_padoka": "Hoppenstedt, Hendrik",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "name_padoka": "Latendorf, Ina",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "johannes-fechner",
+      "name": "Johannes Fechner",
+      "name_padoka": "Fechner, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "albert-stegemann",
+      "name": "Albert Stegemann",
+      "name_padoka": "Stegemann, Albert",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "johannes-wagner",
+      "name": "Johannes Wagner",
+      "name_padoka": "Wagner, Johannes",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "dagmar-schmidt-wetzlar",
+      "name": "Dagmar Schmidt (Wetzlar)",
+      "name_padoka": "(Wetzlar), Dagmar Schmidt",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "afd",
+    "cdu-csu",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "spd"
+  ],
+  "drsNr": "21/18",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21018.pdf#P.1775",
+    "filename": "21018.pdf#P.1775"
+  }
+}

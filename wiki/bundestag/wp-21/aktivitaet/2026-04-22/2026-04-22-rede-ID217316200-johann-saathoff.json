@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217316200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einfluss von Milliardären weltweit zurückdrängen – Globale Gerechtigkeit durch mehr Umverteilung und Entwicklungszusammenarbeit voranbringen",
+  "date": "2026-04-22",
+  "persons": [
+    {
+      "slug": "johann-saathoff",
+      "name": "Johann Saathoff",
+      "name_padoka": "Saathoff, Johann",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär bei der Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/73",
+    "date": "2026-04-22",
+    "page": 8809
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21073.pdf"
+  }
+}

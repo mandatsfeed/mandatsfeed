@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218007100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Bevölkerungsschutz neu denken – Gemeinsam für ein krisenfestes Deutschland",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "rasha-nasr",
+      "name": "Rasha Nasr",
+      "name_padoka": "Nasr, Rasha",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

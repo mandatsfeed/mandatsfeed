@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212609300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 10",
+  "date": "2025-09-23",
+  "persons": [
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "name_padoka": "Latendorf, Ina",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/26",
+    "date": "2025-09-23",
+    "page": 2797
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21026.pdf"
+  }
+}

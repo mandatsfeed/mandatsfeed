@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211903600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 11",
+  "date": "2025-07-11",
+  "persons": [
+    {
+      "slug": "sandra-carstensen",
+      "name": "Sandra Carstensen",
+      "name_padoka": "Carstensen, Sandra",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/19",
+    "date": "2025-07-11",
+    "page": 1931
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21019.pdf"
+  }
+}

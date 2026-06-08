@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212102700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Effektive Grenzkontrollen und Zurückweisung aller asylsuchenden Personen an den deutschen Grenzen",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "david-gregosz",
+      "name": "David Gregosz",
+      "name_padoka": "Gregosz, David",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/21",
+    "date": "2025-09-11",
+    "page": 2179
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21021.pdf"
+  }
+}

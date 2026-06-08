@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-96-martina-tegtmeier",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "14 Redebeiträge in PlPr 8/96",
+  "date": "2025-01-29",
+  "persons": [
+    {
+      "slug": "martina-tegtmeier",
+      "name": "Martina Tegtmeier",
+      "name_padoka": "Tegtmeier, Martina",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/96",
+    "date": "2025-01-29"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/63746"
+  }
+}

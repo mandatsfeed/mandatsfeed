@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-803",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Rechtswidriger Umgang mit dem Bitcoin-Sachsenschatz durch den Finanzminister Vorjohann?",
+  "date": "2024-12-19",
+  "drsNr": "8/803",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37591",
+    "filename": "Drs_8_803_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

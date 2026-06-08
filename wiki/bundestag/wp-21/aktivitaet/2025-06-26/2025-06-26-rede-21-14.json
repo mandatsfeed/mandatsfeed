@@ -1,0 +1,95 @@
+{
+  "id": "dip-rede-21-14",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sechstes Gesetz zur Änderung des Allgemeinen Eisenbahngesetzes",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "anja-troff-schaffarzyk",
+      "name": "Anja Troff-Schaffarzyk",
+      "name_padoka": "Troff-Schaffarzyk, Anja",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stephan-stracke",
+      "name": "Stephan Stracke",
+      "name_padoka": "Stracke, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "lars-haise",
+      "name": "Lars Haise",
+      "name_padoka": "Haise, Lars",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "luigi-pantisano",
+      "name": "Luigi Pantisano",
+      "name_padoka": "Pantisano, Luigi",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "matthias-gastel",
+      "name": "Matthias Gastel",
+      "name_padoka": "Gastel, Matthias",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "wolfgang-wiehle",
+      "name": "Wolfgang Wiehle",
+      "name_padoka": "Wiehle, Wolfgang",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-donth",
+      "name": "Michael Donth",
+      "name_padoka": "Donth, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ulrich-lange",
+      "name": "Ulrich Lange",
+      "name_padoka": "Lange, Ulrich",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Verkehr",
+      "funktion": "Parl. Staatssekr."
+    },
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "name_padoka": "Seidler, Stefan",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    },
+    {
+      "slug": "gunter-baumgartner",
+      "name": "Günter Baumgartner",
+      "name_padoka": "Baumgartner, Günter",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "spd",
+    "cdu-csu",
+    "afd",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "fraktionslos"
+  ],
+  "drsNr": "21/14",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf#P.1338",
+    "filename": "21014.pdf#P.1338"
+  }
+}

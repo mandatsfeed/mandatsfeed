@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217206200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Militärische Eskalation und humanitäre Notlage im Libanon",
+  "date": "2026-04-17",
+  "persons": [
+    {
+      "slug": "sanae-abdi",
+      "name": "Sanae Abdi",
+      "name_padoka": "Abdi, Sanae",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/72",
+    "date": "2026-04-17",
+    "page": 8705
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21072.pdf"
+  }
+}

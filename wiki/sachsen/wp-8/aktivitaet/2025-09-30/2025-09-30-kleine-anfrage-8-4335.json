@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4335",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Gemeldeter Lehrerbedarf für das Schuljahr 2025/26",
+  "date": "2025-09-30",
+  "drsNr": "8/4335",
+  "persons": [
+    {
+      "slug": "romy-penz",
+      "name": "Romy Penz",
+      "name_padoka": "Penz, Romy",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44889",
+    "filename": "Drs_8_4335_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

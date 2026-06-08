@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216000600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zugang statt Blockade – Zulassungsstopp zu Sprach- und Integrationskursen aufheben",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "alexander-dobrindt",
+      "name": "Alexander Dobrindt",
+      "name_padoka": "Dobrindt, Alexander",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister des Innern"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

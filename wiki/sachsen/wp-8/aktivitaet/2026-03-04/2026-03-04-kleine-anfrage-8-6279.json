@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6279",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Lehrermangel und Unterrichtsausfall im 1. Schulhalbjahr 2025/2026 an der Goethe-Schule Breitenbrunn, Oberschule",
+  "date": "2026-03-04",
+  "drsNr": "8/6279",
+  "persons": [
+    {
+      "slug": "thomas-thumm",
+      "name": "Thomas Thumm",
+      "name_padoka": "Thumm, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48777",
+    "filename": "Drs_8_6279_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

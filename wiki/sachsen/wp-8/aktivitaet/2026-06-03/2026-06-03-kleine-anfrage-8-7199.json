@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7199",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kassenkredite der kreisangehörigen Städte und Gemeinden zum Stichtag 31.05.2026",
+  "date": "2026-06-03",
+  "drsNr": "8/7199",
+  "persons": [
+    {
+      "slug": "norbert-otto-mayer",
+      "name": "Norbert Otto Mayer",
+      "name_padoka": "Mayer, Norbert Otto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51165",
+    "filename": "Drs_8_7199_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

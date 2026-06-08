@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6579",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einzelförderung nach dem Sächsischen Krankenhausgesetz für die Weiterentwicklung des Krankenhausstandortes Zittau",
+  "date": "2026-04-01",
+  "drsNr": "8/6579",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49635",
+    "filename": "Drs_8_6579_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

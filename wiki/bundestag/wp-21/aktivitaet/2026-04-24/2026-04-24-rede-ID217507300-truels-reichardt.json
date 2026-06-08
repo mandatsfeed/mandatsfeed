@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217507300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Kein Sozialabbau auf Kosten von Kindern, Jugendlichen, Familien und Menschen mit Behinderungen",
+  "date": "2026-04-24",
+  "persons": [
+    {
+      "slug": "truels-reichardt",
+      "name": "Truels Reichardt",
+      "name_padoka": "Reichardt, Truels",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/75",
+    "date": "2026-04-24",
+    "page": 9047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21075.pdf"
+  }
+}

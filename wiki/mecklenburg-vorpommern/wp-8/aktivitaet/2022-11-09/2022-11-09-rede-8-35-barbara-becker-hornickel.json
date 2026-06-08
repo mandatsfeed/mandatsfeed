@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-35-barbara-becker-hornickel",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/35",
+  "date": "2022-11-09",
+  "persons": [
+    {
+      "slug": "barbara-becker-hornickel",
+      "name": "Barbara Becker-Hornickel",
+      "name_padoka": "Becker-Hornickel, Barbara",
+      "role": "redner",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/35",
+    "date": "2022-11-09"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/55214"
+  }
+}

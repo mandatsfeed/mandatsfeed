@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217903700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-05-20",
+  "persons": [
+    {
+      "slug": "carolin-bachmann",
+      "name": "Carolin Bachmann",
+      "name_padoka": "Bachmann, Carolin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/79",
+    "date": "2026-05-20",
+    "page": 9506
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21079.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213111400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Dem deutschen Volke – Unsere Zukunft gestalten und durch geeignete Familienpolitik sichern",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "jasmina-hostert",
+      "name": "Jasmina Hostert",
+      "name_padoka": "Hostert, Jasmina",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

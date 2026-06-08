@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216813900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Verbesserung der Überprüfungsverfahren zur Approbation von Ärzten aus Drittstaaten zur Gewährleistung der öffentlichen Sicherheit und Qualität der medizinischen Versorgung — Gefälschte Berufsausbildungszeugnisse bei Pflegepersonal bekämpfen",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "hans-theiss",
+      "name": "Hans Theiss",
+      "name_padoka": "Theiss, Hans",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

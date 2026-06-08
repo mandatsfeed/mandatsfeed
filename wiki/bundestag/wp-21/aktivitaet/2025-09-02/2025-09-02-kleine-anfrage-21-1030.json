@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-1030",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Fragen zum Haushaltsplan 2025 des Auswärtigen Amtes der neuen Bundesregierung",
+  "date": "2025-09-02",
+  "persons": [
+    {
+      "slug": "markus-frohnmaier",
+      "name": "Markus Frohnmaier",
+      "name_padoka": "Frohnmaier, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/1030",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/010/2101030.pdf",
+    "filename": "2101030.pdf"
+  }
+}

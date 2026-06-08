@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21202400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Eidesleistung der Bundesministerinnen und Bundesminister",
+  "date": "2025-05-06",
+  "persons": [
+    {
+      "slug": "thorsten-frei",
+      "name": "Thorsten Frei",
+      "name_padoka": "Frei, Thorsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister für besondere Aufgaben"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/2",
+    "date": "2025-05-06",
+    "page": 50
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21002.pdf"
+  }
+}

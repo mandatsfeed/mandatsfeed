@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21302900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "rainer-kraft",
+      "name": "Rainer Kraft",
+      "name_padoka": "Kraft, Rainer",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/3",
+    "date": "2025-05-14",
+    "page": 175
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21003.pdf"
+  }
+}

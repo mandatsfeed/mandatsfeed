@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6351",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Investitionsbudgets für den Landkreis Ludwigslust-Parchim und seine kreisangehörigen Gemeinden aus der Umsetzung des MV-Plans 2035",
+  "date": "2026-04-09",
+  "drsNr": "8/6351",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70623"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

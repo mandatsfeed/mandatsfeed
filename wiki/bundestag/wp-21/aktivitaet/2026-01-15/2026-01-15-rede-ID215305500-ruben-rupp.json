@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215305500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Politische Chancengleichheit auch im digitalen Raum – Aufhebung der Verordnung (EU) 2024/900 über die Transparenz und das Targeting politischer Werbung",
+  "date": "2026-01-15",
+  "persons": [
+    {
+      "slug": "ruben-rupp",
+      "name": "Ruben Rupp",
+      "name_padoka": "Rupp, Ruben",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/53",
+    "date": "2026-01-15",
+    "page": 6420
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21053.pdf"
+  }
+}

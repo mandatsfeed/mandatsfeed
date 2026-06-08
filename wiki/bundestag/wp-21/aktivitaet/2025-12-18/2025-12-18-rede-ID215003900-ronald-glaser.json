@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215003900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "35. Jahrestag der Konstituierung des ersten gesamtdeutschen Bundestages",
+  "date": "2025-12-18",
+  "persons": [
+    {
+      "slug": "ronald-glaser",
+      "name": "Ronald Gläser",
+      "name_padoka": "Gläser, Ronald",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/50",
+    "date": "2025-12-18",
+    "page": 6008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21050.pdf"
+  }
+}

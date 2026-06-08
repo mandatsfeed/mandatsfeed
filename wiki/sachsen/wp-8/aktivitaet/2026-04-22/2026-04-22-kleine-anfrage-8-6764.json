@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6764",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Chronisch entzündliche Darmerkrankungen (CED) in Sachsen (2015-2025): Morbus Crohn, Colitis ulcerosa und Colitis indeterminata",
+  "date": "2026-04-22",
+  "drsNr": "8/6764",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50161",
+    "filename": "Drs_8_6764_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

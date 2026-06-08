@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6206",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umstrukturierung der intensivmedizinischen Notfallversorgung am Standort Ebersbach des Klinikums Oberlausitzer Bergland",
+  "date": "2026-03-02",
+  "drsNr": "8/6206",
+  "persons": [
+    {
+      "slug": "roman-golombek",
+      "name": "Roman Golombek",
+      "name_padoka": "Golombek, Roman",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48660",
+    "filename": "Drs_8_6206_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

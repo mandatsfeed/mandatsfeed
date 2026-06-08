@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3863",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Fremdsprachige Publikationen des Kultusministeriums bzw. LaSuB seit 2020",
+  "date": "2025-08-18",
+  "drsNr": "8/3863",
+  "persons": [
+    {
+      "slug": "romy-penz",
+      "name": "Romy Penz",
+      "name_padoka": "Penz, Romy",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43790",
+    "filename": "Drs_8_3863_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

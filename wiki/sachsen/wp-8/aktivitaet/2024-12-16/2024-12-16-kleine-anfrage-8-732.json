@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-732",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nicht beschulte Kinder und Jugendliche im Freistaat Sachsen",
+  "date": "2024-12-16",
+  "drsNr": "8/732",
+  "persons": [
+    {
+      "slug": "christin-melcher",
+      "name": "Christin Melcher",
+      "name_padoka": "Melcher, Christin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37453",
+    "filename": "Drs_8_732_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

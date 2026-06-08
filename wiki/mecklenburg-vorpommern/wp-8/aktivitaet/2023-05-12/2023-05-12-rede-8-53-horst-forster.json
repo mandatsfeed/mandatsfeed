@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-53-horst-forster",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "8 Redebeiträge in PlPr 8/53",
+  "date": "2023-05-12",
+  "persons": [
+    {
+      "slug": "horst-forster",
+      "name": "Horst Förster",
+      "name_padoka": "Förster, Horst",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/53",
+    "date": "2023-05-12"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/56674"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218013500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für ein Handwerk mit Zukunft — Wirtschaft 2045 – Innovationen stärken, Zukunftstechnologien fördern, fairen Wettbewerb sichern",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "gitta-connemann",
+      "name": "Gitta Connemann",
+      "name_padoka": "Connemann, Gitta",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretärin bei der Bundesministerin für Wirtschaft und Energie"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

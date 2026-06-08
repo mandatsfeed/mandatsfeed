@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215703700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Vom Parlamentarischen Rat zum Bundestag als Fundament unserer Demokratie – Zum 150. Geburtstag von Konrad Adenauer",
+  "date": "2026-01-30",
+  "persons": [
+    {
+      "slug": "franziska-kersten",
+      "name": "Franziska Kersten",
+      "name_padoka": "Kersten, Franziska",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/57",
+    "date": "2026-01-30",
+    "page": 6913
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21057.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5026",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Radweg S 59 Hermsdorf-Weixdorf",
+  "date": "2025-12-04",
+  "drsNr": "8/5026",
+  "persons": [
+    {
+      "slug": "stefan-hartmann",
+      "name": "Stefan Hartmann",
+      "name_padoka": "Hartmann, Stefan",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46405",
+    "filename": "Drs_8_5026_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

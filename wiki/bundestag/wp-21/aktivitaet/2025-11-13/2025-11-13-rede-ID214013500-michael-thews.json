@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214013500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bürger, Mittelstand und Industrie entlasten – Stromsteuer für alle dauerhaft auf europäisches Mindestmaß absenken",
+  "date": "2025-11-13",
+  "persons": [
+    {
+      "slug": "michael-thews",
+      "name": "Michael Thews",
+      "name_padoka": "Thews, Michael",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/40",
+    "date": "2025-11-13",
+    "page": 4645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21040.pdf"
+  }
+}

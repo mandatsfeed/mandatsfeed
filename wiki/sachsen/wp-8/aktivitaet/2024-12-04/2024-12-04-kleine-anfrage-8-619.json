@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-619",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kommunalfinanzen am Limit - drohender finanzieller Ruin der Landkreise",
+  "date": "2024-12-04",
+  "drsNr": "8/619",
+  "persons": [
+    {
+      "slug": "andre-barth",
+      "name": "André Barth",
+      "name_padoka": "Barth, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37257",
+    "filename": "Drs_8_619_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

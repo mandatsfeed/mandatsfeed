@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID217011200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-04-15",
+  "persons": [
+    {
+      "slug": "stefanie-hubig",
+      "name": "Stefanie Hubig",
+      "name_padoka": "Hubig, Stefanie",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesministerin der Justiz und für Verbraucherschutz"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/70",
+    "date": "2026-04-15",
+    "page": 8515
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21070.pdf"
+  }
+}

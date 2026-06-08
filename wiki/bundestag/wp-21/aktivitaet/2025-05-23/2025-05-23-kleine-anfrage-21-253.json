@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-253",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Aktuelle Problematiken der deutschen Waffenlieferungen an die Ukraine",
+  "date": "2025-05-23",
+  "persons": [
+    {
+      "slug": "matthias-moosdorf",
+      "name": "Matthias Moosdorf",
+      "name_padoka": "Moosdorf, Matthias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/253",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/002/2100253.pdf",
+    "filename": "2100253.pdf"
+  }
+}

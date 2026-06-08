@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21602300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-05-21",
+  "persons": [
+    {
+      "slug": "otto-strauss",
+      "name": "Otto Strauß",
+      "name_padoka": "Strauß, Otto",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/6",
+    "date": "2025-05-21",
+    "page": 470
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21006.pdf"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "parldok-drs-8-6239",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "antrag",
+  "title": "Gesetz zur Neuregelung des Landeswasserrechts",
+  "date": "2026-01-28",
+  "drsNr": "8/6239",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70231"
+  },
+  "subtype": "Änderungsantrag",
+  "urheber": "SPD, Die Linke"
+}

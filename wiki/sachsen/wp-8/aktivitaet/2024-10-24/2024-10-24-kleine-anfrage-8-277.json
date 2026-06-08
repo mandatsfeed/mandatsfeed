@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-277",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Finanzmittel für kirchliche Jugendarbeit - Katholische Kirche",
+  "date": "2024-10-24",
+  "drsNr": "8/277",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36455",
+    "filename": "Drs_8_277_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

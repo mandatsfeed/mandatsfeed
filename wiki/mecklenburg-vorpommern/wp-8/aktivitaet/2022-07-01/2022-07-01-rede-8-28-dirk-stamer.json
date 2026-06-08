@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-28-dirk-stamer",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/28",
+  "date": "2022-07-01",
+  "persons": [
+    {
+      "slug": "dirk-stamer",
+      "name": "Dirk Stamer",
+      "name_padoka": "Stamer, Dirk",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/28",
+    "date": "2022-07-01"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/53429"
+  }
+}

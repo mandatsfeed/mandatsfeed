@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID217103400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Rechenzentrumsstrategie",
+  "date": "2026-04-16",
+  "persons": [
+    {
+      "slug": "karsten-wildberger",
+      "name": "Karsten Wildberger",
+      "name_padoka": "Wildberger, Karsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesminister für Digitales und Staatsmodernisierung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/71",
+    "date": "2026-04-16",
+    "page": 8645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21071.pdf"
+  }
+}

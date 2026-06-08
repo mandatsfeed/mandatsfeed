@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213804600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "80 Jahre Vereinte Nationen",
+  "date": "2025-11-07",
+  "persons": [
+    {
+      "slug": "beatrix-von-storch",
+      "name": "Beatrix von Storch",
+      "name_padoka": "von Storch, Beatrix",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/38",
+    "date": "2025-11-07",
+    "page": 4369
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21038.pdf"
+  }
+}

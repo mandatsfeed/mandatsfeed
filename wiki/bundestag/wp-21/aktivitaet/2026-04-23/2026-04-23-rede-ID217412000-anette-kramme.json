@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217412000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 13",
+  "date": "2026-04-23",
+  "persons": [
+    {
+      "slug": "anette-kramme",
+      "name": "Anette Kramme",
+      "name_padoka": "Kramme, Anette",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretärin bei der Bundesministerin der Justiz und für Verbraucherschutz"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/74",
+    "date": "2026-04-23",
+    "page": 8958
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21074.pdf"
+  }
+}

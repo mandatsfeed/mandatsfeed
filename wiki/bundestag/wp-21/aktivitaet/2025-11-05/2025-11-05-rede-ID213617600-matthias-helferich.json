@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213617600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Den Deutschen Verlagspreis grundlegend reformieren – Keine Steuergelder für Verlage, deren Programme auch linksextreme Inhalte umfassen",
+  "date": "2025-11-05",
+  "persons": [
+    {
+      "slug": "matthias-helferich",
+      "name": "Matthias Helferich",
+      "name_padoka": "Helferich, Matthias",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/36",
+    "date": "2025-11-05",
+    "page": 4047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21036.pdf"
+  }
+}

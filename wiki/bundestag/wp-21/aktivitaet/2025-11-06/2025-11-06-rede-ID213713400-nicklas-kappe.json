@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213713400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 18",
+  "date": "2025-11-06",
+  "persons": [
+    {
+      "slug": "nicklas-kappe",
+      "name": "Nicklas Kappe",
+      "name_padoka": "Kappe, Nicklas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/37",
+    "date": "2025-11-06",
+    "page": 4261
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21037.pdf"
+  }
+}

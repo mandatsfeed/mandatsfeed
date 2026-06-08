@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214801100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Streichung der Wehrpflicht aus dem Grundgesetz",
+  "date": "2025-12-05",
+  "persons": [
+    {
+      "slug": "kurt-kleinschmidt",
+      "name": "Kurt Kleinschmidt",
+      "name_padoka": "Kleinschmidt, Kurt",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/48",
+    "date": "2025-12-05",
+    "page": 5732
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21048.pdf"
+  }
+}

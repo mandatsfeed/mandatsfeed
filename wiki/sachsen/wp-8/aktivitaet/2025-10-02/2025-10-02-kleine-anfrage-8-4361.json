@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4361",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Gewalt und Beleidigungen im sächsischen Jugendsport",
+  "date": "2025-10-02",
+  "drsNr": "8/4361",
+  "persons": [
+    {
+      "slug": "lutz-richter",
+      "name": "Lutz Richter",
+      "name_padoka": "Richter, Lutz",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44946",
+    "filename": "Drs_8_4361_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

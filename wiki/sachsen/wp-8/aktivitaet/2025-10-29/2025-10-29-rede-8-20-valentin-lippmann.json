@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-20-valentin-lippmann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "18 Redebeiträge in 20. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-10-29",
+  "persons": [
+    {
+      "slug": "valentin-lippmann",
+      "name": "Valentin Lippmann",
+      "name_padoka": "Lippmann, Valentin",
+      "role": "redner",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/20",
+    "date": "2025-10-29"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=45726"
+  }
+}

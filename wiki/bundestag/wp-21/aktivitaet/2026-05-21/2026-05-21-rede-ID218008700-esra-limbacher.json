@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218008700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wettbewerbsfähigkeit und Wohlstand stärken – Abschaffung des CO2-Emissionshandelssystems und des CO2-Grenzausgleichsmechanismus",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "esra-limbacher",
+      "name": "Esra Limbacher",
+      "name_padoka": "Limbacher, Esra",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

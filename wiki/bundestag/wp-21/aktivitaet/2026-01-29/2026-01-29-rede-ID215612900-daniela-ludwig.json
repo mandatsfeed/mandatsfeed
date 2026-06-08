@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215612900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 17",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "daniela-ludwig",
+      "name": "Daniela Ludwig",
+      "name_padoka": "Ludwig, Daniela",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretärin beim Bundesminister des Innern"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/56",
+    "date": "2026-01-29",
+    "page": 6806
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21056.pdf"
+  }
+}

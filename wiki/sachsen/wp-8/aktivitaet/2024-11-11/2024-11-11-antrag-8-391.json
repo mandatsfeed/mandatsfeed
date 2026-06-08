@@ -1,0 +1,20 @@
+{
+  "id": "edas-drs-8-391",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "antrag",
+  "title": "Festlegung der Zahl der Mitglieder des 1. Untersuchungsausschusses",
+  "date": "2024-11-11",
+  "drsNr": "8/391",
+  "persons": [],
+  "fraktionen": [
+    "cdu",
+    "spd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36807",
+    "filename": "Drs_8_391_0.pdf"
+  },
+  "urheber": "CDU, SPD"
+}

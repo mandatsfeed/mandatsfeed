@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217502300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mit dem Neun-Euro-Ticket private Haushalte entlasten — Gemeindeverkehrsfinanzierungsgesetz novellieren – Kommunen stärken und Ausbau des öffentlichen Personennahverkehrs langfristig absichern",
+  "date": "2026-04-24",
+  "persons": [
+    {
+      "slug": "henning-rehbaum",
+      "name": "Henning Rehbaum",
+      "name_padoka": "Rehbaum, Henning",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/75",
+    "date": "2026-04-24",
+    "page": 9047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21075.pdf"
+  }
+}

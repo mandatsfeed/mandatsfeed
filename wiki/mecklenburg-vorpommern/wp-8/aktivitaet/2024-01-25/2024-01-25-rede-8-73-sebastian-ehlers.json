@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-73-sebastian-ehlers",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "7 Redebeiträge in PlPr 8/73",
+  "date": "2024-01-25",
+  "persons": [
+    {
+      "slug": "sebastian-ehlers",
+      "name": "Sebastian Ehlers",
+      "name_padoka": "Ehlers, Sebastian",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/73",
+    "date": "2024-01-25"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/59732"
+  }
+}

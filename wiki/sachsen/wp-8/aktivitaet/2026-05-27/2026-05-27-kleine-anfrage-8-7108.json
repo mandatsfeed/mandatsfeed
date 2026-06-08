@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7108",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Tierschutzrechtliche Kontrollen in schweinehaltenden Betrieben in Sachsen 2025",
+  "date": "2026-05-27",
+  "drsNr": "8/7108",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50992",
+    "filename": "Drs_8_7108_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

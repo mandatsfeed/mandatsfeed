@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-95-thomas-wurdisch",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/95",
+  "date": "2024-12-13",
+  "persons": [
+    {
+      "slug": "thomas-wurdisch",
+      "name": "Thomas Würdisch",
+      "name_padoka": "Würdisch, Thomas",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/95",
+    "date": "2024-12-13"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/63427"
+  }
+}

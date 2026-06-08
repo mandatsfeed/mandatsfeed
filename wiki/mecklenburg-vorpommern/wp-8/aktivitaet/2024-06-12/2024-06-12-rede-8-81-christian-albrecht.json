@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-81-christian-albrecht",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/81",
+  "date": "2024-06-12",
+  "persons": [
+    {
+      "slug": "christian-albrecht",
+      "name": "Christian Albrecht",
+      "name_padoka": "Albrecht, Christian",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/81",
+    "date": "2024-06-12"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/60982"
+  }
+}

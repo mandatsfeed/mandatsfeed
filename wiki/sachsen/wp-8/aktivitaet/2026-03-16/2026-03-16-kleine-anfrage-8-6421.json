@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6421",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Stand des Planfeststellungsverfahrens \"Kiessandtagebau Würschnitz-West\"",
+  "date": "2026-03-16",
+  "drsNr": "8/6421",
+  "persons": [
+    {
+      "slug": "stefan-hartmann",
+      "name": "Stefan Hartmann",
+      "name_padoka": "Hartmann, Stefan",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49082",
+    "filename": "Drs_8_6421_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

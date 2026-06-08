@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211709600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-07-09",
+  "persons": [
+    {
+      "slug": "maik-bruckner",
+      "name": "Maik Brückner",
+      "name_padoka": "Brückner, Maik",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/17",
+    "date": "2025-07-09",
+    "page": 1700
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21017.pdf"
+  }
+}

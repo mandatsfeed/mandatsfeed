@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-659",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen der Umstrukturierung innerhalb der EPH-Gruppe auf die Rekultivierungsverpflichtung der LEAG in Sachsen",
+  "date": "2024-12-09",
+  "drsNr": "8/659",
+  "persons": [
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37318",
+    "filename": "Drs_8_659_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

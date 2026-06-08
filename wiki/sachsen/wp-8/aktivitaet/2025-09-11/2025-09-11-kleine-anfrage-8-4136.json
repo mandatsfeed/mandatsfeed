@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4136",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Reformkommission zur Stärkung und Entlastung der Kommunen im Freistaat Sachsen - Datenlage",
+  "date": "2025-09-11",
+  "drsNr": "8/4136",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44455",
+    "filename": "Drs_8_4136_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

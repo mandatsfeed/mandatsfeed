@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216808000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Mitversicherung von Familienangehörigen in der gesetzlichen Krankenversicherung",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "thomas-pauls",
+      "name": "Thomas Pauls",
+      "name_padoka": "Pauls, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

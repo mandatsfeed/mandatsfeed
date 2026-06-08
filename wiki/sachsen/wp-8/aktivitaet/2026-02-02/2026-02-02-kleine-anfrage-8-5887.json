@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5887",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kürzungen im Haushaltsvollzug 2026 im Einzelplan 12",
+  "date": "2026-02-02",
+  "drsNr": "8/5887",
+  "persons": [
+    {
+      "slug": "claudia-maicher",
+      "name": "Claudia Maicher",
+      "name_padoka": "Maicher, Claudia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47881",
+    "filename": "Drs_8_5887_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

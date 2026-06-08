@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6700",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Diebstahlsdelikte 2025",
+  "date": "2026-04-16",
+  "drsNr": "8/6700",
+  "persons": [
+    {
+      "slug": "sebastian-wippel",
+      "name": "Sebastian Wippel",
+      "name_padoka": "Wippel, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49910",
+    "filename": "Drs_8_6700_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214304100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.10",
+  "date": "2025-11-26",
+  "persons": [
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "name_padoka": "Wagner, Sascha",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/43",
+    "date": "2025-11-26",
+    "page": 5070
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21043.pdf"
+  }
+}

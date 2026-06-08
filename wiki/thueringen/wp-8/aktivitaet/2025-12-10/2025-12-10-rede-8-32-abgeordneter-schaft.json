@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-32-abgeordneter-schaft",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/32",
+  "date": "2025-12-10",
+  "persons": [
+    {
+      "slug": "abgeordneter-schaft",
+      "name": "Abgeordneter Schaft",
+      "name_padoka": "Schaft, Abgeordneter",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/32",
+    "date": "2025-12-10"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105011"
+  }
+}

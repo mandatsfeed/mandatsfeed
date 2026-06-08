@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213205200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für zufriedene Kunden auf der Schiene erforderliche eisenbahnpolitische Maßnahmen zügig umsetzen — Investitionen in die Erweiterung des Schienennetzes sicherstellen – Deutschlandtakt auf den Weg bringen",
+  "date": "2025-10-10",
+  "persons": [
+    {
+      "slug": "michael-donth",
+      "name": "Michael Donth",
+      "name_padoka": "Donth, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/32",
+    "date": "2025-10-10",
+    "page": 3522
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21032.pdf"
+  }
+}

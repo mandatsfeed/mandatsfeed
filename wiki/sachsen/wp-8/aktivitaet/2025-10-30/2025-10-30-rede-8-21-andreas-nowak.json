@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-21-andreas-nowak",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "10 Redebeiträge in 21. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-10-30",
+  "persons": [
+    {
+      "slug": "andreas-nowak",
+      "name": "Andreas Nowak",
+      "name_padoka": "Nowak, Andreas",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/21",
+    "date": "2025-10-30"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=45759"
+  }
+}

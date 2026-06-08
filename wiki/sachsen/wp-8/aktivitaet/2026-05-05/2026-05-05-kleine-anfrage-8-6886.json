@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6886",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Forstarbeiten innerhalb des FFH-Gebietes \"Zschopautal\" und im NSG \"Zschopautalhänge bei Lichtenwalde\" ab 2024 bis dato",
+  "date": "2026-05-05",
+  "drsNr": "8/6886",
+  "persons": [
+    {
+      "slug": "stefan-hartmann",
+      "name": "Stefan Hartmann",
+      "name_padoka": "Hartmann, Stefan",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50493",
+    "filename": "Drs_8_6886_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

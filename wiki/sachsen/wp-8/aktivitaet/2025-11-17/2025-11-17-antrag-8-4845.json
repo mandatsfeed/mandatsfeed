@@ -1,0 +1,26 @@
+{
+  "id": "edas-drs-8-4845",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "antrag",
+  "title": "Gegen das Vergessen - Gedenkstättenbesuche als Beitrag zur historisch-politischen Bildung und Demokratiebildung an weiterführenden Schulen fördern und fortentwickeln!",
+  "date": "2025-11-17",
+  "drsNr": "8/4845",
+  "persons": [
+    {
+      "slug": "valentin-lippmann-bundnisgrune-christin-melcher-bundnisgrune-iris-firmenich-cdu-soren-voigt-cdu-luise-neuhaus-wartenberg-die-linke-susanne-schaper-die-linke-gerald-eisenblatter-spd-laura-stellbrink",
+      "name": "Valentin Lippmann BÜNDNISGRÜNE, Christin Melcher BÜNDNISGRÜNE, Iris Firmenich CDU, Sören Voigt CDU, Luise Neuhaus-Wartenberg Die Linke, Susanne Schaper Die Linke, Gerald Eisenblätter SPD, Laura Stellbrink",
+      "name_padoka": "Stellbrink, Valentin Lippmann BÜNDNISGRÜNE, Christin Melcher BÜNDNISGRÜNE, Iris Firmenich CDU, Sören Voigt CDU, Luise Neuhaus-Wartenberg Die Linke, Susanne Schaper Die Linke, Gerald Eisenblätter SPD, Laura",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45806",
+    "filename": "Drs_8_4845_0.pdf"
+  }
+}

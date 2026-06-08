@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-18-valentin-lippmann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "18 Redebeiträge in zu Drs 8/2094\r\nGesetz zur Änderung des Gesetzes zur Raumordnung und Landesplanung des Freistaates Sachsen (Landesplanungsgesetz - SächsLPlG) - Sächsisches Windenergieordnungsgesetz ",
+  "date": "2025-09-10",
+  "persons": [
+    {
+      "slug": "valentin-lippmann",
+      "name": "Valentin Lippmann",
+      "name_padoka": "Lippmann, Valentin",
+      "role": "redner",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/18",
+    "date": "2025-09-10"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=44683"
+  }
+}

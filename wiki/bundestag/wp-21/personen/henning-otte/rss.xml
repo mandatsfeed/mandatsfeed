@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Henning Otte (Deutscher Bundestag, WP-21)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID216804100</guid>
+      <title>Jahresbericht 2025 (67. Bericht)</title>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21068.pdf</link>
+      <description>Rede · Plenarprotokoll 21/68, S. 8289</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID211000100</guid>
+      <title>Eidesleistung des Wehrbeauftragten</title>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21010.pdf</link>
+      <description>Rede · Plenarprotokoll 21/10, S. 894</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID21616000</guid>
+      <title>zu dem Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über mit bestimmten neuen genomischen Techniken gewonnene Pflanzen und die aus ihnen gewonnenen Lebens- und Futtermittel sowie zur Änderung der Verordnung (EU) 2017/625 KOM(2023) 411 endg.; Ratsdok. 11592/23 — hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes</title>
+      <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21006.pdf</link>
+      <description>Rede · Plenarprotokoll 21/6, S. 470</description>
+    </item>
+  </channel>
+</rss>

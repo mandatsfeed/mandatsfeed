@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217909400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-05-20",
+  "persons": [
+    {
+      "slug": "lars-klingbeil",
+      "name": "Lars Klingbeil",
+      "name_padoka": "Klingbeil, Lars",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister der Finanzen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/79",
+    "date": "2026-05-20",
+    "page": 9506
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21079.pdf"
+  }
+}

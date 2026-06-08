@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214713300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für eine sichere Rente unserer Kinder – Junior-Spardepot",
+  "date": "2025-12-04",
+  "persons": [
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/47",
+    "date": "2025-12-04",
+    "page": 5560
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21047.pdf"
+  }
+}

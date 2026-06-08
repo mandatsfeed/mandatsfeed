@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216211400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Keine Kooperation zwischen Bundeswehr und Schulen – Einsatz von Jugendoffizieren beenden – Zivilschutz fördern",
+  "date": "2026-03-05",
+  "persons": [
+    {
+      "slug": "saskia-esken",
+      "name": "Saskia Esken",
+      "name_padoka": "Esken, Saskia",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/62",
+    "date": "2026-03-05",
+    "page": 7583
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21062.pdf"
+  }
+}

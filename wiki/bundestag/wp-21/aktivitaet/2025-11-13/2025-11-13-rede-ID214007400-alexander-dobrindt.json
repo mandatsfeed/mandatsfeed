@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214007400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschland resilient machen – Für einen ganzheitlichen Schutz unserer kritischen Infrastruktur",
+  "date": "2025-11-13",
+  "persons": [
+    {
+      "slug": "alexander-dobrindt",
+      "name": "Alexander Dobrindt",
+      "name_padoka": "Dobrindt, Alexander",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister des Innern"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/40",
+    "date": "2025-11-13",
+    "page": 4645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21040.pdf"
+  }
+}

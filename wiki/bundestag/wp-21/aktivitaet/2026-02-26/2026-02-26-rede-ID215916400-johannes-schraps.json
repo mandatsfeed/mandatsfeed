@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215916400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Faire Entschuldung für die Ukraine – Für Souveränität, sozialen Wiederaufbau und völkerrechtliche Verantwortung statt Ausverkauf und Schuldenregime",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "johannes-schraps",
+      "name": "Johannes Schraps",
+      "name_padoka": "Schraps, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

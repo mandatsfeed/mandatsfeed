@@ -1,0 +1,35 @@
+{
+  "id": "dip-ka-21-4583",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Einzelheiten zu Verurteilungen nach ausgewählten Delikten aus dem Sechzehnten und Siebzehnten Abschnitt des Strafgesetzbuches in den Jahren von 2000 bis 2024",
+  "date": "2026-03-06",
+  "persons": [
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "name_padoka": "Hess, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/4583",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/045/2104583.pdf",
+    "filename": "2104583.pdf"
+  }
+}

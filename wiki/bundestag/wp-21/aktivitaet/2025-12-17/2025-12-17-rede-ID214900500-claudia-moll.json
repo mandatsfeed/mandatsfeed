@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214900500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-12-17",
+  "persons": [
+    {
+      "slug": "claudia-moll",
+      "name": "Claudia Moll",
+      "name_padoka": "Moll, Claudia",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/49",
+    "date": "2025-12-17",
+    "page": 5843
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21049.pdf"
+  }
+}

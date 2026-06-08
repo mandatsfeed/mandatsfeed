@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Julia Klöckner (Deutscher Bundestag, WP-20)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021000700</guid>
+      <title>Für eine neue wirtschaftliche Dynamik – Jahreswirtschaftsbericht 2025 — Jahreswirtschaftsbericht 2025 der Bundesregierung</title>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20210.pdf</link>
+      <description>Rede · Plenarprotokoll 20/210, S. ?</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2020913400</guid>
+      <title>Aktuelle Stunde — Sorgen von Wirtschaft und Menschen ernst nehmen – Deutschland braucht jetzt eine Wirtschaftswende</title>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20209.pdf</link>
+      <description>Rede · Plenarprotokoll 20/209, S. 27188</description>
+    </item>
+  </channel>
+</rss>

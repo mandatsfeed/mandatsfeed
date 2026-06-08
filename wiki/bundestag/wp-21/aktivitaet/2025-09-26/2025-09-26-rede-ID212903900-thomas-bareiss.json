@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212903900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan",
+  "date": "2025-09-26",
+  "persons": [
+    {
+      "slug": "thomas-bareiss",
+      "name": "Thomas Bareiß",
+      "name_padoka": "Bareiß, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/29",
+    "date": "2025-09-26",
+    "page": 3108
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21029.pdf"
+  }
+}

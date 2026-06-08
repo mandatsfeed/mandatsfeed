@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213902900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-11-12",
+  "persons": [
+    {
+      "slug": "martin-reichardt",
+      "name": "Martin Reichardt",
+      "name_padoka": "Reichardt, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/39",
+    "date": "2025-11-12",
+    "page": 4477
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21039.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211505200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 13",
+  "date": "2025-06-27",
+  "persons": [
+    {
+      "slug": "leif-erik-bodin",
+      "name": "Leif Erik Bodin",
+      "name_padoka": "Bodin, Leif Erik",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/15",
+    "date": "2025-06-27",
+    "page": 1439
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21015.pdf"
+  }
+}

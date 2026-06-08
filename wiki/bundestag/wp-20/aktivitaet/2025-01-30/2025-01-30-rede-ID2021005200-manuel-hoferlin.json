@@ -1,0 +1,28 @@
+{
+  "id": "dip-rede-ID2021005200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Innere Sicherheit nachhaltig sicherstellen – Mut bei der Priorisierung der Bekämpfung von Kriminalität, Terror und Antisemitismus — Sicherheitslücken zur Bekämpfung von Islamisten schließen – Europäische Gefährderdatei ins Leben rufen, Präventivgewahrsam für Gefährder einführen und Bundeskompetenz für Terrorbekämpfung erweitern",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "manuel-hoferlin",
+      "name": "Manuel Höferlin",
+      "name_padoka": "Höferlin, Manuel",
+      "role": "redner",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

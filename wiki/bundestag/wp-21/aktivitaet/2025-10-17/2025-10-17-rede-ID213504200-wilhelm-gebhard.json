@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213504200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bericht der Beauftragten der Bundesregierung für Ostdeutschland 2025 — 35 Jahre: Aufgewachsen in Einheit?",
+  "date": "2025-10-17",
+  "persons": [
+    {
+      "slug": "wilhelm-gebhard",
+      "name": "Wilhelm Gebhard",
+      "name_padoka": "Gebhard, Wilhelm",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/35",
+    "date": "2025-10-17",
+    "page": 3937
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21035.pdf"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "dip-rede-20-211",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Magdeburg und Aschaffenburg - Hintergründe und Konsequenzen",
+  "date": "2025-01-31",
+  "persons": [
+    {
+      "slug": "marlene-schonberger",
+      "name": "Marlene Schönberger",
+      "name_padoka": "Schönberger, Marlene",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "derya-turk-nachbaur",
+      "name": "Derya Türk-Nachbaur",
+      "name_padoka": "Türk-Nachbaur, Derya",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "andrea-lindholz",
+      "name": "Andrea Lindholz",
+      "name_padoka": "Lindholz, Andrea",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "thomas-seitz",
+      "name": "Thomas Seitz",
+      "name_padoka": "Seitz, Thomas",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    },
+    {
+      "slug": "ralf-stegner",
+      "name": "Ralf Stegner",
+      "name_padoka": "Stegner, Ralf",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "manuel-hoferlin",
+      "name": "Manuel Höferlin",
+      "name_padoka": "Höferlin, Manuel",
+      "role": "redner",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "moritz-oppelt",
+      "name": "Moritz Oppelt",
+      "name_padoka": "Oppelt, Moritz",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "nicole-hochst",
+      "name": "Nicole Höchst",
+      "name_padoka": "Höchst, Nicole",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-thomae",
+      "name": "Stephan Thomae",
+      "name_padoka": "Thomae, Stephan",
+      "role": "redner",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "canan-bayram",
+      "name": "Canan Bayram",
+      "name_padoka": "Bayram, Canan",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "tino-sorge",
+      "name": "Tino Sorge",
+      "name_padoka": "Sorge, Tino",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "daniela-de-ridder",
+      "name": "Daniela De Ridder",
+      "name_padoka": "De Ridder, Daniela",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "gottfried-curio",
+      "name": "Gottfried Curio",
+      "name_padoka": "Curio, Gottfried",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen",
+    "spd",
+    "cdu-csu",
+    "fraktionslos",
+    "fdp",
+    "afd"
+  ],
+  "drsNr": "20/211",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27629",
+    "filename": "20211.pdf#P.27629"
+  }
+}

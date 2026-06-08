@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2021106300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Abschlussbericht der Enquete-Kommission Lehren aus Afghanistan für das künftige vernetzte Engagement Deutschlands",
+  "date": "2025-01-31",
+  "persons": [
+    {
+      "slug": "knut-gerschau",
+      "name": "Knut Gerschau",
+      "name_padoka": "Gerschau, Knut",
+      "role": "redner",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/211",
+    "date": "2025-01-31",
+    "page": 27629
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20211.pdf"
+  }
+}

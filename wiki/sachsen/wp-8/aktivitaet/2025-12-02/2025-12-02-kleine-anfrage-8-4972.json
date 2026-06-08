@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4972",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zuschüsse zum Bundesprogramm \"Demokratie leben!\" in der Förderperiode 2020 - 2024",
+  "date": "2025-12-02",
+  "drsNr": "8/4972",
+  "persons": [
+    {
+      "slug": "doreen-schwietzer",
+      "name": "Doreen Schwietzer",
+      "name_padoka": "Schwietzer, Doreen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46322",
+    "filename": "Drs_8_4972_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-5936",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ausstattung von Polizeibehörden mit sogenannten Mitteldistanzwaffen und deren Einordnung im sicherheitspolitischen Kontext",
+  "date": "2026-05-15",
+  "persons": [
+    {
+      "slug": "stefan-schroder",
+      "name": "Stefan Schröder",
+      "name_padoka": "Schröder, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5936",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/059/2105936.pdf",
+    "filename": "2105936.pdf"
+  }
+}

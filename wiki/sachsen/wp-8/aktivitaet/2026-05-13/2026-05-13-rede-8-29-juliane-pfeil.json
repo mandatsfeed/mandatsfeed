@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-29-juliane-pfeil",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "7 Redebeiträge in 29. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-05-13",
+  "persons": [
+    {
+      "slug": "juliane-pfeil",
+      "name": "Juliane Pfeil",
+      "name_padoka": "Pfeil, Juliane",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/29",
+    "date": "2026-05-13"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=51090"
+  }
+}

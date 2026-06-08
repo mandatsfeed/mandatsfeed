@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-87-katy-hoffmeister",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/87",
+  "date": "2024-09-25",
+  "persons": [
+    {
+      "slug": "katy-hoffmeister",
+      "name": "Katy Hoffmeister",
+      "name_padoka": "Hoffmeister, Katy",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/87",
+    "date": "2024-09-25"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/62689"
+  }
+}

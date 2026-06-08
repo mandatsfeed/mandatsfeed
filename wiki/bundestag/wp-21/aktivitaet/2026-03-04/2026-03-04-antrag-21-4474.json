@@ -1,0 +1,111 @@
+{
+  "id": "dip-drs-21-4474",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Entschließungsantrag zum Gesetz zur Änderung des Bundesjagdgesetzes und zur Änderung des Bundesnaturschutzgesetzes",
+  "date": "2026-03-04",
+  "persons": [
+    {
+      "slug": "sahra-mirow",
+      "name": "Sahra Mirow",
+      "name_padoka": "Mirow, Sahra",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "mareike-hermeier",
+      "name": "Mareike Hermeier",
+      "name_padoka": "Hermeier, Mareike",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "david-schliesing",
+      "name": "David Schliesing",
+      "name_padoka": "Schliesing, David",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "luigi-pantisano",
+      "name": "Luigi Pantisano",
+      "name_padoka": "Pantisano, Luigi",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "caren-lay",
+      "name": "Caren Lay",
+      "name_padoka": "Lay, Caren",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "violetta-bock",
+      "name": "Violetta Bock",
+      "name_padoka": "Bock, Violetta",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "name_padoka": "Wagner, Sascha",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "katalin-gennburg",
+      "name": "Katalin Gennburg",
+      "name_padoka": "Gennburg, Katalin",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "marcel-bauer",
+      "name": "Marcel Bauer",
+      "name_padoka": "Bauer, Marcel",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "name_padoka": "Latendorf, Ina",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "jorrit-bosch",
+      "name": "Jorrit Bosch",
+      "name_padoka": "Bosch, Jorrit",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "fabian-fahl",
+      "name": "Fabian Fahl",
+      "name_padoka": "Fahl, Fabian",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/4474",
+  "subtype": "Entschließungsantrag",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/044/2104474.pdf",
+    "filename": "2104474.pdf"
+  }
+}

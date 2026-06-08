@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6548",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Barbershops in Mecklenburg-Vorpommern – Meisterpflicht, Schwarzarbeit und faire Wettbewerbsbedingungen",
+  "date": "2026-05-07",
+  "drsNr": "8/6548",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71269"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

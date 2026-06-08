@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216300200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kindergesundheit stärken – Versorgung umfassend verbessern und nachhaltig finanzieren — Vorhaltungen der Krankenhäuser verlässlich finanzieren – Ausgliederung sämtlicher Personalkosten aus den Fallpauschalen",
+  "date": "2026-03-06",
+  "persons": [
+    {
+      "slug": "martin-sichert",
+      "name": "Martin Sichert",
+      "name_padoka": "Sichert, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/63",
+    "date": "2026-03-06",
+    "page": 7655
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21063.pdf"
+  }
+}

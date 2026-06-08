@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214403100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.14",
+  "date": "2025-11-27",
+  "persons": [
+    {
+      "slug": "martin-plum",
+      "name": "Martin Plum",
+      "name_padoka": "Plum, Martin",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/44",
+    "date": "2025-11-27",
+    "page": 5202
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21044.pdf"
+  }
+}

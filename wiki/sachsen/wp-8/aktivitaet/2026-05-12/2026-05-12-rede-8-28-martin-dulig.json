@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-28-martin-dulig",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 28. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-05-12",
+  "persons": [
+    {
+      "slug": "martin-dulig",
+      "name": "Martin Dulig",
+      "name_padoka": "Dulig, Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/28",
+    "date": "2026-05-12"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=50957"
+  }
+}

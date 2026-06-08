@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216006900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 29",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "johannes-schatzl",
+      "name": "Johannes Schätzl",
+      "name_padoka": "Schätzl, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

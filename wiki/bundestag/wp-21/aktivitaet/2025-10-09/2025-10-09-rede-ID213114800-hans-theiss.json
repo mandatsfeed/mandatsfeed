@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213114800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Akute Not der gesetzlichen Krankenversicherung lindern – Vollständige Finanzierung der Beiträge für Bürgergeldempfänger durch den Bund gewährleisten",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "hans-theiss",
+      "name": "Hans Theiss",
+      "name_padoka": "Theiss, Hans",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

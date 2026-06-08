@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-5-alexander-dierks",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 5. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-12-19",
+  "persons": [
+    {
+      "slug": "alexander-dierks",
+      "name": "Alexander Dierks",
+      "name_padoka": "Dierks, Alexander",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/5",
+    "date": "2024-12-19"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=38290"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217100300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Von der Einführung einer Übergewinnsteuer absehen – Den hohen Kraftstoffpreisen durch gezielte Maßnahmen begegnen — Berufstätige Pendler sofort entlasten – Entfernungspauschalen für Kraftfahrzeuge ab dem ersten Kilometer auf 50 Cent erhöhen und an die Preisentwicklung anpassen",
+  "date": "2026-04-16",
+  "persons": [
+    {
+      "slug": "mathias-middelberg",
+      "name": "Mathias Middelberg",
+      "name_padoka": "Middelberg, Mathias",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/71",
+    "date": "2026-04-16",
+    "page": 8645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21071.pdf"
+  }
+}

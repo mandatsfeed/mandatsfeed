@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214106000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 13",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "caroline-bosbach",
+      "name": "Caroline Bosbach",
+      "name_padoka": "Bosbach, Caroline",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/41",
+    "date": "2025-11-14",
+    "page": 4840
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf"
+  }
+}

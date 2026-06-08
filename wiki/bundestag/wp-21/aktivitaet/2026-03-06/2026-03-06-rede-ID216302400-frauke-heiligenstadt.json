@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216302400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Vermögensteuer wieder erheben – Länderfinanzen nachhaltig sichern — Gerechtigkeitslücke im Steuersystem schließen – 300-Wohneinheiten-Regelung in der Erbschaftsteuer abschaffen",
+  "date": "2026-03-06",
+  "persons": [
+    {
+      "slug": "frauke-heiligenstadt",
+      "name": "Frauke Heiligenstadt",
+      "name_padoka": "Heiligenstadt, Frauke",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/63",
+    "date": "2026-03-06",
+    "page": 7655
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21063.pdf"
+  }
+}

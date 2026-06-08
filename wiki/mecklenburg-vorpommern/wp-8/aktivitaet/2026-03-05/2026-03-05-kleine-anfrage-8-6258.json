@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6258",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kontrollen von Tierhaltungsbetrieben in Mecklenburg-Vorpommern",
+  "date": "2026-03-05",
+  "drsNr": "8/6258",
+  "persons": [
+    {
+      "slug": "dr-harald-terpe",
+      "name": "Dr. Harald Terpe",
+      "name_padoka": "Terpe, Dr. Harald",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70304"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

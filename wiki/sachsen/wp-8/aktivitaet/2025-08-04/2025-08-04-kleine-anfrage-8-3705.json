@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3705",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bevölkerungsentwicklung und Migrationsanteil in der Stadt Meißen bis 2040",
+  "date": "2025-08-04",
+  "drsNr": "8/3705",
+  "persons": [
+    {
+      "slug": "thomas-kirste",
+      "name": "Thomas Kirste",
+      "name_padoka": "Kirste, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43354",
+    "filename": "Drs_8_3705_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

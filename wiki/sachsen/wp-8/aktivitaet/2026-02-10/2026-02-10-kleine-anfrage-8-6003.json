@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6003",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vorkommnisse an Denkmalen mit sowjetischem / russischem Bezug in Sachsen",
+  "date": "2026-02-10",
+  "drsNr": "8/6003",
+  "persons": [
+    {
+      "slug": "ralf-bohme",
+      "name": "Ralf Böhme",
+      "name_padoka": "Böhme, Ralf",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48230",
+    "filename": "Drs_8_6003_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

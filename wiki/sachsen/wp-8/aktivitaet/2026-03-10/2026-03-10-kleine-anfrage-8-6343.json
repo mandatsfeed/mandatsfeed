@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6343",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ambulantisierung operativer Eingriffe und deren Auswirkungen auf die Krankenhausversorgung im Freistaat Sachsen",
+  "date": "2026-03-10",
+  "drsNr": "8/6343",
+  "persons": [
+    {
+      "slug": "katja-dietz",
+      "name": "Katja Dietz",
+      "name_padoka": "Dietz, Katja",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48938",
+    "filename": "Drs_8_6343_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

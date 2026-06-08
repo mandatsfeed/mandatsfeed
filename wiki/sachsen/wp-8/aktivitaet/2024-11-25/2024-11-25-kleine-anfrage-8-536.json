@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-536",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung von Mindestvertragslaufzeiten von studentischen und wissenschaftlichen Hilfskräften an den sächsischen Hochschulen in den Monaten Mai bis Oktober 2024",
+  "date": "2024-11-25",
+  "drsNr": "8/536",
+  "persons": [
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37107",
+    "filename": "Drs_8_536_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-23-mike-moncsek",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "14 Redebeiträge in 23. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-12-04",
+  "persons": [
+    {
+      "slug": "mike-moncsek",
+      "name": "Mike Moncsek",
+      "name_padoka": "Moncsek, Mike",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/23",
+    "date": "2025-12-04"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=46663"
+  }
+}

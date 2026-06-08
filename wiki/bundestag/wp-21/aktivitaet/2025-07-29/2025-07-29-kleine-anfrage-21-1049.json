@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-1049",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Das Bundesprogramm \"Demokratie leben! Aktiv gegen Rechtsextremismus, Gewalt und Menschenfeindlichkeit\", Stand 30. Juni 2025",
+  "date": "2025-07-29",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/1049",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/010/2101049.pdf",
+    "filename": "2101049.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212406900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 23",
+  "date": "2025-09-17",
+  "persons": [
+    {
+      "slug": "mirco-hanker",
+      "name": "Mirco Hanker",
+      "name_padoka": "Hanker, Mirco",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/24",
+    "date": "2025-09-17",
+    "page": 2613
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21024.pdf"
+  }
+}

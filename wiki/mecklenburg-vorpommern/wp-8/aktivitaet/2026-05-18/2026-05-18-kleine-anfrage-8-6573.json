@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6573",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Fristgerechte Ausweisung von Windenergiegebieten nach dem Windenergieflächenbedarfsgesetz",
+  "date": "2026-05-18",
+  "drsNr": "8/6573",
+  "persons": [
+    {
+      "slug": "jutta-wegner",
+      "name": "Jutta Wegner",
+      "name_padoka": "Wegner, Jutta",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71347"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

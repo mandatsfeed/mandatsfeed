@@ -1,0 +1,28 @@
+{
+  "id": "dip-rede-ID2021010800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Antrag auf Entscheidung des Deutschen Bundestages über die Einleitung eines Verfahrens zur Feststellung der Verfassungswidrigkeit der „Alternative für Deutschland“ gemäß Artikel 21 Absatz 2, 3 und 4 des Grundgesetzes i. V. m. § 13 Nummer 2 und 2a, §§ 43 ff. des Bundesverfassungsgerichtsgesetzes — Feststellung der Verfassungswidrigkeit der „Alternative für Deutschland“",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "name_padoka": "Seidler, Stefan",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

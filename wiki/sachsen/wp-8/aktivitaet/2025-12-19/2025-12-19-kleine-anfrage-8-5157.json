@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5157",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Graffiti in Verbindung mit dem Verwenden von Kennzeichen verfassungswidriger Organisationen in der Nacht vom 4.12. zum 5.12.2025 in Naunhof, insbesondere auch am Polizeirevier",
+  "date": "2025-12-19",
+  "drsNr": "8/5157",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46704",
+    "filename": "Drs_8_5157_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

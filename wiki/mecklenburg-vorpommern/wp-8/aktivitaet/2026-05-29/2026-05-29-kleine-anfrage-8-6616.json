@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6616",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bearbeitungszeit und Entschädigungszahlungen bei der Beantragung von Pflegegraden in Mecklenburg-Vorpommern",
+  "date": "2026-05-29",
+  "drsNr": "8/6616",
+  "persons": [
+    {
+      "slug": "petra-federau",
+      "name": "Petra Federau",
+      "name_padoka": "Federau, Petra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71581"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

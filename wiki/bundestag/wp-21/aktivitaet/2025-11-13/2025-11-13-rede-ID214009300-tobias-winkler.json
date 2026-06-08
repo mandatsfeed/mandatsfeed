@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214009300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUNAVFOR MED IRINI",
+  "date": "2025-11-13",
+  "persons": [
+    {
+      "slug": "tobias-winkler",
+      "name": "Tobias Winkler",
+      "name_padoka": "Winkler, Tobias",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/40",
+    "date": "2025-11-13",
+    "page": 4645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21040.pdf"
+  }
+}

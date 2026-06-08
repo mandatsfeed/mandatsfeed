@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213506100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 32",
+  "date": "2025-10-17",
+  "persons": [
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/35",
+    "date": "2025-10-17",
+    "page": 3937
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21035.pdf"
+  }
+}

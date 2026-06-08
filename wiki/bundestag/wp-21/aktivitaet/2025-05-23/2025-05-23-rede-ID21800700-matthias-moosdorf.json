@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21800700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "75 Jahre Mitgliedschaft Deutschlands im Europarat",
+  "date": "2025-05-23",
+  "persons": [
+    {
+      "slug": "matthias-moosdorf",
+      "name": "Matthias Moosdorf",
+      "name_padoka": "Moosdorf, Matthias",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/8",
+    "date": "2025-05-23",
+    "page": 653
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21008.pdf"
+  }
+}

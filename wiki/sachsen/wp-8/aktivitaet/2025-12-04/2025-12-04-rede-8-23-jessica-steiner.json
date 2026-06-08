@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-23-jessica-steiner",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "7 Redebeiträge in 23. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-12-04",
+  "persons": [
+    {
+      "slug": "jessica-steiner",
+      "name": "Jessica Steiner",
+      "name_padoka": "Steiner, Jessica",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/23",
+    "date": "2025-12-04"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=46663"
+  }
+}

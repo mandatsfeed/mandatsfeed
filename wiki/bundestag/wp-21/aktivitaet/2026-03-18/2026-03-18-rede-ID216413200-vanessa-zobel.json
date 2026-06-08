@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216413200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-03-18",
+  "persons": [
+    {
+      "slug": "vanessa-zobel",
+      "name": "Vanessa Zobel",
+      "name_padoka": "Zobel, Vanessa",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/64",
+    "date": "2026-03-18",
+    "page": 7765
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21064.pdf"
+  }
+}

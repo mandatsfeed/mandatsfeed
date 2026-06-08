@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215704200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Freiheit für die Menschen in Iran – Solidarität mit der Zivilgesellschaft, Druck auf das iranische Regime",
+  "date": "2026-01-30",
+  "persons": [
+    {
+      "slug": "parsa-marvi",
+      "name": "Parsa Marvi",
+      "name_padoka": "Marvi, Parsa",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/57",
+    "date": "2026-01-30",
+    "page": 6913
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21057.pdf"
+  }
+}

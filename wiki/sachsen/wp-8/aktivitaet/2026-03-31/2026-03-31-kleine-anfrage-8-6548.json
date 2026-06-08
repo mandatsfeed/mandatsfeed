@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6548",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Erhebung von Fahndungsnotierungen zu \"offenen\" Haftbefehlen politisch motivierter Straftäter*innen im März 2026",
+  "date": "2026-03-31",
+  "drsNr": "8/6548",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49585",
+    "filename": "Drs_8_6548_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6418",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Eierimporte aus der Ukraine",
+  "date": "2026-04-30",
+  "drsNr": "8/6418",
+  "persons": [
+    {
+      "slug": "jens-schulze-wiehenbrauk",
+      "name": "Jens Schulze-Wiehenbrauk",
+      "name_padoka": "Schulze-Wiehenbrauk, Jens",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70785"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

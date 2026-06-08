@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213503600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bericht der Beauftragten der Bundesregierung für Ostdeutschland 2025 — 35 Jahre: Aufgewachsen in Einheit?",
+  "date": "2025-10-17",
+  "persons": [
+    {
+      "slug": "sven-schulze",
+      "name": "Sven Schulze",
+      "name_padoka": "Schulze, Sven",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Minister (Sachsen-Anhalt)"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/35",
+    "date": "2025-10-17",
+    "page": 3937
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21035.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215900500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Drucksache 21/1941",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "pascal-meiser",
+      "name": "Pascal Meiser",
+      "name_padoka": "Meiser, Pascal",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215916000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 18",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "ralph-edelhausser",
+      "name": "Ralph Edelhäußer",
+      "name_padoka": "Edelhäußer, Ralph",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

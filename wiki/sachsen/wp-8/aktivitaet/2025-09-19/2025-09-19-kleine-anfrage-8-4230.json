@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4230",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachrückerprojekte und Umsetzungsstand der Förderperiode 1 (2020 bis 2026) des Investitionsgesetzes Kohleregionen (InvKG) im Lausitzer Revier",
+  "date": "2025-09-19",
+  "drsNr": "8/4230",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44652",
+    "filename": "Drs_8_4230_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

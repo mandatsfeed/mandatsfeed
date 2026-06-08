@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-15-claudia-maicher",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in Ein Atomkraftwerk direkt vor unserer Haustür - Schutz von Menschen und Natur in Sachsen sicherstellen",
+  "date": "2025-06-24",
+  "persons": [
+    {
+      "slug": "claudia-maicher",
+      "name": "Claudia Maicher",
+      "name_padoka": "Maicher, Claudia",
+      "role": "redner",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/15",
+    "date": "2025-06-24"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=43042"
+  }
+}

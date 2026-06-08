@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3548",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aufenthalt des Ministers für Bildung, Wissenschaft und Kultur in Kanada",
+  "date": "2026-05-28",
+  "drsNr": "8/3548",
+  "persons": [
+    {
+      "slug": "ulrike-grosse-rothig",
+      "name": "Ulrike Große-Röthig",
+      "name_padoka": "Große-Röthig, Ulrike",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107378"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

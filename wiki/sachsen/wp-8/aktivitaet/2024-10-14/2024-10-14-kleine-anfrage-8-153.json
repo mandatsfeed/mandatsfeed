@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-153",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Rechtsverordnungen bezüglich Gebieten mit angespanntem Wohnungsmarkt und Umwandlung von Miet- in Eigentumswohnungen (§201a und § 250 BauGB) sowie verlängerter Kündigungsschutz (§577a Abs. 2 BauGB)",
+  "date": "2024-10-14",
+  "drsNr": "8/153",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36312",
+    "filename": "Drs_8_153_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

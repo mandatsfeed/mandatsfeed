@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213912900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Mögliche Urheberrechtsverletzungen und Interessenskonflikte des Bundesbeauftragten für Kultur und Medien",
+  "date": "2025-11-12",
+  "persons": [
+    {
+      "slug": "gotz-fromming",
+      "name": "Götz Frömming",
+      "name_padoka": "Frömming, Götz",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/39",
+    "date": "2025-11-12",
+    "page": 4477
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21039.pdf"
+  }
+}

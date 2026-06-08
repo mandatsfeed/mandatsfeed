@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5606",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur kleinen Anfrage Drs 8/4822 \"Novelle des Kohleverstromungsbeendigungsgesetzes\" - Höhe und Sicherheit der Mittel zur Deckung der Wiedernutzbarmachungskosten",
+  "date": "2026-01-16",
+  "drsNr": "8/5606",
+  "persons": [
+    {
+      "slug": "thomas-loser",
+      "name": "Thomas Löser",
+      "name_padoka": "Löser, Thomas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47369",
+    "filename": "Drs_8_5606_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

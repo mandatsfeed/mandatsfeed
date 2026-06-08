@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2892",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Polizeieinsatz im Zusammenhang mit einer Wohnungsräumung ohne Räumungstitel in Gößnitz am 15. Januar 2026",
+  "date": "2026-02-10",
+  "drsNr": "8/2892",
+  "persons": [
+    {
+      "slug": "sven-kuntzel",
+      "name": "Sven Küntzel",
+      "name_padoka": "Küntzel, Sven",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105843"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

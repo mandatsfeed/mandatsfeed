@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21706700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Freiheitlichen Rechtsstaat schützen – Gewalt gegen Sicherheitskräfte konsequent entgegentreten",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "hendrik-hoppenstedt",
+      "name": "Hendrik Hoppenstedt",
+      "name_padoka": "Hoppenstedt, Hendrik",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/7",
+    "date": "2025-05-22",
+    "page": 573
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21007.pdf"
+  }
+}

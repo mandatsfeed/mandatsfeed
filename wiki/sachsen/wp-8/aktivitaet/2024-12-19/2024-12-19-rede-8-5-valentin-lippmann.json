@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-5-valentin-lippmann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "14 Redebeiträge in 5. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-12-19",
+  "persons": [
+    {
+      "slug": "valentin-lippmann",
+      "name": "Valentin Lippmann",
+      "name_padoka": "Lippmann, Valentin",
+      "role": "redner",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/5",
+    "date": "2024-12-19"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=38290"
+  }
+}

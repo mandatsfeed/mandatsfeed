@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216904200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Siebter Armuts- und Reichtumsbericht der Bundesregierung – Lebenslagen in Deutschland",
+  "date": "2026-03-27",
+  "persons": [
+    {
+      "slug": "cansin-kokturk",
+      "name": "Cansin Köktürk",
+      "name_padoka": "Köktürk, Cansin",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/69",
+    "date": "2026-03-27",
+    "page": 8419
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21069.pdf"
+  }
+}

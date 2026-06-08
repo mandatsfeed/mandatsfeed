@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5558",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zentralisierung der berufsschulischen Ausbildung im für den Standort Sachsen strukturrelevanten Beruf Tourismuskaufmann/Tourismuskauffrau in Rohdewisch",
+  "date": "2026-01-14",
+  "drsNr": "8/5558",
+  "persons": [
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47305",
+    "filename": "Drs_8_5558_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

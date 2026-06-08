@@ -1,0 +1,42 @@
+{
+  "id": "dip-ka-21-46",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Aufnahme afghanischer Ortskräfte in Deutschland und anderen am NATO-Einsatz \"Resolute Support\" beteiligten Staaten",
+  "date": "2025-04-17",
+  "persons": [
+    {
+      "slug": "gerold-otten",
+      "name": "Gerold Otten",
+      "name_padoka": "Otten, Gerold",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "matthias-moosdorf",
+      "name": "Matthias Moosdorf",
+      "name_padoka": "Moosdorf, Matthias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-springer",
+      "name": "René Springer",
+      "name_padoka": "Springer, René",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/46",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/000/2100046.pdf",
+    "filename": "2100046.pdf"
+  }
+}

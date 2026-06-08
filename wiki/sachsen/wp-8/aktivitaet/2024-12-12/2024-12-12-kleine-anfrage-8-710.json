@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-710",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kontakte des Landesamtes für Verfassungsschutz Sachsen zu journalistischen Mitarbeitern des Mitteldeutschen Rundfunks (MDR) die Quellen gegenüber dem Verfassungsschutz Thüringen offenbaren -\nNachfrage zu Drucksache 7/15905",
+  "date": "2024-12-12",
+  "drsNr": "8/710",
+  "persons": [
+    {
+      "slug": "torsten-gahler",
+      "name": "Torsten Gahler",
+      "name_padoka": "Gahler, Torsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37392",
+    "filename": "Drs_8_710_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

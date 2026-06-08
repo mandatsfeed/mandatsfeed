@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-27-elke-annette-schmidt",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "7 Redebeiträge in PlPr 8/27",
+  "date": "2022-06-30",
+  "persons": [
+    {
+      "slug": "elke-annette-schmidt",
+      "name": "Elke-Annette Schmidt",
+      "name_padoka": "Schmidt, Elke-Annette",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/27",
+    "date": "2022-06-30"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/53356"
+  }
+}

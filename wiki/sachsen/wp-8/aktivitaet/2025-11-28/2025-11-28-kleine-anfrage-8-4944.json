@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4944",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zu Drs. 8/4542 \"Linksextreme Störaktion beim Wahlforum der TU Bergakademie Freiberg …\"",
+  "date": "2025-11-28",
+  "drsNr": "8/4944",
+  "persons": [
+    {
+      "slug": "marko-winter",
+      "name": "Marko Winter",
+      "name_padoka": "Winter, Marko",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46221",
+    "filename": "Drs_8_4944_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

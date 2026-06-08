@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Wolfgang Kubicki (Deutscher Bundestag, WP-20)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021103400</guid>
+      <title>Zusatzpunkt 35</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20211.pdf</link>
+      <description>Rede · Plenarprotokoll 20/211, S. 27629</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021104400</guid>
+      <title>Zusatzpunkt 35</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20211.pdf</link>
+      <description>Rede · Plenarprotokoll 20/211, S. 27629</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-ka-20-14497</guid>
+      <title>Anschlag auf dem Weihnachtsmarkt in Magdeburg am 20. Dezember 2024</title>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btd/20/144/2014497.pdf</link>
+      <description>Kleine Anfrage (Kleine Anfrage) · 20/14497 · Urheber: Katharina Willkomm (FDP), Muhanad Al-Halak (FDP), Katrin Helling-Plahr (FDP), Wolfgang Kubicki (FDP), Konstantin Kuhle (FDP), Otto Fricke (FDP), Philipp Hartewig (FDP), Volker Redder (FDP), Fabian Griewel (FDP), Stephan Thomae (FDP), Manuel Höferlin (FDP), Thorsten Lieb (FDP), Ann-Veruschka Jurisch (FDP), Ria Schröder (FDP), Judith Skudelny (FDP), Benjamin Strasser (FDP), Jens Beeck (FDP), Sandra Bubendorfer-Licht (FDP), Linda Teuteberg (FDP)</description>
+    </item>
+  </channel>
+</rss>

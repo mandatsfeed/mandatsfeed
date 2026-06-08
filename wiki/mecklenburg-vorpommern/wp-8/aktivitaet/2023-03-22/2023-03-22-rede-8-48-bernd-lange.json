@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-48-bernd-lange",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/48",
+  "date": "2023-03-22",
+  "persons": [
+    {
+      "slug": "bernd-lange",
+      "name": "Bernd Lange",
+      "name_padoka": "Lange, Bernd",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/48",
+    "date": "2023-03-22"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/56349"
+  }
+}

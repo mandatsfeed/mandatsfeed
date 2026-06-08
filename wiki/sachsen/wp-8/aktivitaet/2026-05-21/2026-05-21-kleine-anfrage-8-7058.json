@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7058",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kosten für Informationssicherheitsbeauftragte nach §7 und §8 des Sächsischen Informationssicherheitsgesetzes in staatlichen und nicht-staatlichen Stellen",
+  "date": "2026-05-21",
+  "drsNr": "8/7058",
+  "persons": [
+    {
+      "slug": "jorg-scheibe",
+      "name": "Jörg Scheibe",
+      "name_padoka": "Scheibe, Jörg",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50892",
+    "filename": "Drs_8_7058_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

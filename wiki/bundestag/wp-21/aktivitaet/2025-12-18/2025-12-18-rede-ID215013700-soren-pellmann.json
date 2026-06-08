@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215013700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "zu Einsprüchen anlässlich der Wahl zum 21. Deutschen Bundestag am 23. Februar 2025",
+  "date": "2025-12-18",
+  "persons": [
+    {
+      "slug": "soren-pellmann",
+      "name": "Sören Pellmann",
+      "name_padoka": "Pellmann, Sören",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/50",
+    "date": "2025-12-18",
+    "page": 6008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21050.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214706900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Entlassung des Staatsministers für Kultur und Medien",
+  "date": "2025-12-04",
+  "persons": [
+    {
+      "slug": "pascal-reddig",
+      "name": "Pascal Reddig",
+      "name_padoka": "Reddig, Pascal",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/47",
+    "date": "2025-12-04",
+    "page": 5560
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21047.pdf"
+  }
+}

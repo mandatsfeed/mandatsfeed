@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215607400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 9",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "rainer-gross",
+      "name": "Rainer Groß",
+      "name_padoka": "Groß, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/56",
+    "date": "2026-01-29",
+    "page": 6806
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21056.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6116",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beziehungen zwischen Mecklenburg-Vorpommern und Frankreich",
+  "date": "2026-01-15",
+  "drsNr": "8/6116",
+  "persons": [
+    {
+      "slug": "daniel-peters",
+      "name": "Daniel Peters",
+      "name_padoka": "Peters, Daniel",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69067"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

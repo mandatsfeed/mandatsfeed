@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5667",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kassenkreditermächtigungen der Landkreise und kreisfreie Städte für das Jahr 2025 und 2026",
+  "date": "2026-01-21",
+  "drsNr": "8/5667",
+  "persons": [
+    {
+      "slug": "andre-barth",
+      "name": "André Barth",
+      "name_padoka": "Barth, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47468",
+    "filename": "Drs_8_5667_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

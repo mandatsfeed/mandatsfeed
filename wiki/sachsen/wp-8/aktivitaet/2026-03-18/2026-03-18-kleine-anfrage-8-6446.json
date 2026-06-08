@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6446",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bedingte Zulassung der COVID-19-Impfstoffe und Umsetzung der 2G-Regelung in Sachsen",
+  "date": "2026-03-18",
+  "drsNr": "8/6446",
+  "persons": [
+    {
+      "slug": "andre-wendt",
+      "name": "André Wendt",
+      "name_padoka": "Wendt, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49237",
+    "filename": "Drs_8_6446_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

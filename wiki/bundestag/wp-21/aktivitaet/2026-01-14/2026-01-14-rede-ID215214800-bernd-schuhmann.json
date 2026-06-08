@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215214800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Landwirtschaft und Ernährung zukunftsfähig gestalten — Weltbodentag – Weiterentwicklung des Bodenschutzrechts zu einem Bundesbodengesundheitsgesetz",
+  "date": "2026-01-14",
+  "persons": [
+    {
+      "slug": "bernd-schuhmann",
+      "name": "Bernd Schuhmann",
+      "name_padoka": "Schuhmann, Bernd",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/52",
+    "date": "2026-01-14",
+    "page": 6266
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21052.pdf"
+  }
+}

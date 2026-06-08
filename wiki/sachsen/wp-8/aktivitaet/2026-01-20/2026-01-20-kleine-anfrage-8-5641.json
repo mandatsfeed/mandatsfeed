@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5641",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "lust.voll.lernen - Zentrum für Sexuelle Bildung und Beratung GbR",
+  "date": "2026-01-20",
+  "drsNr": "8/5641",
+  "persons": [
+    {
+      "slug": "romy-penz",
+      "name": "Romy Penz",
+      "name_padoka": "Penz, Romy",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47429",
+    "filename": "Drs_8_5641_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

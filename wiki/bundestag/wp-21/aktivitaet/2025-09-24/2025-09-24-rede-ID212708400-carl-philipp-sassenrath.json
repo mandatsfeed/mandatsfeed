@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212708400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 23",
+  "date": "2025-09-24",
+  "persons": [
+    {
+      "slug": "carl-philipp-sassenrath",
+      "name": "Carl-Philipp Sassenrath",
+      "name_padoka": "Sassenrath, Carl-Philipp",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/27",
+    "date": "2025-09-24",
+    "page": 2909
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21027.pdf"
+  }
+}

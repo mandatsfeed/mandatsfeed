@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212116000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Volksbund Deutsche Kriegsgräberfürsorge – Arbeit für Frieden und Versöhnung sicherstellen – Generationen verbinden",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "stephan-mayer",
+      "name": "Stephan Mayer",
+      "name_padoka": "Mayer, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/21",
+    "date": "2025-09-11",
+    "page": 2179
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21021.pdf"
+  }
+}

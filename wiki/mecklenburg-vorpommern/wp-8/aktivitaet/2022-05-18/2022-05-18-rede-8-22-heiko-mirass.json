@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-22-heiko-mirass",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/22",
+  "date": "2022-05-18",
+  "persons": [
+    {
+      "slug": "heiko-mirass",
+      "name": "Heiko Miraß",
+      "name_padoka": "Miraß, Heiko",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/22",
+    "date": "2022-05-18"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/52794"
+  }
+}

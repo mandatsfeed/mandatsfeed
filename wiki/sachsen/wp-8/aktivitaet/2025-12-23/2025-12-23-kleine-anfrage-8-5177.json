@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5177",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ladeinfrastruktur in Sachsen",
+  "date": "2025-12-23",
+  "drsNr": "8/5177",
+  "persons": [
+    {
+      "slug": "katja-meier",
+      "name": "Katja Meier",
+      "name_padoka": "Meier, Katja",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46747",
+    "filename": "Drs_8_5177_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

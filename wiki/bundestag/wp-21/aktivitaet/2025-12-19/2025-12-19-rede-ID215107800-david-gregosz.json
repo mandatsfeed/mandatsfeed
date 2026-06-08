@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215107800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bericht über das deutsche Engagement beim Einsatz von Polizistinnen und Polizisten in internationalen Polizeimissionen 2024",
+  "date": "2025-12-19",
+  "persons": [
+    {
+      "slug": "david-gregosz",
+      "name": "David Gregosz",
+      "name_padoka": "Gregosz, David",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/51",
+    "date": "2025-12-19",
+    "page": 6172
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21051.pdf"
+  }
+}

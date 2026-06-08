@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4041",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung der Auslastung der sächsischen Justizvollzugs- bzw. Jugendstrafvollzugsanstalten 2022 - 2025",
+  "date": "2025-09-03",
+  "drsNr": "8/4041",
+  "persons": [
+    {
+      "slug": "volker-dringenberg",
+      "name": "Volker Dringenberg",
+      "name_padoka": "Dringenberg, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44125",
+    "filename": "Drs_8_4041_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213804200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Den zweiten UN-Weltgipfel für soziale Entwicklung stark machen – Mehr globale Gerechtigkeit durch Milliardärssteuern",
+  "date": "2025-11-07",
+  "persons": [
+    {
+      "slug": "wolfgang-stefinger",
+      "name": "Wolfgang Stefinger",
+      "name_padoka": "Stefinger, Wolfgang",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/38",
+    "date": "2025-11-07",
+    "page": 4369
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21038.pdf"
+  }
+}

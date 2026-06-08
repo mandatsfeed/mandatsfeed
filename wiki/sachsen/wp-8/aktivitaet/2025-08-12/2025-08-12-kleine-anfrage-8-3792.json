@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3792",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zuschüsse zur Förderung Entwicklungspolitischer Maßnahmen - Haushaltsstelle 68 / 893 68 - 2025",
+  "date": "2025-08-12",
+  "drsNr": "8/3792",
+  "persons": [
+    {
+      "slug": "andre-barth",
+      "name": "André Barth",
+      "name_padoka": "Barth, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43589",
+    "filename": "Drs_8_3792_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

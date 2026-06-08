@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214808400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "30. Jahrestag des Vertrags von Dayton",
+  "date": "2025-12-05",
+  "persons": [
+    {
+      "slug": "gokay-akbulut",
+      "name": "Gökay Akbulut",
+      "name_padoka": "Akbulut, Gökay",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/48",
+    "date": "2025-12-05",
+    "page": 5732
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21048.pdf"
+  }
+}

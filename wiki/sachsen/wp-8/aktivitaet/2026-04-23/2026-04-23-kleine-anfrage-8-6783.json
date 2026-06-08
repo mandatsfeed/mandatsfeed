@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6783",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Chronisches Fatigue-Syndrom (ME/CFS) sowie Versorgung im Freistaat Sachsen",
+  "date": "2026-04-23",
+  "drsNr": "8/6783",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50224",
+    "filename": "Drs_8_6783_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

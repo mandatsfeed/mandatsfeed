@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-6-abgeordneter-quasebarth",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/6",
+  "date": "2025-01-29",
+  "persons": [
+    {
+      "slug": "abgeordneter-quasebarth",
+      "name": "Abgeordneter Quasebarth",
+      "name_padoka": "Quasebarth, Abgeordneter",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/6",
+    "date": "2025-01-29"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/100324"
+  }
+}

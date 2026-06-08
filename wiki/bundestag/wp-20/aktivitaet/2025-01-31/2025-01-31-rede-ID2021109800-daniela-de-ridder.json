@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2021109800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Magdeburg und Aschaffenburg – Hintergründe und Konsequenzen",
+  "date": "2025-01-31",
+  "persons": [
+    {
+      "slug": "daniela-de-ridder",
+      "name": "Daniela De Ridder",
+      "name_padoka": "De Ridder, Daniela",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/211",
+    "date": "2025-01-31",
+    "page": 27629
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20211.pdf"
+  }
+}

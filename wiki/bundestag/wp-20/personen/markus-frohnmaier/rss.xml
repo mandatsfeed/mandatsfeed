@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Markus Frohnmaier (Deutscher Bundestag, WP-20)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021103200</guid>
+      <title>Zusatzpunkt 35</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20211.pdf</link>
+      <description>Rede · Plenarprotokoll 20/211, S. 27629</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2020908400</guid>
+      <title>Tagesordnungspunkt 2</title>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20209.pdf</link>
+      <description>Rede · Plenarprotokoll 20/209, S. 27188</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2020908600</guid>
+      <title>Tagesordnungspunkt 2</title>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20209.pdf</link>
+      <description>Rede · Plenarprotokoll 20/209, S. 27188</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-drs-20-14478</guid>
+      <title>Entwicklungspolitik neu strukturieren - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung abschaffen und Entwicklungshilfe in das Auswärtige Amt und das Bundesministerium für Wirtschaft und Klimaschutz eingliedern</title>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btd/20/144/2014478.pdf</link>
+      <description>Antrag · 20/14478 · Urheber: Jan Wenzel Schmidt (AfD), René Bochmann (AfD), Michael Espendiller (AfD), Joachim Wundrak (AfD), Markus Frohnmaier (AfD), Edgar Naujok (AfD)</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-ka-20-14407</guid>
+      <title>Auslandsaktivitäten politischer Stiftungen aus Deutschland</title>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btd/20/144/2014407.pdf</link>
+      <description>Kleine Anfrage (Kleine Anfrage) · 20/14407 · Urheber: Stefan Keuter (AfD), Markus Frohnmaier (AfD)</description>
+    </item>
+  </channel>
+</rss>

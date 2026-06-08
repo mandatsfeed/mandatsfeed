@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-16-abgeordneter-bilay",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/16",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "abgeordneter-bilay",
+      "name": "Abgeordneter Bilay",
+      "name_padoka": "Bilay, Abgeordneter",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/16",
+    "date": "2025-05-14"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/101802"
+  }
+}

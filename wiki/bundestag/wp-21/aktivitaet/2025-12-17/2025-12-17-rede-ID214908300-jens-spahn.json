@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214908300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zum Europäischen Rat am 18. und 19. Dezember 2025 in Brüssel",
+  "date": "2025-12-17",
+  "persons": [
+    {
+      "slug": "jens-spahn",
+      "name": "Jens Spahn",
+      "name_padoka": "Spahn, Jens",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/49",
+    "date": "2025-12-17",
+    "page": 5843
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21049.pdf"
+  }
+}

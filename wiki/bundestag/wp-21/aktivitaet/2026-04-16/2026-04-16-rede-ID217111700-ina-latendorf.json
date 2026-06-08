@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217111700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tierschutz und Forschung Hand in Hand – Versuchstiere wirksam schützen",
+  "date": "2026-04-16",
+  "persons": [
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "name_padoka": "Latendorf, Ina",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/71",
+    "date": "2026-04-16",
+    "page": 8645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21071.pdf"
+  }
+}

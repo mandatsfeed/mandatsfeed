@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4249",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Evaluation und Fortschreibung der Teilschulnetzplanung für berufsbildende Schulen in Sachsen",
+  "date": "2025-09-22",
+  "drsNr": "8/4249",
+  "persons": [
+    {
+      "slug": "christin-melcher",
+      "name": "Christin Melcher",
+      "name_padoka": "Melcher, Christin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44716",
+    "filename": "Drs_8_4249_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

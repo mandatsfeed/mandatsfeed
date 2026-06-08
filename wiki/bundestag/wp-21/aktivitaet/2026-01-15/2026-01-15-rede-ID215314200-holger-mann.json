@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215314200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Film- und Kinostandort Deutschland stärken — Stärkung der Filmkultur durch verlässliche Förderung, gesetzliche Investitionsverpflichtung für Streaming-Dienste und steuerliche Anreize",
+  "date": "2026-01-15",
+  "persons": [
+    {
+      "slug": "holger-mann",
+      "name": "Holger Mann",
+      "name_padoka": "Mann, Holger",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/53",
+    "date": "2026-01-15",
+    "page": 6420
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21053.pdf"
+  }
+}

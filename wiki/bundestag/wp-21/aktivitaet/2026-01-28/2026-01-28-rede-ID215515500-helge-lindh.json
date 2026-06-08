@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215515500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die „vergessenen“ queeren Opfer der nationalsozialistischen Verfolgung",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "helge-lindh",
+      "name": "Helge Lindh",
+      "name_padoka": "Lindh, Helge",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/55",
+    "date": "2026-01-28",
+    "page": 6646
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21055.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-14-abgeordneter-kramer",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/14",
+  "date": "2025-04-03",
+  "persons": [
+    {
+      "slug": "abgeordneter-kramer",
+      "name": "Abgeordneter Kramer",
+      "name_padoka": "Kramer, Abgeordneter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/14",
+    "date": "2025-04-03"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/101281"
+  }
+}

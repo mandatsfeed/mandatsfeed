@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214204000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt I",
+  "date": "2025-11-25",
+  "persons": [
+    {
+      "slug": "michael-kiessling",
+      "name": "Michael Kießling",
+      "name_padoka": "Kießling, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/42",
+    "date": "2025-11-25",
+    "page": 4944
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21042.pdf"
+  }
+}

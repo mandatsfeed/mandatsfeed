@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213013200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Zwei Jahre nach dem Hamasterror und Kriegsbeginn in Gaza – Chance auf Frieden in Nahost ergreifen",
+  "date": "2025-10-08",
+  "persons": [
+    {
+      "slug": "jurgen-hardt",
+      "name": "Jürgen Hardt",
+      "name_padoka": "Hardt, Jürgen",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/30",
+    "date": "2025-10-08",
+    "page": 3212
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21030.pdf"
+  }
+}

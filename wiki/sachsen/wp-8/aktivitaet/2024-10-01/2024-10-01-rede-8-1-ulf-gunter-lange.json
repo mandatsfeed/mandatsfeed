@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-1-ulf-gunter-lange",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 1. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-10-01",
+  "persons": [
+    {
+      "slug": "ulf-gunter-lange",
+      "name": "Ulf Günter Lange",
+      "name_padoka": "Lange, Ulf Günter",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/1",
+    "date": "2024-10-01"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=36287"
+  }
+}

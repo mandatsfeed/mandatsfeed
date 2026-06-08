@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21913900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ausreisegewahrsam und Abschiebehaft für ausreisepflichtige Personen, insbesondere für Straftäter und Gefährder, wirksam umsetzen",
+  "date": "2025-06-04",
+  "persons": [
+    {
+      "slug": "marc-henrichmann",
+      "name": "Marc Henrichmann",
+      "name_padoka": "Henrichmann, Marc",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/9",
+    "date": "2025-06-04",
+    "page": 741
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21009.pdf"
+  }
+}

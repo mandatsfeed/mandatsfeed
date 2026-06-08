@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212206300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 23",
+  "date": "2025-09-12",
+  "persons": [
+    {
+      "slug": "carsten-muller",
+      "name": "Carsten Müller",
+      "name_padoka": "Müller, Carsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/22",
+    "date": "2025-09-12",
+    "page": 2305
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21022.pdf"
+  }
+}

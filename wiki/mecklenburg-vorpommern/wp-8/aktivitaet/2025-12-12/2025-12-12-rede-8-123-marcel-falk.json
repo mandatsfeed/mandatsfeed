@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-123-marcel-falk",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/123",
+  "date": "2025-12-12",
+  "persons": [
+    {
+      "slug": "marcel-falk",
+      "name": "Marcel Falk",
+      "name_padoka": "Falk, Marcel",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/123",
+    "date": "2025-12-12"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69088"
+  }
+}

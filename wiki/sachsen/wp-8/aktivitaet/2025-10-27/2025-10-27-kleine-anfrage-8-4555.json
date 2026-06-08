@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4555",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Digitale Bezahlpflicht für \"Geschäfte des Alltags\"",
+  "date": "2025-10-27",
+  "drsNr": "8/4555",
+  "persons": [
+    {
+      "slug": "marko-winter",
+      "name": "Marko Winter",
+      "name_padoka": "Winter, Marko",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45325",
+    "filename": "Drs_8_4555_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

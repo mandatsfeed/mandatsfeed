@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4091",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Anerkennungsverfahren ausländischer Abschlüsse im Berufsfeld Lehramt in Sachsen",
+  "date": "2025-09-09",
+  "drsNr": "8/4091",
+  "persons": [
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44346",
+    "filename": "Drs_8_4091_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

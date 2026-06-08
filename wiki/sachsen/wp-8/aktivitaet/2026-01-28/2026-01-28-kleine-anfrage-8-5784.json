@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5784",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Förderung RL Mobilität des SMIL nach der FÖMISAX Richtliniennummer 01111",
+  "date": "2026-01-28",
+  "drsNr": "8/5784",
+  "persons": [
+    {
+      "slug": "marko-winter",
+      "name": "Marko Winter",
+      "name_padoka": "Winter, Marko",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47674",
+    "filename": "Drs_8_5784_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

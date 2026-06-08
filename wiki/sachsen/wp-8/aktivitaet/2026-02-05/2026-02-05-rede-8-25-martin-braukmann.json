@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-25-martin-braukmann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 25. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-02-05",
+  "persons": [
+    {
+      "slug": "martin-braukmann",
+      "name": "Martin Braukmann",
+      "name_padoka": "Braukmann, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/25",
+    "date": "2026-02-05"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=48297"
+  }
+}

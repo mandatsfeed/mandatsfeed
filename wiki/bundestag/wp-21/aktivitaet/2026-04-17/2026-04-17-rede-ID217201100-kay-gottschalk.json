@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217201100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 14",
+  "date": "2026-04-17",
+  "persons": [
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "name_padoka": "Gottschalk, Kay",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/72",
+    "date": "2026-04-17",
+    "page": 8705
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21072.pdf"
+  }
+}

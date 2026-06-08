@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-40-abgeordneter-tiesler",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/40",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "abgeordneter-tiesler",
+      "name": "Abgeordneter Tiesler",
+      "name_padoka": "Tiesler, Abgeordneter",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/40",
+    "date": "2026-03-25"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106517"
+  }
+}

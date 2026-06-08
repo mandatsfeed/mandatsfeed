@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6120",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung der Kooperationen zwischen Hochschulen in Mecklenburg-Vorpommern und wissenschaftlichen Einrichtungen in der Bretagne",
+  "date": "2026-02-04",
+  "drsNr": "8/6120",
+  "persons": [
+    {
+      "slug": "katy-hoffmeister",
+      "name": "Katy Hoffmeister",
+      "name_padoka": "Hoffmeister, Katy",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69225"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

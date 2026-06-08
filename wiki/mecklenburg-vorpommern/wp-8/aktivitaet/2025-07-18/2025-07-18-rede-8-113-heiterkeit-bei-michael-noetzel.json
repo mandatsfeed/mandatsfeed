@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-113-heiterkeit-bei-michael-noetzel",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/113",
+  "date": "2025-07-18",
+  "persons": [
+    {
+      "slug": "heiterkeit-bei-michael-noetzel",
+      "name": "Heiterkeit bei Michael Noetzel",
+      "name_padoka": "Noetzel, Heiterkeit bei Michael",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/113",
+    "date": "2025-07-18"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/65476"
+  }
+}

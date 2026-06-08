@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217504900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesund länger arbeiten und die Erwerbsminderungsrente verbessern",
+  "date": "2026-04-24",
+  "persons": [
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/75",
+    "date": "2026-04-24",
+    "page": 9047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21075.pdf"
+  }
+}

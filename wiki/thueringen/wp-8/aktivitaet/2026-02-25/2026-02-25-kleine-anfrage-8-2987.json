@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2987",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen des sogenannten Bau-Turbo-Gesetzes in Thüringen – insbesondere im Wohnungsbau",
+  "date": "2026-02-25",
+  "drsNr": "8/2987",
+  "persons": [
+    {
+      "slug": "anja-muller",
+      "name": "Anja Müller",
+      "name_padoka": "Müller, Anja",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105989"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

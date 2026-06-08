@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215607300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 9",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "johannes-schraps",
+      "name": "Johannes Schraps",
+      "name_padoka": "Schraps, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/56",
+    "date": "2026-01-29",
+    "page": 6806
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21056.pdf"
+  }
+}

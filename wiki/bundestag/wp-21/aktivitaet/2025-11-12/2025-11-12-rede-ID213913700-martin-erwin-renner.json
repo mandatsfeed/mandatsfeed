@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213913700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Mögliche Urheberrechtsverletzungen und Interessenskonflikte des Bundesbeauftragten für Kultur und Medien",
+  "date": "2025-11-12",
+  "persons": [
+    {
+      "slug": "martin-erwin-renner",
+      "name": "Martin Erwin Renner",
+      "name_padoka": "Renner, Martin Erwin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/39",
+    "date": "2025-11-12",
+    "page": 4477
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21039.pdf"
+  }
+}

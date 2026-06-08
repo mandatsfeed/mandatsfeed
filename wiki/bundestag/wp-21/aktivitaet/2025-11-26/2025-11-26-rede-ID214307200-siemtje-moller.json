@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214307200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 14",
+  "date": "2025-11-26",
+  "persons": [
+    {
+      "slug": "siemtje-moller",
+      "name": "Siemtje Möller",
+      "name_padoka": "Möller, Siemtje",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/43",
+    "date": "2025-11-26",
+    "page": 5070
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21043.pdf"
+  }
+}

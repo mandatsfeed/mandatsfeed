@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5138",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur Drs. 8/1057 - Coronahilfen-Schlussabrechnungen und Auszahlung der Endabrechnungsgelder für die Coronahilfen",
+  "date": "2025-12-18",
+  "drsNr": "8/5138",
+  "persons": [
+    {
+      "slug": "mario-beger",
+      "name": "Mario Beger",
+      "name_padoka": "Beger, Mario",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46662",
+    "filename": "Drs_8_5138_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

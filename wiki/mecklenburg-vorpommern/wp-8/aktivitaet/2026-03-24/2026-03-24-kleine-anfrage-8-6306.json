@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6306",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Betrieb des Landgestütes Redefin",
+  "date": "2026-03-24",
+  "drsNr": "8/6306",
+  "persons": [
+    {
+      "slug": "thomas-diener",
+      "name": "Thomas Diener",
+      "name_padoka": "Diener, Thomas",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70482"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

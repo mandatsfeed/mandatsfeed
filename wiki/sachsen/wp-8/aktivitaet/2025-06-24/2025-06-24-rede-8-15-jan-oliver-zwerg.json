@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-15-jan-oliver-zwerg",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "14 Redebeiträge in Ein Atomkraftwerk direkt vor unserer Haustür - Schutz von Menschen und Natur in Sachsen sicherstellen",
+  "date": "2025-06-24",
+  "persons": [
+    {
+      "slug": "jan-oliver-zwerg",
+      "name": "Jan-Oliver Zwerg",
+      "name_padoka": "Zwerg, Jan-Oliver",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/15",
+    "date": "2025-06-24"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=43042"
+  }
+}

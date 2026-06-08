@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213204300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wirtschaftspartnerschaftsabkommen mit Afrika – Chancen für fairen Handel und gerechtere Globalisierung nutzen",
+  "date": "2025-10-10",
+  "persons": [
+    {
+      "slug": "reem-alabali-radovan",
+      "name": "Reem Alabali Radovan",
+      "name_padoka": "Alabali Radovan, Reem",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/32",
+    "date": "2025-10-10",
+    "page": 3522
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21032.pdf"
+  }
+}

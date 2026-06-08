@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21201800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Eidesleistung der Bundesministerinnen und Bundesminister",
+  "date": "2025-05-06",
+  "persons": [
+    {
+      "slug": "patrick-schnieder",
+      "name": "Patrick Schnieder",
+      "name_padoka": "Schnieder, Patrick",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister für Verkehr"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/2",
+    "date": "2025-05-06",
+    "page": 50
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21002.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2799",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Extrem rechte Veranstaltung am 26. Januar 2026 in Erfurt",
+  "date": "2026-01-27",
+  "drsNr": "8/2799",
+  "persons": [
+    {
+      "slug": "katharina-konig-preuss",
+      "name": "Katharina König-Preuss",
+      "name_padoka": "König-Preuss, Katharina",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105620"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

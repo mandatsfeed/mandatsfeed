@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213200100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 32",
+  "date": "2025-10-10",
+  "persons": [
+    {
+      "slug": "barbel-bas",
+      "name": "Bärbel Bas",
+      "name_padoka": "Bas, Bärbel",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Arbeit und Soziales"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/32",
+    "date": "2025-10-10",
+    "page": 3522
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21032.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-105-marc-reinhardt",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/105",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "marc-reinhardt",
+      "name": "Marc Reinhardt",
+      "name_padoka": "Reinhardt, Marc",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/105",
+    "date": "2025-05-14"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/64605"
+  }
+}

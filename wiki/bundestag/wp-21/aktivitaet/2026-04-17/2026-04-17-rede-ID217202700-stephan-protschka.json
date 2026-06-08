@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217202700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ernährungssicherheit und Erhalt produktiver Landwirtschaft – Für eine pragmatische Agrar- und Ernährungspolitik — Bürokratiebelastung jetzt umfassend abbauen – Heimische Landwirtschaft sichern",
+  "date": "2026-04-17",
+  "persons": [
+    {
+      "slug": "stephan-protschka",
+      "name": "Stephan Protschka",
+      "name_padoka": "Protschka, Stephan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/72",
+    "date": "2026-04-17",
+    "page": 8705
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21072.pdf"
+  }
+}

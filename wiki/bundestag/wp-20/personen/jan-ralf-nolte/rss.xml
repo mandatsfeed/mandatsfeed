@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Jan Ralf Nolte (Deutscher Bundestag, WP-20)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021106100</guid>
+      <title>Abschlussbericht der Enquete-Kommission Lehren aus Afghanistan für das künftige vernetzte Engagement Deutschlands</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20211.pdf</link>
+      <description>Rede · Plenarprotokoll 20/211, S. 27629</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-ka-20-14585</guid>
+      <title>Fragen zur Umsetzung eines Wehrdienstmodells und zur Einziehung von Wehrpflichtigen</title>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btd/20/145/2014585.pdf</link>
+      <description>Kleine Anfrage (Kleine Anfrage) · 20/14585 · Urheber: Gerold Otten (AfD), Rüdiger Lucassen (AfD), Hannes Gnauck (AfD), Jörg Schneider (AfD), Jan Ralf Nolte (AfD), Norbert Kleinwächter (AfD), Gerrit Huy (AfD), René Springer (AfD)</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-ka-20-14590</guid>
+      <title>Weitere Fragen zur Umsetzung der Nationalen Sicherheitsstrategie</title>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btd/20/145/2014590.pdf</link>
+      <description>Kleine Anfrage (Kleine Anfrage) · 20/14590 · Urheber: Gerold Otten (AfD), Martin Hess (AfD), Rüdiger Lucassen (AfD), Stefan Keuter (AfD), Hannes Gnauck (AfD), Jan Ralf Nolte (AfD)</description>
+    </item>
+  </channel>
+</rss>

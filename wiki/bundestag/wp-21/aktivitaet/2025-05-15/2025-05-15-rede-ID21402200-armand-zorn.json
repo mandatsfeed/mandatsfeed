@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21402200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+  "date": "2025-05-15",
+  "persons": [
+    {
+      "slug": "armand-zorn",
+      "name": "Armand Zorn",
+      "name_padoka": "Zorn, Armand",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/4",
+    "date": "2025-05-15",
+    "page": 313
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21004.pdf"
+  }
+}

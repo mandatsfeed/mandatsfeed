@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212115900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Volksbund Deutsche Kriegsgräberfürsorge – Arbeit für Frieden und Versöhnung sicherstellen – Generationen verbinden",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "david-schliesing",
+      "name": "David Schliesing",
+      "name_padoka": "Schliesing, David",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/21",
+    "date": "2025-09-11",
+    "page": 2179
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21021.pdf"
+  }
+}

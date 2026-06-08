@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6817",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kurzfristige Schließung der Geburtshilfe am St. Johannes Krankenhaus Kamenz GmbH und Sicherstellung der Versorgung in der Oberlausitz",
+  "date": "2026-04-27",
+  "drsNr": "8/6817",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50332",
+    "filename": "Drs_8_6817_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

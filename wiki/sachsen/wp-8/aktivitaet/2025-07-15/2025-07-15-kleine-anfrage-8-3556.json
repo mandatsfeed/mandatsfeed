@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3556",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Photovoltaikanlagen auf sächsischen Waldflächen",
+  "date": "2025-07-15",
+  "drsNr": "8/3556",
+  "persons": [
+    {
+      "slug": "andreas-heinz",
+      "name": "Andreas Heinz",
+      "name_padoka": "Heinz, Andreas",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43056",
+    "filename": "Drs_8_3556_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213916400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Queeres Leben stärken – Christopher-Street-Days schützen",
+  "date": "2025-11-12",
+  "persons": [
+    {
+      "slug": "christopher-drossler",
+      "name": "Christopher Drößler",
+      "name_padoka": "Drößler, Christopher",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/39",
+    "date": "2025-11-12",
+    "page": 4477
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21039.pdf"
+  }
+}

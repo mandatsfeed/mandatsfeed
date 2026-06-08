@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-27-nico-rudolph",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "7 Redebeiträge in 27. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "nico-rudolph",
+      "name": "Nico Rudolph",
+      "name_padoka": "Rudolph, Nico",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/27",
+    "date": "2026-03-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=49956"
+  }
+}

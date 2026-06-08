@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-3-rico-gebhardt",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in 3. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-11-19",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/3",
+    "date": "2024-11-19"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=37186"
+  }
+}

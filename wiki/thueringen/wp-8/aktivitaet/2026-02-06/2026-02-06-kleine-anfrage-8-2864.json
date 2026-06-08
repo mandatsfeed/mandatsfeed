@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2864",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umgang mit privaten Handys von Schülerinnen und Schülern an der Staatlichen Regelschule „Anna Sophia“ Kranichfeld",
+  "date": "2026-02-06",
+  "drsNr": "8/2864",
+  "persons": [
+    {
+      "slug": "ulrike-grosse-rothig",
+      "name": "Ulrike Große-Röthig",
+      "name_padoka": "Große-Röthig, Ulrike",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105777"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

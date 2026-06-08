@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214309200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 23",
+  "date": "2025-11-26",
+  "persons": [
+    {
+      "slug": "matthias-rentzsch",
+      "name": "Matthias Rentzsch",
+      "name_padoka": "Rentzsch, Matthias",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/43",
+    "date": "2025-11-26",
+    "page": 5070
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21043.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4868",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vollständigkeit der Aktenlieferungen an den 1. Untersuchungsausschuss - Nachträge, Lücken und noch \nausstehende Aktenlieferung",
+  "date": "2025-11-18",
+  "drsNr": "8/4868",
+  "persons": [
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45914",
+    "filename": "Drs_8_4868_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

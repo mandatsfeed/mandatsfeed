@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2706",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schließungsankündigung Zalando Erfurt",
+  "date": "2026-01-12",
+  "drsNr": "8/2706",
+  "persons": [
+    {
+      "slug": "andreas-schubert",
+      "name": "Andreas Schubert",
+      "name_padoka": "Schubert, Andreas",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105340"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

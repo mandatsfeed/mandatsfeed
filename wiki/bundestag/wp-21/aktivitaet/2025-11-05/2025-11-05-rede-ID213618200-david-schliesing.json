@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213618200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Den Deutschen Verlagspreis grundlegend reformieren – Keine Steuergelder für Verlage, deren Programme auch linksextreme Inhalte umfassen",
+  "date": "2025-11-05",
+  "persons": [
+    {
+      "slug": "david-schliesing",
+      "name": "David Schliesing",
+      "name_padoka": "Schliesing, David",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/36",
+    "date": "2025-11-05",
+    "page": 4047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21036.pdf"
+  }
+}

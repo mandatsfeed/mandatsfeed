@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3543",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vermeidung unverhältnismäßiger Einkesselungen und langer Freiheitsbeschränkungen bei Gegenprotesten zum AfD-Bundesparteitag in Erfurt",
+  "date": "2026-05-28",
+  "drsNr": "8/3543",
+  "persons": [
+    {
+      "slug": "lena-saniye-gungor",
+      "name": "Lena Saniye Güngör",
+      "name_padoka": "Güngör, Lena Saniye",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107318"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

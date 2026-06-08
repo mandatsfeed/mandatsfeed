@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217313100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — auf Verlangen der Fraktionen der CDU/CSU und SPD",
+  "date": "2026-04-22",
+  "persons": [
+    {
+      "slug": "carolin-wagner",
+      "name": "Carolin Wagner",
+      "name_padoka": "Wagner, Carolin",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/73",
+    "date": "2026-04-22",
+    "page": 8809
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21073.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216305600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2026 — Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2025",
+  "date": "2026-03-06",
+  "persons": [
+    {
+      "slug": "michael-kaufmann",
+      "name": "Michael Kaufmann",
+      "name_padoka": "Kaufmann, Michael",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/63",
+    "date": "2026-03-06",
+    "page": 7655
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21063.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216215600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Beendigung der Mitwirkung der Bundesrepublik Deutschland am Zwischenstaatlichen Ausschuss für Klimaänderungen und Neuausrichtung der nationalen wissenschaftlichen Politikberatung zu Umwelt- und Klimathemen",
+  "date": "2026-03-05",
+  "persons": [
+    {
+      "slug": "hans-koller",
+      "name": "Hans Koller",
+      "name_padoka": "Koller, Hans",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/62",
+    "date": "2026-03-05",
+    "page": 7583
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21062.pdf"
+  }
+}

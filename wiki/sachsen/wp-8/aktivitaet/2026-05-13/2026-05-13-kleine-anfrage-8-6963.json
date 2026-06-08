@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6963",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Initiativen der Staatsregierung zur wirksamen Entlastung der Kommunen und kommunalen Wohnungsgesellschaften von unverschuldeten Altlasten/-schulden",
+  "date": "2026-05-13",
+  "drsNr": "8/6963",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50691",
+    "filename": "Drs_8_6963_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

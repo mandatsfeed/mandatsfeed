@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6568",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Migrationsanteil an den Schulen in Mecklenburg-Vorpommern",
+  "date": "2026-05-13",
+  "drsNr": "8/6568",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71328"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-39-daniel-peters",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in PlPr 8/39",
+  "date": "2022-12-07",
+  "persons": [
+    {
+      "slug": "daniel-peters",
+      "name": "Daniel Peters",
+      "name_padoka": "Peters, Daniel",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/39",
+    "date": "2022-12-07"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/55581"
+  }
+}

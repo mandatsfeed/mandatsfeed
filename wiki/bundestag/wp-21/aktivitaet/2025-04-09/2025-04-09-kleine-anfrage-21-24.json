@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-24",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Zahlen in der Bundesrepublik Deutschland lebender Geflüchteter zum 31. Dezember 2024",
+  "date": "2025-04-09",
+  "persons": [
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/24",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/000/2100024.pdf",
+    "filename": "2100024.pdf"
+  }
+}

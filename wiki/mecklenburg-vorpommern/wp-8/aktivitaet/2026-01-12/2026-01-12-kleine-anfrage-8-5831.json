@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5831",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Teilnahme von Gegendemonstranten und Linksextremisten aus Mecklenburg-Vorpommern an Protestaktionen und Straftaten im Zusammenhang mit dem Gründungstreffen der Jugendorganisation „Generation Deutschland“ am 29. November 2025 in Gießen",
+  "date": "2026-01-12",
+  "drsNr": "8/5831",
+  "persons": [
+    {
+      "slug": "nikolaus-kramer",
+      "name": "Nikolaus Kramer",
+      "name_padoka": "Kramer, Nikolaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68903"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

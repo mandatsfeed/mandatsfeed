@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-19-franziska-schubert",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in 19. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "redner",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/19",
+    "date": "2025-09-11"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=44721"
+  }
+}

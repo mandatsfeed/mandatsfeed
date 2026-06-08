@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5216",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Erhebung von Fahndungsnotierungen zu \"offenen\" Haftbefehlen politisch motivierter Straftäter*innen zum jüngsten Stichtag im Jahr 2025",
+  "date": "2026-01-01",
+  "drsNr": "8/5216",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46796",
+    "filename": "Drs_8_5216_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218000600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Spitzensportförderung transparent, wirksam und zukunftsfest gestalten — Mutterschutz von Athletinnen wirksam absichern – Schutzlücken für selbstständige Spitzensportlerinnen schließen",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "stephan-mayer",
+      "name": "Stephan Mayer",
+      "name_padoka": "Mayer, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

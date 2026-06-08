@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214501700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.19",
+  "date": "2025-11-28",
+  "persons": [
+    {
+      "slug": "natalie-pawlik",
+      "name": "Natalie Pawlik",
+      "name_padoka": "Pawlik, Natalie",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsministerin bei der Bundesministerin für Arbeit und Soziales"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/45",
+    "date": "2025-11-28",
+    "page": 5276
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21045.pdf"
+  }
+}

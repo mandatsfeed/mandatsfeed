@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217701400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Entlastung statt Belastung für Beitragszahlende und Betriebe – Krankenkassenbeiträge jetzt senken",
+  "date": "2026-05-07",
+  "persons": [
+    {
+      "slug": "sascha-van-beek",
+      "name": "Sascha van Beek",
+      "name_padoka": "van Beek, Sascha",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/77",
+    "date": "2026-05-07",
+    "page": 9307
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21077.pdf"
+  }
+}

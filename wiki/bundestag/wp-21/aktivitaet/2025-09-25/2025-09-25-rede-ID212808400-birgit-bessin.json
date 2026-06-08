@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212808400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 1",
+  "date": "2025-09-25",
+  "persons": [
+    {
+      "slug": "birgit-bessin",
+      "name": "Birgit Bessin",
+      "name_padoka": "Bessin, Birgit",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/28",
+    "date": "2025-09-25",
+    "page": 3041
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21028.pdf"
+  }
+}

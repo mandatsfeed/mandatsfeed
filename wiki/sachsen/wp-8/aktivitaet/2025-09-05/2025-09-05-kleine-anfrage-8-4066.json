@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4066",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Waffenrechtliche Erlaubnisse bei Mitgliedern der Partei Bündnis 90 die Grünen im 1. Halbjahr 2025",
+  "date": "2025-09-05",
+  "drsNr": "8/4066",
+  "persons": [
+    {
+      "slug": "rene-standke",
+      "name": "René Standke",
+      "name_padoka": "Standke, René",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44268",
+    "filename": "Drs_8_4066_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5707",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Insolvenzen und Betriebsschließungen in Mecklenburg-Vorpommern",
+  "date": "2026-01-14",
+  "drsNr": "8/5707",
+  "persons": [
+    {
+      "slug": "michael-meister",
+      "name": "Michael Meister",
+      "name_padoka": "Meister, Michael",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68616"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

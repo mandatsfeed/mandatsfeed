@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215817900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wahlversprechen einhalten – Heizungsgesetz abschaffen",
+  "date": "2026-02-25",
+  "persons": [
+    {
+      "slug": "lars-rohwer",
+      "name": "Lars Rohwer",
+      "name_padoka": "Rohwer, Lars",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/58",
+    "date": "2026-02-25",
+    "page": 7018
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21058.pdf"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dip-ka-21-5224",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Auslegung des § 46 Absatz 2a des Soldatengesetzes im Bundesministerium der Verteidigung und nachgeordneten Dienststellen",
+  "date": "2026-04-08",
+  "persons": [
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "name_padoka": "Koch, Heinrich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "achim-kohler",
+      "name": "Achim Köhler",
+      "name_padoka": "Köhler, Achim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5224",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/052/2105224.pdf",
+    "filename": "2105224.pdf"
+  }
+}

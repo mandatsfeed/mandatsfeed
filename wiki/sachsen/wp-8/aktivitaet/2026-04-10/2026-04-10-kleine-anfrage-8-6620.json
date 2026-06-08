@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6620",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zielsetzung, Gefährdungsprognose und Verhältnismäßigkeit des Polizeieinsatzes in Annaberg-Buchholz am 08.12.2020",
+  "date": "2026-04-10",
+  "drsNr": "8/6620",
+  "persons": [
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49802",
+    "filename": "Drs_8_6620_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

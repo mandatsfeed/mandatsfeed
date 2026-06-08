@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216505900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wieder in die Kernkraft einsteigen und strategische Fehler korrigieren",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "anna-aeikens",
+      "name": "Anna Aeikens",
+      "name_padoka": "Aeikens, Anna",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

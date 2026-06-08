@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6213",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen des Referentenentwurfs zum TKG-Änderungsgesetz 2026 auf das sächsische Landesrecht",
+  "date": "2026-03-03",
+  "drsNr": "8/6213",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48671",
+    "filename": "Drs_8_6213_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

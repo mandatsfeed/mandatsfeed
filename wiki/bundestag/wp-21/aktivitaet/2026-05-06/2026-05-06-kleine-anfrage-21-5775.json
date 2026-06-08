@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-5775",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Wirtschaftliche Auswirkungen des Weiterbaus der Küstenautobahn 20 auf regionale Verkehrs- und Wirtschaftsstrukturen",
+  "date": "2026-05-06",
+  "persons": [
+    {
+      "slug": "stefan-henze",
+      "name": "Stefan Henze",
+      "name_padoka": "Henze, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5775",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/057/2105775.pdf",
+    "filename": "2105775.pdf"
+  }
+}

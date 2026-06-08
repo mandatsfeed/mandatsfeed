@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7004",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zuweisungen Stärkung der kulturellen Bildung Titel 12 05 633 02- Haushaltsvollzug 2025/2026",
+  "date": "2026-05-19",
+  "drsNr": "8/7004",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50804",
+    "filename": "Drs_8_7004_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

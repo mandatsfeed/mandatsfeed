@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4247",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bildung von Rücklagen durch die Sächsische Landesanstalt für privaten Rundfunk und neue Medien (SLM) und deren Verwendung seit dem Jahre 2019",
+  "date": "2025-09-22",
+  "drsNr": "8/4247",
+  "persons": [
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44714",
+    "filename": "Drs_8_4247_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217701100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bürokratie abbauen, Teilhabe stärken – Für ein unbürokratisches Anerkennungssystem von Assistenzhunden — Barrierefreiheit für eine moderne und inklusive Gesellschaft ernsthaft umsetzen",
+  "date": "2026-05-07",
+  "persons": [
+    {
+      "slug": "marc-biadacz",
+      "name": "Marc Biadacz",
+      "name_padoka": "Biadacz, Marc",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/77",
+    "date": "2026-05-07",
+    "page": 9307
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21077.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21806800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Dürre in Deutschland – Bedrohung für Mensch, Wirtschaft und Natur nicht aussitzen, Klimaschutz konsequent umsetzen",
+  "date": "2025-05-23",
+  "persons": [
+    {
+      "slug": "hans-koller",
+      "name": "Hans Koller",
+      "name_padoka": "Koller, Hans",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/8",
+    "date": "2025-05-23",
+    "page": 653
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21008.pdf"
+  }
+}

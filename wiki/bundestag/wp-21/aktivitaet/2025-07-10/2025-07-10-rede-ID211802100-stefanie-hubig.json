@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID211802100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 07",
+  "date": "2025-07-10",
+  "persons": [
+    {
+      "slug": "stefanie-hubig",
+      "name": "Stefanie Hubig",
+      "name_padoka": "Hubig, Stefanie",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesministerin der Justiz und für Verbraucherschutz"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/18",
+    "date": "2025-07-10",
+    "page": 1859
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21018.pdf"
+  }
+}

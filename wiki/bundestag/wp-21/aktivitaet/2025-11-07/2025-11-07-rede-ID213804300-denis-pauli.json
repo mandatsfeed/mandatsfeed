@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213804300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Den zweiten UN-Weltgipfel für soziale Entwicklung stark machen – Mehr globale Gerechtigkeit durch Milliardärssteuern",
+  "date": "2025-11-07",
+  "persons": [
+    {
+      "slug": "denis-pauli",
+      "name": "Denis Pauli",
+      "name_padoka": "Pauli, Denis",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/38",
+    "date": "2025-11-07",
+    "page": 4369
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21038.pdf"
+  }
+}

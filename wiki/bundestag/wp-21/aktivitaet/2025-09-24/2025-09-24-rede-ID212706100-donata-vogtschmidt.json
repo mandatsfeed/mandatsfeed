@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212706100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 14",
+  "date": "2025-09-24",
+  "persons": [
+    {
+      "slug": "donata-vogtschmidt",
+      "name": "Donata Vogtschmidt",
+      "name_padoka": "Vogtschmidt, Donata",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/27",
+    "date": "2025-09-24",
+    "page": 2909
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21027.pdf"
+  }
+}

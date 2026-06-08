@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21100700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Beschlussfassung über die — – Geschäftsordnung des Deutschen Bundestages",
+  "date": "2025-03-25",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/1",
+    "date": "2025-03-25",
+    "page": 26
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21001.pdf"
+  }
+}

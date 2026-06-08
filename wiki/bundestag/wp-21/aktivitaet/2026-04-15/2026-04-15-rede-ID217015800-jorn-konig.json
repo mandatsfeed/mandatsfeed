@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217015800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Big Tech fair besteuern – Digitalsteuer jetzt einführen",
+  "date": "2026-04-15",
+  "persons": [
+    {
+      "slug": "jorn-konig",
+      "name": "Jörn König",
+      "name_padoka": "König, Jörn",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/70",
+    "date": "2026-04-15",
+    "page": 8515
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21070.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-2354",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Aussagen der Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung, Reem Alabali Radovan, zu der Berichterstattung über die Kandidatin für ein Richteramt am Bundesverfassungsgericht Prof. Dr. Frauke Brosius-Gersdorf",
+  "date": "2025-10-21",
+  "persons": [
+    {
+      "slug": "markus-matzerath",
+      "name": "Markus Matzerath",
+      "name_padoka": "Matzerath, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/2354",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/023/2102354.pdf",
+    "filename": "2102354.pdf"
+  }
+}

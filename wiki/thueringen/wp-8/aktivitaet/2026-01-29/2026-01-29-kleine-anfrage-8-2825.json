@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2825",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Todesfälle in der Justizvollzugsanstalt (JVA) Tonna",
+  "date": "2026-01-29",
+  "drsNr": "8/2825",
+  "persons": [
+    {
+      "slug": "marek-erfurth",
+      "name": "Marek Erfurth",
+      "name_padoka": "Erfurth, Marek",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105667"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

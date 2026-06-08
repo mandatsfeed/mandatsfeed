@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3614",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ameisenart Tapinoma",
+  "date": "2025-07-21",
+  "drsNr": "8/3614",
+  "persons": [
+    {
+      "slug": "andreas-heinz",
+      "name": "Andreas Heinz",
+      "name_padoka": "Heinz, Andreas",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43148",
+    "filename": "Drs_8_3614_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

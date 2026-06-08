@@ -1,0 +1,172 @@
+{
+  "id": "dip-rede-20-212",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Vereinbarte Debatte zur Situation in Deutschland",
+  "date": "2025-02-11",
+  "persons": [
+    {
+      "slug": "kevin-kuhnert",
+      "name": "Kevin Kühnert",
+      "name_padoka": "Kühnert, Kevin",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "robert-farle",
+      "name": "Robert Farle",
+      "name_padoka": "Farle, Robert",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    },
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "name_padoka": "Seidler, Stefan",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    },
+    {
+      "slug": "thomas-seitz",
+      "name": "Thomas Seitz",
+      "name_padoka": "Seitz, Thomas",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    },
+    {
+      "slug": "lina-seitzl",
+      "name": "Lina Seitzl",
+      "name_padoka": "Seitzl, Lina",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "joana-cotar",
+      "name": "Joana Cotar",
+      "name_padoka": "Cotar, Joana",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    },
+    {
+      "slug": "dirk-spaniel",
+      "name": "Dirk Spaniel",
+      "name_padoka": "Spaniel, Dirk",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    },
+    {
+      "slug": "axel-schafer-bochum",
+      "name": "Axel Schäfer (Bochum)",
+      "name_padoka": "(Bochum), Axel Schäfer",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "sahra-wagenknecht",
+      "name": "Sahra Wagenknecht",
+      "name_padoka": "Wagenknecht, Sahra",
+      "role": "redner",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "heidi-reichinnek",
+      "name": "Heidi Reichinnek",
+      "name_padoka": "Reichinnek, Heidi",
+      "role": "redner",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "thorsten-frei",
+      "name": "Thorsten Frei",
+      "name_padoka": "Frei, Thorsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "kathrin-michel",
+      "name": "Kathrin Michel",
+      "name_padoka": "Michel, Kathrin",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "tino-chrupalla",
+      "name": "Tino Chrupalla",
+      "name_padoka": "Chrupalla, Tino",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-durr",
+      "name": "Christian Dürr",
+      "name_padoka": "Dürr, Christian",
+      "role": "redner",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "katharina-droge",
+      "name": "Katharina Dröge",
+      "name_padoka": "Dröge, Katharina",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "alexander-dobrindt",
+      "name": "Alexander Dobrindt",
+      "name_padoka": "Dobrindt, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "lars-klingbeil",
+      "name": "Lars Klingbeil",
+      "name_padoka": "Klingbeil, Lars",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "alice-weidel",
+      "name": "Alice Weidel",
+      "name_padoka": "Weidel, Alice",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-lindner",
+      "name": "Christian Lindner",
+      "name_padoka": "Lindner, Christian",
+      "role": "redner",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "robert-habeck",
+      "name": "Robert Habeck",
+      "name_padoka": "Habeck, Robert",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Wirtschaft und Klimaschutz",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "friedrich-merz",
+      "name": "Friedrich Merz",
+      "name_padoka": "Merz, Friedrich",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "spd",
+    "fraktionslos",
+    "cdu-csu",
+    "afd",
+    "fdp",
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "20/212",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27680",
+    "filename": "20212.pdf#P.27680"
+  }
+}

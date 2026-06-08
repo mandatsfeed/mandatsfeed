@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-42-abgeordnete-muller",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/42",
+  "date": "2026-03-27",
+  "persons": [
+    {
+      "slug": "abgeordnete-muller",
+      "name": "Abgeordnete Müller",
+      "name_padoka": "Müller, Abgeordnete",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/42",
+    "date": "2026-03-27"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106571"
+  }
+}

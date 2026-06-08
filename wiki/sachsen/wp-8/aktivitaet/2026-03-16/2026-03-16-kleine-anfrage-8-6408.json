@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6408",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einbau von Türgriffen zur Terror- bzw. Amokabwehr am BSZ \"Anne Frank\" in Plauen",
+  "date": "2026-03-16",
+  "drsNr": "8/6408",
+  "persons": [
+    {
+      "slug": "rene-standke",
+      "name": "René Standke",
+      "name_padoka": "Standke, René",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49043",
+    "filename": "Drs_8_6408_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

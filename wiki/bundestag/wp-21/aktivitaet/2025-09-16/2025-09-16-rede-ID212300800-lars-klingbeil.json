@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212300800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 08",
+  "date": "2025-09-16",
+  "persons": [
+    {
+      "slug": "lars-klingbeil",
+      "name": "Lars Klingbeil",
+      "name_padoka": "Klingbeil, Lars",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister der Finanzen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/23",
+    "date": "2025-09-16",
+    "page": 2452
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21023.pdf"
+  }
+}

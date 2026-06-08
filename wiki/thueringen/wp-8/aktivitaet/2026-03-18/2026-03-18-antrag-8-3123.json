@@ -1,0 +1,20 @@
+{
+  "id": "parldok-drs-8-3123",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "antrag",
+  "title": "Soziale Wohnungsbauoffensive",
+  "date": "2026-03-18",
+  "drsNr": "8/3123",
+  "persons": [],
+  "fraktionen": [
+    "cdu",
+    "bsw",
+    "spd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106322"
+  },
+  "urheber": "CDU, BSW, SPD"
+}

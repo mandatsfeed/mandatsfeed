@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-1-dirk-panter",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 1. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-10-01",
+  "persons": [
+    {
+      "slug": "dirk-panter",
+      "name": "Dirk Panter",
+      "name_padoka": "Panter, Dirk",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/1",
+    "date": "2024-10-01"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=36287"
+  }
+}

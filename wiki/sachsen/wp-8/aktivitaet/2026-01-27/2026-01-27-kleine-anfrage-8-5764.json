@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5764",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Förderrichtlinie Stadtgrün, Lärm, Radon 2023 - Teil A (EFRE) nach der FÖMISAX Richtliniennummer 02402",
+  "date": "2026-01-27",
+  "drsNr": "8/5764",
+  "persons": [
+    {
+      "slug": "tobias-heller",
+      "name": "Tobias Heller",
+      "name_padoka": "Heller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47646",
+    "filename": "Drs_8_5764_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6356",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Rechtliche und finanzielle Folgen einer möglichen Abkehr vom geplanten Neubau des Archäologischen Landesmuseums Mecklenburg-Vorpommern am Standort Stadthafen Rostock",
+  "date": "2026-04-09",
+  "drsNr": "8/6356",
+  "persons": [
+    {
+      "slug": "katy-hoffmeister",
+      "name": "Katy Hoffmeister",
+      "name_padoka": "Hoffmeister, Katy",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70641"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

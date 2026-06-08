@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-35-beifall-marc-reinhardt",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/35",
+  "date": "2022-11-09",
+  "persons": [
+    {
+      "slug": "beifall-marc-reinhardt",
+      "name": "Beifall Marc Reinhardt",
+      "name_padoka": "Reinhardt, Beifall Marc",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/35",
+    "date": "2022-11-09"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/55214"
+  }
+}

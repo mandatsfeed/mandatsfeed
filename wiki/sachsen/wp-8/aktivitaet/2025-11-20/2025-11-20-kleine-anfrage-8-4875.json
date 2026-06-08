@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4875",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vollständigkeit der Aktenlieferungen an den 1. Untersuchungsausschuss - Umfang und Nachvollziehbarkeit der elektronischen Akten",
+  "date": "2025-11-20",
+  "drsNr": "8/4875",
+  "persons": [
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45927",
+    "filename": "Drs_8_4875_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

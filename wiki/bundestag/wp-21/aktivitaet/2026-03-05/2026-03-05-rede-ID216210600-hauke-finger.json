@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216210600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 13",
+  "date": "2026-03-05",
+  "persons": [
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "name_padoka": "Finger, Hauke",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/62",
+    "date": "2026-03-05",
+    "page": 7583
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21062.pdf"
+  }
+}

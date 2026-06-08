@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-53",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Software-Ausschreibung für die sächsischen Gesundheitsämter - Nachfrage zur Drucksache 7/17068",
+  "date": "2024-10-02",
+  "drsNr": "8/53",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53",
+    "filename": "Drs_8_53_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

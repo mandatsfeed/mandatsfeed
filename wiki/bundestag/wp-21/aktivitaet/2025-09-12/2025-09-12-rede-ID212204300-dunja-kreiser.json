@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212204300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gasbohrungen in Deutschland beenden – Energiewende konsequent weiterführen — Am Verbrenner-Aus ab dem Jahr 2035 festhalten – Verlässlichkeit für Verbraucher, Klima und Wirtschaft",
+  "date": "2025-09-12",
+  "persons": [
+    {
+      "slug": "dunja-kreiser",
+      "name": "Dunja Kreiser",
+      "name_padoka": "Kreiser, Dunja",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/22",
+    "date": "2025-09-12",
+    "page": 2305
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21022.pdf"
+  }
+}

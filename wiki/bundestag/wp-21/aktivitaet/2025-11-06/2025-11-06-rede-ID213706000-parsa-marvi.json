@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213706000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Programm für Deutschland – Ein neuer Weg für die Ertragsteuern – Grundlegende Steuerreform zur Entlastung von Familien, Mittelstand und Unternehmen — Familien entlasten – Das Ehegattensplitting zu einer umfassenden Familienförderung umbauen",
+  "date": "2025-11-06",
+  "persons": [
+    {
+      "slug": "parsa-marvi",
+      "name": "Parsa Marvi",
+      "name_padoka": "Marvi, Parsa",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/37",
+    "date": "2025-11-06",
+    "page": 4261
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21037.pdf"
+  }
+}

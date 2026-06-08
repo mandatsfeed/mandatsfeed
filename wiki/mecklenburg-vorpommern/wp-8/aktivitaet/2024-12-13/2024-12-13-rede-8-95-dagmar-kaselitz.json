@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-95-dagmar-kaselitz",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/95",
+  "date": "2024-12-13",
+  "persons": [
+    {
+      "slug": "dagmar-kaselitz",
+      "name": "Dagmar Kaselitz",
+      "name_padoka": "Kaselitz, Dagmar",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/95",
+    "date": "2024-12-13"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/63427"
+  }
+}

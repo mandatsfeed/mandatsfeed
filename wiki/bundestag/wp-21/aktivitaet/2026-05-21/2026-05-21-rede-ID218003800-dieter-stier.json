@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218003800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusammenhalt durch Engagement – Das Ehrenamt als Rückgrat unserer Gesellschaft",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "dieter-stier",
+      "name": "Dieter Stier",
+      "name_padoka": "Stier, Dieter",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

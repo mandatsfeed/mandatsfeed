@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-61",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Verjährungsbedingte Einnahmeausfälle des Bundesamtes für Justiz bei Forderungen aus Ordnungsgeldverfahren nach § 335 des Handelsgesetzbuchs - Stand: 31. März 2025",
+  "date": "2025-04-23",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/61",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/000/2100061.pdf",
+    "filename": "2100061.pdf"
+  }
+}

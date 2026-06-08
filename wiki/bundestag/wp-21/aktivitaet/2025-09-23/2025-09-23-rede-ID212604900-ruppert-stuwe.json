@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212604900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 25",
+  "date": "2025-09-23",
+  "persons": [
+    {
+      "slug": "ruppert-stuwe",
+      "name": "Ruppert Stüwe",
+      "name_padoka": "Stüwe, Ruppert",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/26",
+    "date": "2025-09-23",
+    "page": 2797
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21026.pdf"
+  }
+}

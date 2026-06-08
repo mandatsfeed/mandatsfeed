@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214005500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sammelübersicht 76 zu Petitionen — Sammelübersicht 77 zu Petitionen",
+  "date": "2025-11-13",
+  "persons": [
+    {
+      "slug": "serdar-yuksel",
+      "name": "Serdar Yüksel",
+      "name_padoka": "Yüksel, Serdar",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/40",
+    "date": "2025-11-13",
+    "page": 4645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21040.pdf"
+  }
+}

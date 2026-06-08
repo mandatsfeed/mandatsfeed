@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-463",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Präventive Korruptionsbekämpfung in den ordentlichen Gerichten",
+  "date": "2024-11-15",
+  "drsNr": "8/463",
+  "persons": [
+    {
+      "slug": "andre-barth",
+      "name": "André Barth",
+      "name_padoka": "Barth, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36938",
+    "filename": "Drs_8_463_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217107500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Ungarn nach der Wahl – Neue Chance für Europa",
+  "date": "2026-04-16",
+  "persons": [
+    {
+      "slug": "knut-abraham",
+      "name": "Knut Abraham",
+      "name_padoka": "Abraham, Knut",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/71",
+    "date": "2026-04-16",
+    "page": 8645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21071.pdf"
+  }
+}

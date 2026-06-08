@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3486",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Polizeieinsatz im Zusammenhang mit einem Vorgang am 15. Januar in Gößnitz – nachgefragt",
+  "date": "2026-05-18",
+  "drsNr": "8/3486",
+  "persons": [
+    {
+      "slug": "dr-stefan-wogawa",
+      "name": "Dr. Stefan Wogawa",
+      "name_padoka": "Wogawa, Dr. Stefan",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107204"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

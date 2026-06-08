@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6943",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einnahmen des Freistaates Sachsen aus der Erhebung der Wasserentnahmeabgabe in den Kalenderjahren 2024 und 2025",
+  "date": "2026-05-11",
+  "drsNr": "8/6943",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50639",
+    "filename": "Drs_8_6943_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

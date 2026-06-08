@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218010200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kostenfreies, gesundes und leckeres Mittagessen in allen Schulen und Kitas",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "danny-meiners",
+      "name": "Danny Meiners",
+      "name_padoka": "Meiners, Danny",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

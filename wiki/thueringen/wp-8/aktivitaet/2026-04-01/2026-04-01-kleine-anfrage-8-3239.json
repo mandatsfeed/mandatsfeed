@@ -1,0 +1,34 @@
+{
+  "id": "parldok-ka-8-3239",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Regelungen zur freien Schulwahl durch das Staatliche Schulamt Ostthüringen untersagt",
+  "date": "2026-04-01",
+  "drsNr": "8/3239",
+  "persons": [
+    {
+      "slug": "jens-thomas",
+      "name": "Jens Thomas",
+      "name_padoka": "Thomas, Jens",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    },
+    {
+      "slug": "lena-saniye-gungor",
+      "name": "Lena Saniye Güngör",
+      "name_padoka": "Güngör, Lena Saniye",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106671"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

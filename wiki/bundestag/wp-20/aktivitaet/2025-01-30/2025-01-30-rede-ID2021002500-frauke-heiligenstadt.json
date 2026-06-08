@@ -1,0 +1,28 @@
+{
+  "id": "dip-rede-ID2021002500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Rückforderung der zu Unrecht erstatteten Steuern aus Cum-Ex-Geschäften von der M. M. Warburg &amp; CO Bank unter Olaf Scholz und Befassung der Bundesregierung mit dem Vorgang",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "frauke-heiligenstadt",
+      "name": "Frauke Heiligenstadt",
+      "name_padoka": "Heiligenstadt, Frauke",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

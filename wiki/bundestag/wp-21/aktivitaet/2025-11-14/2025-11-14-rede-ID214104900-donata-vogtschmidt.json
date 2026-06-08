@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214104900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Strategie zur digitalen Souveränität – Für eine selbstbestimmte digitale Zukunft Deutschlands und Europas — Vertrauenswürdige Künstliche Intelligenz ermöglichen – Umsetzung der europäischen KI-Verordnung in Deutschland beschleunigen, Innovation fördern und digitale Souveränität stärken",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "donata-vogtschmidt",
+      "name": "Donata Vogtschmidt",
+      "name_padoka": "Vogtschmidt, Donata",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/41",
+    "date": "2025-11-14",
+    "page": 4840
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf"
+  }
+}

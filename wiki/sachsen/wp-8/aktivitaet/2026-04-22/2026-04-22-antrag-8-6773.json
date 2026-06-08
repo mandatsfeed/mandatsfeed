@@ -1,0 +1,20 @@
+{
+  "id": "edas-drs-8-6773",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "antrag",
+  "title": "Situation des Kleingartenwesens im Freistaat Sachsen",
+  "date": "2026-04-22",
+  "drsNr": "8/6773",
+  "persons": [],
+  "fraktionen": [
+    "cdu",
+    "spd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50201",
+    "filename": "Drs_8_6773_0.pdf"
+  },
+  "urheber": "CDU, SPD"
+}

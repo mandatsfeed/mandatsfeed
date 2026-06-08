@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215014500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kosten für hochpreisige Arzneimittel bezahlbar halten – Finanzierung der gesetzlichen Krankenversicherung stabilisieren",
+  "date": "2025-12-18",
+  "persons": [
+    {
+      "slug": "ates-gurpinar",
+      "name": "Ates Gürpinar",
+      "name_padoka": "Gürpinar, Ates",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/50",
+    "date": "2025-12-18",
+    "page": 6008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21050.pdf"
+  }
+}

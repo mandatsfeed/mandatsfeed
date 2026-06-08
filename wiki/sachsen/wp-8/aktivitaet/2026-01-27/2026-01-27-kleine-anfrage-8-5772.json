@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5772",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "E-Fahrzeuge, Ladestationen und deren Förderung im Freistaat Sachsen im Jahr 2025 – Nachfrage zur Drucksache 7/15611",
+  "date": "2026-01-27",
+  "drsNr": "8/5772",
+  "persons": [
+    {
+      "slug": "carsten-hutter-afd-tobias-keller",
+      "name": "Carsten Hütter AfD, Tobias Keller",
+      "name_padoka": "Keller, Carsten Hütter AfD, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47654",
+    "filename": "Drs_8_5772_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

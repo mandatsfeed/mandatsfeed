@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3550",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zustände an der Oberschule Schmiedeberg Katastrophale Zustände an der Oberschule Schmiedeberg - Förderversagen \ndes Freistaates Sachsen",
+  "date": "2025-07-11",
+  "drsNr": "8/3550",
+  "persons": [
+    {
+      "slug": "lutz-richter",
+      "name": "Lutz Richter",
+      "name_padoka": "Richter, Lutz",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43040",
+    "filename": "Drs_8_3550_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

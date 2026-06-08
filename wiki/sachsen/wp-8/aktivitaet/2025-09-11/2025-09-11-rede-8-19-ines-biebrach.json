@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-19-ines-biebrach",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 19. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "ines-biebrach",
+      "name": "Ines Biebrach",
+      "name_padoka": "Biebrach, Ines",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/19",
+    "date": "2025-09-11"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=44721"
+  }
+}

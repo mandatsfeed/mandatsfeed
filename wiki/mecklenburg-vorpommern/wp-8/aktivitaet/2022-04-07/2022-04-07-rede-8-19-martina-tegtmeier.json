@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-19-martina-tegtmeier",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "7 Redebeiträge in PlPr 8/19",
+  "date": "2022-04-07",
+  "persons": [
+    {
+      "slug": "martina-tegtmeier",
+      "name": "Martina Tegtmeier",
+      "name_padoka": "Tegtmeier, Martina",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/19",
+    "date": "2022-04-07"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/52440"
+  }
+}

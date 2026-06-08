@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6189",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Seniorenticket in Mecklenburg-Vorpommern – Fortführung, Kosten, Nutzung und Wirkung im Zeitraum 2023 bis 2026",
+  "date": "2026-03-02",
+  "drsNr": "8/6189",
+  "persons": [
+    {
+      "slug": "martin-schmidt",
+      "name": "Martin Schmidt",
+      "name_padoka": "Schmidt, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70055"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

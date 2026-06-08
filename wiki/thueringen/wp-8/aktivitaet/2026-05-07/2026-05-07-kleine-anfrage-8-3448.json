@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3448",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zustand und Räumung einer landeseigenen, durch den Katastrophenschutzzug des Arbeiter-Samariter-Bunds genutzten Liegenschaft in Gera",
+  "date": "2026-05-07",
+  "drsNr": "8/3448",
+  "persons": [
+    {
+      "slug": "stephan-steinbruck",
+      "name": "Stephan Steinbrück",
+      "name_padoka": "Steinbrück, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107168"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

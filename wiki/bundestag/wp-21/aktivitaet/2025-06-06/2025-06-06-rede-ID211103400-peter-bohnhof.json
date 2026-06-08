@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211103400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mindestlohngesetz reformieren – 15 Euro pro Stunde sicherstellen — Mindestlohn auf 15 Euro anheben und dauerhaft armutsfest machen",
+  "date": "2025-06-06",
+  "persons": [
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/11",
+    "date": "2025-06-06",
+    "page": 967
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21011.pdf"
+  }
+}

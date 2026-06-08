@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217615000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Rechtsstaatlichkeit wieder garantieren – Rechtswidrige Zurückweisungen stoppen, Binnengrenzkontrollen beenden — Europarecht einhalten, Schutzbedürftige schützen, Zurückweisungen an den Binnengrenzen beenden",
+  "date": "2026-05-06",
+  "persons": [
+    {
+      "slug": "rasha-nasr",
+      "name": "Rasha Nasr",
+      "name_padoka": "Nasr, Rasha",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/76",
+    "date": "2026-05-06",
+    "page": 9151
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21076.pdf"
+  }
+}

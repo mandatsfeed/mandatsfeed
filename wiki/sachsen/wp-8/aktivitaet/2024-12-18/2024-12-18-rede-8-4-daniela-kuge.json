@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-4-daniela-kuge",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in 4. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-12-18",
+  "persons": [
+    {
+      "slug": "daniela-kuge",
+      "name": "Daniela Kuge",
+      "name_padoka": "Kuge, Daniela",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/4",
+    "date": "2024-12-18"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=38098"
+  }
+}

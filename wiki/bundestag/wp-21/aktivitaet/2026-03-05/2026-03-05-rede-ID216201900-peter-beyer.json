@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216201900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Anhaltspunkte für deutsche Bezüge zu den Epstein-Akten systematisch untersuchen",
+  "date": "2026-03-05",
+  "persons": [
+    {
+      "slug": "peter-beyer",
+      "name": "Peter Beyer",
+      "name_padoka": "Beyer, Peter",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/62",
+    "date": "2026-03-05",
+    "page": 7583
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21062.pdf"
+  }
+}

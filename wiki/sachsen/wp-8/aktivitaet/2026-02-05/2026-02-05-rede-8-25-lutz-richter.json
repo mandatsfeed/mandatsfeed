@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-25-lutz-richter",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 25. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-02-05",
+  "persons": [
+    {
+      "slug": "lutz-richter",
+      "name": "Lutz Richter",
+      "name_padoka": "Richter, Lutz",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/25",
+    "date": "2026-02-05"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=48297"
+  }
+}

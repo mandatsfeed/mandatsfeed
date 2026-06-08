@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211102100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gaza – Völkerrecht verteidigen, Waffenlieferungen stoppen, humanitäre Hilfe ermöglichen",
+  "date": "2025-06-06",
+  "persons": [
+    {
+      "slug": "lea-reisner",
+      "name": "Lea Reisner",
+      "name_padoka": "Reisner, Lea",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/11",
+    "date": "2025-06-06",
+    "page": 967
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21011.pdf"
+  }
+}

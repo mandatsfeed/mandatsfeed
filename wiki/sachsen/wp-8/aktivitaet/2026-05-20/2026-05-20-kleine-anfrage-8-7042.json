@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7042",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Export von sog. \"Dual-Use-Gütern\" aus Sachsen",
+  "date": "2026-05-20",
+  "drsNr": "8/7042",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50842",
+    "filename": "Drs_8_7042_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

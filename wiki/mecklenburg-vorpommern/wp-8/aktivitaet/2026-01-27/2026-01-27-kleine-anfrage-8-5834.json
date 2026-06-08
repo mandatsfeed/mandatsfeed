@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5834",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Deponie Ihlenberg – Entsorgungssicherheit in Mecklenburg-Vorpommern",
+  "date": "2026-01-27",
+  "drsNr": "8/5834",
+  "persons": [
+    {
+      "slug": "beate-schlupp",
+      "name": "Beate Schlupp",
+      "name_padoka": "Schlupp, Beate",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68953"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

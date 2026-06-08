@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4303",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Folgen und politische Reaktionen auf die Landwirteproteste in Sachsen",
+  "date": "2025-09-26",
+  "drsNr": "8/4303",
+  "persons": [
+    {
+      "slug": "ulf-gunter-lange",
+      "name": "Ulf Günter Lange",
+      "name_padoka": "Lange, Ulf Günter",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44833",
+    "filename": "Drs_8_4303_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

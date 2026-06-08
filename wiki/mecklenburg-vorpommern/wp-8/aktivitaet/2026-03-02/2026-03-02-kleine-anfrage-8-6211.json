@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6211",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Neue Landesverordnung zum Ersatz eines Landesrahmenvertrages nach § 131 Absatz 1 des Neunten Buches Sozialgesetzbuch für Mecklenburg-Vorpommern",
+  "date": "2026-03-02",
+  "drsNr": "8/6211",
+  "persons": [
+    {
+      "slug": "katy-hoffmeister",
+      "name": "Katy Hoffmeister",
+      "name_padoka": "Hoffmeister, Katy",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70137"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

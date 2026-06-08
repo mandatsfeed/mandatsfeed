@@ -1,0 +1,107 @@
+{
+  "id": "dip-rede-21-20",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zehn Jahre \"Wir schaffen das\"",
+  "date": "2025-09-10",
+  "persons": [
+    {
+      "slug": "siegfried-walch",
+      "name": "Siegfried Walch",
+      "name_padoka": "Walch, Siegfried",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "klaus-mack",
+      "name": "Klaus Mack",
+      "name_padoka": "Mack, Klaus",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "sandra-stein",
+      "name": "Sandra Stein",
+      "name_padoka": "Stein, Sandra",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lars-castellucci",
+      "name": "Lars Castellucci",
+      "name_padoka": "Castellucci, Lars",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "name_padoka": "Hess, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "caroline-bosbach",
+      "name": "Caroline Bosbach",
+      "name_padoka": "Bosbach, Caroline",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "rasha-nasr",
+      "name": "Rasha Nasr",
+      "name_padoka": "Nasr, Rasha",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "lamya-kaddor",
+      "name": "Lamya Kaddor",
+      "name_padoka": "Kaddor, Lamya",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "cornell-anette-babendererde",
+      "name": "Cornell-Anette Babendererde",
+      "name_padoka": "Babendererde, Cornell-Anette",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "gottfried-curio",
+      "name": "Gottfried Curio",
+      "name_padoka": "Curio, Gottfried",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "afd",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "die-linke"
+  ],
+  "drsNr": "21/20",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21020.pdf#P.1984",
+    "filename": "21020.pdf#P.1984"
+  }
+}

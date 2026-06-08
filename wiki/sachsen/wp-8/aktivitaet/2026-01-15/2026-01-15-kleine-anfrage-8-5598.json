@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5598",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Anzahl von Smart Stores im Freistaat Sachsen",
+  "date": "2026-01-15",
+  "drsNr": "8/5598",
+  "persons": [
+    {
+      "slug": "thomas-thumm",
+      "name": "Thomas Thumm",
+      "name_padoka": "Thumm, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47350",
+    "filename": "Drs_8_5598_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

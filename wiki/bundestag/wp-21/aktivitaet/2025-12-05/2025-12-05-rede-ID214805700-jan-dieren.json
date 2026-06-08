@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214805700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Paketzustellerinnen und Paketzusteller wirksam vor Überlastung und Ausbeutung schützen",
+  "date": "2025-12-05",
+  "persons": [
+    {
+      "slug": "jan-dieren",
+      "name": "Jan Dieren",
+      "name_padoka": "Dieren, Jan",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/48",
+    "date": "2025-12-05",
+    "page": 5732
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21048.pdf"
+  }
+}

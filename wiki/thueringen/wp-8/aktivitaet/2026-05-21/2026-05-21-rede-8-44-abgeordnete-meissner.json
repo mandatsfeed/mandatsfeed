@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-44-abgeordnete-meissner",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/44",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "abgeordnete-meissner",
+      "name": "Abgeordnete Meißner",
+      "name_padoka": "Meißner, Abgeordnete",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/44",
+    "date": "2026-05-21"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107252"
+  }
+}

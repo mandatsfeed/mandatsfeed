@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6740",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Abfragen beim Landesamt für Verfassungsschutz im Vorfeld von Preisverleihungen, Fördermittelentscheidungen oder weiteren staatlichen Begünstigungsakten",
+  "date": "2026-04-17",
+  "drsNr": "8/6740",
+  "persons": [
+    {
+      "slug": "valentin-lippmann",
+      "name": "Valentin Lippmann",
+      "name_padoka": "Lippmann, Valentin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49982",
+    "filename": "Drs_8_6740_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

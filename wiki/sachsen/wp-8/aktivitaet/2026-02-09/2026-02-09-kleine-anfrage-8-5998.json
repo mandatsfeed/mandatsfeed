@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5998",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzungsstand der Maßnahmen aus dem Glasfaserbeschluss von 2023 (Drs 7/13476)",
+  "date": "2026-02-09",
+  "drsNr": "8/5998",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48224",
+    "filename": "Drs_8_5998_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

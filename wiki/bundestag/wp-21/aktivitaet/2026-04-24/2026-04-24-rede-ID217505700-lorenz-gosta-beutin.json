@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217505700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Preisexplosion bei den Gasnetzentgelten verhindern – Rückbau und Stilllegung der Gasnetze sofort stoppen — Strompreise für alle Unternehmen in Deutschland senken",
+  "date": "2026-04-24",
+  "persons": [
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/75",
+    "date": "2026-04-24",
+    "page": 9047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21075.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21100200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zur Geschäftsordnung",
+  "date": "2025-03-25",
+  "persons": [
+    {
+      "slug": "thorsten-frei",
+      "name": "Thorsten Frei",
+      "name_padoka": "Frei, Thorsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/1",
+    "date": "2025-03-25",
+    "page": 26
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21001.pdf"
+  }
+}

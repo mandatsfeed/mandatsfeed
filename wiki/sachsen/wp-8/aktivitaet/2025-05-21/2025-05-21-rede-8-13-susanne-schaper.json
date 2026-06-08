@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-13-susanne-schaper",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in 13. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-05-21",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/13",
+    "date": "2025-05-21"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=42076"
+  }
+}

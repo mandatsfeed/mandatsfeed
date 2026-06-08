@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216306700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einsetzung des 1. Untersuchungsausschusses der 21. Wahlperiode („Stuttgart 21“)",
+  "date": "2026-03-06",
+  "persons": [
+    {
+      "slug": "michael-frieser",
+      "name": "Michael Frieser",
+      "name_padoka": "Frieser, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/63",
+    "date": "2026-03-06",
+    "page": 7655
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21063.pdf"
+  }
+}

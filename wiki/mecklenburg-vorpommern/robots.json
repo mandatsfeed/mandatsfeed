@@ -1,0 +1,16 @@
+[
+  {
+    "domain": "www.landtag-mv.de",
+    "baseUrl": "https://www.landtag-mv.de",
+    "updatedAt": "2026-06-07T06:36:00Z",
+    "content": null,
+    "note": "HTTP 404 on /robots.txt — keine robots.txt veröffentlicht. Per RFC 9309 ohne robots.txt ist Crawling per Default erlaubt."
+  },
+  {
+    "domain": "www.dokumentation.landtag-mv.de",
+    "baseUrl": "https://www.dokumentation.landtag-mv.de",
+    "updatedAt": "2026-06-07T15:08:00Z",
+    "content": null,
+    "note": "HTTP 404 on /robots.txt — die Subdomain mit dem Parldok-System („Parlamentsdatenbank") hat ebenfalls keine robots.txt. Per RFC 9309 ist Crawling damit per Default erlaubt. Im Gegensatz zu PADOKA Sachsen-Anhalt also keine Disallow-Hürde, allerdings bleibt §87a UrhG (Datenbankschutz) bei systematischer Entnahme zu beachten — Konsultation mit dem Landtag vor Produktivlauf sinnvoll."
+  }
+]

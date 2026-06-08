@@ -1,0 +1,110 @@
+{
+  "id": "dip-ka-20-14914",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "kleine_anfrage",
+  "title": "Munitions- und Waffendiebstähle bzw. Munitions- und Waffenverluste bei der Bundeswehr seit 2024",
+  "date": "2025-02-07",
+  "persons": [
+    {
+      "slug": "petra-pau",
+      "name": "Petra Pau",
+      "name_padoka": "Pau, Petra",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "soren-pellmann",
+      "name": "Sören Pellmann",
+      "name_padoka": "Pellmann, Sören",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "martina-renner",
+      "name": "Martina Renner",
+      "name_padoka": "Renner, Martina",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "gokay-akbulut",
+      "name": "Gökay Akbulut",
+      "name_padoka": "Akbulut, Gökay",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "petra-sitte",
+      "name": "Petra Sitte",
+      "name_padoka": "Sitte, Petra",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "kathrin-vogler",
+      "name": "Kathrin Vogler",
+      "name_padoka": "Vogler, Kathrin",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "name_padoka": "Latendorf, Ina",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "anke-domscheit-berg",
+      "name": "Anke Domscheit-Berg",
+      "name_padoka": "Domscheit-Berg, Anke",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "nicole-gohlke",
+      "name": "Nicole Gohlke",
+      "name_padoka": "Gohlke, Nicole",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "andre-hahn",
+      "name": "André Hahn",
+      "name_padoka": "Hahn, André",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "jan-korte",
+      "name": "Jan Korte",
+      "name_padoka": "Korte, Jan",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    },
+    {
+      "slug": "cornelia-mohring",
+      "name": "Cornelia Möhring",
+      "name_padoka": "Möhring, Cornelia",
+      "role": "fragesteller",
+      "fraktion": "Die Linke (Gruppe)"
+    }
+  ],
+  "fraktionen": [],
+  "drsNr": "20/14914",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/149/2014914.pdf",
+    "filename": "2014914.pdf"
+  }
+}

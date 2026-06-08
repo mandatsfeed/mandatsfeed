@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215108300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Digital Services Act abschaffen – Keine Einschränkung der Meinungsfreiheit im digitalen Raum durch die EU",
+  "date": "2025-12-19",
+  "persons": [
+    {
+      "slug": "thomas-jarzombek",
+      "name": "Thomas Jarzombek",
+      "name_padoka": "Jarzombek, Thomas",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär beim Bundesminister für Digitales und Staatsmodernisierung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/51",
+    "date": "2025-12-19",
+    "page": 6172
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21051.pdf"
+  }
+}

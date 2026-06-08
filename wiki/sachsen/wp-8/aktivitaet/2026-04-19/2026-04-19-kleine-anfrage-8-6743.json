@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6743",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Folgenabschätzungen bezüglich Kindeswohl und Teilhabe bei vom Freistaat Sachsen unterbreiteten und unterstützten Vorschlägen im Rahmen des Arbeitspapiers \"Effizienter Ressourceneinsatz bei Leistungsgesetzen\"/ Kürzungen in Kinder- Jugendhilfe sowie Eingliederungshilfe",
+  "date": "2026-04-19",
+  "drsNr": "8/6743",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49985",
+    "filename": "Drs_8_6743_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

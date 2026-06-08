@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212500500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 06",
+  "date": "2025-09-18",
+  "persons": [
+    {
+      "slug": "dietmar-bartsch",
+      "name": "Dietmar Bartsch",
+      "name_padoka": "Bartsch, Dietmar",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/25",
+    "date": "2025-09-18",
+    "page": 2682
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21025.pdf"
+  }
+}

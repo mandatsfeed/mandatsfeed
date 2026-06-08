@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21307700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "christian-gorke",
+      "name": "Christian Görke",
+      "name_padoka": "Görke, Christian",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/3",
+    "date": "2025-05-14",
+    "page": 175
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21003.pdf"
+  }
+}

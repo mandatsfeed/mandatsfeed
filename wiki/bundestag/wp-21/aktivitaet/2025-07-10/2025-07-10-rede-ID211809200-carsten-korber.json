@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211809200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 1",
+  "date": "2025-07-10",
+  "persons": [
+    {
+      "slug": "carsten-korber",
+      "name": "Carsten Körber",
+      "name_padoka": "Körber, Carsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/18",
+    "date": "2025-07-10",
+    "page": 1859
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21018.pdf"
+  }
+}

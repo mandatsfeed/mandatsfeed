@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-524",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Zurückweisungen an den deutschen Grenzen infolge der Weisung des Bundesministers des Innern Alexander Dobrindt",
+  "date": "2025-06-19",
+  "persons": [
+    {
+      "slug": "jan-wenzel-schmidt",
+      "name": "Jan Wenzel Schmidt",
+      "name_padoka": "Schmidt, Jan Wenzel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/524",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/005/2100524.pdf",
+    "filename": "2100524.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216904000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Siebter Armuts- und Reichtumsbericht der Bundesregierung – Lebenslagen in Deutschland",
+  "date": "2026-03-27",
+  "persons": [
+    {
+      "slug": "ottilie-klein",
+      "name": "Ottilie Klein",
+      "name_padoka": "Klein, Ottilie",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/69",
+    "date": "2026-03-27",
+    "page": 8419
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21069.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215701700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mobilitätsgarantie einführen – Produktionskapazitäten für die Verkehrswende aufbauen — Gemeindeverkehrsfinanzierungsgesetz novellieren – Kommunen stärken und Ausbau des öffentlichen Personennahverkehrs langfristig absichern",
+  "date": "2026-01-30",
+  "persons": [
+    {
+      "slug": "michael-donth",
+      "name": "Michael Donth",
+      "name_padoka": "Donth, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/57",
+    "date": "2026-01-30",
+    "page": 6913
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21057.pdf"
+  }
+}

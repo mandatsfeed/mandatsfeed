@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212901600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 11",
+  "date": "2025-09-26",
+  "persons": [
+    {
+      "slug": "hulya-duber",
+      "name": "Hülya Düber",
+      "name_padoka": "Düber, Hülya",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/29",
+    "date": "2025-09-26",
+    "page": 3108
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21029.pdf"
+  }
+}

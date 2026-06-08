@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216506900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "zu dem Streitverfahren vor dem Bundesverfassungsgericht 2 BvC 4/26 — Sammelübersicht 184 zu Petitionen",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "daniela-rump",
+      "name": "Daniela Rump",
+      "name_padoka": "Rump, Daniela",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

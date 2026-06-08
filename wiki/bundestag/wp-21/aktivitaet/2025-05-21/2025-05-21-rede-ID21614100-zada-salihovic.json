@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21614100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Jahresbericht 2024 (66. Bericht)",
+  "date": "2025-05-21",
+  "persons": [
+    {
+      "slug": "zada-salihovic",
+      "name": "Zada Salihović",
+      "name_padoka": "Salihović, Zada",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/6",
+    "date": "2025-05-21",
+    "page": 470
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21006.pdf"
+  }
+}

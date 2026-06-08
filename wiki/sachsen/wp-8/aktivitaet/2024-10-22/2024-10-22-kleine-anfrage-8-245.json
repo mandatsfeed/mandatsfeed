@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-245",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Stand der Umsetzung in der Polizeidirektion Leipzig zu den Ergebnissen der Evaluierung in der Sächsischen Polizei und der artikulierten Wertschätzung seitens der Staatsregierung für die Beschäftigten im öffentlichen Dienst",
+  "date": "2024-10-22",
+  "drsNr": "8/245",
+  "persons": [
+    {
+      "slug": "sebastian-wippel",
+      "name": "Sebastian Wippel",
+      "name_padoka": "Wippel, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36422",
+    "filename": "Drs_8_245_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

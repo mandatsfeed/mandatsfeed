@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3632",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Übergriffe auf Mitarbeiter des Rettungsdienstes in Sachsen im ersten Halbjahr 2025 und deren juristische Folgen",
+  "date": "2025-07-23",
+  "drsNr": "8/3632",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43182",
+    "filename": "Drs_8_3632_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

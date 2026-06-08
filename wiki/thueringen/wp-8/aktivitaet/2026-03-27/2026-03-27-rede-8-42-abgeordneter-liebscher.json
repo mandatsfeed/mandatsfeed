@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-42-abgeordneter-liebscher",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in PlPr 8/42",
+  "date": "2026-03-27",
+  "persons": [
+    {
+      "slug": "abgeordneter-liebscher",
+      "name": "Abgeordneter Liebscher",
+      "name_padoka": "Liebscher, Abgeordneter",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/42",
+    "date": "2026-03-27"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106571"
+  }
+}

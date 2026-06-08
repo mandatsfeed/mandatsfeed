@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214502700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.20",
+  "date": "2025-11-28",
+  "persons": [
+    {
+      "slug": "nicole-gohlke",
+      "name": "Nicole Gohlke",
+      "name_padoka": "Gohlke, Nicole",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/45",
+    "date": "2025-11-28",
+    "page": 5276
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21045.pdf"
+  }
+}

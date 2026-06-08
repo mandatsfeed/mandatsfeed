@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216515200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wirtschaft 2045 – GreenTech als Wachstumstreiber nutzen, Technologiesouveränität stärken — Zukunft der europäischen Chemieindustrie sichern – Innovation, Nachhaltigkeit und Resilienz stärken",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "dunja-kreiser",
+      "name": "Dunja Kreiser",
+      "name_padoka": "Kreiser, Dunja",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-2402",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Erfassung antiziganistischer Straftaten in dem Zeitraum vom 1. Januar 2024 bis zum 30. September 2025",
+  "date": "2025-10-27",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/2402",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/024/2102402.pdf",
+    "filename": "2102402.pdf"
+  }
+}

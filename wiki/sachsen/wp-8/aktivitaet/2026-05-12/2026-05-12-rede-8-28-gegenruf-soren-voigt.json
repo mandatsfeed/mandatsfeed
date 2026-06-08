@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-28-gegenruf-soren-voigt",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 28. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-05-12",
+  "persons": [
+    {
+      "slug": "gegenruf-soren-voigt",
+      "name": "Gegenruf Sören Voigt",
+      "name_padoka": "Voigt, Gegenruf Sören",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/28",
+    "date": "2026-05-12"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=50957"
+  }
+}

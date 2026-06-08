@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2705",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Feuerwerksverbotszonen in der Landeshauptstadt Erfurt zum Jahreswechsel 2025/2026",
+  "date": "2026-01-09",
+  "drsNr": "8/2705",
+  "persons": [
+    {
+      "slug": "ringo-muhlmann",
+      "name": "Ringo Mühlmann",
+      "name_padoka": "Mühlmann, Ringo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105341"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4261",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schließung Helios-Klinik Schkeuditz - Konfrontation und Nachfrage zu Drs. 8/2863",
+  "date": "2025-09-23",
+  "drsNr": "8/4261",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44742",
+    "filename": "Drs_8_4261_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

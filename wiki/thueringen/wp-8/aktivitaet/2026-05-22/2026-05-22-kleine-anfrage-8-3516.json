@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3516",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen unbesetzter Planerstellen auf Infrastrukturmaßnahmen in Thüringen",
+  "date": "2026-05-22",
+  "drsNr": "8/3516",
+  "persons": [
+    {
+      "slug": "marcel-kramer",
+      "name": "Marcel Kramer",
+      "name_padoka": "Kramer, Marcel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107271"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

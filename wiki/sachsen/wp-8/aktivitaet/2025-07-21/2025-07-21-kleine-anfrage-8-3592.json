@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3592",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Betreuung von Kindern und Jugendlichen in Einrichtungen der stationären Kinder- und Jugendhilfe in Sachsen",
+  "date": "2025-07-21",
+  "drsNr": "8/3592",
+  "persons": [
+    {
+      "slug": "juliane-nagel-die-linke-susanne-schaper",
+      "name": "Juliane Nagel Die Linke, Susanne Schaper",
+      "name_padoka": "Schaper, Juliane Nagel Die Linke, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43121",
+    "filename": "Drs_8_3592_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

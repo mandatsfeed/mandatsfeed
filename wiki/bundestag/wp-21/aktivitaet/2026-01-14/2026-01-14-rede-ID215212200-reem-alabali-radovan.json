@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215212200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-01-14",
+  "persons": [
+    {
+      "slug": "reem-alabali-radovan",
+      "name": "Reem Alabali Radovan",
+      "name_padoka": "Alabali Radovan, Reem",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/52",
+    "date": "2026-01-14",
+    "page": 6266
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21052.pdf"
+  }
+}

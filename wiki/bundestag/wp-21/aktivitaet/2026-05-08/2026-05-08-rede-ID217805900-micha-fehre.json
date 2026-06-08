@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217805900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "zu den Verhandlungen zum Mehrjährigen Finanzrahmen der Europäischen Union für die Jahre 2028 bis 2034 — hier: Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes",
+  "date": "2026-05-08",
+  "persons": [
+    {
+      "slug": "micha-fehre",
+      "name": "Micha Fehre",
+      "name_padoka": "Fehre, Micha",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/78",
+    "date": "2026-05-08",
+    "page": 9394
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21078.pdf"
+  }
+}

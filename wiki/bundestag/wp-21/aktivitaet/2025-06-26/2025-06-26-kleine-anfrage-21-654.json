@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-654",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Kontrolle von Getreideimporten auf genetisch veränderte Organismen",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "bernd-schuhmann",
+      "name": "Bernd Schuhmann",
+      "name_padoka": "Schuhmann, Bernd",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/654",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/006/2100654.pdf",
+    "filename": "2100654.pdf"
+  }
+}

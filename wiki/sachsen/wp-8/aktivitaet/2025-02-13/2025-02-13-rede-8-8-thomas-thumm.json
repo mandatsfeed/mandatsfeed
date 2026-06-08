@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-8-thomas-thumm",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "11 Redebeiträge in 8. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-02-13",
+  "persons": [
+    {
+      "slug": "thomas-thumm",
+      "name": "Thomas Thumm",
+      "name_padoka": "Thumm, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/8",
+    "date": "2025-02-13"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=39594"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215104800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Syrien ein Jahr nach Sturz des Assad-Regimes – Gerechtigkeit einfordern, Wiederaufbau unterstützen, Demokratie und Menschenrechte in den Fokus rücken — Für ein friedliches Syrien – Keine Zusammenarbeit mit islamistischen Akteuren – Humanitäre Hilfe ausbauen und demokratische Selbstverwaltungsstrukturen anerkennen",
+  "date": "2025-12-19",
+  "persons": [
+    {
+      "slug": "gabriela-heinrich",
+      "name": "Gabriela Heinrich",
+      "name_padoka": "Heinrich, Gabriela",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/51",
+    "date": "2025-12-19",
+    "page": 6172
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21051.pdf"
+  }
+}

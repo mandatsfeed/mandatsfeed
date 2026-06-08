@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-14-abgeordneter-liebscher",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/14",
+  "date": "2025-04-03",
+  "persons": [
+    {
+      "slug": "abgeordneter-liebscher",
+      "name": "Abgeordneter Liebscher",
+      "name_padoka": "Liebscher, Abgeordneter",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/14",
+    "date": "2025-04-03"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/101281"
+  }
+}

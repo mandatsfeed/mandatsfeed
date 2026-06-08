@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216300900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kindergesundheit stärken – Versorgung umfassend verbessern und nachhaltig finanzieren — Vorhaltungen der Krankenhäuser verlässlich finanzieren – Ausgliederung sämtlicher Personalkosten aus den Fallpauschalen",
+  "date": "2026-03-06",
+  "persons": [
+    {
+      "slug": "ates-gurpinar",
+      "name": "Ates Gürpinar",
+      "name_padoka": "Gürpinar, Ates",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/63",
+    "date": "2026-03-06",
+    "page": 7655
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21063.pdf"
+  }
+}

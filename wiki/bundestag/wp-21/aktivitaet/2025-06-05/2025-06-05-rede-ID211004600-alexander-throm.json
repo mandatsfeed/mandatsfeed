@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211004600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Europarecht einhalten, Schutzbedürftige schützen, Zurückweisungen an den Binnengrenzen beenden — Zurückweisung von Schutzsuchenden beenden",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "alexander-throm",
+      "name": "Alexander Throm",
+      "name_padoka": "Throm, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

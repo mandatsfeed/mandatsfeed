@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6103",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einsatz von Sicherheits- und Wachpersonal in Einrichtungen der stationären Kinder- und Jugendhilfe in Sachsen",
+  "date": "2026-02-20",
+  "drsNr": "8/6103",
+  "persons": [
+    {
+      "slug": "christin-melcher",
+      "name": "Christin Melcher",
+      "name_padoka": "Melcher, Christin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48468",
+    "filename": "Drs_8_6103_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

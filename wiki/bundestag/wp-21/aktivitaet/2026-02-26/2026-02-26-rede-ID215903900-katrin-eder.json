@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215903900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 7",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "katrin-eder",
+      "name": "Katrin Eder",
+      "name_padoka": "Eder, Katrin",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsministerin (Rheinland-Pfalz)"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

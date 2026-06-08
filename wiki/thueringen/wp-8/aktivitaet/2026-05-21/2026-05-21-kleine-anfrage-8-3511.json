@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3511",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Waffen-, Sprengstoff- und Waffenscheinerlaubnisse bei Personen aus dem vom Amt für Verfassungsschutz entsprechend eingestuften AfD-Landesverband Thüringen",
+  "date": "2026-05-21",
+  "drsNr": "8/3511",
+  "persons": [
+    {
+      "slug": "katharina-konig-preuss",
+      "name": "Katharina König-Preuss",
+      "name_padoka": "König-Preuss, Katharina",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107363"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

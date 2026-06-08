@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215108500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Digital Services Act abschaffen – Keine Einschränkung der Meinungsfreiheit im digitalen Raum durch die EU",
+  "date": "2025-12-19",
+  "persons": [
+    {
+      "slug": "johannes-schatzl",
+      "name": "Johannes Schätzl",
+      "name_padoka": "Schätzl, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/51",
+    "date": "2025-12-19",
+    "page": 6172
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21051.pdf"
+  }
+}

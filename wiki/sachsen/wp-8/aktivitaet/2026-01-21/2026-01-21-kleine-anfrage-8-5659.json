@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5659",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Finanzausgleichsumlage gemäß § 25a Finanzausgleichsgesetz (SächsFAG) - 2026",
+  "date": "2026-01-21",
+  "drsNr": "8/5659",
+  "persons": [
+    {
+      "slug": "andre-barth",
+      "name": "André Barth",
+      "name_padoka": "Barth, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47460",
+    "filename": "Drs_8_5659_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

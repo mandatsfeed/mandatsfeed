@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213300100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zur Geschäftsordnung",
+  "date": "2025-10-15",
+  "persons": [
+    {
+      "slug": "catarina-dos-santos-wintz",
+      "name": "Catarina dos Santos-Wintz",
+      "name_padoka": "dos Santos-Wintz, Catarina",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/33",
+    "date": "2025-10-15",
+    "page": 3628
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21033.pdf"
+  }
+}

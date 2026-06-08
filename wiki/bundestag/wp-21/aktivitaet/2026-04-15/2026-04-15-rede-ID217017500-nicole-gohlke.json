@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217017500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wissenschafts- und Meinungsfreiheit an deutschen Universitäten und Hochschulen wirksam schützen – Offenen Diskurs sowie freie Forschung und Lehre sichern",
+  "date": "2026-04-15",
+  "persons": [
+    {
+      "slug": "nicole-gohlke",
+      "name": "Nicole Gohlke",
+      "name_padoka": "Gohlke, Nicole",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/70",
+    "date": "2026-04-15",
+    "page": 8515
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21070.pdf"
+  }
+}

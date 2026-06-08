@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-75",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur Drs. 7/16856 - Lehrermangel und Unterrichtsausfall am Bertolt-Brecht-Gymnasium Schwarzenberg",
+  "date": "2024-10-07",
+  "drsNr": "8/75",
+  "persons": [
+    {
+      "slug": "thomas-thumm",
+      "name": "Thomas Thumm",
+      "name_padoka": "Thumm, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36228",
+    "filename": "Drs_8_75_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

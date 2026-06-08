@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217112800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Berufsfreiheit für Selbstständige sicherstellen – Abgrenzung zu abhängiger Beschäftigung rechtssicher machen",
+  "date": "2026-04-16",
+  "persons": [
+    {
+      "slug": "angelika-glockner",
+      "name": "Angelika Glöckner",
+      "name_padoka": "Glöckner, Angelika",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/71",
+    "date": "2026-04-16",
+    "page": 8645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21071.pdf"
+  }
+}

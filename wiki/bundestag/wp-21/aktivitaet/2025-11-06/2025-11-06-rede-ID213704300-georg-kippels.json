@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID213704300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Priorität für Pflege – Jetzt Sofortmaßnahmen ergreifen — Leistungskürzungen und Beitragsexplosion in Gesundheit und Pflege verhindern – Jetzt gerechte Finanzierung einführen",
+  "date": "2025-11-06",
+  "persons": [
+    {
+      "slug": "georg-kippels",
+      "name": "Georg Kippels",
+      "name_padoka": "Kippels, Georg",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Parl. Staatssekretär bei der Bundesministerin für Gesundheit"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/37",
+    "date": "2025-11-06",
+    "page": 4261
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21037.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3661",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verkehrsunfälle mit Straßenbahnen in Sachsen",
+  "date": "2025-07-28",
+  "drsNr": "8/3661",
+  "persons": [
+    {
+      "slug": "tobias-keller",
+      "name": "Tobias Keller",
+      "name_padoka": "Keller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43240",
+    "filename": "Drs_8_3661_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

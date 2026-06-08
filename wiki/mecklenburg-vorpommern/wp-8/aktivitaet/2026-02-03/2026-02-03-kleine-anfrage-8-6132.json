@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6132",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nutzung der Förderung aus dem Europäischen Fonds für Regionale Entwicklung in der Gesundheits- und Pflegewirtschaft in Mecklenburg-Vorpommern",
+  "date": "2026-02-03",
+  "drsNr": "8/6132",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69376"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

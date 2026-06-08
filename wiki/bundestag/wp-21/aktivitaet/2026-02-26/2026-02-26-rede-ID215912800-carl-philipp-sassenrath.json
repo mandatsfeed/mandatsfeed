@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215912800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einschüchterungsklagen stoppen – Demokratie und Pressefreiheit schützen",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "carl-philipp-sassenrath",
+      "name": "Carl-Philipp Sassenrath",
+      "name_padoka": "Sassenrath, Carl-Philipp",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/59",
+    "date": "2026-02-26",
+    "page": 7215
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf"
+  }
+}

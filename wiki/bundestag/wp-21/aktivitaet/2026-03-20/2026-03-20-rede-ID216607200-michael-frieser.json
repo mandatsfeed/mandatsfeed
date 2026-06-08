@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216607200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — auf Verlangen der Fraktion Die Linke",
+  "date": "2026-03-20",
+  "persons": [
+    {
+      "slug": "michael-frieser",
+      "name": "Michael Frieser",
+      "name_padoka": "Frieser, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/66",
+    "date": "2026-03-20",
+    "page": 8028
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21066.pdf"
+  }
+}

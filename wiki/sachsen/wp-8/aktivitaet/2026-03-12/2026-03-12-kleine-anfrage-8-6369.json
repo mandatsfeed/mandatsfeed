@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6369",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schieneninfrastruktur im Dreiländereck Sachsen, Polen und Tschechien im Strukturwandel",
+  "date": "2026-03-12",
+  "drsNr": "8/6369",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48995",
+    "filename": "Drs_8_6369_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

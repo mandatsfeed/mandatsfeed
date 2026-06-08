@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21314100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "reem-alabali-radovan",
+      "name": "Reem Alabali-Radovan",
+      "name_padoka": "Alabali-Radovan, Reem",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/3",
+    "date": "2025-05-14",
+    "page": 175
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21003.pdf"
+  }
+}

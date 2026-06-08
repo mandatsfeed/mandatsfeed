@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2021006600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Abschluss der Beweisaufnahme im 1. Untersuchungsausschuss",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "ann-veruschka-jurisch",
+      "name": "Ann-Veruschka Jurisch",
+      "name_padoka": "Jurisch, Ann-Veruschka",
+      "role": "redner",
+      "fraktion": "FDP",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

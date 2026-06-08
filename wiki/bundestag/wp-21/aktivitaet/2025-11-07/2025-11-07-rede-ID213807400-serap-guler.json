@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213807400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+  "date": "2025-11-07",
+  "persons": [
+    {
+      "slug": "serap-guler",
+      "name": "Serap Güler",
+      "name_padoka": "Güler, Serap",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsministerin beim Bundesminister des Auswärtigen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/38",
+    "date": "2025-11-07",
+    "page": 4369
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21038.pdf"
+  }
+}

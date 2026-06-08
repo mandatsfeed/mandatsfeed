@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214617400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Organisierten Betrug im Einbürgerungsverfahren verhindern – Das Verfahren betrugssicher neu konzipieren sowie bestehende Betrugsfälle aufdecken und darauf beruhende begünstigende Verwaltungsakte revidieren",
+  "date": "2025-12-03",
+  "persons": [
+    {
+      "slug": "cornell-anette-babendererde",
+      "name": "Cornell-Anette Babendererde",
+      "name_padoka": "Babendererde, Cornell-Anette",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/46",
+    "date": "2025-12-03",
+    "page": 5398
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21046.pdf"
+  }
+}

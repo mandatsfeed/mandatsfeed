@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-422",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Behauptung eines angeblichen Angriffs auf die Kunstfreiheit durch die AfD-Fraktion im Sächsischen Landtag - Nachfrage zu Drs. 8/49",
+  "date": "2024-11-13",
+  "drsNr": "8/422",
+  "persons": [
+    {
+      "slug": "hans-jurgen-zickler",
+      "name": "Hans-Jürgen Zickler",
+      "name_padoka": "Zickler, Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36853",
+    "filename": "Drs_8_422_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

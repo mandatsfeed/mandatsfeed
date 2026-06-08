@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217613000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — auf Verlangen der Fraktion der AfD",
+  "date": "2026-05-06",
+  "persons": [
+    {
+      "slug": "mahmut-ozdemir",
+      "name": "Mahmut Özdemir",
+      "name_padoka": "Özdemir, Mahmut",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/76",
+    "date": "2026-05-06",
+    "page": 9151
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21076.pdf"
+  }
+}

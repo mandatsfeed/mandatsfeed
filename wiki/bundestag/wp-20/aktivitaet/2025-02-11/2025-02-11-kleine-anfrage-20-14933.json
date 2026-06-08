@@ -1,0 +1,231 @@
+{
+  "id": "dip-ka-20-14933",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage Lücken im Bundeshaushalt",
+  "date": "2025-02-11",
+  "persons": [
+    {
+      "slug": "manfred-todtenhausen",
+      "name": "Manfred Todtenhausen",
+      "name_padoka": "Todtenhausen, Manfred",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "katharina-willkomm",
+      "name": "Katharina Willkomm",
+      "name_padoka": "Willkomm, Katharina",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "jens-brandenburg-rhein-neckar",
+      "name": "Jens Brandenburg (Rhein-Neckar)",
+      "name_padoka": "(Rhein-Neckar), Jens Brandenburg",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "renata-alt",
+      "name": "Renata Alt",
+      "name_padoka": "Alt, Renata",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "markus-herbrand",
+      "name": "Markus Herbrand",
+      "name_padoka": "Herbrand, Markus",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "torsten-herbst",
+      "name": "Torsten Herbst",
+      "name_padoka": "Herbst, Torsten",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "otto-fricke",
+      "name": "Otto Fricke",
+      "name_padoka": "Fricke, Otto",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "jens-teutrine",
+      "name": "Jens Teutrine",
+      "name_padoka": "Teutrine, Jens",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "andrew-ullmann",
+      "name": "Andrew Ullmann",
+      "name_padoka": "Ullmann, Andrew",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "mario-brandenburg-sudpfalz",
+      "name": "Mario Brandenburg (Südpfalz)",
+      "name_padoka": "(Südpfalz), Mario Brandenburg",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "philipp-hartewig",
+      "name": "Philipp Hartewig",
+      "name_padoka": "Hartewig, Philipp",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "katja-hessel",
+      "name": "Katja Hessel",
+      "name_padoka": "Hessel, Katja",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "peter-heidt",
+      "name": "Peter Heidt",
+      "name_padoka": "Heidt, Peter",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "claudia-raffelhuschen",
+      "name": "Claudia Raffelhüschen",
+      "name_padoka": "Raffelhüschen, Claudia",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "michael-georg-link-heilbronn",
+      "name": "Michael Georg Link (Heilbronn)",
+      "name_padoka": "(Heilbronn), Michael Georg Link",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "frank-schaffler",
+      "name": "Frank Schäffler",
+      "name_padoka": "Schäffler, Frank",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "marcus-faber",
+      "name": "Marcus Faber",
+      "name_padoka": "Faber, Marcus",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "christoph-meyer",
+      "name": "Christoph Meyer",
+      "name_padoka": "Meyer, Christoph",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "thorsten-lieb",
+      "name": "Thorsten Lieb",
+      "name_padoka": "Lieb, Thorsten",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "julian-grunke",
+      "name": "Julian Grünke",
+      "name_padoka": "Grünke, Julian",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "bettina-stark-watzinger",
+      "name": "Bettina Stark-Watzinger",
+      "name_padoka": "Stark-Watzinger, Bettina",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "nicole-westig",
+      "name": "Nicole Westig",
+      "name_padoka": "Westig, Nicole",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "anja-schulz",
+      "name": "Anja Schulz",
+      "name_padoka": "Schulz, Anja",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "pascal-kober",
+      "name": "Pascal Kober",
+      "name_padoka": "Kober, Pascal",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "nicole-bauer",
+      "name": "Nicole Bauer",
+      "name_padoka": "Bauer, Nicole",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "stephan-seiter",
+      "name": "Stephan Seiter",
+      "name_padoka": "Seiter, Stephan",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "kristine-lutke",
+      "name": "Kristine Lütke",
+      "name_padoka": "Lütke, Kristine",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "karsten-klein",
+      "name": "Karsten Klein",
+      "name_padoka": "Klein, Karsten",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "thomas-hacker",
+      "name": "Thomas Hacker",
+      "name_padoka": "Hacker, Thomas",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "jens-beeck",
+      "name": "Jens Beeck",
+      "name_padoka": "Beeck, Jens",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "drsNr": "20/14933",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/149/2014933.pdf",
+    "filename": "2014933.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215310900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Entlastung der Landwirtschaft durch Bürokratieabbau und Deregulierung — Düngeverordnung reformieren – Bedarfsgerechte Düngung nach guter fachlicher Praxis wieder ermöglichen",
+  "date": "2026-01-15",
+  "persons": [
+    {
+      "slug": "artur-auernhammer",
+      "name": "Artur Auernhammer",
+      "name_padoka": "Auernhammer, Artur",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/53",
+    "date": "2026-01-15",
+    "page": 6420
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21053.pdf"
+  }
+}

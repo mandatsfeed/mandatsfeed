@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2701",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Sicherheit auf den Schulwegen in Thüringen",
+  "date": "2026-01-07",
+  "drsNr": "8/2701",
+  "persons": [
+    {
+      "slug": "marcel-kramer",
+      "name": "Marcel Kramer",
+      "name_padoka": "Kramer, Marcel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105256"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

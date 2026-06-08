@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6093",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ertüchtigung eines Löschwasserteiches in der Nähe des Grundstückes Döbelner Straße 42 in Mügeln zur Begegnung der Gefahr \"einer in Aussicht stehenden Katastrophe\"",
+  "date": "2026-02-18",
+  "drsNr": "8/6093",
+  "persons": [
+    {
+      "slug": "tobias-heller",
+      "name": "Tobias Heller",
+      "name_padoka": "Heller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48455",
+    "filename": "Drs_8_6093_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

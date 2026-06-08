@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211412900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Programm für Deutschland – Ein neuer Weg für die Ertragsteuern – Grundlegende Steuerreform zur Entlastung von Familien, Mittelstand und Unternehmen — Familien entlasten – Das Ehegattensplitting zu einer umfassenden Familienförderung umbauen",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "jorn-konig",
+      "name": "Jörn König",
+      "name_padoka": "König, Jörn",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/14",
+    "date": "2025-06-26",
+    "page": 1330
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf"
+  }
+}

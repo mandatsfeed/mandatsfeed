@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217316400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einfluss von Milliardären weltweit zurückdrängen – Globale Gerechtigkeit durch mehr Umverteilung und Entwicklungszusammenarbeit voranbringen",
+  "date": "2026-04-22",
+  "persons": [
+    {
+      "slug": "carl-philipp-sassenrath",
+      "name": "Carl-Philipp Sassenrath",
+      "name_padoka": "Sassenrath, Carl-Philipp",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/73",
+    "date": "2026-04-22",
+    "page": 8809
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21073.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-351",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Geförderte Vorhaben Förderrichtlinie des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr zur Förderung der wirtschaftsnahen Infrastruktur (RL GRW Infra)",
+  "date": "2024-11-05",
+  "drsNr": "8/351",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36688",
+    "filename": "Drs_8_351_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

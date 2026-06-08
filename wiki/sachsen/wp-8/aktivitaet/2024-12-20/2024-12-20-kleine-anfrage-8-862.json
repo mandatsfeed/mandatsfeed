@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-862",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "\"Systemsprenger\" - Kinder und Jugendliche mit hochkomplexen Problem- und Bedarfslagen, welche die Kinder- und Jugendhilfe, die Kinder- und Jugendpsychiatrie sowie die Jugendgerichtsbarkeit\nüberlasten.",
+  "date": "2024-12-20",
+  "drsNr": "8/862",
+  "persons": [
+    {
+      "slug": "doreen-voigt",
+      "name": "Doreen Voigt",
+      "name_padoka": "Voigt, Doreen",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37671",
+    "filename": "Drs_8_862_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

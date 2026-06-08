@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218100500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 6",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "doris-achelwilm",
+      "name": "Doris Achelwilm",
+      "name_padoka": "Achelwilm, Doris",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/81",
+    "date": "2026-05-22",
+    "page": 9804
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21081.pdf"
+  }
+}

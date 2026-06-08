@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3175",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verwendung der Mittel aus dem Sondervermögen des Bundes",
+  "date": "2026-03-25",
+  "drsNr": "8/3175",
+  "persons": [
+    {
+      "slug": "sascha-bilay",
+      "name": "Sascha Bilay",
+      "name_padoka": "Bilay, Sascha",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106503"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

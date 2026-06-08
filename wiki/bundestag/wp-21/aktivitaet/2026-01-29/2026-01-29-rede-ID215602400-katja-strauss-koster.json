@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215602400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Clankriminalität entschieden bekämpfen – Bürger und Rechtsstaat schützen",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "katja-strauss-koster",
+      "name": "Katja Strauss-Köster",
+      "name_padoka": "Strauss-Köster, Katja",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/56",
+    "date": "2026-01-29",
+    "page": 6806
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21056.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-26-henning-homann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in \"Die Scham muss die Seite wechseln\": Opfer unterstützen. Täter bestrafen. Schutz vor häuslicher und sexualisierter Gewalt sachsenweit stärken",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "henning-homann",
+      "name": "Henning Homann",
+      "name_padoka": "Homann, Henning",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/26",
+    "date": "2026-03-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=49800"
+  }
+}

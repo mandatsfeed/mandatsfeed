@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213015000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gerechtigkeitslücken im Steuersystem schließen –Ausnahmen bei Erbschaft- und Immobilienbesteuerung abbauen und organisierte Steuerhinterziehung wie Cum/Cum bekämpfen — Steuerprivilegien für höchste Erbschaften streichen",
+  "date": "2025-10-08",
+  "persons": [
+    {
+      "slug": "olav-gutting",
+      "name": "Olav Gutting",
+      "name_padoka": "Gutting, Olav",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/30",
+    "date": "2025-10-08",
+    "page": 3212
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21030.pdf"
+  }
+}

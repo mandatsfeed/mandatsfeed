@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6133",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bauliche Mängel, Sperrungen und Auswirkungen auf den Betrieb von Hochschulen in Sachsen",
+  "date": "2026-02-24",
+  "drsNr": "8/6133",
+  "persons": [
+    {
+      "slug": "holger-hentschel-afd-martina-jost",
+      "name": "Holger Hentschel AfD, Martina Jost",
+      "name_padoka": "Jost, Holger Hentschel AfD, Martina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48524",
+    "filename": "Drs_8_6133_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

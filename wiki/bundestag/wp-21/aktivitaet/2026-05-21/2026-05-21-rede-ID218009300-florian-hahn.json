@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218009300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL)",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "florian-hahn",
+      "name": "Florian Hahn",
+      "name_padoka": "Hahn, Florian",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsminister beim Bundesminister des Auswärtigen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

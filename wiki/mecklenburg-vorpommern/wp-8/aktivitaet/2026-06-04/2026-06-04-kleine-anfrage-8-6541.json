@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6541",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "„Katapult-Wälder“ in Mecklenburg-Vorpommern – Kooperationen der Landesforst Mecklenburg-Vorpommern und des Landesverbandes Sozialpsychiatrie Mecklenburg-Vorpommern e. V. mit Katapult",
+  "date": "2026-06-04",
+  "drsNr": "8/6541",
+  "persons": [
+    {
+      "slug": "thore-stein",
+      "name": "Thore Stein",
+      "name_padoka": "Stein, Thore",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71262"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

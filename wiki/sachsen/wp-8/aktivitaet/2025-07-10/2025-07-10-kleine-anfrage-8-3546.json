@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3546",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schäden und die Regulierung nach dem Waldbrand in der Gohrischheide",
+  "date": "2025-07-10",
+  "drsNr": "8/3546",
+  "persons": [
+    {
+      "slug": "lars-kuppi",
+      "name": "Lars Kuppi",
+      "name_padoka": "Kuppi, Lars",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43024",
+    "filename": "Drs_8_3546_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

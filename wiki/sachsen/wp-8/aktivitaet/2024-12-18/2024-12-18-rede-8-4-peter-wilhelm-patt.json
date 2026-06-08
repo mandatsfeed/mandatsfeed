@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-4-peter-wilhelm-patt",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in 4. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-12-18",
+  "persons": [
+    {
+      "slug": "peter-wilhelm-patt",
+      "name": "Peter Wilhelm Patt",
+      "name_padoka": "Patt, Peter Wilhelm",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/4",
+    "date": "2024-12-18"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=38098"
+  }
+}

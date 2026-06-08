@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21504800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+  "date": "2025-05-16",
+  "persons": [
+    {
+      "slug": "katherina-reiche",
+      "name": "Katherina Reiche",
+      "name_padoka": "Reiche, Katherina",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Wirtschaft und Energie"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/5",
+    "date": "2025-05-16",
+    "page": 377
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21005.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212705300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 14",
+  "date": "2025-09-24",
+  "persons": [
+    {
+      "slug": "jan-ralf-nolte",
+      "name": "Jan Ralf Nolte",
+      "name_padoka": "Nolte, Jan Ralf",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/27",
+    "date": "2025-09-24",
+    "page": 2909
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21027.pdf"
+  }
+}

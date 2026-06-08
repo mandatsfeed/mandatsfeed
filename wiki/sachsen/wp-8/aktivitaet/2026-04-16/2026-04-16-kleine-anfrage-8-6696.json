@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6696",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Strafverfahren im Bereich der Jugendhilfe im Landkreis Bautzen für das Jahr 2025",
+  "date": "2026-04-16",
+  "drsNr": "8/6696",
+  "persons": [
+    {
+      "slug": "timo-schreyer",
+      "name": "Timo Schreyer",
+      "name_padoka": "Schreyer, Timo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49906",
+    "filename": "Drs_8_6696_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

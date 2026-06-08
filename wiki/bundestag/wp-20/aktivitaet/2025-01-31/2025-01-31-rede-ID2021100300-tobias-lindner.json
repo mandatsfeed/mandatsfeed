@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID2021100300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Keine Blockade parlamentarischer Mehrheitsfindung über Ukraine-Hilfen",
+  "date": "2025-01-31",
+  "persons": [
+    {
+      "slug": "tobias-lindner",
+      "name": "Tobias Lindner",
+      "name_padoka": "Lindner, Tobias",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Staatsminister im Auswärtigen Amt"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/211",
+    "date": "2025-01-31",
+    "page": 27629
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20211.pdf"
+  }
+}

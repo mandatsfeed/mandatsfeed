@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217204600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die russische Schattenflotte entschlossen bekämpfen",
+  "date": "2026-04-17",
+  "persons": [
+    {
+      "slug": "anna-rathert",
+      "name": "Anna Rathert",
+      "name_padoka": "Rathert, Anna",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/72",
+    "date": "2026-04-17",
+    "page": 8705
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21072.pdf"
+  }
+}

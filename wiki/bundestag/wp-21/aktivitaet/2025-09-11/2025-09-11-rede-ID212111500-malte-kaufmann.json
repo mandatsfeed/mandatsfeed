@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212111500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag aufheben – Rechtsklarheit und Schutz vulnerabler Gruppen wie Frauen und Jugendlicher wiederherstellen",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/21",
+    "date": "2025-09-11",
+    "page": 2179
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21021.pdf"
+  }
+}

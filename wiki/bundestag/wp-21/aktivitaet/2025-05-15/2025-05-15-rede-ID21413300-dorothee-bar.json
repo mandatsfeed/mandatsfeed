@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21413300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+  "date": "2025-05-15",
+  "persons": [
+    {
+      "slug": "dorothee-bar",
+      "name": "Dorothee Bär",
+      "name_padoka": "Bär, Dorothee",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Forschung, Technologie und Raumfahrt"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/4",
+    "date": "2025-05-15",
+    "page": 313
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21004.pdf"
+  }
+}

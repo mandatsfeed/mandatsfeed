@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4489",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vergabe von Forstdienstleistungen durch den Staatsbetrieb Sachsenforst (SBS)",
+  "date": "2025-10-20",
+  "drsNr": "8/4489",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45192",
+    "filename": "Drs_8_4489_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

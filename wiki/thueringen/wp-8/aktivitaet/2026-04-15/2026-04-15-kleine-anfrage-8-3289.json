@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3289",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Übernahme des Tarifabschlusses für den öffentlichen Dienst der Länder für die aktiven Beamten und die Versorgungsempfänger in Thüringen",
+  "date": "2026-04-15",
+  "drsNr": "8/3289",
+  "persons": [
+    {
+      "slug": "sven-kuntzel",
+      "name": "Sven Küntzel",
+      "name_padoka": "Küntzel, Sven",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106713"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-561",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Präventive Korruptionsbekämpfung im Sächsischen Landesamt für Umwelt, Landwirtschaft und Geologie",
+  "date": "2024-11-28",
+  "drsNr": "8/561",
+  "persons": [
+    {
+      "slug": "andre-barth",
+      "name": "André Barth",
+      "name_padoka": "Barth, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37147",
+    "filename": "Drs_8_561_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

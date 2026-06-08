@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5159",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Finanzierung und Sicherung der Arbeit des psycho-onkologischen Beratungszentrums \"Haus Leben\"",
+  "date": "2025-12-19",
+  "drsNr": "8/5159",
+  "persons": [
+    {
+      "slug": "thomas-loser",
+      "name": "Thomas Löser",
+      "name_padoka": "Löser, Thomas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46706",
+    "filename": "Drs_8_5159_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

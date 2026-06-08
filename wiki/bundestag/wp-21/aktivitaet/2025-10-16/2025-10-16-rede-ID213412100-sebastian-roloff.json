@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213412100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deindustrialisierung stoppen – Verbrenner-Verbot aufheben",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "sebastian-roloff",
+      "name": "Sebastian Roloff",
+      "name_padoka": "Roloff, Sebastian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

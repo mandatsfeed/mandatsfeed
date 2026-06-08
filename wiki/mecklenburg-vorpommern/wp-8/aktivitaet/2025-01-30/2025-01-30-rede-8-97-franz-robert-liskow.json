@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-97-franz-robert-liskow",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/97",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "franz-robert-liskow",
+      "name": "Franz-Robert Liskow",
+      "name_padoka": "Liskow, Franz-Robert",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/97",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/63760"
+  }
+}

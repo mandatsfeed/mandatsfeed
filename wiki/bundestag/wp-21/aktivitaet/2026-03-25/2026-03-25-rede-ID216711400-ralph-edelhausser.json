@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216711400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Unterhaltsvorschuss reformieren – Chancen für Kinder Alleinerziehender verbessern",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "ralph-edelhausser",
+      "name": "Ralph Edelhäußer",
+      "name_padoka": "Edelhäußer, Ralph",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/67",
+    "date": "2026-03-25",
+    "page": 8125
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21067.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7149",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zu Drs. 8/6864; Meldungen zu Arzneimittelrisiken und Qualitätsunterschieden (Chargen) bei Corona-Impfstoffen",
+  "date": "2026-06-01",
+  "drsNr": "8/7149",
+  "persons": [
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51078",
+    "filename": "Drs_8_7149_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

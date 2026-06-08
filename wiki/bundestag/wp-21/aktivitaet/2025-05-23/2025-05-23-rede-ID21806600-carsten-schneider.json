@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21806600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Dürre in Deutschland – Bedrohung für Mensch, Wirtschaft und Natur nicht aussitzen, Klimaschutz konsequent umsetzen",
+  "date": "2025-05-23",
+  "persons": [
+    {
+      "slug": "carsten-schneider",
+      "name": "Carsten Schneider",
+      "name_padoka": "Schneider, Carsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/8",
+    "date": "2025-05-23",
+    "page": 653
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21008.pdf"
+  }
+}

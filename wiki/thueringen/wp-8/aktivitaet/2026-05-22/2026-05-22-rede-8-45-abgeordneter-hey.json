@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-45-abgeordneter-hey",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/45",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "abgeordneter-hey",
+      "name": "Abgeordneter Hey",
+      "name_padoka": "Hey, Abgeordneter",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/45",
+    "date": "2026-05-22"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107282"
+  }
+}

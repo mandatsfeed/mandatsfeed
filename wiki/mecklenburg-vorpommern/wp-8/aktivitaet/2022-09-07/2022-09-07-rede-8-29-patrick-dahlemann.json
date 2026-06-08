@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-29-patrick-dahlemann",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/29",
+  "date": "2022-09-07",
+  "persons": [
+    {
+      "slug": "patrick-dahlemann",
+      "name": "Patrick Dahlemann",
+      "name_padoka": "Dahlemann, Patrick",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/29",
+    "date": "2022-09-07"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/54609"
+  }
+}

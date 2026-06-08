@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4111",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Berufliche Ausbildung von Insassen der JVA Leipzig mit Krankenhaus",
+  "date": "2025-09-10",
+  "drsNr": "8/4111",
+  "persons": [
+    {
+      "slug": "holger-hentschel",
+      "name": "Holger Hentschel",
+      "name_padoka": "Hentschel, Holger",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44395",
+    "filename": "Drs_8_4111_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

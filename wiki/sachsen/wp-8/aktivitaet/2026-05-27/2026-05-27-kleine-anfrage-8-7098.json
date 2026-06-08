@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7098",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Plattformbezogene Bevorzugung \"verlässlicher\" Medien durch Medienanstalten und deren etwaige Auswirkungen in Sachsen",
+  "date": "2026-05-27",
+  "drsNr": "8/7098",
+  "persons": [
+    {
+      "slug": "torsten-gahler",
+      "name": "Torsten Gahler",
+      "name_padoka": "Gahler, Torsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50979",
+    "filename": "Drs_8_7098_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

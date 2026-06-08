@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6876",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Maßnahmen gegen die Verdunstung der sächsischen Lausitzer Tagebaurestseen und für eine gute Wasserqualität",
+  "date": "2026-05-05",
+  "drsNr": "8/6876",
+  "persons": [
+    {
+      "slug": "stefan-hartmann",
+      "name": "Stefan Hartmann",
+      "name_padoka": "Hartmann, Stefan",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50503",
+    "filename": "Drs_8_6876_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

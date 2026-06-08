@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-11-simone-lang",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in 11. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-03-27",
+  "persons": [
+    {
+      "slug": "simone-lang",
+      "name": "Simone Lang",
+      "name_padoka": "Lang, Simone",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/11",
+    "date": "2025-03-27"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=40619"
+  }
+}

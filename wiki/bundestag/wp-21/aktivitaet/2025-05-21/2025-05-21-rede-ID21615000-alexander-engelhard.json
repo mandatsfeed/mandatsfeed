@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21615000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Moratorium für den Rückbau abgeschalteter Kernkraftwerke",
+  "date": "2025-05-21",
+  "persons": [
+    {
+      "slug": "alexander-engelhard",
+      "name": "Alexander Engelhard",
+      "name_padoka": "Engelhard, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/6",
+    "date": "2025-05-21",
+    "page": 470
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21006.pdf"
+  }
+}

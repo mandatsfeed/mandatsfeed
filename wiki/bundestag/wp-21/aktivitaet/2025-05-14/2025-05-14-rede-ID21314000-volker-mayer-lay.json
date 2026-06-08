@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21314000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "volker-mayer-lay",
+      "name": "Volker Mayer-Lay",
+      "name_padoka": "Mayer-Lay, Volker",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/3",
+    "date": "2025-05-14",
+    "page": 175
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21003.pdf"
+  }
+}

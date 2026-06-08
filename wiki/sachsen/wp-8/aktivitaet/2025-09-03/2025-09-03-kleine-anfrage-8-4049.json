@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4049",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Mittelverwendung und Kontrollen bei Einrichtungen und Trägern der Arbeiterwohlfahrt (AWO) Sachsen vor dem Hintergrund der Skandale bei der AWO Wiesbaden und Frankfurt",
+  "date": "2025-09-03",
+  "drsNr": "8/4049",
+  "persons": [
+    {
+      "slug": "doreen-schwietzer",
+      "name": "Doreen Schwietzer",
+      "name_padoka": "Schwietzer, Doreen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44136",
+    "filename": "Drs_8_4049_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

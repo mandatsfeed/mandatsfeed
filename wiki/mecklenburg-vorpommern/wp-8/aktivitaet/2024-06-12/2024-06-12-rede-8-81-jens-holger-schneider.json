@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-81-jens-holger-schneider",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/81",
+  "date": "2024-06-12",
+  "persons": [
+    {
+      "slug": "jens-holger-schneider",
+      "name": "Jens-Holger Schneider",
+      "name_padoka": "Schneider, Jens-Holger",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/81",
+    "date": "2024-06-12"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/60982"
+  }
+}

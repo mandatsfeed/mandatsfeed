@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7181",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktueller Verfahrensstand des Widerspruchsverfahrens im Zusammenhang mit dem Entzug des Doktorgrades von Ministerpräsident \nMario Voigt an der Technischen Universität Chemnitz",
+  "date": "2026-06-03",
+  "drsNr": "8/7181",
+  "persons": [
+    {
+      "slug": "martina-jost",
+      "name": "Martina Jost",
+      "name_padoka": "Jost, Martina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51134",
+    "filename": "Drs_8_7181_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

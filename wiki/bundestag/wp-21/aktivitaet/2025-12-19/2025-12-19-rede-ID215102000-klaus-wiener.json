@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215102000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aufhebung der sogenannten Wegzugsbesteuerung gemäß § 6 des Außensteuergesetzes",
+  "date": "2025-12-19",
+  "persons": [
+    {
+      "slug": "klaus-wiener",
+      "name": "Klaus Wiener",
+      "name_padoka": "Wiener, Klaus",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/51",
+    "date": "2025-12-19",
+    "page": 6172
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21051.pdf"
+  }
+}

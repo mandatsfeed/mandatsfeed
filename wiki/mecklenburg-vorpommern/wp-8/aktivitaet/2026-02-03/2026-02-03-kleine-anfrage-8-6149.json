@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6149",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Wirtschaftsbilanz 2025 der Krankenhäuser in Mecklenburg-Vorpommern und Auswirkungen der wirtschaftlichen Veränderungen gegenüber 2024",
+  "date": "2026-02-03",
+  "drsNr": "8/6149",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69462"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

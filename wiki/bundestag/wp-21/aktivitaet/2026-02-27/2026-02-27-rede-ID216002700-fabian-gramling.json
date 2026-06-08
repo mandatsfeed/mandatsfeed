@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216002700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutsche Rohstoffinteressen durchsetzen – Rohstoffpolitik zur Priorität machen",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "fabian-gramling",
+      "name": "Fabian Gramling",
+      "name_padoka": "Gramling, Fabian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

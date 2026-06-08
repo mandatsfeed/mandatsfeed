@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-49-christiane-berg",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/49",
+  "date": "2023-03-23",
+  "persons": [
+    {
+      "slug": "christiane-berg",
+      "name": "Christiane Berg",
+      "name_padoka": "Berg, Christiane",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/49",
+    "date": "2023-03-23"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/56351"
+  }
+}

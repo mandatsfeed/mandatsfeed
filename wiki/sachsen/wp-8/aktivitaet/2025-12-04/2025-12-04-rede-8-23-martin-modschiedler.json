@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-23-martin-modschiedler",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in 23. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-12-04",
+  "persons": [
+    {
+      "slug": "martin-modschiedler",
+      "name": "Martin Modschiedler",
+      "name_padoka": "Modschiedler, Martin",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/23",
+    "date": "2025-12-04"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=46663"
+  }
+}

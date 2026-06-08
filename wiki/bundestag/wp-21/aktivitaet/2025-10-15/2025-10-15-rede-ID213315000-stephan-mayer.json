@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213315000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Bedrohungslage Deutschlands ernst nehmen",
+  "date": "2025-10-15",
+  "persons": [
+    {
+      "slug": "stephan-mayer",
+      "name": "Stephan Mayer",
+      "name_padoka": "Mayer, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/33",
+    "date": "2025-10-15",
+    "page": 3628
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21033.pdf"
+  }
+}

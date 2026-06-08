@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214602900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-12-03",
+  "persons": [
+    {
+      "slug": "philip-m-a-hoffmann",
+      "name": "Philip M. A. Hoffmann",
+      "name_padoka": "Hoffmann, Philip M. A.",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/46",
+    "date": "2025-12-03",
+    "page": 5398
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21046.pdf"
+  }
+}

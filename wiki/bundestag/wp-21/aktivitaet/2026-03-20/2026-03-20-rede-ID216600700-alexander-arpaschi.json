@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216600700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesellschaftliche Risiken von KI-Anwendungen ernst nehmen — Für öffentliche Räume ohne automatisierte biometrische Erkennungssysteme",
+  "date": "2026-03-20",
+  "persons": [
+    {
+      "slug": "alexander-arpaschi",
+      "name": "Alexander Arpaschi",
+      "name_padoka": "Arpaschi, Alexander",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/66",
+    "date": "2026-03-20",
+    "page": 8028
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21066.pdf"
+  }
+}

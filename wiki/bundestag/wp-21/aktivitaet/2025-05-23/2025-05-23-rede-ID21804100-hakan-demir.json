@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21804100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 18",
+  "date": "2025-05-23",
+  "persons": [
+    {
+      "slug": "hakan-demir",
+      "name": "Hakan Demir",
+      "name_padoka": "Demir, Hakan",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/8",
+    "date": "2025-05-23",
+    "page": 653
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21008.pdf"
+  }
+}

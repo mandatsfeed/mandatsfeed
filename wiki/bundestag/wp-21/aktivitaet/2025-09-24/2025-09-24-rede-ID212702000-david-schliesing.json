@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212702000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 04",
+  "date": "2025-09-24",
+  "persons": [
+    {
+      "slug": "david-schliesing",
+      "name": "David Schliesing",
+      "name_padoka": "Schliesing, David",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/27",
+    "date": "2025-09-24",
+    "page": 2909
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21027.pdf"
+  }
+}

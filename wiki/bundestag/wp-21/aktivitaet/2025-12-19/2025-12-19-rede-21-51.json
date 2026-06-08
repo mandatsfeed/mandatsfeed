@@ -1,0 +1,115 @@
+{
+  "id": "dip-rede-21-51",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Digital Services Act abschaffen - Keine Einschränkung der Meinungsfreiheit im digitalen Raum durch die EU",
+  "date": "2025-12-19",
+  "persons": [
+    {
+      "slug": "henri-schmidt",
+      "name": "Henri Schmidt",
+      "name_padoka": "Schmidt, Henri",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "joachim-ebmeyer",
+      "name": "Joachim Ebmeyer",
+      "name_padoka": "Ebmeyer, Joachim",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "name_padoka": "Gottschalk, Kay",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "markus-reichel",
+      "name": "Markus Reichel",
+      "name_padoka": "Reichel, Markus",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "rebecca-lenhard",
+      "name": "Rebecca Lenhard",
+      "name_padoka": "Lenhard, Rebecca",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "maja-wallstein",
+      "name": "Maja Wallstein",
+      "name_padoka": "Wallstein, Maja",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "ronald-glaser",
+      "name": "Ronald Gläser",
+      "name_padoka": "Gläser, Ronald",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "konrad-korner",
+      "name": "Konrad Körner",
+      "name_padoka": "Körner, Konrad",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "sonja-lemke",
+      "name": "Sonja Lemke",
+      "name_padoka": "Lemke, Sonja",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "johannes-schatzl",
+      "name": "Johannes Schätzl",
+      "name_padoka": "Schätzl, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "anna-luhrmann",
+      "name": "Anna Lührmann",
+      "name_padoka": "Lührmann, Anna",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "thomas-jarzombek",
+      "name": "Thomas Jarzombek",
+      "name_padoka": "Jarzombek, Thomas",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Digitales und Staatsmodernisierung",
+      "funktion": "Parl. Staatssekr."
+    },
+    {
+      "slug": "ruben-rupp",
+      "name": "Ruben Rupp",
+      "name_padoka": "Rupp, Ruben",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "afd",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "die-linke"
+  ],
+  "drsNr": "21/51",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21051.pdf#P.6171",
+    "filename": "21051.pdf#P.6171"
+  }
+}

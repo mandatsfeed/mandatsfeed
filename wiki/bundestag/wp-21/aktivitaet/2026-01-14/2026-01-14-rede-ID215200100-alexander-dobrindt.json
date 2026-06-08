@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215200100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-01-14",
+  "persons": [
+    {
+      "slug": "alexander-dobrindt",
+      "name": "Alexander Dobrindt",
+      "name_padoka": "Dobrindt, Alexander",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister des Innern"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/52",
+    "date": "2026-01-14",
+    "page": 6266
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21052.pdf"
+  }
+}

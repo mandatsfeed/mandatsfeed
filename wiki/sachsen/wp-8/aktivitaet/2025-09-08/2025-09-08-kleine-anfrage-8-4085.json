@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4085",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Polizeieinsätze an der Flüchtlingsunterkunft nahe des Altenpflegeheims \"Hugo Tzschucke\" in Meißen",
+  "date": "2025-09-08",
+  "drsNr": "8/4085",
+  "persons": [
+    {
+      "slug": "thomas-kirste",
+      "name": "Thomas Kirste",
+      "name_padoka": "Kirste, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44314",
+    "filename": "Drs_8_4085_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

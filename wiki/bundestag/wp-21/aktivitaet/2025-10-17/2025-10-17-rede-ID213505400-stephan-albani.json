@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213505400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bildung bezahlbar machen – BAföG-Reform jetzt — Infrastrukturen für Innovationen – Klimagerecht, barrierefrei und digital auf dem Campus",
+  "date": "2025-10-17",
+  "persons": [
+    {
+      "slug": "stephan-albani",
+      "name": "Stephan Albani",
+      "name_padoka": "Albani, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/35",
+    "date": "2025-10-17",
+    "page": 3937
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21035.pdf"
+  }
+}

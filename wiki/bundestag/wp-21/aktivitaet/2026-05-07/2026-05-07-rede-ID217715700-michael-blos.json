@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217715700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Verschmutzung von Trinkwasser mit Ewigkeitschemikalien verhindern – Sauberes Wasser darf kein Luxus sein — Ewigkeitschemikalien in Lebensmitteln verbieten",
+  "date": "2026-05-07",
+  "persons": [
+    {
+      "slug": "michael-blos",
+      "name": "Michael Blos",
+      "name_padoka": "Blos, Michael",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/77",
+    "date": "2026-05-07",
+    "page": 9307
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21077.pdf"
+  }
+}

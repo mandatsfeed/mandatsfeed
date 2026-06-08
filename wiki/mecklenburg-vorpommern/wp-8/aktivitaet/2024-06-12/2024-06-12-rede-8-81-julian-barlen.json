@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-81-julian-barlen",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "12 Redebeiträge in PlPr 8/81",
+  "date": "2024-06-12",
+  "persons": [
+    {
+      "slug": "julian-barlen",
+      "name": "Julian Barlen",
+      "name_padoka": "Barlen, Julian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/81",
+    "date": "2024-06-12"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/60982"
+  }
+}

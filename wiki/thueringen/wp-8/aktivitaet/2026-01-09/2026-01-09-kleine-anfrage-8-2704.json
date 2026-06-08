@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2704",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vergrämung des sogenannten NAR-Wolfsrudels (Neustadt am Rennsteig) mittels Luftdruckwaffen",
+  "date": "2026-01-09",
+  "drsNr": "8/2704",
+  "persons": [
+    {
+      "slug": "kerstin-duben-schaumann",
+      "name": "Kerstin Düben-Schaumann",
+      "name_padoka": "Düben-Schaumann, Kerstin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105282"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

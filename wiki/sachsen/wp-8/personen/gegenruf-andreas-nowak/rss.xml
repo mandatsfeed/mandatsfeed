@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Gegenruf Andreas Nowak (Sächsischer Landtag, WP-8)</title>
+    <link>https://redas.landtag.sachsen.de/redas/</link>
+    <description>Aufbereitung durch mandatsfeed. Quelle: Sächsischer Landtag – EDAS (redas.landtag.sachsen.de). Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">edas-rede-8-27-gegenruf-andreas-nowak</guid>
+      <title>1 Redebeitrag in 27. Sitzung 8. Sächsischer Landtag</title>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://redas.landtag.sachsen.de/redas/download/file?datei_id=49956</link>
+      <description>Rede · Plenarprotokoll 8/27, S. ?</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">edas-rede-8-7-gegenruf-andreas-nowak</guid>
+      <title>1 Redebeitrag in 7. Sitzung 8. Sächsischer Landtag</title>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+      <link>https://redas.landtag.sachsen.de/redas/download/file?datei_id=39371</link>
+      <description>Rede · Plenarprotokoll 8/7, S. ?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · David Mandrella (Deutscher Bundestag, WP-21)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-abst-21-81-1</guid>
+      <title>Ablehnung eines Antrags zur Arzneimittelversorgung</title>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <link>https://www.bundestag.de/resource/blob/1182086/20260522_1_xls.xlsx</link>
+      <description>Abstimmung · Ergebnis: 440 ja, 126 nein, 0 enth., 62 abw. von 628 (annahme) · Eigene Stimme: ja</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-abst-21-75-1</guid>
+      <title>Gesetzentwurf zur temporären Absenkung der Energiesteuer für Kraftstoffe</title>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+      <link>https://www.bundestag.de/resource/blob/1167454/20260424_1_xls.xlsx</link>
+      <description>Abstimmung · Ergebnis: 451 ja, 134 nein, 1 enth., 44 abw. von 630 (annahme) · Eigene Stimme: ja</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-abst-21-75-2</guid>
+      <title>Gesetzentwurf der Grünen zur Änderung der Stromsteuer</title>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+      <link>https://www.bundestag.de/resource/blob/1167458/20260424_2_xls.xlsx</link>
+      <description>Abstimmung · Ergebnis: 270 ja, 310 nein, 0 enth., 50 abw. von 630 (ablehnung) · Eigene Stimme: nein</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-abst-21-75-3</guid>
+      <title>Ablehnung eines Antrags zur Entlastung berufstätiger Pendler</title>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+      <link>https://www.bundestag.de/resource/blob/1167464/20260424_3_xls.xlsx</link>
+      <description>Abstimmung · Ergebnis: 448 ja, 136 nein, 0 enth., 46 abw. von 630 (annahme) · Eigene Stimme: ja</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-abst-21-75-4</guid>
+      <title>Ablehnung eines Antrags zur Übergewinnsteuer</title>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+      <link>https://www.bundestag.de/resource/blob/1167470/20260424_4_xls.xlsx</link>
+      <description>Abstimmung · Ergebnis: 449 ja, 136 nein, 0 enth., 45 abw. von 630 (annahme) · Eigene Stimme: ja</description>
+    </item>
+  </channel>
+</rss>

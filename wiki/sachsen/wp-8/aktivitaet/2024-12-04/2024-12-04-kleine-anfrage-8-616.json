@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-616",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bombendrohung an Leipziger bzw. Sächsischen Schulen",
+  "date": "2024-12-04",
+  "drsNr": "8/616",
+  "persons": [
+    {
+      "slug": "holger-hentschel",
+      "name": "Holger Hentschel",
+      "name_padoka": "Hentschel, Holger",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37254",
+    "filename": "Drs_8_616_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

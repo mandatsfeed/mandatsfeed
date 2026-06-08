@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217407000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 9",
+  "date": "2026-04-23",
+  "persons": [
+    {
+      "slug": "daniel-bettermann",
+      "name": "Daniel Bettermann",
+      "name_padoka": "Bettermann, Daniel",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/74",
+    "date": "2026-04-23",
+    "page": 8958
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21074.pdf"
+  }
+}

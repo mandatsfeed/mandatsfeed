@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214006900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschland resilient machen – Für einen ganzheitlichen Schutz unserer kritischen Infrastruktur",
+  "date": "2025-11-13",
+  "persons": [
+    {
+      "slug": "marc-henrichmann",
+      "name": "Marc Henrichmann",
+      "name_padoka": "Henrichmann, Marc",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/40",
+    "date": "2025-11-13",
+    "page": 4645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21040.pdf"
+  }
+}

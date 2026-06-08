@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-130-hannes-damm",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/130",
+  "date": "2026-05-06",
+  "persons": [
+    {
+      "slug": "hannes-damm",
+      "name": "Hannes Damm",
+      "name_padoka": "Damm, Hannes",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/130",
+    "date": "2026-05-06"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71226"
+  }
+}

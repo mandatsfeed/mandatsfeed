@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4821",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Linksextremistischer Brandanschlag auf Lkw des Unternehmers Rothkegel in Leipzig - Indymedia Bekennerschreiben",
+  "date": "2025-11-13",
+  "drsNr": "8/4821",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45755",
+    "filename": "Drs_8_4821_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

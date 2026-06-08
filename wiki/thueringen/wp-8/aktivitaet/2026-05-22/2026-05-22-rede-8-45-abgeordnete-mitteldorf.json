@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-45-abgeordnete-mitteldorf",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/45",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "abgeordnete-mitteldorf",
+      "name": "Abgeordnete Mitteldorf",
+      "name_padoka": "Mitteldorf, Abgeordnete",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/45",
+    "date": "2026-05-22"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/107282"
+  }
+}

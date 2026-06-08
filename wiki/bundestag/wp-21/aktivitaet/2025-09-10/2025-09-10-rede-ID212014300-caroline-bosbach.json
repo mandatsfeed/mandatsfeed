@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212014300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Zehn Jahre „Wir schaffen das“",
+  "date": "2025-09-10",
+  "persons": [
+    {
+      "slug": "caroline-bosbach",
+      "name": "Caroline Bosbach",
+      "name_padoka": "Bosbach, Caroline",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/20",
+    "date": "2025-09-10",
+    "page": 2027
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21020.pdf"
+  }
+}

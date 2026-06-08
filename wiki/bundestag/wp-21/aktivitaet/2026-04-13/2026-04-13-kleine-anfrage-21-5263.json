@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-5263",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Tuberkulosebehandlung bei ausländischen Staatsangehörigen und Leistungsgewährung nach dem Asylbewerberleistungsgesetz - Fallzahlen, Aufenthaltsstatus, Behandlungs- und Folgekosten",
+  "date": "2026-04-13",
+  "persons": [
+    {
+      "slug": "martin-sichert",
+      "name": "Martin Sichert",
+      "name_padoka": "Sichert, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/5263",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/052/2105263.pdf",
+    "filename": "2105263.pdf"
+  }
+}

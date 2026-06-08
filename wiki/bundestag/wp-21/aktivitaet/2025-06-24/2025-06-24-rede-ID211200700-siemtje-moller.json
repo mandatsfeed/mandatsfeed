@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211200700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zum NATO-Gipfel am 24. und 25. Juni in Den Haag und zum Europäischen Rat am 26. und 27. Juni 2025 in Brüssel",
+  "date": "2025-06-24",
+  "persons": [
+    {
+      "slug": "siemtje-moller",
+      "name": "Siemtje Möller",
+      "name_padoka": "Möller, Siemtje",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/12",
+    "date": "2025-06-24",
+    "page": 995
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21012.pdf"
+  }
+}

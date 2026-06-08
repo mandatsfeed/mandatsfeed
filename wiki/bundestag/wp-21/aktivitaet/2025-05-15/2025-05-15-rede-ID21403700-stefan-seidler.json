@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21403700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einsetzung von Ausschüssen",
+  "date": "2025-05-15",
+  "persons": [
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "name_padoka": "Seidler, Stefan",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/4",
+    "date": "2025-05-15",
+    "page": 313
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21004.pdf"
+  }
+}

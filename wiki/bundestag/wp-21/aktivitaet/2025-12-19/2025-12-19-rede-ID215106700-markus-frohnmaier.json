@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215106700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die neue sicherheitspolitische Vision der USA als Chance wahrnehmen – Für eine neue transatlantische Partnerschaft — Für einen Neubeginn in den deutsch-amerikanischen Beziehungen – Zusammen für Sicherheit, Stabilität und Frieden in der Ukraine",
+  "date": "2025-12-19",
+  "persons": [
+    {
+      "slug": "markus-frohnmaier",
+      "name": "Markus Frohnmaier",
+      "name_padoka": "Frohnmaier, Markus",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/51",
+    "date": "2025-12-19",
+    "page": 6172
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21051.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3232",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Erneute Lebenszeitverbeamtungen von Staatssekretären",
+  "date": "2026-03-31",
+  "drsNr": "8/3232",
+  "persons": [
+    {
+      "slug": "sascha-bilay",
+      "name": "Sascha Bilay",
+      "name_padoka": "Bilay, Sascha",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106600"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

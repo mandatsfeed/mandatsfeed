@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6010",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Sächsische Bezüge zur \"Winterakademie\" des Antaios-Verlags von Götz Kubitschek in Schnellroda",
+  "date": "2026-02-10",
+  "drsNr": "8/6010",
+  "persons": [
+    {
+      "slug": "valentin-lippmann",
+      "name": "Valentin Lippmann",
+      "name_padoka": "Lippmann, Valentin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48245",
+    "filename": "Drs_8_6010_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6855",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Militärische Truppentransporte als Belastung ziviler Verkehrswege - Unfälle und Verkehrsbehinderungen unter Beteiligung von Militärfahrzeugen in Sachsen",
+  "date": "2026-04-30",
+  "drsNr": "8/6855",
+  "persons": [
+    {
+      "slug": "nico-rudolph",
+      "name": "Nico Rudolph",
+      "name_padoka": "Rudolph, Nico",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50424",
+    "filename": "Drs_8_6855_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

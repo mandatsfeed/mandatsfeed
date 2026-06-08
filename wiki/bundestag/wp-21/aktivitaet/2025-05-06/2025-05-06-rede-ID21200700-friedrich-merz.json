@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21200700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Eidesleistung des Bundeskanzlers",
+  "date": "2025-05-06",
+  "persons": [
+    {
+      "slug": "friedrich-merz",
+      "name": "Friedrich Merz",
+      "name_padoka": "Merz, Friedrich",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundeskanzler"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/2",
+    "date": "2025-05-06",
+    "page": 50
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21002.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215015100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 20",
+  "date": "2025-12-18",
+  "persons": [
+    {
+      "slug": "christoph-de-vries",
+      "name": "Christoph de Vries",
+      "name_padoka": "de Vries, Christoph",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär beim Bundesminister des Innern"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/50",
+    "date": "2025-12-18",
+    "page": 6008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21050.pdf"
+  }
+}

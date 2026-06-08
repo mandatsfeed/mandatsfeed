@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215515300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die „vergessenen“ queeren Opfer der nationalsozialistischen Verfolgung",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "martin-plum",
+      "name": "Martin Plum",
+      "name_padoka": "Plum, Martin",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/55",
+    "date": "2026-01-28",
+    "page": 6646
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21055.pdf"
+  }
+}

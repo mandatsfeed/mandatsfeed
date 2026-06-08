@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-949",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Äußerungen der Bundesministerin für Familie, Senioren, Frauen und Jugend, Karin Prien, hinsichtlich der Sinnhaftigkeit der Förderung von Projekten mit 182 Millionen Euro",
+  "date": "2025-07-22",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/949",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/009/2100949.pdf",
+    "filename": "2100949.pdf"
+  }
+}

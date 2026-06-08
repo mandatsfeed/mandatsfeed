@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-102-beifall-michael-meister",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/102",
+  "date": "2025-04-09",
+  "persons": [
+    {
+      "slug": "beifall-michael-meister",
+      "name": "Beifall Michael Meister",
+      "name_padoka": "Meister, Beifall Michael",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/102",
+    "date": "2025-04-09"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/64308"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-853",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verfahren am Sächsischen Landesarbeitsgericht",
+  "date": "2024-12-19",
+  "drsNr": "8/853",
+  "persons": [
+    {
+      "slug": "volker-dringenberg",
+      "name": "Volker Dringenberg",
+      "name_padoka": "Dringenberg, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37649",
+    "filename": "Drs_8_853_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

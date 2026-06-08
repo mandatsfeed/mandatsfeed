@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6482",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beteiligung von Betroffenen sexualisierter Gewalt in Kindheit und Jugend im Freistaat Sachsen",
+  "date": "2026-03-24",
+  "drsNr": "8/6482",
+  "persons": [
+    {
+      "slug": "christin-melcher",
+      "name": "Christin Melcher",
+      "name_padoka": "Melcher, Christin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49406",
+    "filename": "Drs_8_6482_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

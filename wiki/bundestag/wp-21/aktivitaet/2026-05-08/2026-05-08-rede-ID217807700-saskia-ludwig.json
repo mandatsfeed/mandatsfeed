@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217807700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Ein Jahr schwarz-rote Energiepolitik – Energieversorgung jetzt unabhängig, erneuerbar und sicher ausbauen",
+  "date": "2026-05-08",
+  "persons": [
+    {
+      "slug": "saskia-ludwig",
+      "name": "Saskia Ludwig",
+      "name_padoka": "Ludwig, Saskia",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/78",
+    "date": "2026-05-08",
+    "page": 9394
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21078.pdf"
+  }
+}

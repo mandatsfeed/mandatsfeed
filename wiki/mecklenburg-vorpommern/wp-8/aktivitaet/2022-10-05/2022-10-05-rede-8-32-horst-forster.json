@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-32-horst-forster",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "8 Redebeiträge in PlPr 8/32",
+  "date": "2022-10-05",
+  "persons": [
+    {
+      "slug": "horst-forster",
+      "name": "Horst Förster",
+      "name_padoka": "Förster, Horst",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/32",
+    "date": "2022-10-05"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/54864"
+  }
+}

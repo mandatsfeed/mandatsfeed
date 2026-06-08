@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6283",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Öffentliche Informationen der Landesregierung zum Landeskoordinierungs- und Unterstützungsstab sowie der Koordinierungsstelle Zivile Verteidigung",
+  "date": "2026-03-12",
+  "drsNr": "8/6283",
+  "persons": [
+    {
+      "slug": "sabine-enseleit",
+      "name": "Sabine Enseleit",
+      "name_padoka": "Enseleit, Sabine",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70358"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-57",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Verfahren des Generalbundesanwalts beim Bundesgerichtshof seit dem Jahr 2013 - Stand: 31. März 2025",
+  "date": "2025-04-22",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/57",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/000/2100057.pdf",
+    "filename": "2100057.pdf"
+  }
+}

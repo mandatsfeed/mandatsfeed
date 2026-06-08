@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6255",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aufkommen aus der Einkommensteuer im Jahr 2025",
+  "date": "2026-03-04",
+  "drsNr": "8/6255",
+  "persons": [
+    {
+      "slug": "norbert-otto-mayer",
+      "name": "Norbert Otto Mayer",
+      "name_padoka": "Mayer, Norbert Otto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48752",
+    "filename": "Drs_8_6255_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

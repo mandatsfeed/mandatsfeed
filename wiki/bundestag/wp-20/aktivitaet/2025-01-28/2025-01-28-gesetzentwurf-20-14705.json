@@ -1,0 +1,208 @@
+{
+  "id": "dip-ges-20-14705",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "gesetzentwurf",
+  "title": "Gesetz zur Integration von Photovoltaik- und anderen Erneuerbare-Energien-Anlagen in den Strommarkt und zur Vermeidung solarstrombedingter Netznotfallmaßnahmen",
+  "date": "2025-01-28",
+  "persons": [
+    {
+      "slug": "manfred-todtenhausen",
+      "name": "Manfred Todtenhausen",
+      "name_padoka": "Todtenhausen, Manfred",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "katharina-willkomm",
+      "name": "Katharina Willkomm",
+      "name_padoka": "Willkomm, Katharina",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "katrin-helling-plahr",
+      "name": "Katrin Helling-Plahr",
+      "name_padoka": "Helling-Plahr, Katrin",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "jens-brandenburg-rhein-neckar",
+      "name": "Jens Brandenburg (Rhein-Neckar)",
+      "name_padoka": "(Rhein-Neckar), Jens Brandenburg",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "daniel-fost",
+      "name": "Daniel Föst",
+      "name_padoka": "Föst, Daniel",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "konstantin-kuhle",
+      "name": "Konstantin Kuhle",
+      "name_padoka": "Kuhle, Konstantin",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "jens-teutrine",
+      "name": "Jens Teutrine",
+      "name_padoka": "Teutrine, Jens",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "ulrich-lechte",
+      "name": "Ulrich Lechte",
+      "name_padoka": "Lechte, Ulrich",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "peter-heidt",
+      "name": "Peter Heidt",
+      "name_padoka": "Heidt, Peter",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "christine-aschenberg-dugnus",
+      "name": "Christine Aschenberg-Dugnus",
+      "name_padoka": "Aschenberg-Dugnus, Christine",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "michael-georg-link-heilbronn",
+      "name": "Michael Georg Link (Heilbronn)",
+      "name_padoka": "(Heilbronn), Michael Georg Link",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "reinhard-houben",
+      "name": "Reinhard Houben",
+      "name_padoka": "Houben, Reinhard",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "marcus-faber",
+      "name": "Marcus Faber",
+      "name_padoka": "Faber, Marcus",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "julian-grunke",
+      "name": "Julian Grünke",
+      "name_padoka": "Grünke, Julian",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "ria-schroder",
+      "name": "Ria Schröder",
+      "name_padoka": "Schröder, Ria",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "pascal-kober",
+      "name": "Pascal Kober",
+      "name_padoka": "Kober, Pascal",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "carl-julius-cronenberg",
+      "name": "Carl-Julius Cronenberg",
+      "name_padoka": "Cronenberg, Carl-Julius",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "stephan-seiter",
+      "name": "Stephan Seiter",
+      "name_padoka": "Seiter, Stephan",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "kristine-lutke",
+      "name": "Kristine Lütke",
+      "name_padoka": "Lütke, Kristine",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "aniko-glogowski-merten",
+      "name": "Aniko Glogowski-Merten",
+      "name_padoka": "Glogowski-Merten, Aniko",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "thomas-hacker",
+      "name": "Thomas Hacker",
+      "name_padoka": "Hacker, Thomas",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "jens-beeck",
+      "name": "Jens Beeck",
+      "name_padoka": "Beeck, Jens",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "olaf-in-der-beek",
+      "name": "Olaf in der Beek",
+      "name_padoka": "Beek, Olaf in der",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "martin-gassner-herz",
+      "name": "Martin Gassner-Herz",
+      "name_padoka": "Gassner-Herz, Martin",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "alexander-muller",
+      "name": "Alexander Müller",
+      "name_padoka": "Müller, Alexander",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "renata-alt",
+      "name": "Renata Alt",
+      "name_padoka": "Alt, Renata",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "lukas-kohler",
+      "name": "Lukas Köhler",
+      "name_padoka": "Köhler, Lukas",
+      "role": "antragsteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "drsNr": "20/14705",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/147/2014705.pdf",
+    "filename": "2014705.pdf"
+  }
+}

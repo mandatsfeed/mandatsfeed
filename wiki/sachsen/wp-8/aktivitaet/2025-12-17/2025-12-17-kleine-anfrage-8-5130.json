@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5130",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Prüfprozess und Entscheidungsstand zur möglichen Schaffung eines Landesamts für Regionalentwicklung",
+  "date": "2025-12-17",
+  "drsNr": "8/5130",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46654",
+    "filename": "Drs_8_5130_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216812000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wohnungslose Frauen besser schützen – Geschlechterspezifische Bedarfe in der Wohnungslosenhilfe konsequent berücksichtigen",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "axel-knoerig",
+      "name": "Axel Knoerig",
+      "name_padoka": "Knoerig, Axel",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

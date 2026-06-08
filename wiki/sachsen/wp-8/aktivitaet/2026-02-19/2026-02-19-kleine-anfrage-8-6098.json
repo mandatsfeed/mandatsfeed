@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6098",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Corona-Soforthilfen in Sachsen im Lichte aktueller verwaltungsgerichtlicher Rechtsprechung",
+  "date": "2026-02-19",
+  "drsNr": "8/6098",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48460",
+    "filename": "Drs_8_6098_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

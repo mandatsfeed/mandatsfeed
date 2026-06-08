@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3830",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kassenkredite der zehn Landkreise und der drei kreisfreien Städte zum Stichtag 31.07.2025",
+  "date": "2025-08-14",
+  "drsNr": "8/3830",
+  "persons": [
+    {
+      "slug": "andre-barth",
+      "name": "André Barth",
+      "name_padoka": "Barth, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43697",
+    "filename": "Drs_8_3830_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

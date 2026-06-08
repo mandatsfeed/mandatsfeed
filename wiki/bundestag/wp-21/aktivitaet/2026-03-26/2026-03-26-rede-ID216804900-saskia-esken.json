@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216804900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Jahresbericht 2025 (67. Bericht)",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "saskia-esken",
+      "name": "Saskia Esken",
+      "name_padoka": "Esken, Saskia",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

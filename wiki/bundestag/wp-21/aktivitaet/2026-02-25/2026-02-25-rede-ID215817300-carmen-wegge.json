@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215817300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 5",
+  "date": "2026-02-25",
+  "persons": [
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "name_padoka": "Wegge, Carmen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/58",
+    "date": "2026-02-25",
+    "page": 7018
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21058.pdf"
+  }
+}

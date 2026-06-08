@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3801",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kürzung des Hörfunkangebots beim MDR",
+  "date": "2025-08-13",
+  "drsNr": "8/3801",
+  "persons": [
+    {
+      "slug": "torsten-gahler",
+      "name": "Torsten Gahler",
+      "name_padoka": "Gahler, Torsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43623",
+    "filename": "Drs_8_3801_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-17-kay-ritter",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in zu Drs 8/2949-1\r\nFrosthilfen Weinbau",
+  "date": "2025-06-27",
+  "persons": [
+    {
+      "slug": "kay-ritter",
+      "name": "Kay Ritter",
+      "name_padoka": "Ritter, Kay",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/17",
+    "date": "2025-06-27"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=43068"
+  }
+}

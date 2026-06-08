@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213404100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 3",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "marc-biadacz",
+      "name": "Marc Biadacz",
+      "name_padoka": "Biadacz, Marc",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4759",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Studienplatzvergabe durch Klageverfahren",
+  "date": "2025-11-07",
+  "drsNr": "8/4759",
+  "persons": [
+    {
+      "slug": "ronny-kupke-bsw-lars-wurzler",
+      "name": "Ronny Kupke BSW, Lars Wurzler",
+      "name_padoka": "Wurzler, Ronny Kupke BSW, Lars",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45630",
+    "filename": "Drs_8_4759_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

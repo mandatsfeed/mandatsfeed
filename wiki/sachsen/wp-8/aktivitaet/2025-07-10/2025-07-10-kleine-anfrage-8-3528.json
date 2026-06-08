@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3528",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "\"Wertschätzungskampagne\" im Rahmen des Masterplan Tourismus",
+  "date": "2025-07-10",
+  "drsNr": "8/3528",
+  "persons": [
+    {
+      "slug": "hajo-exner",
+      "name": "Hajo Exner",
+      "name_padoka": "Exner, Hajo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=42992",
+    "filename": "Drs_8_3528_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

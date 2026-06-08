@@ -1,0 +1,28 @@
+{
+  "id": "dip-rede-ID2021011800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Die Bundestagswahl effektiv vor ausländischer Einflussnahme schützen",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "jurgen-braun",
+      "name": "Jürgen Braun",
+      "name_padoka": "Braun, Jürgen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

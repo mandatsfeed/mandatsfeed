@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-12-ronny-wahner",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in 12. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-04-03",
+  "persons": [
+    {
+      "slug": "ronny-wahner",
+      "name": "Ronny Wähner",
+      "name_padoka": "Wähner, Ronny",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/12",
+    "date": "2025-04-03"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=40735"
+  }
+}

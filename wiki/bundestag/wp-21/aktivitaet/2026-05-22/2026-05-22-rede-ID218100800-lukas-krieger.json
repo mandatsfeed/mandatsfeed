@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218100800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 6",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "lukas-krieger",
+      "name": "Lukas Krieger",
+      "name_padoka": "Krieger, Lukas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/81",
+    "date": "2026-05-22",
+    "page": 9804
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21081.pdf"
+  }
+}

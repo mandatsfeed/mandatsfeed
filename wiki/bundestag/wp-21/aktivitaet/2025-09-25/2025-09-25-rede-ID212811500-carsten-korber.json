@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212811500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Berichtigung",
+  "date": "2025-09-25",
+  "persons": [
+    {
+      "slug": "carsten-korber",
+      "name": "Carsten Körber",
+      "name_padoka": "Körber, Carsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/28",
+    "date": "2025-09-25",
+    "page": 3041
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21028.pdf"
+  }
+}

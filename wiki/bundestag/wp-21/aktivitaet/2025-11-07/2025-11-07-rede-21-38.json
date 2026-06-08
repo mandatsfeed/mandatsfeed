@@ -1,0 +1,123 @@
+{
+  "id": "dip-rede-21-38",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Lage im Sudan",
+  "date": "2025-11-07",
+  "persons": [
+    {
+      "slug": "johannes-volkmann",
+      "name": "Johannes Volkmann",
+      "name_padoka": "Volkmann, Johannes",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "thomas-rachel",
+      "name": "Thomas Rachel",
+      "name_padoka": "Rachel, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "derya-turk-nachbaur",
+      "name": "Derya Türk-Nachbaur",
+      "name_padoka": "Türk-Nachbaur, Derya",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "gerold-otten",
+      "name": "Gerold Otten",
+      "name_padoka": "Otten, Gerold",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jonas-geissler",
+      "name": "Jonas Geissler",
+      "name_padoka": "Geissler, Jonas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "boris-mijatovic",
+      "name": "Boris Mijatović",
+      "name_padoka": "Mijatović, Boris",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "anna-rathert",
+      "name": "Anna Rathert",
+      "name_padoka": "Rathert, Anna",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "adis-ahmetovic",
+      "name": "Adis Ahmetovic",
+      "name_padoka": "Ahmetovic, Adis",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Rainer Rothfuß",
+      "name_padoka": "Rothfuß, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "vinzenz-glaser",
+      "name": "Vinzenz Glaser",
+      "name_padoka": "Glaser, Vinzenz",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "markus-koob",
+      "name": "Markus Koob",
+      "name_padoka": "Koob, Markus",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "reem-alabali-radovan",
+      "name": "Reem Alabali Radovan",
+      "name_padoka": "Radovan, Reem Alabali",
+      "role": "redner",
+      "fraktion": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "serap-guler",
+      "name": "Serap Güler",
+      "name_padoka": "Güler, Serap",
+      "role": "redner",
+      "fraktion": "Auswärtiges Amt",
+      "funktion": "Staatsmin."
+    },
+    {
+      "slug": "luise-amtsberg",
+      "name": "Luise Amtsberg",
+      "name_padoka": "Amtsberg, Luise",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "spd",
+    "afd",
+    "bundnis-90-die-gruenen",
+    "die-linke"
+  ],
+  "drsNr": "21/38",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21038.pdf#P.4367",
+    "filename": "21038.pdf#P.4367"
+  }
+}

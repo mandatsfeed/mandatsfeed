@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211004400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gerechtigkeitslücken im Steuersystem schließen, Steuerbetrug wirksam bekämpfen und Einnahmebasis des Staates stärken",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "sepp-muller",
+      "name": "Sepp Müller",
+      "name_padoka": "Müller, Sepp",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

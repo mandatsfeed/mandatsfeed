@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214207400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 1.7",
+  "date": "2025-11-25",
+  "persons": [
+    {
+      "slug": "michael-brand",
+      "name": "Michael Brand",
+      "name_padoka": "Brand, Michael",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär bei der Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/42",
+    "date": "2025-11-25",
+    "page": 4944
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21042.pdf"
+  }
+}

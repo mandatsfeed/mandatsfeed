@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-568",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktivitäten von \"Reichsbürgern\" und \"Selbstverwaltern\" im Monat November 2024",
+  "date": "2024-11-29",
+  "drsNr": "8/568",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=37155",
+    "filename": "Drs_8_568_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

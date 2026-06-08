@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5798",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "EFRE/JTF RL Forschung InfraProNet 2021-2027 - Teil EFRE nach der FÖMISAX Richtliniennummer 02415",
+  "date": "2026-01-28",
+  "drsNr": "8/5798",
+  "persons": [
+    {
+      "slug": "martina-jost",
+      "name": "Martina Jost",
+      "name_padoka": "Jost, Martina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47688",
+    "filename": "Drs_8_5798_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

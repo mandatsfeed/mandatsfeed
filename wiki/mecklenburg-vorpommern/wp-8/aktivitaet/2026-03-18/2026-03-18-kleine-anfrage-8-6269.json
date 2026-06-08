@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6269",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verbot von Pflanzenschutzmitteln",
+  "date": "2026-03-18",
+  "drsNr": "8/6269",
+  "persons": [
+    {
+      "slug": "jens-schulze-wiehenbrauk",
+      "name": "Jens Schulze-Wiehenbrauk",
+      "name_padoka": "Schulze-Wiehenbrauk, Jens",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70333"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

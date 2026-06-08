@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3929",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Geldauflagen und gemeinnützige Einrichtungen",
+  "date": "2025-08-26",
+  "drsNr": "8/3929",
+  "persons": [
+    {
+      "slug": "volker-dringenberg",
+      "name": "Volker Dringenberg",
+      "name_padoka": "Dringenberg, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43960",
+    "filename": "Drs_8_3929_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

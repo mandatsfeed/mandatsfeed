@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-1-abgeordneter-braga",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in PlPr 8/1",
+  "date": "2024-09-26",
+  "persons": [
+    {
+      "slug": "abgeordneter-braga",
+      "name": "Abgeordneter Braga",
+      "name_padoka": "Braga, Abgeordneter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/1",
+    "date": "2024-09-26"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/99387"
+  }
+}

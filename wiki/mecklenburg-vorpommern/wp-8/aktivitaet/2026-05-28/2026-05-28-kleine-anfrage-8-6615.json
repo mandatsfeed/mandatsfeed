@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6615",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Tourismusverband Mecklenburg-Vorpommern e. V. – Gleichbehandlung und Feststellungen des Landesrechnungshofes",
+  "date": "2026-05-28",
+  "drsNr": "8/6615",
+  "persons": [
+    {
+      "slug": "wolfgang-waldmuller",
+      "name": "Wolfgang Waldmüller",
+      "name_padoka": "Waldmüller, Wolfgang",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71572"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

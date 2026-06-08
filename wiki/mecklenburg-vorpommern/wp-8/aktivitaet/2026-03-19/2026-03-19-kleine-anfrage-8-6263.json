@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6263",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zu Umsetzungsnachweis, Zielsteuerung und Evaluation der pflegepolitischen Zusagen des Koalitionsvertrages in der 8. Legislaturperiode",
+  "date": "2026-03-19",
+  "drsNr": "8/6263",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70315"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

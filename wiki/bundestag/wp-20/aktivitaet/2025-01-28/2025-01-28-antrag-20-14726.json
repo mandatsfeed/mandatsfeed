@@ -1,0 +1,75 @@
+{
+  "id": "dip-drs-20-14726",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "antrag",
+  "title": "Rentenversicherung transparent und fair finanzieren - Gesamtstaatliche Finanzierungsverantwortung einlösen",
+  "date": "2025-01-28",
+  "persons": [
+    {
+      "slug": "ulrike-schielke-ziesing",
+      "name": "Ulrike Schielke-Ziesing",
+      "name_padoka": "Schielke-Ziesing, Ulrike",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jurgen-pohl",
+      "name": "Jürgen Pohl",
+      "name_padoka": "Pohl, Jürgen",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-wenzel-schmidt",
+      "name": "Jan Wenzel Schmidt",
+      "name_padoka": "Schmidt, Jan Wenzel",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "norbert-kleinwachter",
+      "name": "Norbert Kleinwächter",
+      "name_padoka": "Kleinwächter, Norbert",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerrit-huy",
+      "name": "Gerrit Huy",
+      "name_padoka": "Huy, Gerrit",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-bochmann",
+      "name": "René Bochmann",
+      "name_padoka": "Bochmann, René",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-springer",
+      "name": "René Springer",
+      "name_padoka": "Springer, René",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "edgar-naujok",
+      "name": "Edgar Naujok",
+      "name_padoka": "Naujok, Edgar",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "20/14726",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/147/2014726.pdf",
+    "filename": "2014726.pdf"
+  }
+}

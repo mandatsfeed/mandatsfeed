@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3240",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Sicherung des Berufsschulstandorts Gotha im Bereich SHK-Ausbildung",
+  "date": "2026-04-01",
+  "drsNr": "8/3240",
+  "persons": [
+    {
+      "slug": "marion-rosin",
+      "name": "Marion Rosin",
+      "name_padoka": "Rosin, Marion",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106601"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

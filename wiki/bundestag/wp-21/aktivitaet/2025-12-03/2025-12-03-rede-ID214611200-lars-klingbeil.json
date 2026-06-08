@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214611200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-12-03",
+  "persons": [
+    {
+      "slug": "lars-klingbeil",
+      "name": "Lars Klingbeil",
+      "name_padoka": "Klingbeil, Lars",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister der Finanzen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/46",
+    "date": "2025-12-03",
+    "page": 5398
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21046.pdf"
+  }
+}

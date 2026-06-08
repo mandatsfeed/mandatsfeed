@@ -1,0 +1,990 @@
+{
+  "id": "aw-abst-sachsen-6510",
+  "source": "abgeordnetenwatch",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "abstimmung",
+  "title": "Änderung der Sächsischen Bauordnung",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "jan-oliver-zwerg",
+      "name": "Jan-Oliver Zwerg",
+      "name_padoka": "Zwerg, Jan-Oliver",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "hans-jurgen-zickler",
+      "name": "Hans-Jürgen Zickler",
+      "name_padoka": "Zickler, Hans-Jürgen",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "sebastian-wippel",
+      "name": "Sebastian Wippel",
+      "name_padoka": "Wippel, Sebastian",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "marko-winter",
+      "name": "Marko Winter",
+      "name_padoka": "Winter, Marko",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "alexander-wiesner",
+      "name": "Alexander Wiesner",
+      "name_padoka": "Wiesner, Alexander",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "ferdinand-wiedeburg",
+      "name": "Ferdinand Wiedeburg",
+      "name_padoka": "Wiedeburg, Ferdinand",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "abwesend"
+    },
+    {
+      "slug": "andre-wendt",
+      "name": "André Wendt",
+      "name_padoka": "Wendt, André",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "abwesend"
+    },
+    {
+      "slug": "stephan-weinrich",
+      "name": "Stephan Weinrich",
+      "name_padoka": "Weinrich, Stephan",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "ronny-wahner",
+      "name": "Ronny Wähner",
+      "name_padoka": "Wähner, Ronny",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "georg-ludwig-von-breitenbuch",
+      "name": "Georg-Ludwig von Breitenbuch",
+      "name_padoka": "von Breitenbuch, Georg-Ludwig",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "soren-voigt",
+      "name": "Sören Voigt",
+      "name_padoka": "Voigt, Sören",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "doreen-voigt",
+      "name": "Doreen Voigt",
+      "name_padoka": "Voigt, Doreen",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "jorg-urban",
+      "name": "Jörg Urban",
+      "name_padoka": "Urban, Jörg",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "tom-unger",
+      "name": "Tom Unger",
+      "name_padoka": "Unger, Tom",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "rick-ulbricht",
+      "name": "Rick Ulbricht",
+      "name_padoka": "Ulbricht, Rick",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "tina-trompter",
+      "name": "Tina Trompter",
+      "name_padoka": "Trompter, Tina",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "thomas-thumm",
+      "name": "Thomas Thumm",
+      "name_padoka": "Thumm, Thomas",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "laura-stellbrink",
+      "name": "Laura Stellbrink",
+      "name_padoka": "Stellbrink, Laura",
+      "role": "abstimmend",
+      "fraktion": "SPD",
+      "vote": "nein"
+    },
+    {
+      "slug": "jessica-steiner",
+      "name": "Jessica Steiner",
+      "name_padoka": "Steiner, Jessica",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "rene-standke",
+      "name": "René Standke",
+      "name_padoka": "Standke, René",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "doreen-schwietzer",
+      "name": "Doreen Schwietzer",
+      "name_padoka": "Schwietzer, Doreen",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "abstimmend",
+      "fraktion": "BÜNDNIS 90/­DIE GRÜNEN",
+      "vote": "nein"
+    },
+    {
+      "slug": "timo-schreyer",
+      "name": "Timo Schreyer",
+      "name_padoka": "Schreyer, Timo",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "thomas-schmidt",
+      "name": "Thomas Schmidt",
+      "name_padoka": "Schmidt, Thomas",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "jorg-schmidt",
+      "name": "Jörg Schmidt",
+      "name_padoka": "Schmidt, Jörg",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "marko-schiemann",
+      "name": "Marko Schiemann",
+      "name_padoka": "Schiemann, Marko",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "jorg-scheibe",
+      "name": "Jörg Scheibe",
+      "name_padoka": "Scheibe, Jörg",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "abstimmend",
+      "fraktion": "Die Linke",
+      "vote": "nein"
+    },
+    {
+      "slug": "ines-saborowski",
+      "name": "Ines Saborowski",
+      "name_padoka": "Saborowski, Ines",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "nico-rudolph",
+      "name": "Nico Rudolph",
+      "name_padoka": "Rudolph, Nico",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "wolf-dietrich-rost",
+      "name": "Wolf-Dietrich Rost",
+      "name_padoka": "Rost, Wolf-Dietrich",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "kay-ritter",
+      "name": "Kay Ritter",
+      "name_padoka": "Ritter, Kay",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "lutz-richter",
+      "name": "Lutz Richter",
+      "name_padoka": "Richter, Lutz",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "eric-recke",
+      "name": "Eric Recke",
+      "name_padoka": "Recke, Eric",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "abwesend"
+    },
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "abwesend"
+    },
+    {
+      "slug": "ronald-pohle",
+      "name": "Ronald Pohle",
+      "name_padoka": "Pohle, Ronald",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "christian-piwarz",
+      "name": "Christian Piwarz",
+      "name_padoka": "Piwarz, Christian",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "juliane-pfeil",
+      "name": "Juliane Pfeil",
+      "name_padoka": "Pfeil, Juliane",
+      "role": "abstimmend",
+      "fraktion": "SPD",
+      "vote": "nein"
+    },
+    {
+      "slug": "daniela-pfeifer",
+      "name": "Daniela Pfeifer",
+      "name_padoka": "Pfeifer, Daniela",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "janina-pfau",
+      "name": "Janina Pfau",
+      "name_padoka": "Pfau, Janina",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "frank-peschel",
+      "name": "Frank Peschel",
+      "name_padoka": "Peschel, Frank",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "romy-penz",
+      "name": "Romy Penz",
+      "name_padoka": "Penz, Romy",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "peter-wilhelm-patt",
+      "name": "Peter Wilhelm Patt",
+      "name_padoka": "Patt, Peter Wilhelm",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "dirk-panter",
+      "name": "Dirk Panter",
+      "name_padoka": "Panter, Dirk",
+      "role": "abstimmend",
+      "fraktion": "SPD",
+      "vote": "nein"
+    },
+    {
+      "slug": "albrecht-pallas",
+      "name": "Albrecht Pallas",
+      "name_padoka": "Pallas, Albrecht",
+      "role": "abstimmend",
+      "fraktion": "SPD",
+      "vote": "nein"
+    },
+    {
+      "slug": "arthur-osterle",
+      "name": "Arthur Österle",
+      "name_padoka": "Österle, Arthur",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "andreas-nowak",
+      "name": "Andreas Nowak",
+      "name_padoka": "Nowak, Andreas",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "kerstin-nicolaus",
+      "name": "Kerstin Nicolaus",
+      "name_padoka": "Nicolaus, Kerstin",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "abwesend"
+    },
+    {
+      "slug": "nam-duy-nguyen",
+      "name": "Nam Duy Nguyen",
+      "name_padoka": "Nguyen, Nam Duy",
+      "role": "abstimmend",
+      "fraktion": "Die Linke",
+      "vote": "nein"
+    },
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "abstimmend",
+      "fraktion": "Die Linke",
+      "vote": "nein"
+    },
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "abstimmend",
+      "fraktion": "Die Linke",
+      "vote": "abwesend"
+    },
+    {
+      "slug": "mike-moncsek",
+      "name": "Mike Moncsek",
+      "name_padoka": "Moncsek, Mike",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "martin-modschiedler",
+      "name": "Martin Modschiedler",
+      "name_padoka": "Modschiedler, Martin",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "christin-melcher",
+      "name": "Christin Melcher",
+      "name_padoka": "Melcher, Christin",
+      "role": "abstimmend",
+      "fraktion": "BÜNDNIS 90/­DIE GRÜNEN",
+      "vote": "nein"
+    },
+    {
+      "slug": "katja-meier",
+      "name": "Katja Meier",
+      "name_padoka": "Meier, Katja",
+      "role": "abstimmend",
+      "fraktion": "BÜNDNIS 90/­DIE GRÜNEN",
+      "vote": "nein"
+    },
+    {
+      "slug": "norbert-otto-mayer",
+      "name": "Norbert Otto Mayer",
+      "name_padoka": "Mayer, Norbert Otto",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "claudia-maicher",
+      "name": "Claudia Maicher",
+      "name_padoka": "Maicher, Claudia",
+      "role": "abstimmend",
+      "fraktion": "BÜNDNIS 90/­DIE GRÜNEN",
+      "vote": "nein"
+    },
+    {
+      "slug": "thomas-loser",
+      "name": "Thomas Löser",
+      "name_padoka": "Löser, Thomas",
+      "role": "abstimmend",
+      "fraktion": "BÜNDNIS 90/­DIE GRÜNEN",
+      "vote": "nein"
+    },
+    {
+      "slug": "jan-loffler",
+      "name": "Jan Löffler",
+      "name_padoka": "Löffler, Jan",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "valentin-lippmann",
+      "name": "Valentin Lippmann",
+      "name_padoka": "Lippmann, Valentin",
+      "role": "abstimmend",
+      "fraktion": "BÜNDNIS 90/­DIE GRÜNEN",
+      "vote": "nein"
+    },
+    {
+      "slug": "susan-leithoff",
+      "name": "Susan Leithoff",
+      "name_padoka": "Leithoff, Susan",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "ulf-gunter-lange",
+      "name": "Ulf Günter Lange",
+      "name_padoka": "Lange, Ulf Günter",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "simone-lang",
+      "name": "Simone Lang",
+      "name_padoka": "Lang, Simone",
+      "role": "abstimmend",
+      "fraktion": "SPD",
+      "vote": "nein"
+    },
+    {
+      "slug": "lars-kuppi",
+      "name": "Lars Kuppi",
+      "name_padoka": "Kuppi, Lars",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "ronny-kupke",
+      "name": "Ronny Kupke",
+      "name_padoka": "Kupke, Ronny",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "roberto-kuhnert",
+      "name": "Roberto Kuhnert",
+      "name_padoka": "Kuhnert, Roberto",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "abwesend"
+    },
+    {
+      "slug": "daniela-kuge",
+      "name": "Daniela Kuge",
+      "name_padoka": "Kuge, Daniela",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "frank-kromer",
+      "name": "Frank Kromer",
+      "name_padoka": "Kromer, Frank",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "michael-kretschmer",
+      "name": "Michael Kretschmer",
+      "name_padoka": "Kretschmer, Michael",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "abwesend"
+    },
+    {
+      "slug": "petra-kopping",
+      "name": "Petra Köpping",
+      "name_padoka": "Köpping, Petra",
+      "role": "abstimmend",
+      "fraktion": "SPD",
+      "vote": "nein"
+    },
+    {
+      "slug": "sophie-koch",
+      "name": "Sophie Koch",
+      "name_padoka": "Koch, Sophie",
+      "role": "abstimmend",
+      "fraktion": "SPD",
+      "vote": "nein"
+    },
+    {
+      "slug": "uta-knebel",
+      "name": "Uta Knebel",
+      "name_padoka": "Knebel, Uta",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "barbara-klepsch",
+      "name": "Barbara Klepsch",
+      "name_padoka": "Klepsch, Barbara",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "ina-klemm",
+      "name": "Ina Klemm",
+      "name_padoka": "Klemm, Ina",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "thomas-kirste",
+      "name": "Thomas Kirste",
+      "name_padoka": "Kirste, Thomas",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "tobias-keller",
+      "name": "Tobias Keller",
+      "name_padoka": "Keller, Tobias",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "joachim-keiler",
+      "name": "Joachim Keiler",
+      "name_padoka": "Keiler, Joachim",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "martina-jost",
+      "name": "Martina Jost",
+      "name_padoka": "Jost, Martina",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "elaine-jentsch",
+      "name": "Elaine Jentsch",
+      "name_padoka": "Jentsch, Elaine",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "ingolf-huhn",
+      "name": "Ingolf Huhn",
+      "name_padoka": "Huhn, Ingolf",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "henning-homann",
+      "name": "Henning Homann",
+      "name_padoka": "Homann, Henning",
+      "role": "abstimmend",
+      "fraktion": "SPD",
+      "vote": "nein"
+    },
+    {
+      "slug": "felix-hitzig",
+      "name": "Felix Hitzig",
+      "name_padoka": "Hitzig, Felix",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "holger-hentschel",
+      "name": "Holger Hentschel",
+      "name_padoka": "Hentschel, Holger",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "tobias-heller",
+      "name": "Tobias Heller",
+      "name_padoka": "Heller, Tobias",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "abwesend"
+    },
+    {
+      "slug": "andreas-heinz",
+      "name": "Andreas Heinz",
+      "name_padoka": "Heinz, Andreas",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "christian-hartmann",
+      "name": "Christian Hartmann",
+      "name_padoka": "Hartmann, Christian",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "stefan-hartmann",
+      "name": "Stefan Hartmann",
+      "name_padoka": "Hartmann, Stefan",
+      "role": "abstimmend",
+      "fraktion": "Die Linke",
+      "vote": "nein"
+    },
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "abstimmend",
+      "fraktion": "BÜNDNIS 90/­DIE GRÜNEN",
+      "vote": "nein"
+    },
+    {
+      "slug": "heiko-gumprecht",
+      "name": "Heiko Gumprecht",
+      "name_padoka": "Gumprecht, Heiko",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "roman-golombek",
+      "name": "Roman Golombek",
+      "name_padoka": "Golombek, Roman",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "sandra-gockel",
+      "name": "Sandra Gockel",
+      "name_padoka": "Gockel, Sandra",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "andreas-gerold",
+      "name": "Andreas Gerold",
+      "name_padoka": "Gerold, Andreas",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "abwesend"
+    },
+    {
+      "slug": "sebastian-gemkow",
+      "name": "Sebastian Gemkow",
+      "name_padoka": "Gemkow, Sebastian",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "abstimmend",
+      "fraktion": "Die Linke",
+      "vote": "nein"
+    },
+    {
+      "slug": "holger-gasse",
+      "name": "Holger Gasse",
+      "name_padoka": "Gasse, Holger",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "torsten-gahler",
+      "name": "Torsten Gahler",
+      "name_padoka": "Gahler, Torsten",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "oliver-fritzsche",
+      "name": "Oliver Fritzsche",
+      "name_padoka": "Fritzsche, Oliver",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "ingo-flemming",
+      "name": "Ingo Flemming",
+      "name_padoka": "Flemming, Ingo",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "iris-firmenich",
+      "name": "Iris Firmenich",
+      "name_padoka": "Firmenich, Iris",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "hajo-exner",
+      "name": "Hajo Exner",
+      "name_padoka": "Exner, Hajo",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "sven-eppinger",
+      "name": "Sven Eppinger",
+      "name_padoka": "Eppinger, Sven",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "gerald-eisenblatter",
+      "name": "Gerald Eisenblätter",
+      "name_padoka": "Eisenblätter, Gerald",
+      "role": "abstimmend",
+      "fraktion": "SPD",
+      "vote": "nein"
+    },
+    {
+      "slug": "jonas-dunzel",
+      "name": "Jonas Dünzel",
+      "name_padoka": "Dünzel, Jonas",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "martin-dulig",
+      "name": "Martin Dulig",
+      "name_padoka": "Dulig, Martin",
+      "role": "abstimmend",
+      "fraktion": "SPD",
+      "vote": "nein"
+    },
+    {
+      "slug": "volker-gotz-dringenberg",
+      "name": "Volker Götz Dringenberg",
+      "name_padoka": "Dringenberg, Volker Götz",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "katja-dietz",
+      "name": "Katja Dietz",
+      "name_padoka": "Dietz, Katja",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "alexander-dierks",
+      "name": "Alexander Dierks",
+      "name_padoka": "Dierks, Alexander",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "conrad-clemens",
+      "name": "Conrad Clemens",
+      "name_padoka": "Clemens, Conrad",
+      "role": "abstimmend",
+      "fraktion": "CDU",
+      "vote": "nein"
+    },
+    {
+      "slug": "martin-braukmann",
+      "name": "Martin Braukmann",
+      "name_padoka": "Braukmann, Martin",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "ralf-bohme",
+      "name": "Ralf Böhme",
+      "name_padoka": "Böhme, Ralf",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "ines-biebrach",
+      "name": "Ines Biebrach",
+      "name_padoka": "Biebrach, Ines",
+      "role": "abstimmend",
+      "fraktion": "BSW",
+      "vote": "ja"
+    },
+    {
+      "slug": "matthias-berger",
+      "name": "Matthias Berger",
+      "name_padoka": "Berger, Matthias",
+      "role": "abstimmend",
+      "fraktion": "fraktionslos",
+      "vote": "ja"
+    },
+    {
+      "slug": "mario-beger",
+      "name": "Mario Beger",
+      "name_padoka": "Beger, Mario",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "andre-barth",
+      "name": "André Barth",
+      "name_padoka": "Barth, André",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    },
+    {
+      "slug": "peter-bachmann",
+      "name": "Peter Bachmann",
+      "name_padoka": "Bachmann, Peter",
+      "role": "abstimmend",
+      "fraktion": "AfD",
+      "vote": "ja"
+    }
+  ],
+  "fraktionen": [
+    "afd",
+    "bsw",
+    "cdu",
+    "spd",
+    "fraktionslos",
+    "die-linke"
+  ],
+  "vote": {
+    "result": "ablehnung",
+    "ja": 49,
+    "nein": 61,
+    "enthalten": 0,
+    "abwesend": 10,
+    "stimmberechtigt": 120
+  },
+  "document": {
+    "url": "https://www.abgeordnetenwatch.de/sachsen/8/abstimmungen/aenderung-der-saechsischen-bauordnung"
+  }
+}

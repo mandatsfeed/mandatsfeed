@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214011600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Marktbasierte Resilienz – Versorgung mit kritischen Rohstoffen durch wirtschaftsgetragene Strategien und Reservehaltung stärken",
+  "date": "2025-11-13",
+  "persons": [
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "name_padoka": "Conrad, Agnes",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/40",
+    "date": "2025-11-13",
+    "page": 4645
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21040.pdf"
+  }
+}

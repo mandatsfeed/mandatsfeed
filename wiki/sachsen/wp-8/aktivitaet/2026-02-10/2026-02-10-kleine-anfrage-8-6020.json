@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6020",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Werden die Lausitzer Kohlekumpel von der Staatsregierung nicht ernst genommen?",
+  "date": "2026-02-10",
+  "drsNr": "8/6020",
+  "persons": [
+    {
+      "slug": "timo-schreyer",
+      "name": "Timo Schreyer",
+      "name_padoka": "Schreyer, Timo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48257",
+    "filename": "Drs_8_6020_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

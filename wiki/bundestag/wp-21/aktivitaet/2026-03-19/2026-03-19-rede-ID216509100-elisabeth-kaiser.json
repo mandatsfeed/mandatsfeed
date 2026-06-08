@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216509100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "18. März – Tag der Demokratiegeschichte – Orte der Freiheit und Demokratie in Deutschland weiter stärken",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "elisabeth-kaiser",
+      "name": "Elisabeth Kaiser",
+      "name_padoka": "Kaiser, Elisabeth",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Beauftragte der Bundesregierung für Ostdeutschland"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5587",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Dokumentation, Transparenz und Aktenführung bei Polizeieinsätzen im Zusammenhang mit Corona-Demonstrationen",
+  "date": "2026-01-14",
+  "drsNr": "8/5587",
+  "persons": [
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47335",
+    "filename": "Drs_8_5587_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

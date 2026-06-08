@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215300500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sanktionen stoppen und Arbeitsvermittlung stärken –Grundpfeiler einer menschenwürdigen Grundsicherung — Grundrechte verwirklichen – Asylbewerberleistungsgesetz abschaffen statt ausweiten, Haushalte der Länder und Kommunen entlasten",
+  "date": "2026-01-15",
+  "persons": [
+    {
+      "slug": "heidi-reichinnek",
+      "name": "Heidi Reichinnek",
+      "name_padoka": "Reichinnek, Heidi",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/53",
+    "date": "2026-01-15",
+    "page": 6420
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21053.pdf"
+  }
+}

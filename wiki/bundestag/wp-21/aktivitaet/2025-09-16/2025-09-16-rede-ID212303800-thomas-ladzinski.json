@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212303800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 25",
+  "date": "2025-09-16",
+  "persons": [
+    {
+      "slug": "thomas-ladzinski",
+      "name": "Thomas Ladzinski",
+      "name_padoka": "Ladzinski, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/23",
+    "date": "2025-09-16",
+    "page": 2452
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21023.pdf"
+  }
+}

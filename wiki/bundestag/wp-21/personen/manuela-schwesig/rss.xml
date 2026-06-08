@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Manuela Schwesig (Deutscher Bundestag, WP-21)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID216207600</guid>
+      <title>Aktuelle Stunde — Gefährdungen der digitalen Teilhabe entgegentreten – Einschränkungen des digitalen Raums, EUDI-Wallet und Social-Media-Verbote verhindern</title>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21062.pdf</link>
+      <description>Rede · Plenarprotokoll 21/62, S. 7583</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID215307200</guid>
+      <title>Aktuelle Stunde — Zukunftsperspektiven für Landwirtschaft und Weinbau in Deutschland schaffen – Attraktivität und Kulturgut ländlicher Räume erhalten</title>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21053.pdf</link>
+      <description>Rede · Plenarprotokoll 21/53, S. 6420</description>
+    </item>
+  </channel>
+</rss>

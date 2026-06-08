@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6722",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Hintergründe zur Festnahme von IS-Kämpfern am 15.04.2026, 24.03.2026 und 18.03.2026 in Sachsen",
+  "date": "2026-04-16",
+  "drsNr": "8/6722",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=49932",
+    "filename": "Drs_8_6722_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

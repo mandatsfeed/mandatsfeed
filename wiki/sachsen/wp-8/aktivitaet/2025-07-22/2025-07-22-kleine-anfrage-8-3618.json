@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3618",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Substrate, Reststoffe und rechtl. Rahmenbedingungen von Biogasanlagen in Sachsen",
+  "date": "2025-07-22",
+  "drsNr": "8/3618",
+  "persons": [
+    {
+      "slug": "ulf-gunter-lange",
+      "name": "Ulf Günter Lange",
+      "name_padoka": "Lange, Ulf Günter",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43163",
+    "filename": "Drs_8_3618_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

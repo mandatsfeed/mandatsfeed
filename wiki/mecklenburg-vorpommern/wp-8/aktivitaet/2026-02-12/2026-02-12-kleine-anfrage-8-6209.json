@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6209",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Planfeststellungsverfahren zur Wiedervernässung des Niedermoorgebietes „Serrahn Süd“ und der Uferterrassen des Damerower Sees „Obere Mildenitz“",
+  "date": "2026-02-12",
+  "drsNr": "8/6209",
+  "persons": [
+    {
+      "slug": "beate-schlupp",
+      "name": "Beate Schlupp",
+      "name_padoka": "Schlupp, Beate",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70136"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-78",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bedrohung und Verstoß gegen das Waffengesetz durch einen afghanischen Staatsbürger am 11.09.2024 an einer Schule in Annaberg-Buchholz",
+  "date": "2024-10-07",
+  "drsNr": "8/78",
+  "persons": [
+    {
+      "slug": "thomas-thumm",
+      "name": "Thomas Thumm",
+      "name_padoka": "Thumm, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36231",
+    "filename": "Drs_8_78_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

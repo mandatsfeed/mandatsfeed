@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2715",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kältetote in Thüringen",
+  "date": "2026-01-13",
+  "drsNr": "8/2715",
+  "persons": [
+    {
+      "slug": "katja-maurer",
+      "name": "Katja Maurer",
+      "name_padoka": "Maurer, Katja",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105380"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

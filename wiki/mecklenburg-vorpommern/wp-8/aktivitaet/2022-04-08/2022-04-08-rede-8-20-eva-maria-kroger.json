@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-20-eva-maria-kroger",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/20",
+  "date": "2022-04-08",
+  "persons": [
+    {
+      "slug": "eva-maria-kroger",
+      "name": "Eva-Maria Kröger",
+      "name_padoka": "Kröger, Eva-Maria",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/20",
+    "date": "2022-04-08"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/52445"
+  }
+}

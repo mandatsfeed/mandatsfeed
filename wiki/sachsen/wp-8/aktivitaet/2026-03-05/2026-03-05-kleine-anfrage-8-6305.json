@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6305",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Landesuntersuchungsanstalt für Gesundheits- und Veterinärwesen",
+  "date": "2026-03-05",
+  "drsNr": "8/6305",
+  "persons": [
+    {
+      "slug": "frank-peschel",
+      "name": "Frank Peschel",
+      "name_padoka": "Peschel, Frank",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48817",
+    "filename": "Drs_8_6305_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

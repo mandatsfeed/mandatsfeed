@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213912400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "70. Gründungsjubiläum der Bundeswehr",
+  "date": "2025-11-12",
+  "persons": [
+    {
+      "slug": "norbert-rottgen",
+      "name": "Norbert Röttgen",
+      "name_padoka": "Röttgen, Norbert",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/39",
+    "date": "2025-11-12",
+    "page": 4477
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21039.pdf"
+  }
+}

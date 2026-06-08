@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-19-andreas-butzki",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "14 Redebeiträge in PlPr 8/19",
+  "date": "2022-04-07",
+  "persons": [
+    {
+      "slug": "andreas-butzki",
+      "name": "Andreas Butzki",
+      "name_padoka": "Butzki, Andreas",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/19",
+    "date": "2022-04-07"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/52440"
+  }
+}

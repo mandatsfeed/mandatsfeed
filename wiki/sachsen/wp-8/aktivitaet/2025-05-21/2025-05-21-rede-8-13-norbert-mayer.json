@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-13-norbert-mayer",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "12 Redebeiträge in 13. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-05-21",
+  "persons": [
+    {
+      "slug": "norbert-mayer",
+      "name": "Norbert Mayer",
+      "name_padoka": "Mayer, Norbert",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/13",
+    "date": "2025-05-21"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=42076"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211011300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 15",
+  "date": "2025-06-05",
+  "persons": [
+    {
+      "slug": "anja-troff-schaffarzyk",
+      "name": "Anja Troff-Schaffarzyk",
+      "name_padoka": "Troff-Schaffarzyk, Anja",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/10",
+    "date": "2025-06-05",
+    "page": 894
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21010.pdf"
+  }
+}

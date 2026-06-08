@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-6219",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Deutsch-britische gewerkschaftspolitische Zusammenarbeit nach dem Kensington-Vertrag",
+  "date": "2026-06-03",
+  "persons": [
+    {
+      "slug": "hans-jurgen-gossner",
+      "name": "Hans-Jürgen Goßner",
+      "name_padoka": "Goßner, Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6219",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/062/2106219.pdf",
+    "filename": "2106219.pdf"
+  }
+}

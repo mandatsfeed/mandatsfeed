@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215213200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Mutmaßlich linksextremistischer Terroranschlag auf die Stromversorgung in Berlin – Krisenmanagement und mögliches Versagen untersuchen",
+  "date": "2026-01-14",
+  "persons": [
+    {
+      "slug": "ruppert-stuwe",
+      "name": "Ruppert Stüwe",
+      "name_padoka": "Stüwe, Ruppert",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/52",
+    "date": "2026-01-14",
+    "page": 6266
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21052.pdf"
+  }
+}

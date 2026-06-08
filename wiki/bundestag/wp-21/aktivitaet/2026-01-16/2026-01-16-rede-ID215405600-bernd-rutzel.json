@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215405600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Lieferkettensorgfaltspflichtengesetz abschaffen — Lieferkettensorgfaltspflichtengesetz erhalten und verbessern – Umweltstandards, Menschenrechte und globale Solidarität stärken",
+  "date": "2026-01-16",
+  "persons": [
+    {
+      "slug": "bernd-rutzel",
+      "name": "Bernd Rützel",
+      "name_padoka": "Rützel, Bernd",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/54",
+    "date": "2026-01-16",
+    "page": 6545
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21054.pdf"
+  }
+}

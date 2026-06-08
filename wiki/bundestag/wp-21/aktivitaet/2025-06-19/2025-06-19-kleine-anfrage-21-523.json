@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-523",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Umweltschutz und Havarierisiken bei Offshorewindparks in der Nord- und Ostsee",
+  "date": "2025-06-19",
+  "persons": [
+    {
+      "slug": "marcel-queckemeyer",
+      "name": "Marcel Queckemeyer",
+      "name_padoka": "Queckemeyer, Marcel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/523",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/005/2100523.pdf",
+    "filename": "2100523.pdf"
+  }
+}

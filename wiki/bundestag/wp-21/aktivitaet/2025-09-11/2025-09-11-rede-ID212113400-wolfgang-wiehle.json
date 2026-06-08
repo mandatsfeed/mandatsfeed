@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212113400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschlandticket weiterentwickeln und langfristig sichern — Investitionen in die Erweiterung des Schienennetzes sicherstellen – Deutschlandtakt auf den Weg bringen",
+  "date": "2025-09-11",
+  "persons": [
+    {
+      "slug": "wolfgang-wiehle",
+      "name": "Wolfgang Wiehle",
+      "name_padoka": "Wiehle, Wolfgang",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/21",
+    "date": "2025-09-11",
+    "page": 2179
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21021.pdf"
+  }
+}

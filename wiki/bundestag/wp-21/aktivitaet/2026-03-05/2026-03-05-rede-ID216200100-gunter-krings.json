@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216200100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 19",
+  "date": "2026-03-05",
+  "persons": [
+    {
+      "slug": "gunter-krings",
+      "name": "Günter Krings",
+      "name_padoka": "Krings, Günter",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/62",
+    "date": "2026-03-05",
+    "page": 7583
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21062.pdf"
+  }
+}

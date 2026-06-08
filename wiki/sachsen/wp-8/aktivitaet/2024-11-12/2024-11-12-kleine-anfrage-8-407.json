@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-407",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Evaluation des Schulnetzplans 2025",
+  "date": "2024-11-12",
+  "drsNr": "8/407",
+  "persons": [
+    {
+      "slug": "frank-peschel",
+      "name": "Frank Peschel",
+      "name_padoka": "Peschel, Frank",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36835",
+    "filename": "Drs_8_407_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

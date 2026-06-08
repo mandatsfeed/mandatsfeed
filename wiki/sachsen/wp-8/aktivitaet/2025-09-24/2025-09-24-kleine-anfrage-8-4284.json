@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4284",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Förderung und Reinigung Gemeindestraßen",
+  "date": "2025-09-24",
+  "drsNr": "8/4284",
+  "persons": [
+    {
+      "slug": "frank-peschel",
+      "name": "Frank Peschel",
+      "name_padoka": "Peschel, Frank",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44777",
+    "filename": "Drs_8_4284_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

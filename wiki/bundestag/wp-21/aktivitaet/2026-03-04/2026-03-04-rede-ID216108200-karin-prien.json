@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216108200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-03-04",
+  "persons": [
+    {
+      "slug": "karin-prien",
+      "name": "Karin Prien",
+      "name_padoka": "Prien, Karin",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/61",
+    "date": "2026-03-04",
+    "page": 7423
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21061.pdf"
+  }
+}

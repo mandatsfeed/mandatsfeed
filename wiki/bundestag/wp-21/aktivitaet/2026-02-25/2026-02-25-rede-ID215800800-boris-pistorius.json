@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215800800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-02-25",
+  "persons": [
+    {
+      "slug": "boris-pistorius",
+      "name": "Boris Pistorius",
+      "name_padoka": "Pistorius, Boris",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister der Verteidigung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/58",
+    "date": "2026-02-25",
+    "page": 7018
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21058.pdf"
+  }
+}

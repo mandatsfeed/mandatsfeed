@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212604300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 12",
+  "date": "2025-09-23",
+  "persons": [
+    {
+      "slug": "stefan-henze",
+      "name": "Stefan Henze",
+      "name_padoka": "Henze, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/26",
+    "date": "2025-09-23",
+    "page": 2797
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21026.pdf"
+  }
+}

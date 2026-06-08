@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5987",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Grunderwerbsteuer bei Kauf von kommunalen Wohnungen durch kommunale Wohnungsgesellschaft einer anderen Gemeinde",
+  "date": "2026-02-07",
+  "drsNr": "8/5987",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48212",
+    "filename": "Drs_8_5987_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

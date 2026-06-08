@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213712500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Afghanistan – Für eine neue Realpolitik — Für ein sicheres Deutschland – Strafverbüßung in Afghanistan ermöglichen, deutsches Justizsystem entlasten",
+  "date": "2025-11-06",
+  "persons": [
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/37",
+    "date": "2025-11-06",
+    "page": 4261
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21037.pdf"
+  }
+}

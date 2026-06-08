@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213112600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 16",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "klaus-mack",
+      "name": "Klaus Mack",
+      "name_padoka": "Mack, Klaus",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

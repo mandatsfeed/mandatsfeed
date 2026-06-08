@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2714",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Maßnahmen gegen die Gefahr von Kältetoten in Thüringen",
+  "date": "2026-01-13",
+  "drsNr": "8/2714",
+  "persons": [
+    {
+      "slug": "linda-stark",
+      "name": "Linda Stark",
+      "name_padoka": "Stark, Linda",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105377"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

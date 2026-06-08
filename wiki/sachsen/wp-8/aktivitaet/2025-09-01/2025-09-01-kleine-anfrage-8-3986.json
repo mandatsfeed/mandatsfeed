@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3986",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einsparungen bei Personalausgaben im Doppelhaushalt 2025/2026",
+  "date": "2025-09-01",
+  "drsNr": "8/3986",
+  "persons": [
+    {
+      "slug": "nam-duy-nguyen",
+      "name": "Nam Duy Nguyen",
+      "name_padoka": "Nguyen, Nam Duy",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44053",
+    "filename": "Drs_8_3986_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21400300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+  "date": "2025-05-15",
+  "persons": [
+    {
+      "slug": "mathias-middelberg",
+      "name": "Mathias Middelberg",
+      "name_padoka": "Middelberg, Mathias",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/4",
+    "date": "2025-05-15",
+    "page": 313
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21004.pdf"
+  }
+}

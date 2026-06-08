@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216506700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "zu dem Streitverfahren vor dem Bundesverfassungsgericht 2 BvC 4/26 — Sammelübersicht 184 zu Petitionen",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "benedikt-budenbender",
+      "name": "Benedikt Büdenbender",
+      "name_padoka": "Büdenbender, Benedikt",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-48-philipp-da-cunha",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/48",
+  "date": "2023-03-22",
+  "persons": [
+    {
+      "slug": "philipp-da-cunha",
+      "name": "Philipp da Cunha",
+      "name_padoka": "Cunha, Philipp da",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/48",
+    "date": "2023-03-22"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/56349"
+  }
+}

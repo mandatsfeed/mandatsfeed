@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-16-franziska-schubert",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "12 Redebeiträge in zu Drs 8/2150\r\nGesetz über die Feststellung des Haushaltsplanes des Freistaates Sachsen für die Haushaltsjahre 2025 und 2026 (Haushaltsgesetz 2025/2026 - HG 2025/2026)",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "redner",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/16",
+    "date": "2025-06-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=43066"
+  }
+}

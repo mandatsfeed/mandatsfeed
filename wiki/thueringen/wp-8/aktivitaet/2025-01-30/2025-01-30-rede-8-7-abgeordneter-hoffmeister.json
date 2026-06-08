@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-7-abgeordneter-hoffmeister",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/7",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "abgeordneter-hoffmeister",
+      "name": "Abgeordneter Hoffmeister",
+      "name_padoka": "Hoffmeister, Abgeordneter",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/7",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/100342"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213400100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zum Europäischen Rat am 23. und 24. Oktober 2025 in Brüssel",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "friedrich-merz",
+      "name": "Friedrich Merz",
+      "name_padoka": "Merz, Friedrich",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundeskanzler"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

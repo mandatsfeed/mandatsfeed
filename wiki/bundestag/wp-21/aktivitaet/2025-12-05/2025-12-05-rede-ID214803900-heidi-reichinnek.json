@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214803900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Rentenversicherung transparent und fair finanzieren – Gesamtstaatliche Finanzierungsverantwortung einlösen — Betriebliche Altersvorsorge modernisieren – ETF-Betriebsrente ermöglichen",
+  "date": "2025-12-05",
+  "persons": [
+    {
+      "slug": "heidi-reichinnek",
+      "name": "Heidi Reichinnek",
+      "name_padoka": "Reichinnek, Heidi",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/48",
+    "date": "2025-12-05",
+    "page": 5732
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21048.pdf"
+  }
+}

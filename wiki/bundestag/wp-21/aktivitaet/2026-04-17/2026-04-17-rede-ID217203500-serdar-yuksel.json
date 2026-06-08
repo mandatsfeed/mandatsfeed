@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217203500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zeitnahe Arzttermine für alle ermöglichen – Gute ambulante Versorgung flächendeckend gewährleisten",
+  "date": "2026-04-17",
+  "persons": [
+    {
+      "slug": "serdar-yuksel",
+      "name": "Serdar Yüksel",
+      "name_padoka": "Yüksel, Serdar",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/72",
+    "date": "2026-04-17",
+    "page": 8705
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21072.pdf"
+  }
+}

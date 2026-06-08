@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-37-abgeordneter-kuntzel",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/37",
+  "date": "2026-02-06",
+  "persons": [
+    {
+      "slug": "abgeordneter-kuntzel",
+      "name": "Abgeordneter Küntzel",
+      "name_padoka": "Küntzel, Abgeordneter",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/37",
+    "date": "2026-02-06"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105794"
+  }
+}

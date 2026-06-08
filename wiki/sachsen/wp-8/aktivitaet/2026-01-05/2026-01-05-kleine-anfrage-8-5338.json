@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5338",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Opfer- und Präventionshilfe SMJus nach der FÖMISAX Richtliniennummer 07770",
+  "date": "2026-01-05",
+  "drsNr": "8/5338",
+  "persons": [
+    {
+      "slug": "alexander-wiesner",
+      "name": "Alexander Wiesner",
+      "name_padoka": "Wiesner, Alexander",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46959",
+    "filename": "Drs_8_5338_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

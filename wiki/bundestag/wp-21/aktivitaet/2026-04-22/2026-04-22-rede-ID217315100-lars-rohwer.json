@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217315100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einsetzung einer Expertenkommission zur Prüfung der Wiederinbetriebnahme abgeschalteter Kernkraftwerke",
+  "date": "2026-04-22",
+  "persons": [
+    {
+      "slug": "lars-rohwer",
+      "name": "Lars Rohwer",
+      "name_padoka": "Rohwer, Lars",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/73",
+    "date": "2026-04-22",
+    "page": 8809
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21073.pdf"
+  }
+}

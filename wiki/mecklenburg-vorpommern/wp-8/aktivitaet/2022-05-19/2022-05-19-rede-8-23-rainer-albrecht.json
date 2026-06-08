@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-23-rainer-albrecht",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/23",
+  "date": "2022-05-19",
+  "persons": [
+    {
+      "slug": "rainer-albrecht",
+      "name": "Rainer Albrecht",
+      "name_padoka": "Albrecht, Rainer",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/23",
+    "date": "2022-05-19"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/52827"
+  }
+}

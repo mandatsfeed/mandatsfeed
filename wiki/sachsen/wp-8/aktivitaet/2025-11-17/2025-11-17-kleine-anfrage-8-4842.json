@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4842",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Gesundheitsprävention, Supervision sowie medizinisch-psychologische Versorgung in den Polizeidirektionen des Freistaates Sachsen",
+  "date": "2025-11-17",
+  "drsNr": "8/4842",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=45794",
+    "filename": "Drs_8_4842_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

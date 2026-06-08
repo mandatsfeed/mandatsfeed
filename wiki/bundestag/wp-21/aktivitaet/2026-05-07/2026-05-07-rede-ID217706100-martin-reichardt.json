@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217706100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschland braucht mehr Kinder – Neuausrichtung des Bundesinstituts für Bevölkerungsforschung — Babys willkommen heißen – Nationaler Aktionsplan für eine familienfreundliche Gesellschaft",
+  "date": "2026-05-07",
+  "persons": [
+    {
+      "slug": "martin-reichardt",
+      "name": "Martin Reichardt",
+      "name_padoka": "Reichardt, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/77",
+    "date": "2026-05-07",
+    "page": 9307
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21077.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214101500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Steuerfreier Hinzuverdienst für Senioren – Neuen 12.000-Euro-Freibetrag zusätzlich zum bestehenden Grundfreibetrag einführen",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "oliver-popsel",
+      "name": "Oliver Pöpsel",
+      "name_padoka": "Pöpsel, Oliver",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/41",
+    "date": "2025-11-14",
+    "page": 4840
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf"
+  }
+}

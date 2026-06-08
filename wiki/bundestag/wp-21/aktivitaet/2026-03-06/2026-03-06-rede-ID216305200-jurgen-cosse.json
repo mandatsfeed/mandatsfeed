@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216305200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Starke Kommunen, starke Demokratie – Für mehr Zusammenhalt vor Ort — Gutes Leben für alle – Handlungsfähigkeit der Kommunen wiederherstellen",
+  "date": "2026-03-06",
+  "persons": [
+    {
+      "slug": "jurgen-cosse",
+      "name": "Jürgen Coße",
+      "name_padoka": "Coße, Jürgen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/63",
+    "date": "2026-03-06",
+    "page": 7655
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21063.pdf"
+  }
+}

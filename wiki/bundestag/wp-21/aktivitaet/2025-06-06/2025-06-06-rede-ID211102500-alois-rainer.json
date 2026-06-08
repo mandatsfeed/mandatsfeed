@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211102500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 24",
+  "date": "2025-06-06",
+  "persons": [
+    {
+      "slug": "alois-rainer",
+      "name": "Alois Rainer",
+      "name_padoka": "Rainer, Alois",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister für Landwirtschaft, Ernährung und Heimat"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/11",
+    "date": "2025-06-06",
+    "page": 967
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21011.pdf"
+  }
+}

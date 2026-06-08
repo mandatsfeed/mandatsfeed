@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2021000100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Für eine neue wirtschaftliche Dynamik – Jahreswirtschaftsbericht 2025 — Jahreswirtschaftsbericht 2025 der Bundesregierung",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "robert-habeck",
+      "name": "Robert Habeck",
+      "name_padoka": "Habeck, Robert",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesminister für Wirtschaft und Klimaschutz"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

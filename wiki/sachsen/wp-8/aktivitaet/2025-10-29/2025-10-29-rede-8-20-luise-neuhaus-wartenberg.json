@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-20-luise-neuhaus-wartenberg",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in 20. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-10-29",
+  "persons": [
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/20",
+    "date": "2025-10-29"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=45726"
+  }
+}

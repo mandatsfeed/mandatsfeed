@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216707200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Jegliche Gewalt gegen Frauen und Mädchen bekämpfen – Staatliche Aufgabe und gesellschaftliche Verantwortung",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "karin-prien",
+      "name": "Karin Prien",
+      "name_padoka": "Prien, Karin",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/67",
+    "date": "2026-03-25",
+    "page": 8125
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21067.pdf"
+  }
+}

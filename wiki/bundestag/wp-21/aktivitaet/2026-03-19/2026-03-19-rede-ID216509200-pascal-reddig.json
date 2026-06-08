@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216509200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "18. März – Tag der Demokratiegeschichte – Orte der Freiheit und Demokratie in Deutschland weiter stärken",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "pascal-reddig",
+      "name": "Pascal Reddig",
+      "name_padoka": "Reddig, Pascal",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3190",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Drohende Versorgungssperre gegen Mieterinnen und Mieter bei der Wasserversorgung",
+  "date": "2026-03-26",
+  "drsNr": "8/3190",
+  "persons": [
+    {
+      "slug": "jens-thomas",
+      "name": "Jens Thomas",
+      "name_padoka": "Thomas, Jens",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106633"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

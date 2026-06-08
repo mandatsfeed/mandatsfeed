@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213506500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Privatsphäre schützen – Nein zur EU-Chatkontrolle",
+  "date": "2025-10-17",
+  "persons": [
+    {
+      "slug": "katja-strauss-koster",
+      "name": "Katja Strauss-Köster",
+      "name_padoka": "Strauss-Köster, Katja",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/35",
+    "date": "2025-10-17",
+    "page": 3937
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21035.pdf"
+  }
+}

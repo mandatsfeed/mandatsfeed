@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7128",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Anleitung zur Herstellung von Brandsätzen auf der linksextremistischen Plattform \"indymedia.org\"",
+  "date": "2026-05-29",
+  "drsNr": "8/7128",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51020",
+    "filename": "Drs_8_7128_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3517",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Antragstellung für Mittel aus der Stiftung des Bundes zur Abmilderung von Härtefällen aus der Ost-West-Rentenüberleitung, für jüdische Kontingentflüchtlinge und Spätaussiedler (Stiftung Härtefallfonds) in Sachsen",
+  "date": "2025-07-09",
+  "drsNr": "8/3517",
+  "persons": [
+    {
+      "slug": "katja-dietz",
+      "name": "Katja Dietz",
+      "name_padoka": "Dietz, Katja",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=42912",
+    "filename": "Drs_8_3517_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

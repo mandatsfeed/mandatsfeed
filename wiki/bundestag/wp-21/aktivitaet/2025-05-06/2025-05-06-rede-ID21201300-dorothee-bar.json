@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21201300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Eidesleistung der Bundesministerinnen und Bundesminister",
+  "date": "2025-05-06",
+  "persons": [
+    {
+      "slug": "dorothee-bar",
+      "name": "Dorothee Bär",
+      "name_padoka": "Bär, Dorothee",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Forschung, Technologie und Raumfahrt"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/2",
+    "date": "2025-05-06",
+    "page": 50
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21002.pdf"
+  }
+}

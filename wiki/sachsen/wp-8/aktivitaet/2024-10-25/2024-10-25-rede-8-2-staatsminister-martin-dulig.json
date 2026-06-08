@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-2-staatsminister-martin-dulig",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 2. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-10-25",
+  "persons": [
+    {
+      "slug": "staatsminister-martin-dulig",
+      "name": "Staatsminister Martin Dulig",
+      "name_padoka": "Dulig, Staatsminister Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/2",
+    "date": "2024-10-25"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=36783"
+  }
+}

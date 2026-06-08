@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-73-christine-klingohr",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/73",
+  "date": "2024-01-25",
+  "persons": [
+    {
+      "slug": "christine-klingohr",
+      "name": "Christine Klingohr",
+      "name_padoka": "Klingohr, Christine",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/73",
+    "date": "2024-01-25"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/59732"
+  }
+}

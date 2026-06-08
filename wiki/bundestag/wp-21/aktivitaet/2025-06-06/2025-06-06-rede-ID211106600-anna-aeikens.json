@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211106600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Klimakrise spitzt sich zu – Bundesregierung darf Klimaschutz nicht hintenanstellen",
+  "date": "2025-06-06",
+  "persons": [
+    {
+      "slug": "anna-aeikens",
+      "name": "Anna Aeikens",
+      "name_padoka": "Aeikens, Anna",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/11",
+    "date": "2025-06-06",
+    "page": 967
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21011.pdf"
+  }
+}

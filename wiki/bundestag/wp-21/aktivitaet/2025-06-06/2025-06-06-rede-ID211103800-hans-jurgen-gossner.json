@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211103800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mindestlohngesetz reformieren – 15 Euro pro Stunde sicherstellen — Mindestlohn auf 15 Euro anheben und dauerhaft armutsfest machen",
+  "date": "2025-06-06",
+  "persons": [
+    {
+      "slug": "hans-jurgen-gossner",
+      "name": "Hans-Jürgen Goßner",
+      "name_padoka": "Goßner, Hans-Jürgen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/11",
+    "date": "2025-06-06",
+    "page": 967
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21011.pdf"
+  }
+}

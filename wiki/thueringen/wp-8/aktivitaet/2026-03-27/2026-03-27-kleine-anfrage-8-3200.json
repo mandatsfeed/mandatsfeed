@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3200",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Anschaffung von Großtanklöschfahrzeugen in Thüringen",
+  "date": "2026-03-27",
+  "drsNr": "8/3200",
+  "persons": [
+    {
+      "slug": "claudia-heber",
+      "name": "Claudia Heber",
+      "name_padoka": "Heber, Claudia",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106518"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

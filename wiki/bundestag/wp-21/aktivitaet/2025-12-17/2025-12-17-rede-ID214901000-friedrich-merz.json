@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214901000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2025-12-17",
+  "persons": [
+    {
+      "slug": "friedrich-merz",
+      "name": "Friedrich Merz",
+      "name_padoka": "Merz, Friedrich",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundeskanzler"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/49",
+    "date": "2025-12-17",
+    "page": 5843
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21049.pdf"
+  }
+}

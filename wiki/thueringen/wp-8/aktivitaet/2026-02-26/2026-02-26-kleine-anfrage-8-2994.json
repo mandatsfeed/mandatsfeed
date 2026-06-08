@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2994",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Anpassung der geplanten Vollsperrung der Bundesstraße 85 in Rudolstadt zur Sicherstellung der Erreichbarkeit des Nordteils",
+  "date": "2026-02-26",
+  "drsNr": "8/2994",
+  "persons": [
+    {
+      "slug": "thomas-benninghaus",
+      "name": "Thomas Benninghaus",
+      "name_padoka": "Benninghaus, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106037"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

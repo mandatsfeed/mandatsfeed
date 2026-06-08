@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212806200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 16",
+  "date": "2025-09-25",
+  "persons": [
+    {
+      "slug": "fabian-fahl",
+      "name": "Fabian Fahl",
+      "name_padoka": "Fahl, Fabian",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/28",
+    "date": "2025-09-25",
+    "page": 3041
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21028.pdf"
+  }
+}

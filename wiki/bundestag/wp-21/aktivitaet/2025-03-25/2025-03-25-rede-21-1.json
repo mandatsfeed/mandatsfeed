@@ -1,0 +1,66 @@
+{
+  "id": "dip-rede-21-1",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Weitergeltung von Geschäftsordnungsrecht",
+  "date": "2025-03-25",
+  "persons": [
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "name_padoka": "Seidler, Stefan",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    },
+    {
+      "slug": "christian-gorke",
+      "name": "Christian Görke",
+      "name_padoka": "Görke, Christian",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "irene-mihalic",
+      "name": "Irene Mihalic",
+      "name_padoka": "Mihalic, Irene",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "johannes-fechner",
+      "name": "Johannes Fechner",
+      "name_padoka": "Fechner, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-hoffmann",
+      "name": "Alexander Hoffmann",
+      "name_padoka": "Hoffmann, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "afd",
+    "cdu-csu"
+  ],
+  "drsNr": "21/1",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21001.pdf#P.17",
+    "filename": "21001.pdf#P.17"
+  }
+}

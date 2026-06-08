@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2988",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Wo finden sich die vom Ministerpräsidenten erwähnten gestrichenen und vereinfachten Gesetze zum Bürokratieabbau?",
+  "date": "2026-02-25",
+  "drsNr": "8/2988",
+  "persons": [
+    {
+      "slug": "sascha-bilay",
+      "name": "Sascha Bilay",
+      "name_padoka": "Bilay, Sascha",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105996"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

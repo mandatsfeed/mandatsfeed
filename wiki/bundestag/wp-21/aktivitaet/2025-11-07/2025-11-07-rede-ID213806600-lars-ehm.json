@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213806600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 35",
+  "date": "2025-11-07",
+  "persons": [
+    {
+      "slug": "lars-ehm",
+      "name": "Lars Ehm",
+      "name_padoka": "Ehm, Lars",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/38",
+    "date": "2025-11-07",
+    "page": 4369
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21038.pdf"
+  }
+}

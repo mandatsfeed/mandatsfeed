@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213916100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kindergesundheit stärken – Versorgung umfassend verbessern und nachhaltig finanzieren — Vorhaltungen der Krankenhäuser verlässlich finanzieren – Ausgliederung sämtlicher Personalkosten aus den Fallpauschalen",
+  "date": "2025-11-12",
+  "persons": [
+    {
+      "slug": "axel-muller",
+      "name": "Axel Müller",
+      "name_padoka": "Müller, Axel",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/39",
+    "date": "2025-11-12",
+    "page": 4477
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21039.pdf"
+  }
+}

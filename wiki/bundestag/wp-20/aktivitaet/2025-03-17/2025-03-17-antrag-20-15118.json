@@ -1,0 +1,88 @@
+{
+  "id": "dip-drs-20-15118",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "antrag",
+  "title": "Entschließungsantrag zum Gesetz zur Änderung des Grundgesetzes (Artikel 109, 115 und 143h)",
+  "date": "2025-03-17",
+  "persons": [
+    {
+      "slug": "ali-al-dailami",
+      "name": "Ali Al-Dailami",
+      "name_padoka": "Al-Dailami, Ali",
+      "role": "antragsteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "sevim-dagdelen",
+      "name": "Sevim Dagdelen",
+      "name_padoka": "Dagdelen, Sevim",
+      "role": "antragsteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "klaus-ernst",
+      "name": "Klaus Ernst",
+      "name_padoka": "Ernst, Klaus",
+      "role": "antragsteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "andrej-hunko",
+      "name": "Andrej Hunko",
+      "name_padoka": "Hunko, Andrej",
+      "role": "antragsteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "christian-leye",
+      "name": "Christian Leye",
+      "name_padoka": "Leye, Christian",
+      "role": "antragsteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "amira-mohamed-ali",
+      "name": "Amira Mohamed Ali",
+      "name_padoka": "Ali, Amira Mohamed",
+      "role": "antragsteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "zaklin-nastic",
+      "name": "Zaklin Nastic",
+      "name_padoka": "Nastic, Zaklin",
+      "role": "antragsteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "jessica-tatti",
+      "name": "Jessica Tatti",
+      "name_padoka": "Tatti, Jessica",
+      "role": "antragsteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "alexander-ulrich",
+      "name": "Alexander Ulrich",
+      "name_padoka": "Ulrich, Alexander",
+      "role": "antragsteller",
+      "fraktion": "BSW (Gruppe)"
+    },
+    {
+      "slug": "sahra-wagenknecht",
+      "name": "Sahra Wagenknecht",
+      "name_padoka": "Wagenknecht, Sahra",
+      "role": "antragsteller",
+      "fraktion": "BSW (Gruppe)"
+    }
+  ],
+  "fraktionen": [],
+  "drsNr": "20/15118",
+  "subtype": "Entschließungsantrag",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/151/2015118.pdf",
+    "filename": "2015118.pdf"
+  }
+}

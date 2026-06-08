@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215815300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Frieden und Sicherheit in Europa verteidigen – Solidarität mit der Ukraine zum Jahrestag des russischen Angriffskrieges — Die Freiheit der Ukraine und Europas Sicherheit gegen Gewalt und Terror verteidigen",
+  "date": "2026-02-25",
+  "persons": [
+    {
+      "slug": "alexander-radwan",
+      "name": "Alexander Radwan",
+      "name_padoka": "Radwan, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/58",
+    "date": "2026-02-25",
+    "page": 7018
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21058.pdf"
+  }
+}

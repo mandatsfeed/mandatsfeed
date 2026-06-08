@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-1686",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Förderung von Projekten, Veranstaltungen und Publikationen aus Mitteln des Bundeshaushaltes, die Parteien, Parteiuntergliederungen und Fraktionen thematisieren - Stand 31. August 2025",
+  "date": "2025-09-17",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/1686",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/016/2101686.pdf",
+    "filename": "2101686.pdf"
+  }
+}

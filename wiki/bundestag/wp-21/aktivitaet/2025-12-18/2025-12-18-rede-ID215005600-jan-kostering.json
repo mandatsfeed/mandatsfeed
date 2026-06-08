@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215005600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mit einem Demokratiefördergesetz Demokratie stärken und Zivilgesellschaft schützen — Demokratie schützen – Rechtsextremisten konsequent entwaffnen und rechtsextremistische Netzwerke im Staatsdienst verhindern",
+  "date": "2025-12-18",
+  "persons": [
+    {
+      "slug": "jan-kostering",
+      "name": "Jan Köstering",
+      "name_padoka": "Köstering, Jan",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/50",
+    "date": "2025-12-18",
+    "page": 6008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21050.pdf"
+  }
+}

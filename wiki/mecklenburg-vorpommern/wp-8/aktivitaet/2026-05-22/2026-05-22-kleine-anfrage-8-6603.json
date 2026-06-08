@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6603",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Polizeieinsatz am 8. Mai 2026 in Demmin",
+  "date": "2026-05-22",
+  "drsNr": "8/6603",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71496"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

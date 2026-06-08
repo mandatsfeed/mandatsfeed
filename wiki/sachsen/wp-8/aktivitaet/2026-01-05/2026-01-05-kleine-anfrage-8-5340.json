@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5340",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beschäftigung von Gefangenen im sächsischen Justizvollzug",
+  "date": "2026-01-05",
+  "drsNr": "8/5340",
+  "persons": [
+    {
+      "slug": "alexander-wiesner",
+      "name": "Alexander Wiesner",
+      "name_padoka": "Wiesner, Alexander",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46961",
+    "filename": "Drs_8_5340_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

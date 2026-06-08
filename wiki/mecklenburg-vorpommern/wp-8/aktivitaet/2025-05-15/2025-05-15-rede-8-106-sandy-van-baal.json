@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-106-sandy-van-baal",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in PlPr 8/106",
+  "date": "2025-05-15",
+  "persons": [
+    {
+      "slug": "sandy-van-baal",
+      "name": "Sandy van Baal",
+      "name_padoka": "van Baal, Sandy",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/106",
+    "date": "2025-05-15"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/64607"
+  }
+}

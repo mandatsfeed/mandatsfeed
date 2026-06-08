@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213614900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Klimakonferenz in Belém – Neuer Schwung für den internationalen Klimaschutz — Klimawende statt Klimakollaps – Europa muss bei der UN-Klimakonferenz in Belém globale Führung übernehmen",
+  "date": "2025-11-05",
+  "persons": [
+    {
+      "slug": "manuel-krauthausen",
+      "name": "Manuel Krauthausen",
+      "name_padoka": "Krauthausen, Manuel",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/36",
+    "date": "2025-11-05",
+    "page": 4047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21036.pdf"
+  }
+}

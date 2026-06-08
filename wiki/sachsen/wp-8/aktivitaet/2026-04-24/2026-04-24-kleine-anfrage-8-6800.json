@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6800",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Sächsische Gymnasialschüler - Auswirkungen fehlender Bildungsempfehlung",
+  "date": "2026-04-24",
+  "drsNr": "8/6800",
+  "persons": [
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=50247",
+    "filename": "Drs_8_6800_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dip-ka-21-868",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Einzelheiten zu Verurteilungen nach ausgewählten Delikten aus dem siebten, achten, elften, zwölften und dreizehnten Abschnitt des Strafgesetzbuches in den Jahren 2021 bis 2023",
+  "date": "2025-07-14",
+  "persons": [
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "name_padoka": "Hess, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/868",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/008/2100868.pdf",
+    "filename": "2100868.pdf"
+  }
+}

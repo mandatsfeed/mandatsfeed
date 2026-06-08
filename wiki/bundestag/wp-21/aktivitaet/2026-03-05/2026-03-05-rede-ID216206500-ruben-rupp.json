@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216206500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die Sonne ihren Job machen lassen – Für ein zukunftsfestes Netzpaket und Erneuerbare-Energien-Gesetz — Heizkostenfalle verhindern – Wärmewende weiterführen für ein warmes und bezahlbares Zuhause",
+  "date": "2026-03-05",
+  "persons": [
+    {
+      "slug": "ruben-rupp",
+      "name": "Ruben Rupp",
+      "name_padoka": "Rupp, Ruben",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/62",
+    "date": "2026-03-05",
+    "page": 7583
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21062.pdf"
+  }
+}

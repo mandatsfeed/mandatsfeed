@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5153",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "SMK-ESF-Plus-Richtlinie 2021-2027 nach der FÖMISAX Richtliniennummer 02204",
+  "date": "2025-12-19",
+  "drsNr": "8/5153",
+  "persons": [
+    {
+      "slug": "romy-penz",
+      "name": "Romy Penz",
+      "name_padoka": "Penz, Romy",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46688",
+    "filename": "Drs_8_5153_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

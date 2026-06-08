@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218004500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sanierungsoffensive für Deutschland – Heizkostensenkung durch eine vollständige Umsetzung der EU-Gebäuderichtlinie — Heizkostenfalle verhindern – Klima und Mieterinnen und Mieter schützen, Energieunabhängigkeit stärken",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

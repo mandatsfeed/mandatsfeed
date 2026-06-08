@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211412100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 17",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "hansjorg-durz",
+      "name": "Hansjörg Durz",
+      "name_padoka": "Durz, Hansjörg",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/14",
+    "date": "2025-06-26",
+    "page": 1330
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf"
+  }
+}

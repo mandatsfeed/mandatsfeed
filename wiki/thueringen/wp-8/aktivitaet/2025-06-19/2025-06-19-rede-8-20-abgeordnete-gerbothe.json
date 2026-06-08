@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-20-abgeordnete-gerbothe",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/20",
+  "date": "2025-06-19",
+  "persons": [
+    {
+      "slug": "abgeordnete-gerbothe",
+      "name": "Abgeordnete Gerbothe",
+      "name_padoka": "Gerbothe, Abgeordnete",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/20",
+    "date": "2025-06-19"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/102345"
+  }
+}

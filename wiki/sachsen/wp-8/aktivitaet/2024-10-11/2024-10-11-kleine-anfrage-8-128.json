@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-128",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bewilligung von Fördermitteln durch das Staatsministerium für Regionalentwicklung (SMR) im Zeitraum Juni 2023 bis einschließlich August 2024",
+  "date": "2024-10-11",
+  "drsNr": "8/128",
+  "persons": [
+    {
+      "slug": "roberto-kuhnert",
+      "name": "Roberto Kuhnert",
+      "name_padoka": "Kuhnert, Roberto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36286",
+    "filename": "Drs_8_128_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

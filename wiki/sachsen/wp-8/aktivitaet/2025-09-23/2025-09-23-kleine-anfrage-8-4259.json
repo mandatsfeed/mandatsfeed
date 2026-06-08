@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4259",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Unterstützung stotternder Menschen bzw. von Menschen mit Beeinträchtigungen im Redefluss in Sachsen",
+  "date": "2025-09-23",
+  "drsNr": "8/4259",
+  "persons": [
+    {
+      "slug": "christin-melcher",
+      "name": "Christin Melcher",
+      "name_padoka": "Melcher, Christin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44737",
+    "filename": "Drs_8_4259_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-17-katja-meier",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "6 Redebeiträge in zu Drs 8/2949-1\r\nFrosthilfen Weinbau",
+  "date": "2025-06-27",
+  "persons": [
+    {
+      "slug": "katja-meier",
+      "name": "Katja Meier",
+      "name_padoka": "Meier, Katja",
+      "role": "redner",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/17",
+    "date": "2025-06-27"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=43068"
+  }
+}

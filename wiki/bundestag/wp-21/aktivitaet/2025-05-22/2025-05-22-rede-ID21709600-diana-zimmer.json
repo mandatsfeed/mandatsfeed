@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21709600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Organisierte Steuerhinterziehung wie Cum-Cum-Deals aufklären, Steuermilliarden konsequent zurückfordern und Aufbewahrungsfristen für Belege bei Finanzinstitutionen verlängern",
+  "date": "2025-05-22",
+  "persons": [
+    {
+      "slug": "diana-zimmer",
+      "name": "Diana Zimmer",
+      "name_padoka": "Zimmer, Diana",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/7",
+    "date": "2025-05-22",
+    "page": 573
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21007.pdf"
+  }
+}

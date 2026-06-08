@@ -1,0 +1,114 @@
+{
+  "id": "dip-rede-21-32",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Soziale und ökologische Industriepolitik - Arbeitsplätze schützen, Zukunft gerecht gestalten",
+  "date": "2025-10-10",
+  "persons": [
+    {
+      "slug": "vanessa-zobel",
+      "name": "Vanessa Zobel",
+      "name_padoka": "Zobel, Vanessa",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "gerrit-huy",
+      "name": "Gerrit Huy",
+      "name_padoka": "Huy, Gerrit",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lars-rohwer",
+      "name": "Lars Rohwer",
+      "name_padoka": "Rohwer, Lars",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "mirze-edis",
+      "name": "Mirze Edis",
+      "name_padoka": "Edis, Mirze",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "michael-kellner",
+      "name": "Michael Kellner",
+      "name_padoka": "Kellner, Michael",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "bernd-rutzel",
+      "name": "Bernd Rützel",
+      "name_padoka": "Rützel, Bernd",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "dirk-brandes",
+      "name": "Dirk Brandes",
+      "name_padoka": "Brandes, Dirk",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "klaus-wiener",
+      "name": "Klaus Wiener",
+      "name_padoka": "Wiener, Klaus",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "andreas-audretsch",
+      "name": "Andreas Audretsch",
+      "name_padoka": "Audretsch, Andreas",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "mahmut-ozdemir-duisburg",
+      "name": "Mahmut Özdemir (Duisburg)",
+      "name_padoka": "(Duisburg), Mahmut Özdemir",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-lenz",
+      "name": "Andreas Lenz",
+      "name_padoka": "Lenz, Andreas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "name_padoka": "Conrad, Agnes",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "afd",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "spd"
+  ],
+  "drsNr": "21/32",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21032.pdf#P.3521",
+    "filename": "21032.pdf#P.3521"
+  }
+}

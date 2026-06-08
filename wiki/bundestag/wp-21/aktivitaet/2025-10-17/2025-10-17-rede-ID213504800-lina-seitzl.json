@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213504800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bildung bezahlbar machen – BAföG-Reform jetzt — Infrastrukturen für Innovationen – Klimagerecht, barrierefrei und digital auf dem Campus",
+  "date": "2025-10-17",
+  "persons": [
+    {
+      "slug": "lina-seitzl",
+      "name": "Lina Seitzl",
+      "name_padoka": "Seitzl, Lina",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/35",
+    "date": "2025-10-17",
+    "page": 3937
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21035.pdf"
+  }
+}

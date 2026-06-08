@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID211715400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 23",
+  "date": "2025-07-09",
+  "persons": [
+    {
+      "slug": "inge-grassle",
+      "name": "Inge Gräßle",
+      "name_padoka": "Gräßle, Inge",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/17",
+    "date": "2025-07-09",
+    "page": 1700
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21017.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213108300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 36",
+  "date": "2025-10-09",
+  "persons": [
+    {
+      "slug": "gitta-connemann",
+      "name": "Gitta Connemann",
+      "name_padoka": "Connemann, Gitta",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretärin bei der Bundesministerin für Wirtschaft und Energie"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/31",
+    "date": "2025-10-09",
+    "page": 3425
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21031.pdf"
+  }
+}

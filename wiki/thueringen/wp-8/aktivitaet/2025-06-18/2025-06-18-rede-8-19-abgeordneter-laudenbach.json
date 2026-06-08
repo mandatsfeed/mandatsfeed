@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-19-abgeordneter-laudenbach",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/19",
+  "date": "2025-06-18",
+  "persons": [
+    {
+      "slug": "abgeordneter-laudenbach",
+      "name": "Abgeordneter Laudenbach",
+      "name_padoka": "Laudenbach, Abgeordneter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/19",
+    "date": "2025-06-18"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/102342"
+  }
+}

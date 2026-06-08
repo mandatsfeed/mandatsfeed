@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-2-doreen-schwietzer",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 2. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-10-25",
+  "persons": [
+    {
+      "slug": "doreen-schwietzer",
+      "name": "Doreen Schwietzer",
+      "name_padoka": "Schwietzer, Doreen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/2",
+    "date": "2024-10-25"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=36783"
+  }
+}

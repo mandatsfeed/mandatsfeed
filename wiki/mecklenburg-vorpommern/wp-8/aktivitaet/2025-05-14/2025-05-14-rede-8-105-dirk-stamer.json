@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-105-dirk-stamer",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in PlPr 8/105",
+  "date": "2025-05-14",
+  "persons": [
+    {
+      "slug": "dirk-stamer",
+      "name": "Dirk Stamer",
+      "name_padoka": "Stamer, Dirk",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/105",
+    "date": "2025-05-14"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/64605"
+  }
+}

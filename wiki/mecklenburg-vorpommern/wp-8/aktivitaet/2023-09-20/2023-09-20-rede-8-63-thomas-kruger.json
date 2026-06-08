@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-63-thomas-kruger",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/63",
+  "date": "2023-09-20",
+  "persons": [
+    {
+      "slug": "thomas-kruger",
+      "name": "Thomas Krüger",
+      "name_padoka": "Krüger, Thomas",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/63",
+    "date": "2023-09-20"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/57944"
+  }
+}

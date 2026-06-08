@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216006100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Versorgung bei Schwangerschaftsabbrüchen sichern — Reproduktive Gerechtigkeit verwirklichen – Selbstbestimmung gewährleisten",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "martina-kempf",
+      "name": "Martina Kempf",
+      "name_padoka": "Kempf, Martina",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

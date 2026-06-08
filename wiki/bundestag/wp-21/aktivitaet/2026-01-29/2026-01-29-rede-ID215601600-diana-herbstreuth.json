@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215601600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zu den Ergebnissen des informellen Europäischen Rates am 22. Januar 2026 und zur aktuellen außenpolitischen Lage",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "diana-herbstreuth",
+      "name": "Diana Herbstreuth",
+      "name_padoka": "Herbstreuth, Diana",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/56",
+    "date": "2026-01-29",
+    "page": 6806
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21056.pdf"
+  }
+}

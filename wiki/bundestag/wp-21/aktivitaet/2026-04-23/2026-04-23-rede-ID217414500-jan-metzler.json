@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217414500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 17",
+  "date": "2026-04-23",
+  "persons": [
+    {
+      "slug": "jan-metzler",
+      "name": "Jan Metzler",
+      "name_padoka": "Metzler, Jan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/74",
+    "date": "2026-04-23",
+    "page": 8958
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21074.pdf"
+  }
+}

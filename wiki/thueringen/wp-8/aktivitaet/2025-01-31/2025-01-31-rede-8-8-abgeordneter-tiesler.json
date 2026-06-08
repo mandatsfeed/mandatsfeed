@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-8-abgeordneter-tiesler",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/8",
+  "date": "2025-01-31",
+  "persons": [
+    {
+      "slug": "abgeordneter-tiesler",
+      "name": "Abgeordneter Tiesler",
+      "name_padoka": "Tiesler, Abgeordneter",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/8",
+    "date": "2025-01-31"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/100367"
+  }
+}

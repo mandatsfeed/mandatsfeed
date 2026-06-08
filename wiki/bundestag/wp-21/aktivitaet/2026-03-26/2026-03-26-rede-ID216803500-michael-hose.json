@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216803500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gewalt und andere Formen schwerwiegender Übergriffe an Schulen systematisch erfassen, untersuchen und durch geeignete Maßnahmen verhindern — Schutz von Kindern und Jugendlichen vor religiösem Zwang, Mobbing und gruppendynamischem Druck stärken – Auch Konversionsdruck wirksam begegnen",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "michael-hose",
+      "name": "Michael Hose",
+      "name_padoka": "Hose, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6545",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entstehung des Thesenkataloges und Auswahl der an der Redaktion des Wahl-O-Maten zur Landtagswahl in Mecklenburg-Vorpommern Beteiligten",
+  "date": "2026-06-04",
+  "drsNr": "8/6545",
+  "persons": [
+    {
+      "slug": "paul-joachim-timm",
+      "name": "Paul-Joachim Timm",
+      "name_padoka": "Timm, Paul-Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71266"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

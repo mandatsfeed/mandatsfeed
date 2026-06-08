@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Johannes Vogel (Deutscher Bundestag, WP-20)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021400100</guid>
+      <title>Zur Geschäftsordnung</title>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20214.pdf</link>
+      <description>Rede · Plenarprotokoll 20/214, S. 27828</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021300500</guid>
+      <title>Zur Geschäftsordnung</title>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20213.pdf</link>
+      <description>Rede · Plenarprotokoll 20/213, S. 27730</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021003000</guid>
+      <title>Mehr Netto vom Brutto</title>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20210.pdf</link>
+      <description>Rede · Plenarprotokoll 20/210, S. ?</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-drs-20-14714</guid>
+      <title>Mit neuen Züchtungsmethoden nachhaltigere Landwirtschaft ermöglichen</title>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btd/20/147/2014714.pdf</link>
+      <description>Antrag · 20/14714 · Urheber: Ulrike Harzer (FDP), Ann-Veruschka Jurisch (FDP), Ria Schröder (FDP), Anja Schulz (FDP), Stephan Seiter (FDP), Aniko Glogowski-Merten (FDP), Stephan Thomae (FDP), Manuel Höferlin (FDP), Thomas Hacker (FDP), Katharina Willkomm (FDP), Jens Teutrine (FDP), Katrin Helling-Plahr (FDP), Mario Brandenburg (Südpfalz) (FDP), Katja Hessel (FDP), Christoph Hoffmann (FDP), Thorsten Lieb (FDP), Reinhard Houben (FDP), Marcus Faber (FDP), Kristine Lütke (FDP), Christine Aschenberg-Dugnus (FDP), Otto Fricke (FDP), Bettina Stark-Watzinger (FDP), Maximilian Funke-Kaiser (FDP), Martin Gassner-Herz (FDP), Nicole Bauer (FDP), Benjamin Strasser (FDP), Jens Beeck (FDP), Lukas Köhler (FDP), Olaf in der Beek (FDP), Carina Konrad (FDP), Judith Skudelny (FDP), Christian Bartelt (FDP), Daniel Föst (FDP), Jens Brandenburg (Rhein-Neckar) (FDP), Konstantin Kuhle (FDP), Renata Alt (FDP), Peter Heidt (FDP), Johannes Vogel (FDP), Gyde Jensen (FDP), Julian Grünke (FDP), Michael Georg Link (Heilbronn) (FDP)</description>
+    </item>
+  </channel>
+</rss>

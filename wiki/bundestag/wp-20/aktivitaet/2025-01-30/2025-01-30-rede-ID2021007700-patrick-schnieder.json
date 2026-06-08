@@ -1,0 +1,28 @@
+{
+  "id": "dip-rede-ID2021007700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Abschluss der Beweisaufnahme im 2. Untersuchungsausschuss",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "patrick-schnieder",
+      "name": "Patrick Schnieder",
+      "name_padoka": "Schnieder, Patrick",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "20/210",
+    "date": "2025-01-30"
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf"
+  }
+}

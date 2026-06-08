@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6309",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage Drs. 8/ 5552, Mittel zur Kofinanzierung der Grundsanierung nach dem Verwaltungsabkommen zur Braunkohlesanierung - Haushaltsstelle 51 / 883 51 - 2025",
+  "date": "2026-03-05",
+  "drsNr": "8/6309",
+  "persons": [
+    {
+      "slug": "frank-peschel",
+      "name": "Frank Peschel",
+      "name_padoka": "Peschel, Frank",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48835",
+    "filename": "Drs_8_6309_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

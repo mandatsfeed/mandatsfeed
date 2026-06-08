@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-8-thomas-prantl",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "17 Redebeiträge in 8. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-02-13",
+  "persons": [
+    {
+      "slug": "thomas-prantl",
+      "name": "Thomas Prantl",
+      "name_padoka": "Prantl, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/8",
+    "date": "2025-02-13"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=39594"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5146",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Grundsteuerreform in Sachsen - Rechtssicherheit und Gleichbehandlung",
+  "date": "2025-12-18",
+  "drsNr": "8/5146",
+  "persons": [
+    {
+      "slug": "norbert-otto-mayer",
+      "name": "Norbert Otto Mayer",
+      "name_padoka": "Mayer, Norbert Otto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46682",
+    "filename": "Drs_8_5146_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

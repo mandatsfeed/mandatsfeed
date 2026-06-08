@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-6064",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Wissensaustausch, Innovationen und Netzwerke - FRL WIN/2023 nach der FÖMISAX Richtliniennummer 03820",
+  "date": "2026-02-13",
+  "drsNr": "8/6064",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=48324",
+    "filename": "Drs_8_6064_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

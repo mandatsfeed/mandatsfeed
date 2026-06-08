@@ -1,0 +1,49 @@
+{
+  "id": "dip-ka-20-14398",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "kleine_anfrage",
+  "title": "Einnahmen und Vorgänge in deutschen Auslandshandelskammern",
+  "date": "2025-01-03",
+  "persons": [
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Rainer Rothfuß",
+      "name_padoka": "Rothfuß, Rainer",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "harald-weyel",
+      "name": "Harald Weyel",
+      "name_padoka": "Weyel, Harald",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "norbert-kleinwachter",
+      "name": "Norbert Kleinwächter",
+      "name_padoka": "Kleinwächter, Norbert",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jochen-haug",
+      "name": "Jochen Haug",
+      "name_padoka": "Haug, Jochen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "20/14398",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/20/143/2014398.pdf",
+    "filename": "2014398.pdf"
+  }
+}

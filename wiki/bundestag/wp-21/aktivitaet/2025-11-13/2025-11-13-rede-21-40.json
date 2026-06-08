@@ -1,0 +1,94 @@
+{
+  "id": "dip-rede-21-40",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz zur Änderung der Vorschriften über die Einführung der elektronischen Akte in der Justiz und über die allgemeine Beeidigung von Gerichtsdolmetschern sowie zur Änderung des Stiftungsregisterrechts",
+  "date": "2025-11-13",
+  "persons": [
+    {
+      "slug": "daniel-rinkert",
+      "name": "Daniel Rinkert",
+      "name_padoka": "Rinkert, Daniel",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "awet-tesfaiesus",
+      "name": "Awet Tesfaiesus",
+      "name_padoka": "Tesfaiesus, Awet",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "konrad-korner",
+      "name": "Konrad Körner",
+      "name_padoka": "Körner, Konrad",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "name_padoka": "Conrad, Agnes",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "david-preisendanz",
+      "name": "David Preisendanz",
+      "name_padoka": "Preisendanz, David",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "thomas-fetsch",
+      "name": "Thomas Fetsch",
+      "name_padoka": "Fetsch, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "aaron-valent",
+      "name": "Aaron Valent",
+      "name_padoka": "Valent, Aaron",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "helge-limburg",
+      "name": "Helge Limburg",
+      "name_padoka": "Limburg, Helge",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "knuth-meyer-soltau",
+      "name": "Knuth Meyer-Soltau",
+      "name_padoka": "Meyer-Soltau, Knuth",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "anette-kramme",
+      "name": "Anette Kramme",
+      "name_padoka": "Kramme, Anette",
+      "role": "redner",
+      "fraktion": "Bundesministerium der Justiz und für Verbraucherschutz",
+      "funktion": "Parl. Staatssekr."
+    }
+  ],
+  "fraktionen": [
+    "spd",
+    "bundnis-90-die-gruenen",
+    "cdu-csu",
+    "die-linke",
+    "afd"
+  ],
+  "drsNr": "21/40",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21040.pdf#P.4732",
+    "filename": "21040.pdf#P.4732"
+  }
+}

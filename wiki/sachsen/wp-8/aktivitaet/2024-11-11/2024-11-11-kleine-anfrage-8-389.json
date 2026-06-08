@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-389",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umstellung landwirtschaftlicher Betriebe auf ökologischen bzw. konventionellen Anbau",
+  "date": "2024-11-11",
+  "drsNr": "8/389",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=36805",
+    "filename": "Drs_8_389_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

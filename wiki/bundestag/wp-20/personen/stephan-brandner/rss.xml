@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Stephan Brandner (Deutscher Bundestag, WP-20)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-ges-20-14836</guid>
+      <title>Gesetz zur Stärkung der Meinungsfreiheit und Abschaffung des Tatbestands der Politikerbeleidigung in § 188 des Strafgesetzbuchs</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btd/20/148/2014836.pdf</link>
+      <description>Gesetzentwurf · 20/14836 · Urheber: Martin Erwin Renner (AfD), Stephan Brandner (AfD)</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021106900</guid>
+      <title>Zusatzpunkt 37</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20211.pdf</link>
+      <description>Rede · Plenarprotokoll 20/211, S. 27629</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021010100</guid>
+      <title>Antrag auf Entscheidung des Deutschen Bundestages über die Einleitung eines Verfahrens zur Feststellung der Verfassungswidrigkeit der „Alternative für Deutschland“ gemäß Artikel 21 Absatz 2, 3 und 4 des Grundgesetzes i. V. m. § 13 Nummer 2 und 2a, §§ 43 ff. des Bundesverfassungsgerichtsgesetzes — Feststellung der Verfassungswidrigkeit der „Alternative für Deutschland“</title>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20210.pdf</link>
+      <description>Rede · Plenarprotokoll 20/210, S. ?</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-20-209</guid>
+      <title>Keine Blockade parlamentarischer Mehrheitsfindung über Ukraine-Hilfen</title>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20209.pdf#P.27193</link>
+      <description>Rede · 20/209</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2020909600</guid>
+      <title>Tagesordnungspunkt 2</title>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20209.pdf</link>
+      <description>Rede · Plenarprotokoll 20/209, S. 27188</description>
+    </item>
+  </channel>
+</rss>

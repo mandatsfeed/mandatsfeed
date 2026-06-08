@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213406100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wirtschaftspartnerschaftsabkommen mit Afrika – Chancen für fairen Handel und gerechtere Globalisierung nutzen — Sammelübersicht 52 zu Petitionen",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "olaf-hilmer",
+      "name": "Olaf Hilmer",
+      "name_padoka": "Hilmer, Olaf",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-21-abgeordnete-muller",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in PlPr 8/21",
+  "date": "2025-06-20",
+  "persons": [
+    {
+      "slug": "abgeordnete-muller",
+      "name": "Abgeordnete Müller",
+      "name_padoka": "Müller, Abgeordnete",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/21",
+    "date": "2025-06-20"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/102351"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5556",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur kleinen Anfrage Drs 8/4358: Photovoltaik-Anlagen in sächsischen Wäldern - Prüfung der Alternativlosigkeit des beantragten Standorts",
+  "date": "2026-01-14",
+  "drsNr": "8/5556",
+  "persons": [
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47303",
+    "filename": "Drs_8_5556_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

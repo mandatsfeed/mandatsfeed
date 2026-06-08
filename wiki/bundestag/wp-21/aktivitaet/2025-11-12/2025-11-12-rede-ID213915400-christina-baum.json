@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID213915400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kindergesundheit stärken – Versorgung umfassend verbessern und nachhaltig finanzieren — Vorhaltungen der Krankenhäuser verlässlich finanzieren – Ausgliederung sämtlicher Personalkosten aus den Fallpauschalen",
+  "date": "2025-11-12",
+  "persons": [
+    {
+      "slug": "christina-baum",
+      "name": "Christina Baum",
+      "name_padoka": "Baum, Christina",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/39",
+    "date": "2025-11-12",
+    "page": 4477
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21039.pdf"
+  }
+}

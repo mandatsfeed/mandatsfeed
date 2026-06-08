@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218005400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sanierungsoffensive für Deutschland – Heizkostensenkung durch eine vollständige Umsetzung der EU-Gebäuderichtlinie — Heizkostenfalle verhindern – Klima und Mieterinnen und Mieter schützen, Energieunabhängigkeit stärken",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "nina-scheer",
+      "name": "Nina Scheer",
+      "name_padoka": "Scheer, Nina",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

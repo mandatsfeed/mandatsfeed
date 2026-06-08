@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5821",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Würdevolle Betreuung schwerstkranker Krebspatientinnen und Krebspatienten im ambulanten Bereich",
+  "date": "2026-01-30",
+  "drsNr": "8/5821",
+  "persons": [
+    {
+      "slug": "ronny-kupke",
+      "name": "Ronny Kupke",
+      "name_padoka": "Kupke, Ronny",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47730",
+    "filename": "Drs_8_5821_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

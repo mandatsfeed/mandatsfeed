@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-2343",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ökonomische Stärkung von Frauen im Jemen",
+  "date": "2025-10-21",
+  "persons": [
+    {
+      "slug": "johann-martel",
+      "name": "Johann Martel",
+      "name_padoka": "Martel, Johann",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/2343",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/023/2102343.pdf",
+    "filename": "2102343.pdf"
+  }
+}

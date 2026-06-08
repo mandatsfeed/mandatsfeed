@@ -1,0 +1,66 @@
+{
+  "id": "dip-rede-21-50",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Erstes Gesetz zur Änderung des Medizinal-Cannabisgesetzes",
+  "date": "2025-12-18",
+  "persons": [
+    {
+      "slug": "hans-theiss",
+      "name": "Hans Theiss",
+      "name_padoka": "Theiss, Hans",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ates-gurpinar",
+      "name": "Ates Gürpinar",
+      "name_padoka": "Gürpinar, Ates",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "linda-heitmann",
+      "name": "Linda Heitmann",
+      "name_padoka": "Heitmann, Linda",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "matthias-david-mieves",
+      "name": "Matthias David Mieves",
+      "name_padoka": "Mieves, Matthias David",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "carina-schiessl",
+      "name": "Carina Schießl",
+      "name_padoka": "Schießl, Carina",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nina-warken",
+      "name": "Nina Warken",
+      "name_padoka": "Warken, Nina",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Gesundheit",
+      "funktion": "Bundesmin."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "afd"
+  ],
+  "drsNr": "21/50",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21050.pdf#P.6059",
+    "filename": "21050.pdf#P.6059"
+  }
+}

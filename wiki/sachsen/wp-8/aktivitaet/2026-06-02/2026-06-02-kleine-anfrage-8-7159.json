@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7159",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur Drs. 8/6814 - Expertenvorschlag unterstützen - überflüssige Behördenstrukturen auflösen, das ZEFAS und die Digitalagentur abschaffen",
+  "date": "2026-06-02",
+  "drsNr": "8/7159",
+  "persons": [
+    {
+      "slug": "timo-schreyer",
+      "name": "Timo Schreyer",
+      "name_padoka": "Schreyer, Timo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51106",
+    "filename": "Drs_8_7159_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

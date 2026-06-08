@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID21100100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zur Geschäftsordnung",
+  "date": "2025-03-25",
+  "persons": [
+    {
+      "slug": "bernd-baumann",
+      "name": "Bernd Baumann",
+      "name_padoka": "Baumann, Bernd",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/1",
+    "date": "2025-03-25",
+    "page": 26
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21001.pdf"
+  }
+}

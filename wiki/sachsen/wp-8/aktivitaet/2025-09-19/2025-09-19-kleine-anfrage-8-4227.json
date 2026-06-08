@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4227",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Neue wissenschaftliche Erkenntnisse und Möglichkeit einer erneuten Antragstellung bei Impfschäden",
+  "date": "2025-09-19",
+  "drsNr": "8/4227",
+  "persons": [
+    {
+      "slug": "andre-wendt",
+      "name": "André Wendt",
+      "name_padoka": "Wendt, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44649",
+    "filename": "Drs_8_4227_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

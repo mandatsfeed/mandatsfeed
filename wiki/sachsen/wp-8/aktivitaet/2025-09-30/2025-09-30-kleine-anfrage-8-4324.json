@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4324",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Juristische Folgen von Straftaten im Phänomenbereich \"Politisch motivierte Kriminalität - rechts\" im Monat September 2025",
+  "date": "2025-09-30",
+  "drsNr": "8/4324",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44866",
+    "filename": "Drs_8_4324_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

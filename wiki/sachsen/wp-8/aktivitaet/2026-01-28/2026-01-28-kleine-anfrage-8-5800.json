@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5800",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Förderung Ausschöpfung der Bildungspotenziale im Hochschulbereich nach der FÖMISAX Richtliniennummer 02729",
+  "date": "2026-01-28",
+  "drsNr": "8/5800",
+  "persons": [
+    {
+      "slug": "martina-jost",
+      "name": "Martina Jost",
+      "name_padoka": "Jost, Martina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=47690",
+    "filename": "Drs_8_5800_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

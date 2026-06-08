@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Karsten Hilse (Deutscher Bundestag, WP-20)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021302800</guid>
+      <title>Nein zur Kriegstüchtigkeit – Ja zur Diplomatie und Abrüstung</title>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20213.pdf</link>
+      <description>Rede · Plenarprotokoll 20/213, S. 27730</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2021102200</guid>
+      <title>Keine Klimaabgaben, kein Geld für CO2 – CO2-Bepreisung abschaffen</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/20/20211.pdf</link>
+      <description>Rede · Plenarprotokoll 20/211, S. 27629</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-drs-20-14697</guid>
+      <title>Keine Klimaabgaben, kein Geld für CO2 - CO2-Bepreisung abschaffen</title>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btd/20/146/2014697.pdf</link>
+      <description>Antrag · 20/14697 · Urheber: Jan Wenzel Schmidt (AfD), Steffen Kotré (AfD), Rainer Kraft (AfD), Malte Kaufmann (AfD), Michael Kaufmann (AfD), Karsten Hilse (AfD), Thomas Dietz (AfD), Marcus Bühl (AfD), Marc Bernhard (AfD), Mike Moncsek (AfD)</description>
+    </item>
+  </channel>
+</rss>

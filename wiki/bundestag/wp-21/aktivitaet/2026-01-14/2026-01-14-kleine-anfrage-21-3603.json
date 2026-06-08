@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-3603",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Finanzielle Beiträge an das Hilfswerk der Vereinten Nationen für Palästina-Flüchtlinge im Nahen Osten und an das Internationale Komitee vom Roten Kreuz im Bundeshaushalt 2025 - Vermeidung von Zweckentfremdung öffentlicher Mittel und Terrorfinanzierung",
+  "date": "2026-01-14",
+  "persons": [
+    {
+      "slug": "rainer-kraft",
+      "name": "Rainer Kraft",
+      "name_padoka": "Kraft, Rainer",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/3603",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/036/2103603.pdf",
+    "filename": "2103603.pdf"
+  }
+}

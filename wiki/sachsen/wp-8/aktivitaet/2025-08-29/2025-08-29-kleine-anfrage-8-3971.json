@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3971",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur Drs 8/3301 PFAS-belastete Papierschlämme nahe des Jahnsgrüner Hochmoores (Landkreis Zwickau)",
+  "date": "2025-08-29",
+  "drsNr": "8/3971",
+  "persons": [
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44034",
+    "filename": "Drs_8_3971_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

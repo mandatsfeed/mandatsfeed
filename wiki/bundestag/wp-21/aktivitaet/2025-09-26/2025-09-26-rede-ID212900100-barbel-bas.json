@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID212900100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 11",
+  "date": "2025-09-26",
+  "persons": [
+    {
+      "slug": "barbel-bas",
+      "name": "Bärbel Bas",
+      "name_padoka": "Bas, Bärbel",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Arbeit und Soziales"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/29",
+    "date": "2025-09-26",
+    "page": 3108
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21029.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218107400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Geschäftsmodelle der großen Immobilienkonzerne bekämpfen – Mieterinnen und Mieter konsequent schützen",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "sebastian-steineke",
+      "name": "Sebastian Steineke",
+      "name_padoka": "Steineke, Sebastian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/81",
+    "date": "2026-05-22",
+    "page": 9804
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21081.pdf"
+  }
+}

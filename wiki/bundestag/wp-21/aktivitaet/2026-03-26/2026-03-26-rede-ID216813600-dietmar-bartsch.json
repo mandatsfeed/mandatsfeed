@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216813600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Antrag auf abstrakte Normenkontrolle beim Bundesverfassungsgericht gemäß Artikel 94 Absatz 1 Nummer 2 des Grundgesetzes wegen des Bundeshaushaltsgesetzes 2025, des Bundeshaushaltsgesetzes 2026 und des Gesetzes zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "dietmar-bartsch",
+      "name": "Dietmar Bartsch",
+      "name_padoka": "Bartsch, Dietmar",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/68",
+    "date": "2026-03-26",
+    "page": 8289
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217715400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Verschmutzung von Trinkwasser mit Ewigkeitschemikalien verhindern – Sauberes Wasser darf kein Luxus sein — Ewigkeitschemikalien in Lebensmitteln verbieten",
+  "date": "2026-05-07",
+  "persons": [
+    {
+      "slug": "christin-willnat",
+      "name": "Christin Willnat",
+      "name_padoka": "Willnat, Christin",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/77",
+    "date": "2026-05-07",
+    "page": 9307
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21077.pdf"
+  }
+}

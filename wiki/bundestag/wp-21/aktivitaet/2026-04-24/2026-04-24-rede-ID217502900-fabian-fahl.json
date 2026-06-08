@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID217502900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mit dem Neun-Euro-Ticket private Haushalte entlasten — Gemeindeverkehrsfinanzierungsgesetz novellieren – Kommunen stärken und Ausbau des öffentlichen Personennahverkehrs langfristig absichern",
+  "date": "2026-04-24",
+  "persons": [
+    {
+      "slug": "fabian-fahl",
+      "name": "Fabian Fahl",
+      "name_padoka": "Fahl, Fabian",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/75",
+    "date": "2026-04-24",
+    "page": 9047
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21075.pdf"
+  }
+}

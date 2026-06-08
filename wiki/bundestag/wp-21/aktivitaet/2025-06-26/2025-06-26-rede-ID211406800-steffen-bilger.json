@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID211406800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zeitplan des Deutschen Bundestages für das Jahr 2026 — Einsetzung des Parlamentarischen Beirats für nachhaltige Entwicklung und Zukunftsfragen",
+  "date": "2025-06-26",
+  "persons": [
+    {
+      "slug": "steffen-bilger",
+      "name": "Steffen Bilger",
+      "name_padoka": "Bilger, Steffen",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/14",
+    "date": "2025-06-26",
+    "page": 1330
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21014.pdf"
+  }
+}

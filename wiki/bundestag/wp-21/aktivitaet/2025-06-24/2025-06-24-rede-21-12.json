@@ -1,0 +1,128 @@
+{
+  "id": "dip-rede-21-12",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Regierungserklärung zum NATO-Gipfel am 24. und 25. Juni in Den Haag und zum Europäischen Rat am 26. und 27. Juni 2025 in Brüssel",
+  "date": "2025-06-24",
+  "persons": [
+    {
+      "slug": "falko-drossmann",
+      "name": "Falko Droßmann",
+      "name_padoka": "Droßmann, Falko",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "tilman-kuban",
+      "name": "Tilman Kuban",
+      "name_padoka": "Kuban, Tilman",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "markus-tons",
+      "name": "Markus Töns",
+      "name_padoka": "Töns, Markus",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "norbert-rottgen",
+      "name": "Norbert Röttgen",
+      "name_padoka": "Röttgen, Norbert",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "adis-ahmetovic",
+      "name": "Adis Ahmetovic",
+      "name_padoka": "Ahmetovic, Adis",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "heidi-reichinnek",
+      "name": "Heidi Reichinnek",
+      "name_padoka": "Reichinnek, Heidi",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "omid-nouripour",
+      "name": "Omid Nouripour",
+      "name_padoka": "Nouripour, Omid",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "alexander-hoffmann",
+      "name": "Alexander Hoffmann",
+      "name_padoka": "Hoffmann, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "alice-weidel",
+      "name": "Alice Weidel",
+      "name_padoka": "Weidel, Alice",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "siemtje-moller",
+      "name": "Siemtje Möller",
+      "name_padoka": "Möller, Siemtje",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "soren-pellmann",
+      "name": "Sören Pellmann",
+      "name_padoka": "Pellmann, Sören",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "jens-spahn",
+      "name": "Jens Spahn",
+      "name_padoka": "Spahn, Jens",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "britta-hasselmann",
+      "name": "Britta Haßelmann",
+      "name_padoka": "Haßelmann, Britta",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "matthias-miersch",
+      "name": "Matthias Miersch",
+      "name_padoka": "Miersch, Matthias",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "tino-chrupalla",
+      "name": "Tino Chrupalla",
+      "name_padoka": "Chrupalla, Tino",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "spd",
+    "cdu-csu",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "afd"
+  ],
+  "drsNr": "21/12",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21012.pdf#P.995",
+    "filename": "21012.pdf#P.995"
+  }
+}

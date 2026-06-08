@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215405900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Lieferkettensorgfaltspflichtengesetz abschaffen — Lieferkettensorgfaltspflichtengesetz erhalten und verbessern – Umweltstandards, Menschenrechte und globale Solidarität stärken",
+  "date": "2026-01-16",
+  "persons": [
+    {
+      "slug": "pascal-meiser",
+      "name": "Pascal Meiser",
+      "name_padoka": "Meiser, Pascal",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/54",
+    "date": "2026-01-16",
+    "page": 6545
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21054.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216008100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Kein Wegschauen auf Kosten der Betroffenen – Gewalt gegen Frauen, sexuellen Missbrauch und Netzwerke des Machtmissbrauchs aufklären und bekämpfen",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "name_padoka": "Wegge, Carmen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID212505200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt II",
+  "date": "2025-09-18",
+  "persons": [
+    {
+      "slug": "philip-m-a-hoffmann",
+      "name": "Philip M. A. Hoffmann",
+      "name_padoka": "Hoffmann, Philip M. A.",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/25",
+    "date": "2025-09-18",
+    "page": 2682
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21025.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-5135",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur kleinen Anfrage Drs 8/4539: Schilf-Glasflügelzikade - Vorsorge, Monitoring und wirtschaftliche Absicherung",
+  "date": "2025-12-17",
+  "drsNr": "8/5135",
+  "persons": [
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=46659",
+    "filename": "Drs_8_5135_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

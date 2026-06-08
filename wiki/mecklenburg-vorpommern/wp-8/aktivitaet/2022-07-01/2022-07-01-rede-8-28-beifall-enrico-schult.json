@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-28-beifall-enrico-schult",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/28",
+  "date": "2022-07-01",
+  "persons": [
+    {
+      "slug": "beifall-enrico-schult",
+      "name": "Beifall Enrico Schult",
+      "name_padoka": "Schult, Beifall Enrico",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/28",
+    "date": "2022-07-01"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/53429"
+  }
+}

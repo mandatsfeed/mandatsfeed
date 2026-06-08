@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215406600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wirksame Instrumente gegen Schrottimmobilien — Wohnraum sichern, Immobilien nutzbar machen – Stopp von sogenannten Schrottimmobilien",
+  "date": "2026-01-16",
+  "persons": [
+    {
+      "slug": "katja-strauss-koster",
+      "name": "Katja Strauss-Köster",
+      "name_padoka": "Strauss-Köster, Katja",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/54",
+    "date": "2026-01-16",
+    "page": 6545
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21054.pdf"
+  }
+}

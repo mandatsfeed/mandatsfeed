@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215702700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mobilitätsgarantie einführen – Produktionskapazitäten für die Verkehrswende aufbauen — Gemeindeverkehrsfinanzierungsgesetz novellieren – Kommunen stärken und Ausbau des öffentlichen Personennahverkehrs langfristig absichern",
+  "date": "2026-01-30",
+  "persons": [
+    {
+      "slug": "anja-troff-schaffarzyk",
+      "name": "Anja Troff-Schaffarzyk",
+      "name_padoka": "Troff-Schaffarzyk, Anja",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/57",
+    "date": "2026-01-30",
+    "page": 6913
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21057.pdf"
+  }
+}

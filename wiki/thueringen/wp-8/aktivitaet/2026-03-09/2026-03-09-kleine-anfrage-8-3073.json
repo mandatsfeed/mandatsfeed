@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-3073",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Manipulation eines Pressefotos durch eine Lehrkraft des Heinrich-Böll-Gymnasiums in Saalfeld/Saale",
+  "date": "2026-03-09",
+  "drsNr": "8/3073",
+  "persons": [
+    {
+      "slug": "denny-jankowski",
+      "name": "Denny Jankowski",
+      "name_padoka": "Jankowski, Denny",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106155"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

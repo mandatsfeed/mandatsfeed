@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID215606200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Mercosur-Abkommen zügig anwenden – Europas Souveränität und Handlungsfähigkeit durch Freihandel stärken",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "daniel-walter",
+      "name": "Daniel Walter",
+      "name_padoka": "Walter, Daniel",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/56",
+    "date": "2026-01-29",
+    "page": 6806
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21056.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3797",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Stärkung der nichtflugbetrieblichen Erlöse des Flughafen Dresden – Nachfrage zur Drucksache 8/3284",
+  "date": "2025-08-13",
+  "drsNr": "8/3797",
+  "persons": [
+    {
+      "slug": "tobias-keller",
+      "name": "Tobias Keller",
+      "name_padoka": "Keller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43619",
+    "filename": "Drs_8_3797_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID213314100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Bedrohungslage Deutschlands ernst nehmen",
+  "date": "2025-10-15",
+  "persons": [
+    {
+      "slug": "nils-schmid",
+      "name": "Nils Schmid",
+      "name_padoka": "Schmid, Nils",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Parl. Staatssekretär beim Bundesminister der Verteidigung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/33",
+    "date": "2025-10-15",
+    "page": 3628
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21033.pdf"
+  }
+}

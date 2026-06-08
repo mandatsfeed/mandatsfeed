@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3793",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zuschüsse zur Förderung Entwicklungspolitischer Maßnahmen im Ausland - Haushaltsstelle 68 / 687 68 - 2023/2024",
+  "date": "2025-08-12",
+  "drsNr": "8/3793",
+  "persons": [
+    {
+      "slug": "andre-barth",
+      "name": "André Barth",
+      "name_padoka": "Barth, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43590",
+    "filename": "Drs_8_3793_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID213401300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zum Europäischen Rat am 23. und 24. Oktober 2025 in Brüssel",
+  "date": "2025-10-16",
+  "persons": [
+    {
+      "slug": "catarina-dos-santos-wintz",
+      "name": "Catarina dos Santos-Wintz",
+      "name_padoka": "dos Santos-Wintz, Catarina",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/34",
+    "date": "2025-10-16",
+    "page": 3789
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21034.pdf"
+  }
+}

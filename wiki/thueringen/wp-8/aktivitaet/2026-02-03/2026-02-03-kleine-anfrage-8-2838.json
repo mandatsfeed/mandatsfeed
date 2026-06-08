@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2838",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktuelle Gasversorgungslage, sinkende Gasspeicherfüllstände und Auswirkungen auf Thüringen",
+  "date": "2026-02-03",
+  "drsNr": "8/2838",
+  "persons": [
+    {
+      "slug": "jens-thomas",
+      "name": "Jens Thomas",
+      "name_padoka": "Thomas, Jens",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105665"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

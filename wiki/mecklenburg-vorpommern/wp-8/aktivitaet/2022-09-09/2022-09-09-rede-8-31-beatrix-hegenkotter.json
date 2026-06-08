@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-31-beatrix-hegenkotter",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/31",
+  "date": "2022-09-09",
+  "persons": [
+    {
+      "slug": "beatrix-hegenkotter",
+      "name": "Beatrix Hegenkötter",
+      "name_padoka": "Hegenkötter, Beatrix",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/31",
+    "date": "2022-09-09"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/54621"
+  }
+}

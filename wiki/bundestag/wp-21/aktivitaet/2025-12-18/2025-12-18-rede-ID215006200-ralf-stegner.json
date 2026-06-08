@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID215006200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Mit einem Demokratiefördergesetz Demokratie stärken und Zivilgesellschaft schützen — Demokratie schützen – Rechtsextremisten konsequent entwaffnen und rechtsextremistische Netzwerke im Staatsdienst verhindern",
+  "date": "2025-12-18",
+  "persons": [
+    {
+      "slug": "ralf-stegner",
+      "name": "Ralf Stegner",
+      "name_padoka": "Stegner, Ralf",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/50",
+    "date": "2025-12-18",
+    "page": 6008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21050.pdf"
+  }
+}

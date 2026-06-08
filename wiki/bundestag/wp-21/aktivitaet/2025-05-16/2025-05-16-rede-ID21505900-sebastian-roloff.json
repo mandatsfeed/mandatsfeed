@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID21505900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Abgabe einer Regierungserklärung durch den Bundeskanzler",
+  "date": "2025-05-16",
+  "persons": [
+    {
+      "slug": "sebastian-roloff",
+      "name": "Sebastian Roloff",
+      "name_padoka": "Roloff, Sebastian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/5",
+    "date": "2025-05-16",
+    "page": 377
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21005.pdf"
+  }
+}

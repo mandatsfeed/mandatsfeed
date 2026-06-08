@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-1-ralf-bohme",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 1. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-10-01",
+  "persons": [
+    {
+      "slug": "ralf-bohme",
+      "name": "Ralf Böhme",
+      "name_padoka": "Böhme, Ralf",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/1",
+    "date": "2024-10-01"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=36287"
+  }
+}

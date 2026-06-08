@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-100-mandy-pfeifer",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/100",
+  "date": "2025-03-13",
+  "persons": [
+    {
+      "slug": "mandy-pfeifer",
+      "name": "Mandy Pfeifer",
+      "name_padoka": "Pfeifer, Mandy",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/100",
+    "date": "2025-03-13"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/64089"
+  }
+}

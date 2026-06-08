@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6574",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Politische und weltanschauliche Ausrichtung von Bildungspublikationen, RAA-Materialien und öffentliche Äußerungen der Ministerin für Bildung und Kindertagesförderung",
+  "date": "2026-05-18",
+  "drsNr": "8/6574",
+  "persons": [
+    {
+      "slug": "thore-stein",
+      "name": "Thore Stein",
+      "name_padoka": "Stein, Thore",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71350"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

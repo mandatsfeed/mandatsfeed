@@ -1,0 +1,65 @@
+{
+  "id": "dip-rede-20-210",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 20,
+  "type": "rede",
+  "title": "Gesetz für dringliche Änderungen im Finanzmarkt- und Steuerbereich",
+  "date": "2025-01-30",
+  "persons": [
+    {
+      "slug": "frank-muller-rosentritt",
+      "name": "Frank Müller-Rosentritt",
+      "name_padoka": "Müller-Rosentritt, Frank",
+      "role": "redner",
+      "fraktion": "FDP"
+    },
+    {
+      "slug": "sascha-muller",
+      "name": "Sascha Müller",
+      "name_padoka": "Müller, Sascha",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sebastian-brehm",
+      "name": "Sebastian Brehm",
+      "name_padoka": "Brehm, Sebastian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "michael-meister",
+      "name": "Michael Meister",
+      "name_padoka": "Meister, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jorn-konig",
+      "name": "Jörn König",
+      "name_padoka": "König, Jörn",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lennard-oehl",
+      "name": "Lennard Oehl",
+      "name_padoka": "Oehl, Lennard",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "fdp",
+    "bundnis-90-die-gruenen",
+    "cdu-csu",
+    "afd",
+    "spd"
+  ],
+  "drsNr": "20/210",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/20/20210.pdf#P.27477",
+    "filename": "20210.pdf#P.27477"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6612",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kontrolle der Leistungserbringung und Abrechnungsprüfung in der Eingliederungshilfe in Mecklenburg-Vorpommern",
+  "date": "2026-05-28",
+  "drsNr": "8/6612",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71568"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

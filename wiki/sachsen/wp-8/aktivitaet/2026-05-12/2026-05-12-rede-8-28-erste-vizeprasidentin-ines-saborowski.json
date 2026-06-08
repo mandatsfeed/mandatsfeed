@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-28-erste-vizeprasidentin-ines-saborowski",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 28. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-05-12",
+  "persons": [
+    {
+      "slug": "erste-vizeprasidentin-ines-saborowski",
+      "name": "Erste Vizepräsidentin Ines Saborowski",
+      "name_padoka": "Saborowski, Erste Vizepräsidentin Ines",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/28",
+    "date": "2026-05-12"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=50957"
+  }
+}

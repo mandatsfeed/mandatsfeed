@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-64-marc-reinhardt",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "8 Redebeiträge in PlPr 8/64",
+  "date": "2023-09-21",
+  "persons": [
+    {
+      "slug": "marc-reinhardt",
+      "name": "Marc Reinhardt",
+      "name_padoka": "Reinhardt, Marc",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/64",
+    "date": "2023-09-21"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/57956"
+  }
+}

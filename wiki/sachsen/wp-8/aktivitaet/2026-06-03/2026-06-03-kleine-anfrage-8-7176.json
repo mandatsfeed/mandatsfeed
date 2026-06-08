@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7176",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Unterjährige Kürzungen beim Gewaltschutz/ Schließung der Sofortaufnahme für von Gewalt betroffene Frauen in Leipzig",
+  "date": "2026-06-03",
+  "drsNr": "8/7176",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51127",
+    "filename": "Drs_8_7176_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

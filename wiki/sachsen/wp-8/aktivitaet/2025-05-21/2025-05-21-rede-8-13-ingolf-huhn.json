@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-13-ingolf-huhn",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in 13. Sitzung 8. Sächsischer Landtag",
+  "date": "2025-05-21",
+  "persons": [
+    {
+      "slug": "ingolf-huhn",
+      "name": "Ingolf Huhn",
+      "name_padoka": "Huhn, Ingolf",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/13",
+    "date": "2025-05-21"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=42076"
+  }
+}

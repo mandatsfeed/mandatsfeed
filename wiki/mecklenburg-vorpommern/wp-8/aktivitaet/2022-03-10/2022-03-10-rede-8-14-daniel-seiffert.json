@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-14-daniel-seiffert",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "10 Redebeiträge in PlPr 8/14",
+  "date": "2022-03-10",
+  "persons": [
+    {
+      "slug": "daniel-seiffert",
+      "name": "Daniel Seiffert",
+      "name_padoka": "Seiffert, Daniel",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/14",
+    "date": "2022-03-10"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/52185"
+  }
+}

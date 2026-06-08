@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID217411900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Konsequenzen aus dem Gerichtsurteil zur Correctiv-Berichterstattung ziehen – Förderung einstellen und Falschbehauptungen entgegenwirken",
+  "date": "2026-04-23",
+  "persons": [
+    {
+      "slug": "martin-rabanus",
+      "name": "Martin Rabanus",
+      "name_padoka": "Rabanus, Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/74",
+    "date": "2026-04-23",
+    "page": 8958
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21074.pdf"
+  }
+}

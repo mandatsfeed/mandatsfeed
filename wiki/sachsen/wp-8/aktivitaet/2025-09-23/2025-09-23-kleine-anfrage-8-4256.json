@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-4256",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beschlagnahme des \"Adenauer SRP+\"-Bus im Rahmen des Versammlungsgeschehens um den CSD in Döbeln",
+  "date": "2025-09-23",
+  "drsNr": "8/4256",
+  "persons": [
+    {
+      "slug": "valentin-lippmann",
+      "name": "Valentin Lippmann",
+      "name_padoka": "Lippmann, Valentin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=44727",
+    "filename": "Drs_8_4256_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

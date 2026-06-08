@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218007700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 10",
+  "date": "2026-05-21",
+  "persons": [
+    {
+      "slug": "johannes-wiegelmann",
+      "name": "Johannes Wiegelmann",
+      "name_padoka": "Wiegelmann, Johannes",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/80",
+    "date": "2026-05-21",
+    "page": 9696
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21080.pdf"
+  }
+}

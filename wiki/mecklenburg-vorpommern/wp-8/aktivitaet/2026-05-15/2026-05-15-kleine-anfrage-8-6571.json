@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6571",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kommunikation des Ministeriums für Klimaschutz, Landwirtschaft, ländliche Räume und Umwelt im Zusammenhang mit dem Verbleib des gestrandeten Buckelwals",
+  "date": "2026-05-15",
+  "drsNr": "8/6571",
+  "persons": [
+    {
+      "slug": "thore-stein",
+      "name": "Thore Stein",
+      "name_padoka": "Stein, Thore",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71336"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

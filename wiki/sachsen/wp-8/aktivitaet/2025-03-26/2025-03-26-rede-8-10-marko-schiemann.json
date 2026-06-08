@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-10-marko-schiemann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in zu Drs 8/1725\r\nWahl der Mitglieder und stellvertretenden Mitglieder im Stiftungsrat der Sächsischen Landesstiftung Natur und Umwelt",
+  "date": "2025-03-26",
+  "persons": [
+    {
+      "slug": "marko-schiemann",
+      "name": "Marko Schiemann",
+      "name_padoka": "Schiemann, Marko",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/10",
+    "date": "2025-03-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=40618"
+  }
+}

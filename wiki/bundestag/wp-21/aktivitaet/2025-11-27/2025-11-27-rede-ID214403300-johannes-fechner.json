@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214403300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan I.14",
+  "date": "2025-11-27",
+  "persons": [
+    {
+      "slug": "johannes-fechner",
+      "name": "Johannes Fechner",
+      "name_padoka": "Fechner, Johannes",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/44",
+    "date": "2025-11-27",
+    "page": 5202
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21044.pdf"
+  }
+}

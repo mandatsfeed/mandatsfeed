@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID216106500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-03-04",
+  "persons": [
+    {
+      "slug": "maren-kaminski",
+      "name": "Maren Kaminski",
+      "name_padoka": "Kaminski, Maren",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/61",
+    "date": "2026-03-04",
+    "page": 7423
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21061.pdf"
+  }
+}

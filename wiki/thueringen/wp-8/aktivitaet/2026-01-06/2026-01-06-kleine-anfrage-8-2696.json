@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-2696",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung der Verfahrenslotsen nach § 10b des Achten Buchs Sozialgesetzbuch in Thüringen",
+  "date": "2026-01-06",
+  "drsNr": "8/2696",
+  "persons": [
+    {
+      "slug": "lena-saniye-gungor",
+      "name": "Lena Saniye Güngör",
+      "name_padoka": "Güngör, Lena Saniye",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/105233"
+  },
+  "subtype": "Dringlichkeitsanfrage",
+  "status": "ohne_antwort"
+}

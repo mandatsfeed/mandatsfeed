@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218105100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ernährungssouveränität herstellen – Globale Hungerkrise bekämpfen in Zeiten wachsender Finanzierungslücken",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "johann-saathoff",
+      "name": "Johann Saathoff",
+      "name_padoka": "Saathoff, Johann",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär bei der Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/81",
+    "date": "2026-05-22",
+    "page": 9804
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21081.pdf"
+  }
+}

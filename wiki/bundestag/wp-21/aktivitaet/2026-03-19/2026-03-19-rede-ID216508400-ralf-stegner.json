@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216508400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "18. März – Tag der Demokratiegeschichte – Orte der Freiheit und Demokratie in Deutschland weiter stärken",
+  "date": "2026-03-19",
+  "persons": [
+    {
+      "slug": "ralf-stegner",
+      "name": "Ralf Stegner",
+      "name_padoka": "Stegner, Ralf",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/65",
+    "date": "2026-03-19",
+    "page": 7928
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21065.pdf"
+  }
+}

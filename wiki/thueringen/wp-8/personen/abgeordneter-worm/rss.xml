@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Abgeordneter Worm (Thüringer Landtag, WP-8)</title>
+    <link>https://parldok.thueringer-landtag.de/parldok/</link>
+    <description>Aufbereitung durch mandatsfeed. Quelle: Thüringer Landtag – Parlamentsdatenbank (parldok.thueringer-landtag.de). Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">parldok-rede-thueringen-8-43-abgeordneter-worm</guid>
+      <title>2 Redebeiträge in PlPr 8/43</title>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <link>https://parldok.thueringer-landtag.de/parldok/dokument/107238</link>
+      <description>Rede · Plenarprotokoll 8/43, S. ?</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">parldok-rede-thueringen-8-42-abgeordneter-worm</guid>
+      <title>1 Redebeitrag in PlPr 8/42</title>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://parldok.thueringer-landtag.de/parldok/dokument/106571</link>
+      <description>Rede · Plenarprotokoll 8/42, S. ?</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">parldok-rede-thueringen-8-41-abgeordneter-worm</guid>
+      <title>1 Redebeitrag in PlPr 8/41</title>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://parldok.thueringer-landtag.de/parldok/dokument/106549</link>
+      <description>Rede · Plenarprotokoll 8/41, S. ?</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">parldok-rede-thueringen-8-19-abgeordneter-worm</guid>
+      <title>1 Redebeitrag in PlPr 8/19</title>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+      <link>https://parldok.thueringer-landtag.de/parldok/dokument/102342</link>
+      <description>Rede · Plenarprotokoll 8/19, S. ?</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">parldok-rede-thueringen-8-8-abgeordneter-worm</guid>
+      <title>1 Redebeitrag in PlPr 8/8</title>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+      <link>https://parldok.thueringer-landtag.de/parldok/dokument/100367</link>
+      <description>Rede · Plenarprotokoll 8/8, S. ?</description>
+    </item>
+  </channel>
+</rss>

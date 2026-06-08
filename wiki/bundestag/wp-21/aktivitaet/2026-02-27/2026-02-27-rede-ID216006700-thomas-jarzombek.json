@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID216006700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 29",
+  "date": "2026-02-27",
+  "persons": [
+    {
+      "slug": "thomas-jarzombek",
+      "name": "Thomas Jarzombek",
+      "name_padoka": "Jarzombek, Thomas",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär beim Bundesminister für Digitales und Staatsmodernisierung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/60",
+    "date": "2026-02-27",
+    "page": 7323
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21060.pdf"
+  }
+}

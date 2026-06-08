@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6147",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Massive gezielte Online-Manipulation von Jugendlichen und Aufforderung zu Selbstverletzungen – Lagebild, Strafverfolgung und Prävention in MecklenburgVorpommern",
+  "date": "2026-02-09",
+  "drsNr": "8/6147",
+  "persons": [
+    {
+      "slug": "petra-federau",
+      "name": "Petra Federau",
+      "name_padoka": "Federau, Petra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69461"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

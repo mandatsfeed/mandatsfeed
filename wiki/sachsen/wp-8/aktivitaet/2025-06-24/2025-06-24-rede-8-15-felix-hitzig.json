@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-15-felix-hitzig",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in Ein Atomkraftwerk direkt vor unserer Haustür - Schutz von Menschen und Natur in Sachsen sicherstellen",
+  "date": "2025-06-24",
+  "persons": [
+    {
+      "slug": "felix-hitzig",
+      "name": "Felix Hitzig",
+      "name_padoka": "Hitzig, Felix",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/15",
+    "date": "2025-06-24"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=43042"
+  }
+}

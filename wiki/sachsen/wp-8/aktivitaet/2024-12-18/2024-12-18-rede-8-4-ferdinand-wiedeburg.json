@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-4-ferdinand-wiedeburg",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 4. Sitzung 8. Sächsischer Landtag",
+  "date": "2024-12-18",
+  "persons": [
+    {
+      "slug": "ferdinand-wiedeburg",
+      "name": "Ferdinand Wiedeburg",
+      "name_padoka": "Wiedeburg, Ferdinand",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/4",
+    "date": "2024-12-18"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=38098"
+  }
+}

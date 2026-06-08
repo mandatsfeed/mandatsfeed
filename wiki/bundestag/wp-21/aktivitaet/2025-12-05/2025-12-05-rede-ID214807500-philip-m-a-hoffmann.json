@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID214807500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Eingefrorenes russisches Staatsvermögen der Ukraine vollumfänglich zur Verfügung stellen — Sicherheit stärken – Russische Atomgeschäfte in der Brennelementefabrik Lingen unterbinden",
+  "date": "2025-12-05",
+  "persons": [
+    {
+      "slug": "philip-m-a-hoffmann",
+      "name": "Philip M. A. Hoffmann",
+      "name_padoka": "Hoffmann, Philip M. A.",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/48",
+    "date": "2025-12-05",
+    "page": 5732
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21048.pdf"
+  }
+}

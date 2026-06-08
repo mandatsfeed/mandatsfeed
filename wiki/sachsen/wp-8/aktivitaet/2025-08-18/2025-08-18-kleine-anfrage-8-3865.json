@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-3865",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Die geschäftliche Entwicklung der Port Ground GmbH - Nachfrage zu Drucksache 8/3284",
+  "date": "2025-08-18",
+  "drsNr": "8/3865",
+  "persons": [
+    {
+      "slug": "timo-schreyer",
+      "name": "Timo Schreyer",
+      "name_padoka": "Schreyer, Timo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=43792",
+    "filename": "Drs_8_3865_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

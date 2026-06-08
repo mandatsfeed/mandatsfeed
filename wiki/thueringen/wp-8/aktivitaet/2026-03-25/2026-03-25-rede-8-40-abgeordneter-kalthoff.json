@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-thueringen-8-40-abgeordneter-kalthoff",
+  "source": "parldok",
+  "parliament": "thueringen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/40",
+  "date": "2026-03-25",
+  "persons": [
+    {
+      "slug": "abgeordneter-kalthoff",
+      "name": "Abgeordneter Kalthoff",
+      "name_padoka": "Kalthoff, Abgeordneter",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/40",
+    "date": "2026-03-25"
+  },
+  "document": {
+    "url": "https://parldok.thueringer-landtag.de/parldok/dokument/106517"
+  }
+}

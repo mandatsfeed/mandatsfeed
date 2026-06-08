@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID214104600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Strategie zur digitalen Souveränität – Für eine selbstbestimmte digitale Zukunft Deutschlands und Europas — Vertrauenswürdige Künstliche Intelligenz ermöglichen – Umsetzung der europäischen KI-Verordnung in Deutschland beschleunigen, Innovation fördern und digitale Souveränität stärken",
+  "date": "2025-11-14",
+  "persons": [
+    {
+      "slug": "thomas-pauls",
+      "name": "Thomas Pauls",
+      "name_padoka": "Pauls, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/41",
+    "date": "2025-11-14",
+    "page": 4840
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21041.pdf"
+  }
+}
