@@ -4,13 +4,24 @@ mandatsfeed sammelt parlamentarische Aktivitäten von Mandatsträgern in Bundest
 
 **Schwesterprojekt zu [amtsfeed](https://github.com/amtsfeed/amtsfeed):** amtsfeed bildet die Verwaltungs-/Exekutivseite ab (Gemeinden, Behörden, Amtsblätter, Bekanntmachungen). mandatsfeed bildet die gewählte Vertretungsseite ab — was Abgeordnete *im Protokoll* tun, nicht was sie freiwillig kommunizieren.
 
-## Status: Forschungsprojekt
+## Status
 
-mandatsfeed ist derzeit **kein produktives Datenangebot**, sondern ein **Forschungsprojekt** zur Machbarkeit von Per-Person- und Per-Fraktions-Feeds aus deutschen Parlamentsdokumentations-Systemen. Das Repository enthält die **Code-Basis** (Adapter, Build-Tooling, Schema-Definitionen) und Dokumentation der jeweiligen Quellsysteme — aber **keine extrahierten Datenartefakte**. Aktivitäts-JSONs und generierte RSS-Feeds werden bewusst nicht eingecheckt (siehe `.gitignore`).
+mandatsfeed läuft als **selektives Public-Angebot**: Für Parlamente, deren Quellsystem-`robots.txt` automatisierten Zugriff nicht ausschließt, werden Aktivitäts-JSONs und RSS-Feeds eingecheckt und über [mandatsfeed.github.io](https://mandatsfeed.github.io/) bzw. den `mandatsfeed`-Repo-Pfad veröffentlicht. Für Parlamente mit Komplettverbot in robots.txt bleibt der Bestand **Forschungsphase** (Adapter im Repo, Daten nur lokal, kein Push).
 
-Hintergrund: Eine erste technische Vorstudie am Landtag Sachsen-Anhalt (PADOKA-System) zeigte, dass das Auskunftsportal über `padoka.landtag.sachsen-anhalt.de/robots.txt` ein **Komplettverbot für automatisierte Zugriffe** ausspricht (`Disallow: /` plus expliziter Block auf `/files/`). Vor einem produktiven Betrieb muss daher eine formelle Erlaubnis der Parlamentsdokumentation eingeholt werden — analog zum personalisierten API-Key, den der Bundestag für DIP-Nutzung vergibt. Sobald die Erlaubnis vorliegt, wird mandatsfeed in einem **frischen Repository mit neuer Git-History** als produktives Angebot relaunched. Die in diesem Repo dokumentierten Adapter und das Datenschema bleiben dabei die Vorlage.
+| Parlament | robots.txt | Status |
+|-----------|-----------|--------|
+| Bundestag (DIP-API) | n/a (offizielle API mit Key) | 🟢 Public |
+| Sächsischer Landtag (REDAS) | keine robots.txt | 🟢 Public |
+| Landtag Mecklenburg-Vorpommern (Parldok) | keine robots.txt | 🟢 Public |
+| Thüringer Landtag (Parldok) | keine robots.txt | 🟢 Public |
+| Landtag Sachsen-Anhalt (PADOKA) | `Disallow: /` + `/files/` | 🟥 Forschungsphase |
+| Landtag Brandenburg (STARWEB) | `Disallow: /` | 🟥 Forschungsphase |
 
-Den Befund zur robots.txt halten wir in `wiki/sachsen-anhalt/robots.json` (nur lokal, nicht im Repo) und `wiki/sachsen-anhalt/README.md` (im Repo) fest, damit nachvollziehbar bleibt, was uns wann bekannt war.
+Konfiguriert wird der Status pro Parlament über das `published`-Flag in `scripts/parliaments.ts`. Das wirkt auf zwei Ebenen:
+- **`.gitignore`-Whitelist**: `wiki/<parlament>/**` wird nur für `published: true` ausgenommen vom generellen Daten-Ignore.
+- **`metadata.json`**: enthält nur die published-Parlamente, damit die in [mandatsfeed.github.io](https://mandatsfeed.github.io/) sichtbare Feed-Liste mit dem öffentlich verfügbaren Datenbestand konsistent bleibt.
+
+Für die Forschungsphase-Parlamente halten wir die Adapter weiter aktuell und sammeln den Befund in `wiki/<parlament>/README.md` (im Repo) und `wiki/<parlament>/robots.json` (nur lokal). Sobald eine formelle Erlaubnis der jeweiligen Parlamentsdokumentation vorliegt — analog zum personalisierten API-Key, den der Bundestag für DIP vergibt — wird das Flag umgestellt und der Bestand veröffentlicht.
 
 ## Was mandatsfeed ist
 
