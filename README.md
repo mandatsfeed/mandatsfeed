@@ -43,10 +43,10 @@ mandatsfeed erzeugt pro **Abgeordneter** und pro **Fraktion** einen chronologisc
 |---------------------------------|---------------------------------|------------------------------------|
 | Landtag Sachsen-Anhalt          | PADOKA (STARWEB-Variante)       | 🟢 Drucksachen + Reden + Abstimmungen (Forschungsphase wegen robots.txt) |
 | Landtag Brandenburg             | STARWEB + abgeordnetenwatch     | 🟢 Drucksachen + Reden (mit Regierungsmitglied-Erkennung) + namentliche Abstimmungen via abgeordnetenwatch (Forschungsphase wegen robots.txt) |
-| Landtag Mecklenburg-Vorpommern  | Parldok + abgeordnetenwatch     | 🟢 Drucksachen + namentliche Abstimmungen via abgeordnetenwatch (Reden offen) |
-| Thüringer Landtag               | Parldok + abgeordnetenwatch     | 🟢 Drucksachen + namentliche Abstimmungen via abgeordnetenwatch (Reden offen) |
+| Landtag Mecklenburg-Vorpommern  | Parldok + abgeordnetenwatch     | 🟢 Drucksachen + Reden (PlPr-PDF-Parser) + namentliche Abstimmungen via abgeordnetenwatch |
+| Thüringer Landtag               | Parldok + abgeordnetenwatch     | 🟢 Drucksachen + Reden (PlPr-PDF-Parser mit MdL-Nachname-Registry) + namentliche Abstimmungen via abgeordnetenwatch |
 | Sächsischer Landtag             | EDAS / REDAS + abgeordnetenwatch | 🟢 Drucksachen + Reden + namentliche Abstimmungen via abgeordnetenwatch |
-| Deutscher Bundestag             | DIP (offizielle API)            | 🟢 Drucksachen + Reden (TOP-Titel + Druckseite) + Namentliche Abstimmungen (XLSX) — `DIP_API_KEY` in `.env` setzen |
+| Deutscher Bundestag             | DIP + Mediathek                 | 🟢 Drucksachen + Reden (DIP-XML, TOP-Titel + Druckseite) + Namentliche Abstimmungen (XLSX) + Video-RSS pro MdB via Mediathek-Plenar-Podcast — `DIP_API_KEY` in `.env` setzen |
 
 Den DIP-Key bekommt man formlos per E-Mail an `parlamentsdokumentation@bundestag.de` — siehe [DIP-Hilfe-Seite](https://dip.bundestag.de/über-dip/hilfe/api). Eintrag in `.env` (Vorlage: `.env.example`).
 
@@ -57,6 +57,16 @@ Brandenburg, Mecklenburg-Vorpommern, Thüringen und Sachsen veröffentlichen ihr
 ```bash
 PARLIAMENT=brandenburg pnpm run fetch-abstimmungen:abgeordnetenwatch
 PARLIAMENT=thueringen MIN_DATE=2024-09-26 pnpm run fetch-abstimmungen:abgeordnetenwatch
+```
+
+### Externe RSS-Feeds pro Person (Bundestag-Mediathek)
+
+Die Mediathek des Bundestages bietet pro MdB einen Podcast-RSS mit allen Plenar-Video-Beiträgen (`webtv.bundestag.de/.../plenar.xml?speakerIds=<id>`, CORS `*`). Die offizielle Mediathek-Filterliste ([`/static/appdata/filter/rednerNamen.json`](https://www.bundestag.de/static/appdata/filter/rednerNamen.json)) listet pro Person die internen Mediathek-IDs (1–7 IDs je nach Anzahl der Rollen / Wahlperioden).
+
+`scripts/build-webtv-speaker-ids.ts` lädt diese Quelle und mappt sie über Slug-Übereinstimmung auf unsere bestehenden Bundestag-Personen — Coverage WP20 99 %, WP21 97 %. `generate-metadata` fügt das Ergebnis als `externalFeeds: [{type: "bundestag-mediathek", url}]` pro Person in `metadata.json` ein. Die Web-UI rendert daraus einen zusätzlichen „📺 Videos im Plenum"-Button. Wir mirroren die Mediathek-Inhalte nicht selbst — der Link zeigt direkt auf den offiziellen Bundestags-Feed.
+
+```bash
+pnpm run build-webtv-speaker-ids   # einmal pro Wahl / nach Rollenwechseln
 ```
 
 ## Datenstruktur
