@@ -77,6 +77,12 @@ export interface ParliamentConfig {
   published: boolean;
 }
 
+export interface ExternalFeed {
+  type: string;       // z. B. "bundestag-mediathek"
+  label: string;      // UI-Label, z. B. "Videos im Plenum"
+  url: string;        // Absolute Feed-URL (RSS / Atom)
+}
+
 export interface FeedEntry {
   kind: "person" | "fraktion";
   parliament: string;
@@ -86,6 +92,7 @@ export interface FeedEntry {
   count: number;
   updatedAt: string | null;
   rssUrl: string;
+  externalFeeds?: ExternalFeed[];
 }
 
 export interface Metadata {

@@ -44,15 +44,32 @@ function listWPDirs(parliamentSlug: string): string[] {
     .sort();
 }
 
+// Pro Parlament + WP eventuell vorhandene Webtv-SpeakerId-Mapping einlesen.
+// Datei: wiki/<parlament>/<wp>/webtv-speaker-ids.json — Map slug → speakerId[].
+// Wird beim Build-Script `tsx scripts/build-webtv-speaker-ids.ts` aus der
+// Bundestag-rednerNamen.json gefüttert.
+function loadWebtvSpeakerIds(parliamentSlug: string, wpDir: string): Record<string, string[]> {
+  const path = join(WIKI, parliamentSlug, wpDir, "webtv-speaker-ids.json");
+  if (!existsSync(path)) return {};
+  try {
+    return JSON.parse(readFileSync(path, "utf-8"));
+  } catch {
+    return {};
+  }
+}
+
 function buildEntries(parliamentSlug: string, wpDir: string, kind: "person" | "fraktion"): FeedEntry[] {
   const subdir = kind === "person" ? "personen" : "fraktion";
   const base = join(WIKI, parliamentSlug, wpDir, subdir);
   const entries: FeedEntry[] = [];
+  const webtvIds = kind === "person" && parliamentSlug === "bundestag"
+    ? loadWebtvSpeakerIds(parliamentSlug, wpDir)
+    : {};
   for (const slug of listSubdirs(base)) {
     const rssPath = join(base, slug, "rss.xml");
     if (!existsSync(rssPath)) continue;
     const label = readChannelTitle(rssPath)?.replace(/^mandatsfeed · /, "").replace(/ \(.*\)$/, "") ?? slug;
-    entries.push({
+    const entry: FeedEntry = {
       kind,
       parliament: parliamentSlug,
       slug,
@@ -60,7 +77,16 @@ function buildEntries(parliamentSlug: string, wpDir: string, kind: "person" | "f
       count: countItems(rssPath),
       updatedAt: latestPubDate(rssPath),
       rssUrl: `wiki/${parliamentSlug}/${wpDir}/${subdir}/${slug}/rss.xml`,
-    });
+    };
+    const ids = webtvIds[slug];
+    if (ids && ids.length > 0) {
+      entry.externalFeeds = [{
+        type: "bundestag-mediathek",
+        label: "Videos im Plenum",
+        url: `https://webtv.bundestag.de/player/macros/bttv/podcast/video/plenar.xml?speakerIds=${ids.join(",")}`,
+      }];
+    }
+    entries.push(entry);
   }
   return entries;
 }
