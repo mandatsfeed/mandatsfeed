@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5403",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Gemeinsame GETEX-Übungen 2026",
+  "date": "2025-11-21",
+  "drsNr": "8/5403",
+  "persons": [
+    {
+      "slug": "ann-christin-von-allworden",
+      "name": "Ann Christin von Allwörden",
+      "name_padoka": "von Allwörden, Ann Christin",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67282"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5485",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktionstage gegen Hasspostings in Mecklenburg-Vorpommern",
+  "date": "2025-12-16",
+  "drsNr": "8/5485",
+  "persons": [
+    {
+      "slug": "nikolaus-kramer",
+      "name": "Nikolaus Kramer",
+      "name_padoka": "Kramer, Nikolaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68280"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

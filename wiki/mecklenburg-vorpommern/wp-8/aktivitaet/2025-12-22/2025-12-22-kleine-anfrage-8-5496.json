@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5496",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Fördermaßnahmen auf der Insel Ummanz",
+  "date": "2025-12-22",
+  "drsNr": "8/5496",
+  "persons": [
+    {
+      "slug": "paul-joachim-timm",
+      "name": "Paul-Joachim Timm",
+      "name_padoka": "Timm, Paul-Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68393"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

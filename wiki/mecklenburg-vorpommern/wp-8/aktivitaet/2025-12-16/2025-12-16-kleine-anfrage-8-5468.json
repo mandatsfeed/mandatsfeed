@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5468",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bewerbungen von Hochschulen aus Mecklenburg-Vorpommern am DAAD-Förderprogramm „Academic Horizons – Attracting Global Minds“",
+  "date": "2025-12-16",
+  "drsNr": "8/5468",
+  "persons": [
+    {
+      "slug": "paul-joachim-timm",
+      "name": "Paul-Joachim Timm",
+      "name_padoka": "Timm, Paul-Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68045"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

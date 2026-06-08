@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5489",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Strukturen, Zuständigkeiten und Aufklärung im Rettungsdienst und ärztlichen Bereitschaftsdienst in Mecklenburg-Vorpommern",
+  "date": "2025-12-16",
+  "drsNr": "8/5489",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68367"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

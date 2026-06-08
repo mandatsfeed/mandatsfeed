@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5482",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Speicherung, Berichtigung, Ergänzung, Sperrung und Löschung personenbezogener Daten durch die Verfassungsschutzbehörde des Landes Mecklenburg-Vorpommern in den Jahren 2015 bis 2025",
+  "date": "2025-12-18",
+  "drsNr": "8/5482",
+  "persons": [
+    {
+      "slug": "nikolaus-kramer",
+      "name": "Nikolaus Kramer",
+      "name_padoka": "Kramer, Nikolaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68277"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

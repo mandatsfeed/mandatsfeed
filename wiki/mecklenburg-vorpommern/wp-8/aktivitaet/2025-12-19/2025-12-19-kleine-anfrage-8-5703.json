@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5703",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kostenaufteilung und Verantwortung bei der Umsetzung der vierten Reinigungsstufe gemäß der EU-Kommunalabwasserrichtlinie",
+  "date": "2025-12-19",
+  "drsNr": "8/5703",
+  "persons": [
+    {
+      "slug": "dr-harald-terpe",
+      "name": "Dr. Harald Terpe",
+      "name_padoka": "Terpe, Dr. Harald",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68612"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

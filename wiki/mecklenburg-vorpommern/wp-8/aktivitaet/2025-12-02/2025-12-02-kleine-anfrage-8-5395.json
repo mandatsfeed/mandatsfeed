@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5395",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schulfahrten und Bewilligungspraxis im Schulamtsbereich Schwerin seit dem Schuljahr 2021/2022",
+  "date": "2025-12-02",
+  "drsNr": "8/5395",
+  "persons": [
+    {
+      "slug": "torsten-renz",
+      "name": "Torsten Renz",
+      "name_padoka": "Renz, Torsten",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67227"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

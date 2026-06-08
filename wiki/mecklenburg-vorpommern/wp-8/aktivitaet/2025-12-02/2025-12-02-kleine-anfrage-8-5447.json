@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5447",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Förderung kleiner Kinos im ländlichen Raum mit Landes-, Bundes- und EU-Mitteln",
+  "date": "2025-12-02",
+  "drsNr": "8/5447",
+  "persons": [
+    {
+      "slug": "katy-hoffmeister",
+      "name": "Katy Hoffmeister",
+      "name_padoka": "Hoffmeister, Katy",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67632"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

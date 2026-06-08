@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5464",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bezug von Grundleistungen gemäß § 3 des Asylbewerberleistungsgesetzes in Mecklenburg-Vorpommern",
+  "date": "2025-12-05",
+  "drsNr": "8/5464",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68049"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

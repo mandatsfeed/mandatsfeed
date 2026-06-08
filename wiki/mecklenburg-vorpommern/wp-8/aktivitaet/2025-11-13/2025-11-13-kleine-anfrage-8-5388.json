@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5388",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktueller Stand aus dem Programm „Personalkostenzuschüsse“ des Landesförderinstituts Mecklenburg-Vorpommern",
+  "date": "2025-11-13",
+  "drsNr": "8/5388",
+  "persons": [
+    {
+      "slug": "martin-schmidt",
+      "name": "Martin Schmidt",
+      "name_padoka": "Schmidt, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67016"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

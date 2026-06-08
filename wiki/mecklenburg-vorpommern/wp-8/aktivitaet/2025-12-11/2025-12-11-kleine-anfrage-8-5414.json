@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5414",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umwandlung militärischer Liegenschaften in die zivile Nutzung",
+  "date": "2025-12-11",
+  "drsNr": "8/5414",
+  "persons": [
+    {
+      "slug": "thore-stein",
+      "name": "Thore Stein",
+      "name_padoka": "Stein, Thore",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67471"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

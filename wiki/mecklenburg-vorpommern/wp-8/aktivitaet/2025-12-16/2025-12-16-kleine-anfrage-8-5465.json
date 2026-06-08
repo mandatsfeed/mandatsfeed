@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5465",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Widerrufs- und Rücknahmeverfahren und anschließende Anordnung der Ausweisung gegenüber syrischen Staatsangehörigen",
+  "date": "2025-12-16",
+  "drsNr": "8/5465",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68048"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

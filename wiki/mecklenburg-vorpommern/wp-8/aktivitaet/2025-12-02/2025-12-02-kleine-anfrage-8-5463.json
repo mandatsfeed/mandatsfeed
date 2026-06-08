@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5463",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Versorgung mit Dialyseplätzen in Mecklenburg-Vorpommern – Anzahl, Verteilung, Erreichbarkeit und Auswirkungen der Krankenhausreform",
+  "date": "2025-12-02",
+  "drsNr": "8/5463",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68050"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

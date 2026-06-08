@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5483",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Hausdurchsuchungen im Zusammenhang mit Äußerungsdelikten in Mecklenburg-Vorpommern in den Jahren 2015 bis 2025",
+  "date": "2025-12-16",
+  "drsNr": "8/5483",
+  "persons": [
+    {
+      "slug": "nikolaus-kramer",
+      "name": "Nikolaus Kramer",
+      "name_padoka": "Kramer, Nikolaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68278"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

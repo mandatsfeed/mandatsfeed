@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5524",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Situation wohnungs- und obdachloser Menschen in Mecklenburg-Vorpommern während der Wintermonate",
+  "date": "2025-12-08",
+  "drsNr": "8/5524",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68437"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

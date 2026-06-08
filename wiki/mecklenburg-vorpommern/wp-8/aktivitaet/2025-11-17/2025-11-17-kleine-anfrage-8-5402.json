@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5402",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schieß- und Einsatztraining der Landespolizei Mecklenburg-Vorpommern",
+  "date": "2025-11-17",
+  "drsNr": "8/5402",
+  "persons": [
+    {
+      "slug": "ann-christin-von-allworden",
+      "name": "Ann Christin von Allwörden",
+      "name_padoka": "von Allwörden, Ann Christin",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67281"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

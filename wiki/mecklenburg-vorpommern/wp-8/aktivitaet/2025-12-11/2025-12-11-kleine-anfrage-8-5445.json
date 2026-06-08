@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5445",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Geschäftsführerwechsel bei der DVZ Mecklenburg-Vorpommern GmbH am 27. Oktober 2025 – Entscheidungsgründe, Verfahren, Kosten und Auswirkungen",
+  "date": "2025-12-11",
+  "drsNr": "8/5445",
+  "persons": [
+    {
+      "slug": "martin-schmidt",
+      "name": "Martin Schmidt",
+      "name_padoka": "Schmidt, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67630"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

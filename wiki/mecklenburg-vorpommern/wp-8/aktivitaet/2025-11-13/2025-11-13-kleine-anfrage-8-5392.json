@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5392",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Anzeige des Ministeriums für Bildung und Kindertagesförderung im BLITZ am SONNTAG und ministerieller Elternbrief",
+  "date": "2025-11-13",
+  "drsNr": "8/5392",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67092"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

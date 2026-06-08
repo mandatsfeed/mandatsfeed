@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5386",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung des Strandkorberlasses vom März 2025",
+  "date": "2025-11-21",
+  "drsNr": "8/5386",
+  "persons": [
+    {
+      "slug": "wolfgang-waldmuller",
+      "name": "Wolfgang Waldmüller",
+      "name_padoka": "Waldmüller, Wolfgang",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67014"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

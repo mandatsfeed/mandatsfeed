@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5694",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Übernahme des Busverkehrs durch die VVG mbH im Teilnetz Usedom",
+  "date": "2025-12-29",
+  "drsNr": "8/5694",
+  "persons": [
+    {
+      "slug": "henning-foerster",
+      "name": "Henning Foerster",
+      "name_padoka": "Foerster, Henning",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68502"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

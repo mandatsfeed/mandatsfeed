@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5450",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ortsumgehung Dargun",
+  "date": "2025-12-16",
+  "drsNr": "8/5450",
+  "persons": [
+    {
+      "slug": "franz-robert-liskow",
+      "name": "Franz-Robert Liskow",
+      "name_padoka": "Liskow, Franz-Robert",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67723"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

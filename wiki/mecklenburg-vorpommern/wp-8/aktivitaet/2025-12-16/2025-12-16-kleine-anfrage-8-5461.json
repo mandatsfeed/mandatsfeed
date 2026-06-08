@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5461",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Stand und Umsetzung der zivilen Verteidigung in Mecklenburg-Vorpommern",
+  "date": "2025-12-16",
+  "drsNr": "8/5461",
+  "persons": [
+    {
+      "slug": "sabine-enseleit",
+      "name": "Sabine Enseleit",
+      "name_padoka": "Enseleit, Sabine",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67952"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5484",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aufbau eines neuen „Instituts für Laser-Fusion“ in Rostock",
+  "date": "2025-12-16",
+  "drsNr": "8/5484",
+  "persons": [
+    {
+      "slug": "paul-joachim-timm",
+      "name": "Paul-Joachim Timm",
+      "name_padoka": "Timm, Paul-Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68279"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

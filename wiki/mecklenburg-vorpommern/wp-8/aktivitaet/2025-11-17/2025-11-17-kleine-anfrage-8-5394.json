@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5394",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vorgaben der Landesregierung bezüglich des Sicherheitsdienstes in der Erstaufnahmeeinrichtung des Landes und in kommunalen Gemeinschaftsunterkünften im Sinne von § 4 des Flüchtlingsaufnahmegesetzes",
+  "date": "2025-11-17",
+  "drsNr": "8/5394",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67226"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

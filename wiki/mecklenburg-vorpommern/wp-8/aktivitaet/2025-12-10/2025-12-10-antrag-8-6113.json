@@ -1,0 +1,22 @@
+{
+  "id": "parldok-drs-8-6113",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "antrag",
+  "title": "Fünftes Gesetz zur Änderung des Juristenausbildungsgesetzes",
+  "date": "2025-12-10",
+  "drsNr": "8/6113",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "die-linke",
+    "fdp",
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/69049"
+  },
+  "subtype": "Änderungsantrag",
+  "urheber": "SPD, Die Linke, B90/GR, FDP (Gruppe)"
+}

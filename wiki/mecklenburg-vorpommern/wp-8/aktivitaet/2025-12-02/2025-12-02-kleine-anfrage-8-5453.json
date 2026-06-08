@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5453",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Folgen und Risiken der Änderung des Geschlechtseintrages in Mecklenburg-Vorpommern",
+  "date": "2025-12-02",
+  "drsNr": "8/5453",
+  "persons": [
+    {
+      "slug": "petra-federau",
+      "name": "Petra Federau",
+      "name_padoka": "Federau, Petra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67726"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

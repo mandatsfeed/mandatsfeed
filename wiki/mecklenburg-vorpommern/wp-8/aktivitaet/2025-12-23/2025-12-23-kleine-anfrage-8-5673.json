@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5673",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "„Systemsprenger“ im schulischen Kontext in Mecklenburg-Vorpommern",
+  "date": "2025-12-23",
+  "drsNr": "8/5673",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68491"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

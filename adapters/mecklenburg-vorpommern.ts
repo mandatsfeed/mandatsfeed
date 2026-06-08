@@ -65,9 +65,17 @@ function waitForResults(): number {
 function setPageSize100(): void {
   ab(
     "eval",
-    "(()=>{const s=Array.from(document.querySelectorAll('select')).find(x=>x.options[0]?.value==='10');if(s){s.value='100';s.dispatchEvent(new Event('change',{bubbles:true}))}})()",
+    "(()=>{const s=document.getElementById('pagesizePOPID')||Array.from(document.querySelectorAll('select')).find(x=>x.options[0]?.value==='10');if(s){s.value='100';s.dispatchEvent(new Event('change',{bubbles:true}))}})()",
   );
   ab("wait", "3000");
+  // Auf das tatsaechliche Laden der 100 docrows warten — manchmal kommt
+  // der erste resize-Event durch, der DOM-Update kommt aber spaeter.
+  for (let i = 0; i < 30; i++) {
+    const out = ab("eval", "(()=>document.querySelectorAll('li.docrow').length)()");
+    const n = Number((out.match(/(\d+)/) ?? ["", "0"])[1]);
+    if (n >= 100) return;
+    ab("wait", "500");
+  }
 }
 
 function gotoPage(page: number): void {

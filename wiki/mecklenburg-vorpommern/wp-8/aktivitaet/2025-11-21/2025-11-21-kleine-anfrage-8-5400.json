@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5400",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Gutachten der Landesregierung im Zusammenhang mit den Ermittlungen gegen das Ministerium für Inneres und Bau und das Landesamt für Brand- und Katastrophenschutz sowie der Durchsuchung von Diensträumen",
+  "date": "2025-11-21",
+  "drsNr": "8/5400",
+  "persons": [
+    {
+      "slug": "ann-christin-von-allworden",
+      "name": "Ann Christin von Allwörden",
+      "name_padoka": "von Allwörden, Ann Christin",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/67280"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

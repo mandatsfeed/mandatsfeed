@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5520",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Anzahl der Absolventen der Weiterbildung „Geprüfte Fachkraft zur Arbeits- und Berufsförderung“ in Mecklenburg-Vorpommern",
+  "date": "2025-12-18",
+  "drsNr": "8/5520",
+  "persons": [
+    {
+      "slug": "petra-federau",
+      "name": "Petra Federau",
+      "name_padoka": "Federau, Petra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68433"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

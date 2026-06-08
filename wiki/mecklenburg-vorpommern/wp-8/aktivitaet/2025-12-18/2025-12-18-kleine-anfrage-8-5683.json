@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5683",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Regiobuslinien in Mecklenburg-Vorpommern",
+  "date": "2025-12-18",
+  "drsNr": "8/5683",
+  "persons": [
+    {
+      "slug": "jutta-wegner",
+      "name": "Jutta Wegner",
+      "name_padoka": "Wegner, Jutta",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68495"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

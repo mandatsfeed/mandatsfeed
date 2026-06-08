@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-5490",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Abwrackung und Entsorgung des Kriegsfischkutters „Nordland III“ am Sperrwerk im Greifswalder Ortsteil Wieck",
+  "date": "2025-12-11",
+  "drsNr": "8/5490",
+  "persons": [
+    {
+      "slug": "stephan-j-reuken",
+      "name": "Stephan J. Reuken",
+      "name_padoka": "Reuken, Stephan J.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/68368"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}
