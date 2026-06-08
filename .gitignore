@@ -6,6 +6,9 @@ node_modules/
 # damit Re-Runs nicht jedes Mal beim Quellsystem neu ziehen müssen.
 .cache/
 
+# Claude-Code lokale Session-Artefakte (Scheduled-Task-Locks etc.)
+.claude/
+
 # Secrets — never commit (siehe .env.example fuer die Felder)
 .env
 
