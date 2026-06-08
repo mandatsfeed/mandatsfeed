@@ -181,6 +181,13 @@ function classify(typLabel: string): { type: ActivityType; subtype?: string; sta
   if (/^Kleine Anfrage/.test(typLabel)) return { type: "kleine_anfrage", status: "ohne_antwort", subtype: "Kleine Anfrage" };
   if (/^Antwort.*Große Anfrage/.test(typLabel)) return { type: "grosse_anfrage", status: "mit_antwort" };
   if (/^Große Anfrage/.test(typLabel)) return { type: "grosse_anfrage" };
+  // Thüringen-spezifisch: Dringlichkeits- und Mündliche Anfragen — semantisch wie KA.
+  // Beide Varianten existieren als "… vom <Datum>" (ohne Antwort) und
+  // "… und ihre Beantwortung vom <Datum>" (mit Antwort).
+  if (/^Dringlichkeitsanfrage und ihre Beantwortung/.test(typLabel)) return { type: "kleine_anfrage", status: "mit_antwort", subtype: "Dringlichkeitsanfrage" };
+  if (/^Dringlichkeitsanfrage/.test(typLabel)) return { type: "kleine_anfrage", status: "ohne_antwort", subtype: "Dringlichkeitsanfrage" };
+  if (/^Mündliche Anfrage und ihre Beantwortung/.test(typLabel)) return { type: "kleine_anfrage", status: "mit_antwort", subtype: "Mündliche Anfrage" };
+  if (/^Mündliche Anfrage/.test(typLabel)) return { type: "kleine_anfrage", status: "ohne_antwort", subtype: "Mündliche Anfrage" };
   if (/^Gesetzentwurf/.test(typLabel)) return { type: "gesetzentwurf" };
   if (/^Antrag/.test(typLabel)) return { type: "antrag" };
   if (/^Alternativantrag/.test(typLabel)) return { type: "antrag", subtype: "Alternativantrag" };
