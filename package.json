@@ -12,6 +12,8 @@
     "fetch:brandenburg": "tsx adapters/brandenburg.ts",
     "fetch:mecklenburg-vorpommern": "tsx adapters/mecklenburg-vorpommern.ts",
     "fetch:thueringen": "tsx adapters/thueringen.ts",
+    "fetch-reden:mecklenburg-vorpommern": "tsx adapters/mecklenburg-vorpommern-reden.ts",
+    "fetch-reden:thueringen": "tsx adapters/thueringen-reden.ts",
     "fetch:sachsen": "tsx adapters/sachsen.ts",
     "fetch:bundestag": "tsx adapters/bundestag.ts",
     "generate-rss": "tsx scripts/generate-rss.ts",
