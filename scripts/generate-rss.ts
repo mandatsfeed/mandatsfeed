@@ -59,6 +59,14 @@ function synthDescription(a: Activity, contextPersonSlug?: string): string {
       if (me?.vote) parts.push(`Eigene Stimme: ${me.vote}`);
     }
   } else if (a.type === "rede") {
+    // Sprecher:in in die Description nehmen — bei Fraktions-Feeds (oder
+    // Pseudo-Fraktionen wie "Bundesregierung") reden mehrere Personen unter
+    // demselben TOP-Titel; ohne Namens-Hinweis sehen die Items identisch aus.
+    if (a.persons.length > 0) {
+      const p = a.persons[0]!;
+      const fr = p.fraktion ? ` (${p.fraktion})` : "";
+      parts.push(`Sprecher:in: ${p.name}${fr}`);
+    }
     if (a.plenarprotokoll) {
       parts.push(`Plenarprotokoll ${a.plenarprotokoll.nr}, S. ${a.plenarprotokoll.page ?? "?"}`);
     }
