@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11164",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Baum- und Grünflächenpflege in Reinickendorf",
+  "date": "2022-03-02",
+  "drsNr": "19/11164",
+  "persons": [
+    {
+      "slug": "frank-balzer",
+      "name": "Frank Balzer",
+      "name_padoka": "Balzer, Frank",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11164.pdf",
+    "filename": "S19-11164.pdf"
+  }
+}

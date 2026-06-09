@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11253",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Kriminalitätsentwicklung in Steglitz-Zehlendorf in 2020 und 2021",
+  "date": "2022-03-11",
+  "drsNr": "19/11253",
+  "persons": [
+    {
+      "slug": "adrian-grasse",
+      "name": "Adrian Grasse",
+      "name_padoka": "Grasse, Adrian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11253.pdf",
+    "filename": "S19-11253.pdf"
+  }
+}

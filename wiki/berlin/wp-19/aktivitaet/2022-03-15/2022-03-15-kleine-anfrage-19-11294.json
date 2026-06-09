@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11294",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Falschparker-Meldungen auf Abwegen: Verbleib von 34.000 Bürgermeldungen",
+  "date": "2022-03-15",
+  "drsNr": "19/11294",
+  "persons": [
+    {
+      "slug": "tom-schreiber",
+      "name": "Tom Schreiber",
+      "name_padoka": "Schreiber, Tom",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11294.pdf",
+    "filename": "S19-11294.pdf"
+  }
+}

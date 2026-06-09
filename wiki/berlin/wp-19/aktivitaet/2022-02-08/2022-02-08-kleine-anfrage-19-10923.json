@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10923",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Das Land Berlin und seine Wälder – Nutzungsarten und Ziele",
+  "date": "2022-02-08",
+  "drsNr": "19/10923",
+  "persons": [
+    {
+      "slug": "felix-reifschneider",
+      "name": "Felix Reifschneider",
+      "name_padoka": "Reifschneider, Felix",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10923.pdf",
+    "filename": "S19-10923.pdf"
+  }
+}

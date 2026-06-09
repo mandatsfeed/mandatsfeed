@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10477",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zu Drs 19/10314: Schließung des Horst-Dohm-Eisstadions",
+  "date": "2022-01-03",
+  "drsNr": "19/10477",
+  "persons": [
+    {
+      "slug": "stephan-standfuss",
+      "name": "Stephan Standfuß",
+      "name_padoka": "Standfuß, Stephan",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10477.pdf",
+    "filename": "S19-10477.pdf"
+  }
+}

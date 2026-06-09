@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10189",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Freunde und Helfer - Wie hat sich die Diversität in der Berliner Polizei in den letzten 10 Jahren entwickelt?",
+  "date": "2021-11-16",
+  "drsNr": "19/10189",
+  "persons": [
+    {
+      "slug": "jeannette-auricht",
+      "name": "Jeannette Auricht",
+      "name_padoka": "Auricht, Jeannette",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10189.pdf",
+    "filename": "S19-10189.pdf"
+  }
+}

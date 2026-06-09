@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10793",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Charlottenburg-Wilmersdorf: Finanzierung, Sanierung und Zwischenlösungen von und für Schwimmhallen",
+  "date": "2022-01-17",
+  "drsNr": "19/10793",
+  "persons": [
+    {
+      "slug": "franziska-becker",
+      "name": "Franziska Becker",
+      "name_padoka": "Becker, Franziska",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10793.pdf",
+    "filename": "S19-10793.pdf"
+  }
+}

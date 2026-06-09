@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11270",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Neue Bahnhofsaufsichten",
+  "date": "2022-03-14",
+  "drsNr": "19/11270",
+  "persons": [
+    {
+      "slug": "kristian-ronneburg",
+      "name": "Kristian Ronneburg",
+      "name_padoka": "Ronneburg, Kristian",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11270.pdf",
+    "filename": "S19-11270.pdf"
+  }
+}

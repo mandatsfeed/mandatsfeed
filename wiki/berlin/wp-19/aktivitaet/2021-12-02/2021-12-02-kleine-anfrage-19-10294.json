@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10294",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Ortsumfahrung Ahrensfelde (Teil 2)",
+  "date": "2021-12-02",
+  "drsNr": "19/10294",
+  "persons": [
+    {
+      "slug": "gunnar-lindemann",
+      "name": "Gunnar Lindemann",
+      "name_padoka": "Lindemann, Gunnar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10294.pdf",
+    "filename": "S19-10294.pdf"
+  }
+}

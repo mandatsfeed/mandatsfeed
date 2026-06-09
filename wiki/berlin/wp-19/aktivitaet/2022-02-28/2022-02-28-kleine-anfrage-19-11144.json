@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11144",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Bezirkliche Ausschöpfung der EFRE-, ESF- und GRW-Mittel",
+  "date": "2022-02-28",
+  "drsNr": "19/11144",
+  "persons": [
+    {
+      "slug": "dr-hugh-bronson",
+      "name": "Dr. Hugh Bronson",
+      "name_padoka": "Bronson, Dr. Hugh",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11144.pdf",
+    "filename": "S19-11144.pdf"
+  }
+}

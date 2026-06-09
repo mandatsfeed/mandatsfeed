@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11234",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Lärmbelästigung durch Zugverkehr entlang der Wilhelm-Guddorf-Straße",
+  "date": "2022-02-28",
+  "drsNr": "19/11234",
+  "persons": [
+    {
+      "slug": "tamara-ludke",
+      "name": "Tamara Lüdke",
+      "name_padoka": "Lüdke, Tamara",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11234.pdf",
+    "filename": "S19-11234.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11379",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Dilan S. war kein Einzelfall: S-Bahnhof Greifswalder Straße - Treffpunkt für rechte Gewalttäter*innen?",
+  "date": "2022-03-24",
+  "drsNr": "19/11379",
+  "persons": [
+    {
+      "slug": "niklas-schrader",
+      "name": "Niklas Schrader",
+      "name_padoka": "Schrader, Niklas",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11379.pdf",
+    "filename": "S19-11379.pdf"
+  }
+}

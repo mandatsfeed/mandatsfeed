@@ -1,0 +1,34 @@
+{
+  "id": "starweb-be-ka-19-10939",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Baumaßnahmen an der Verkehrsinfrastruktur außerhalb des S-Bahn-Ringes",
+  "date": "2022-02-09",
+  "drsNr": "19/10939",
+  "persons": [
+    {
+      "slug": "johannes-kraft",
+      "name": "Johannes Kraft",
+      "name_padoka": "Kraft, Johannes",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    },
+    {
+      "slug": "oliver-friederici",
+      "name": "Oliver Friederici",
+      "name_padoka": "Friederici, Oliver",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10939.pdf",
+    "filename": "S19-10939.pdf"
+  }
+}

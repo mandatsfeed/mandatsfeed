@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-4286",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "LWV vor Ort",
+  "date": "2026-04-24",
+  "drsNr": "21/4286",
+  "persons": [
+    {
+      "slug": "felix-martin",
+      "name": "Felix Martin",
+      "name_padoka": "Martin, Felix",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marcus-bocklet",
+      "name": "Marcus Bocklet",
+      "name_padoka": "Bocklet, Marcus",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/04286.pdf",
+    "filename": "04286.pdf"
+  }
+}

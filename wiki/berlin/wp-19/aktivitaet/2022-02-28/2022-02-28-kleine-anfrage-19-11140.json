@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11140",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Verkehrsunfälle in Pankow",
+  "date": "2022-02-28",
+  "drsNr": "19/11140",
+  "persons": [
+    {
+      "slug": "johannes-kraft",
+      "name": "Johannes Kraft",
+      "name_padoka": "Kraft, Johannes",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11140.pdf",
+    "filename": "S19-11140.pdf"
+  }
+}

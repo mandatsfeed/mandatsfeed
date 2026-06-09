@@ -1,0 +1,41 @@
+{
+  "id": "starweb-be-ka-19-10927",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Seilbahnen in Berlin - Wahrzeichen in Marzahn-Hellersdorf, Mobilität der Zukunft?",
+  "date": "2022-02-07",
+  "drsNr": "19/10927",
+  "persons": [
+    {
+      "slug": "katharina-gunther-wunsch",
+      "name": "Katharina Günther-Wünsch",
+      "name_padoka": "Günther-Wünsch, Katharina",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    },
+    {
+      "slug": "christian-graff",
+      "name": "Christian Gräff",
+      "name_padoka": "Gräff, Christian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    },
+    {
+      "slug": "oliver-friederici",
+      "name": "Oliver Friederici",
+      "name_padoka": "Friederici, Oliver",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10927.pdf",
+    "filename": "S19-10927.pdf"
+  }
+}

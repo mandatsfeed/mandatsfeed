@@ -1,0 +1,34 @@
+{
+  "id": "starweb-be-ka-19-11005",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "21 Dx (Teil 2) – Rechtswidrige Vergabepraxis?",
+  "date": "2022-02-15",
+  "drsNr": "19/11005",
+  "persons": [
+    {
+      "slug": "frank-christian-hansel",
+      "name": "Frank-Christian Hansel",
+      "name_padoka": "Hansel, Frank-Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "dr-kristin-brinker",
+      "name": "Dr. Kristin Brinker",
+      "name_padoka": "Brinker, Dr. Kristin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11005.pdf",
+    "filename": "S19-11005.pdf"
+  }
+}

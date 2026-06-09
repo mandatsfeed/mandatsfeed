@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11192",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Da steht kein Pferd auf dem Flur: Warum wiehert der Amtsschimmelausgerechnet bei der Erweiterung einer Reitsporthalle?",
+  "date": "2022-03-09",
+  "drsNr": "19/11192",
+  "persons": [
+    {
+      "slug": "stefan-forster",
+      "name": "Stefan Förster",
+      "name_padoka": "Förster, Stefan",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11192.pdf",
+    "filename": "S19-11192.pdf"
+  }
+}

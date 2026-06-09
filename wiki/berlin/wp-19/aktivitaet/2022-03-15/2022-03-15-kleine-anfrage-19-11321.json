@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11321",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "„Ordnungsamt Online“ - wie effizient und verlässlich ist die App bzw. ist die Struktur dahinter evaluiert?",
+  "date": "2022-03-15",
+  "drsNr": "19/11321",
+  "persons": [
+    {
+      "slug": "nina-lerch",
+      "name": "Nina Lerch",
+      "name_padoka": "Lerch, Nina",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11321.pdf",
+    "filename": "S19-11321.pdf"
+  }
+}

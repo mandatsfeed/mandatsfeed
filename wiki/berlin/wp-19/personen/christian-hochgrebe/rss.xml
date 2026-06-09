@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Christian Hochgrebe (Abgeordnetenhaus Berlin, WP-19)</title>
+    <link>https://pardok.parlament-berlin.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Quelle: Abgeordnetenhaus Berlin – Parlamentsdokumentation (pardok.parlament-berlin.de). Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">aw-abst-berlin-4821</guid>
+      <title>Entlassung des Berliner Senators Andreas Geisel</title>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+      <link>https://www.abgeordnetenwatch.de/berlin/19/abstimmungen/entlassung-des-berliner-senators-andreas-geisel</link>
+      <description>Abstimmung · Ergebnis: 38 ja, 81 nein, 16 enth., 12 abw. von 147 (ablehnung) · Eigene Stimme: nein</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">starweb-be-ka-19-11093</guid>
+      <title>Barrierefreie U- und S-Bahnhöfe</title>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+      <link>https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11093.pdf</link>
+      <description>Kleine Anfrage (Schriftliche Anfrage) · 19/11093 · Urheber: Christian Hochgrebe (SPD)</description>
+    </item>
+  </channel>
+</rss>

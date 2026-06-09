@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10945",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Unglück in der Pohlestraße in Berlin-Köpenick (Teil 2)",
+  "date": "2022-02-07",
+  "drsNr": "19/10945",
+  "persons": [
+    {
+      "slug": "tom-schreiber",
+      "name": "Tom Schreiber",
+      "name_padoka": "Schreiber, Tom",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10945.pdf",
+    "filename": "S19-10945.pdf"
+  }
+}

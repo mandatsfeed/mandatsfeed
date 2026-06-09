@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11320",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Überflüge vom und zum Flughafen BER",
+  "date": "2022-03-17",
+  "drsNr": "19/11320",
+  "persons": [
+    {
+      "slug": "oliver-friederici",
+      "name": "Oliver Friederici",
+      "name_padoka": "Friederici, Oliver",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11320.pdf",
+    "filename": "S19-11320.pdf"
+  }
+}

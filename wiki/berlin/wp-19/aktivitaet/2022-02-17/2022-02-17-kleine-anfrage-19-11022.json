@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11022",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Impfkampagnen und Aufklärung bei Menschen mit Migrationshintergrund",
+  "date": "2022-02-17",
+  "drsNr": "19/11022",
+  "persons": [
+    {
+      "slug": "dr-maren-jasper-winter",
+      "name": "Dr. Maren Jasper-Winter",
+      "name_padoka": "Jasper-Winter, Dr. Maren",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11022.pdf",
+    "filename": "S19-11022.pdf"
+  }
+}

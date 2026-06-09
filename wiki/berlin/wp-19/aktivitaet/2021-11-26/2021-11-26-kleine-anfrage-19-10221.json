@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10221",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Wissenschaftliche Mitarbeiter*innen an Berliner Universitäten",
+  "date": "2021-11-26",
+  "drsNr": "19/10221",
+  "persons": [
+    {
+      "slug": "tobias-schulze",
+      "name": "Tobias Schulze",
+      "name_padoka": "Schulze, Tobias",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10221.pdf",
+    "filename": "S19-10221.pdf"
+  }
+}

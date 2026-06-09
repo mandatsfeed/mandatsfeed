@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11029",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Sensation am Molkenmarkt - Welchen archäologischen Stellenwert hat der Fund einer der ältesten Straßen Berlins? Wie wird der Fund gesichert und erforscht?",
+  "date": "2022-02-17",
+  "drsNr": "19/11029",
+  "persons": [
+    {
+      "slug": "martin-trefzer",
+      "name": "Martin Trefzer",
+      "name_padoka": "Trefzer, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11029.pdf",
+    "filename": "S19-11029.pdf"
+  }
+}

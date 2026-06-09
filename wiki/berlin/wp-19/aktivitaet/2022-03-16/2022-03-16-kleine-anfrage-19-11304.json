@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11304",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Anmietprogramm, Kulturraum GmbH – sind nach Jahren derProzessoptimierung nun alle Klarheiten beseitigt?",
+  "date": "2022-03-16",
+  "drsNr": "19/11304",
+  "persons": [
+    {
+      "slug": "dr-robbin-juhnke",
+      "name": "Dr. Robbin Juhnke",
+      "name_padoka": "Juhnke, Dr. Robbin",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11304.pdf",
+    "filename": "S19-11304.pdf"
+  }
+}

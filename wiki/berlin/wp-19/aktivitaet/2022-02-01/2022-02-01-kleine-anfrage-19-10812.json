@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10812",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "S Bahn Bahnhof Berlin Ahrensfelde",
+  "date": "2022-02-01",
+  "drsNr": "19/10812",
+  "persons": [
+    {
+      "slug": "gunnar-lindemann",
+      "name": "Gunnar Lindemann",
+      "name_padoka": "Lindemann, Gunnar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10812.pdf",
+    "filename": "S19-10812.pdf"
+  }
+}

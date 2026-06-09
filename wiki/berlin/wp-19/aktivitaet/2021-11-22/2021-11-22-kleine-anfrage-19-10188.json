@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10188",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Berlinovo lässt Wohnungen von Deutsche Wohnen verwalten",
+  "date": "2021-11-22",
+  "drsNr": "19/10188",
+  "persons": [
+    {
+      "slug": "niklas-schenker",
+      "name": "Niklas Schenker",
+      "name_padoka": "Schenker, Niklas",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10188.pdf",
+    "filename": "S19-10188.pdf"
+  }
+}

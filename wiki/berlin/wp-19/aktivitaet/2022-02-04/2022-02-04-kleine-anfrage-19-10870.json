@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10870",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "„Freiwilliges Jahr des Engagements“ in Berlin und Deutschland ausbauen",
+  "date": "2022-02-04",
+  "drsNr": "19/10870",
+  "persons": [
+    {
+      "slug": "danny-freymark",
+      "name": "Danny Freymark",
+      "name_padoka": "Freymark, Danny",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10870.pdf",
+    "filename": "S19-10870.pdf"
+  }
+}

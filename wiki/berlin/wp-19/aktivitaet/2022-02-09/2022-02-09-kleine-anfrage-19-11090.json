@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11090",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Mobilitätswende auf Augenhöhe in der Berliner Mitte (Teil 2)?",
+  "date": "2022-02-09",
+  "drsNr": "19/11090",
+  "persons": [
+    {
+      "slug": "max-landero-alvarado",
+      "name": "Max Landero Alvarado",
+      "name_padoka": "Alvarado, Max Landero",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11090.pdf",
+    "filename": "S19-11090.pdf"
+  }
+}

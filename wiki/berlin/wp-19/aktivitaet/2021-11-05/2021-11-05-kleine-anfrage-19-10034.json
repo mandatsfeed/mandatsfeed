@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10034",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Luftfilter ohne Filter?",
+  "date": "2021-11-05",
+  "drsNr": "19/10034",
+  "persons": [
+    {
+      "slug": "cornelia-seibeld",
+      "name": "Cornelia Seibeld",
+      "name_padoka": "Seibeld, Cornelia",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10034.pdf",
+    "filename": "S19-10034.pdf"
+  }
+}

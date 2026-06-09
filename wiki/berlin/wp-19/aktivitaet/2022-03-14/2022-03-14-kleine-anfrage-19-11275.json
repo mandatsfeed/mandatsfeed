@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11275",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "MSA an Gymnasien",
+  "date": "2022-03-14",
+  "drsNr": "19/11275",
+  "persons": [
+    {
+      "slug": "heiko-melzer",
+      "name": "Heiko Melzer",
+      "name_padoka": "Melzer, Heiko",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11275.pdf",
+    "filename": "S19-11275.pdf"
+  }
+}

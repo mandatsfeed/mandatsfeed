@@ -23,6 +23,8 @@ wiki/**/*.xml
 !wiki/mecklenburg-vorpommern/**
 !wiki/thueringen/**
 !wiki/sachsen/**
+!wiki/hessen/**
+!wiki/berlin/**
 !wiki/metadata.json
 #
 # Forschungsphase (robots.txt = "Disallow: /") — Daten nur lokal, bis

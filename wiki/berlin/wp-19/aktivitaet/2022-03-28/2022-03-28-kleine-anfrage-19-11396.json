@@ -1,0 +1,34 @@
+{
+  "id": "starweb-be-ka-19-11396",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Landeseigenen Leerstand für bezahlbaren Wohnraum nutzen (Teil 1): Kurzfristige Unterbringung von Kriegsflüchtlingen aus der Ukraine",
+  "date": "2022-03-28",
+  "drsNr": "19/11396",
+  "persons": [
+    {
+      "slug": "bjorn-wohlert",
+      "name": "Björn Wohlert",
+      "name_padoka": "Wohlert, Björn",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    },
+    {
+      "slug": "dirk-stettner",
+      "name": "Dirk Stettner",
+      "name_padoka": "Stettner, Dirk",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11396.pdf",
+    "filename": "S19-11396.pdf"
+  }
+}

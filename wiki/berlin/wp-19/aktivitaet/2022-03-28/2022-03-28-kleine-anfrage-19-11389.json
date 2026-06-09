@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11389",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "E-Mail vom Angeklagten des NSU 2.0 an das LKA Berlin",
+  "date": "2022-03-28",
+  "drsNr": "19/11389",
+  "persons": [
+    {
+      "slug": "niklas-schrader",
+      "name": "Niklas Schrader",
+      "name_padoka": "Schrader, Niklas",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11389.pdf",
+    "filename": "S19-11389.pdf"
+  }
+}

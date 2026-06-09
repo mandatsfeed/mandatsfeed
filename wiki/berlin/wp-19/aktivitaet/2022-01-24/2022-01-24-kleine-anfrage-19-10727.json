@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10727",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Disziplinarverfahren an Berliner Hochschulen (Teil 1)",
+  "date": "2022-01-24",
+  "drsNr": "19/10727",
+  "persons": [
+    {
+      "slug": "adrian-grasse",
+      "name": "Adrian Grasse",
+      "name_padoka": "Grasse, Adrian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10727.pdf",
+    "filename": "S19-10727.pdf"
+  }
+}

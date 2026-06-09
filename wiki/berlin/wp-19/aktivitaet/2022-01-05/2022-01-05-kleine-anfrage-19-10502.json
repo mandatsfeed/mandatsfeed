@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10502",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Aktueller Stand von E-Rollern in Berlin",
+  "date": "2022-01-05",
+  "drsNr": "19/10502",
+  "persons": [
+    {
+      "slug": "oliver-friederici",
+      "name": "Oliver Friederici",
+      "name_padoka": "Friederici, Oliver",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10502.pdf",
+    "filename": "S19-10502.pdf"
+  }
+}

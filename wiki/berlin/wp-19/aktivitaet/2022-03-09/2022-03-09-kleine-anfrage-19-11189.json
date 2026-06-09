@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11189",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Neue Standorte der Mosaike von Künstlerin Ortraud Lerch im BezirkTreptow-Köpenick",
+  "date": "2022-03-09",
+  "drsNr": "19/11189",
+  "persons": [
+    {
+      "slug": "stefan-forster",
+      "name": "Stefan Förster",
+      "name_padoka": "Förster, Stefan",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11189.pdf",
+    "filename": "S19-11189.pdf"
+  }
+}

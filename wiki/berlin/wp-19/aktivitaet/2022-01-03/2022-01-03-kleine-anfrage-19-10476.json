@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10476",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Standort des Umweltbundesamtes am Schichauweg",
+  "date": "2022-01-03",
+  "drsNr": "19/10476",
+  "persons": [
+    {
+      "slug": "christian-zander",
+      "name": "Christian Zander",
+      "name_padoka": "Zander, Christian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10476.pdf",
+    "filename": "S19-10476.pdf"
+  }
+}

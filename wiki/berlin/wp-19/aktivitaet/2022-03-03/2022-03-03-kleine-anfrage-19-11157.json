@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11157",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Gewässerschutz in Berlin",
+  "date": "2022-03-03",
+  "drsNr": "19/11157",
+  "persons": [
+    {
+      "slug": "felix-reifschneider",
+      "name": "Felix Reifschneider",
+      "name_padoka": "Reifschneider, Felix",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11157.pdf",
+    "filename": "S19-11157.pdf"
+  }
+}

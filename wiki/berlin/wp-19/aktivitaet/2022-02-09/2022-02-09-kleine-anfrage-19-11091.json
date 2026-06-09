@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11091",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Was ist zur Tramverlängerung durch die Berliner Mitte geplant?",
+  "date": "2022-02-09",
+  "drsNr": "19/11091",
+  "persons": [
+    {
+      "slug": "max-landero-alvarado",
+      "name": "Max Landero Alvarado",
+      "name_padoka": "Alvarado, Max Landero",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11091.pdf",
+    "filename": "S19-11091.pdf"
+  }
+}

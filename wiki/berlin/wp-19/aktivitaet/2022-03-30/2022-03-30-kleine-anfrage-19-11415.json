@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11415",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Zustand von Wegen und Straßen im Barnimkiez: Wie lange bleiben die Dauerbaustellen?",
+  "date": "2022-03-30",
+  "drsNr": "19/11415",
+  "persons": [
+    {
+      "slug": "damiano-valgolio",
+      "name": "Damiano Valgolio",
+      "name_padoka": "Valgolio, Damiano",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11415.pdf",
+    "filename": "S19-11415.pdf"
+  }
+}

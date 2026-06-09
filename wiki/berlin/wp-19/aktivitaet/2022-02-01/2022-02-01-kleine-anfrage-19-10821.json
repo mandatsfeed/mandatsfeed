@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10821",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Schulplatzbedarfe in Marzahn-Mitte und Marzahn-Süd",
+  "date": "2022-02-01",
+  "drsNr": "19/10821",
+  "persons": [
+    {
+      "slug": "dr-manuela-schmidt",
+      "name": "Dr. Manuela Schmidt",
+      "name_padoka": "Schmidt, Dr. Manuela",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10821.pdf",
+    "filename": "S19-10821.pdf"
+  }
+}

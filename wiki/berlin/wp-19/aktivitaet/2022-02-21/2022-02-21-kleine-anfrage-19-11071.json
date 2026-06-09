@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11071",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Stadtteilarbeit in Süd-Hohenschönhausen nachhaltig stärken",
+  "date": "2022-02-21",
+  "drsNr": "19/11071",
+  "persons": [
+    {
+      "slug": "prof-dr-martin-patzold",
+      "name": "Prof. Dr. Martin Pätzold",
+      "name_padoka": "Pätzold, Prof. Dr. Martin",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11071.pdf",
+    "filename": "S19-11071.pdf"
+  }
+}

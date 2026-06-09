@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11384",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Enttäuschung: Laptops als Briefbeschwerer",
+  "date": "2022-03-23",
+  "drsNr": "19/11384",
+  "persons": [
+    {
+      "slug": "thorsten-weiss",
+      "name": "Thorsten Weiß",
+      "name_padoka": "Weiß, Thorsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11384.pdf",
+    "filename": "S19-11384.pdf"
+  }
+}

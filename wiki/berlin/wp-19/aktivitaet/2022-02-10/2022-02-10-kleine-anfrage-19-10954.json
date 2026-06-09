@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10954",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Sturmschäden in Berlin",
+  "date": "2022-02-10",
+  "drsNr": "19/10954",
+  "persons": [
+    {
+      "slug": "dr-kristin-brinker",
+      "name": "Dr. Kristin Brinker",
+      "name_padoka": "Brinker, Dr. Kristin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10954.pdf",
+    "filename": "S19-10954.pdf"
+  }
+}

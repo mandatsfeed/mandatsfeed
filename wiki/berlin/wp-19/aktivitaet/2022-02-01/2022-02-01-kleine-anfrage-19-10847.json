@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10847",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Öl, Holz, Fernwärme oder Erneuerbare? Wie heizt Berlin die Neubauten?",
+  "date": "2022-02-01",
+  "drsNr": "19/10847",
+  "persons": [
+    {
+      "slug": "jan-lehmann",
+      "name": "Jan Lehmann",
+      "name_padoka": "Lehmann, Jan",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10847.pdf",
+    "filename": "S19-10847.pdf"
+  }
+}

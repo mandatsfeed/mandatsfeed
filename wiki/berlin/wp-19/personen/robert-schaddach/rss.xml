@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Robert Schaddach (Abgeordnetenhaus Berlin, WP-19)</title>
+    <link>https://pardok.parlament-berlin.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Quelle: Abgeordnetenhaus Berlin – Parlamentsdokumentation (pardok.parlament-berlin.de). Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">aw-abst-berlin-4821</guid>
+      <title>Entlassung des Berliner Senators Andreas Geisel</title>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+      <link>https://www.abgeordnetenwatch.de/berlin/19/abstimmungen/entlassung-des-berliner-senators-andreas-geisel</link>
+      <description>Abstimmung · Ergebnis: 38 ja, 81 nein, 16 enth., 12 abw. von 147 (ablehnung) · Eigene Stimme: abwesend</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">starweb-be-ka-19-11386</guid>
+      <title>Einsatzzahlenentwicklung der Berliner Feuerwehr im Hinblick auf Herzbeschwerden und Schlaganfälle der letzten 4 Jahre</title>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+      <link>https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11386.pdf</link>
+      <description>Kleine Anfrage (Schriftliche Anfrage) · 19/11386 · Urheber: Robert Schaddach (SPD)</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">starweb-be-ka-19-10283</guid>
+      <title>Entfernung der Altglascontainer</title>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+      <link>https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10283.pdf</link>
+      <description>Kleine Anfrage (Schriftliche Anfrage) · 19/10283 · Urheber: Robert Schaddach (SPD)</description>
+    </item>
+  </channel>
+</rss>

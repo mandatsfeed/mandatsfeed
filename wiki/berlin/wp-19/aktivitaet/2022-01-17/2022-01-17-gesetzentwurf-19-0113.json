@@ -1,0 +1,20 @@
+{
+  "id": "starweb-be-ges-19-0113",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "gesetzentwurf",
+  "title": "Gesetz zur Änderung des Gesetzes über die Rechtsverhältnisse der Mitglieder des Senats (Senatorengesetz - SenG)",
+  "date": "2022-01-17",
+  "drsNr": "19/0113",
+  "persons": [],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Antrag (Gesetzentwurf)",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-0113.pdf",
+    "filename": "d19-0113.pdf"
+  },
+  "urheber": "AfD"
+}

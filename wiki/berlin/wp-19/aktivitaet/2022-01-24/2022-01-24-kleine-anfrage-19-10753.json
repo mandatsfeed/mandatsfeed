@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10753",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Freiwillige Feuerwehr Wittenau unterstützen (Teil 1): Neue Fahrzeughalle",
+  "date": "2022-01-24",
+  "drsNr": "19/10753",
+  "persons": [
+    {
+      "slug": "bjorn-wohlert",
+      "name": "Björn Wohlert",
+      "name_padoka": "Wohlert, Björn",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10753.pdf",
+    "filename": "S19-10753.pdf"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "starweb-be-drs-19-0002",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "antrag",
+  "title": "Einsetzung des Hauptausschusses",
+  "date": "2021-11-02",
+  "drsNr": "19/0002",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "cdu",
+    "afd",
+    "die-linke",
+    "fdp"
+  ],
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-0002.pdf",
+    "filename": "d19-0002.pdf"
+  },
+  "urheber": "SPD, Grüne, CDU, Die Linke, AfD, FDP"
+}

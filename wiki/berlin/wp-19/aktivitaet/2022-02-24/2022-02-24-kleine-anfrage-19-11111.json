@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11111",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Erlass der Ausführungsbestimmungen zur Tariftreueklausel gemäß § 9 Abs. 3 Berliner Ausschreibungs- und Vergabegesetz (BerlAVG)",
+  "date": "2022-02-24",
+  "drsNr": "19/11111",
+  "persons": [
+    {
+      "slug": "damiano-valgolio",
+      "name": "Damiano Valgolio",
+      "name_padoka": "Valgolio, Damiano",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11111.pdf",
+    "filename": "S19-11111.pdf"
+  }
+}

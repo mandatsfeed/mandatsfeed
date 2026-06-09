@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Ina Dürr (Hessischer Landtag, WP-21)</title>
+    <link>https://starweb.hessen.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Quelle: Hessischer Landtag – Landtagsinformationssystem (starweb.hessen.de). Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">aw-abst-hessen-6509</guid>
+      <title>Finanzierung von Lehrkräften an Gesamtschulen (Änderungsantrag zum Haushaltsgesetz 2026)</title>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://www.abgeordnetenwatch.de/hessen/21/abstimmungen/finanzierung-von-lehrkraeften-an-gesamtschulen-aenderungsantrag-zum-haushaltsgesetz-2026</link>
+      <description>Abstimmung · Ergebnis: 30 ja, 96 nein, 0 enth., 7 abw. von 133 (ablehnung) · Eigene Stimme: nein</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">aw-abst-hessen-6437</guid>
+      <title>Sofortiges Moratorium für den Einsatz mRNA-basierter Impfstoffe</title>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <link>https://www.abgeordnetenwatch.de/hessen/21/abstimmungen/sofortiges-moratorium-fuer-den-einsatz-mrna-basierter-impfstoffe</link>
+      <description>Abstimmung · Ergebnis: 25 ja, 99 nein, 0 enth., 9 abw. von 133 (ablehnung) · Eigene Stimme: nein</description>
+    </item>
+  </channel>
+</rss>

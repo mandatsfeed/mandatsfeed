@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11174",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung der stationären Versorgung in der Kinder- und Jugendmedizin",
+  "date": "2022-03-03",
+  "drsNr": "19/11174",
+  "persons": [
+    {
+      "slug": "tobias-schulze",
+      "name": "Tobias Schulze",
+      "name_padoka": "Schulze, Tobias",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11174.pdf",
+    "filename": "S19-11174.pdf"
+  }
+}

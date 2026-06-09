@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11117",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Personal der Serviceeinheit Finanzen in Marzahn-Hellersdorf",
+  "date": "2022-02-23",
+  "drsNr": "19/11117",
+  "persons": [
+    {
+      "slug": "katharina-gunther-wunsch",
+      "name": "Katharina Günther-Wünsch",
+      "name_padoka": "Günther-Wünsch, Katharina",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11117.pdf",
+    "filename": "S19-11117.pdf"
+  }
+}

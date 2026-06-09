@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10769",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "S-Bahn Linie S75",
+  "date": "2022-01-26",
+  "drsNr": "19/10769",
+  "persons": [
+    {
+      "slug": "claudia-engelmann",
+      "name": "Claudia Engelmann",
+      "name_padoka": "Engelmann, Claudia",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10769.pdf",
+    "filename": "S19-10769.pdf"
+  }
+}

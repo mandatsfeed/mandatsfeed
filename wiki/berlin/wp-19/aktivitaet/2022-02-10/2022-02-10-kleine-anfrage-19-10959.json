@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10959",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Unbegleitete minderjährige Geflüchtete - Kindeswohl sichern und Perspektiven schaffen",
+  "date": "2022-02-10",
+  "drsNr": "19/10959",
+  "persons": [
+    {
+      "slug": "katrin-seidel",
+      "name": "Katrin Seidel",
+      "name_padoka": "Seidel, Katrin",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10959.pdf",
+    "filename": "S19-10959.pdf"
+  }
+}

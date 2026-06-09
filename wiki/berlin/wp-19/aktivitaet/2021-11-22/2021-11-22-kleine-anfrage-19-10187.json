@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10187",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Asylanträge in Berlin",
+  "date": "2021-11-22",
+  "drsNr": "19/10187",
+  "persons": [
+    {
+      "slug": "gunnar-lindemann",
+      "name": "Gunnar Lindemann",
+      "name_padoka": "Lindemann, Gunnar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10187.pdf",
+    "filename": "S19-10187.pdf"
+  }
+}

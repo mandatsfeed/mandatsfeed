@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10237",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Dauerbaustelle Baustelleneinrichtung",
+  "date": "2021-11-26",
+  "drsNr": "19/10237",
+  "persons": [
+    {
+      "slug": "sebastian-czaja",
+      "name": "Sebastian Czaja",
+      "name_padoka": "Czaja, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10237.pdf",
+    "filename": "S19-10237.pdf"
+  }
+}

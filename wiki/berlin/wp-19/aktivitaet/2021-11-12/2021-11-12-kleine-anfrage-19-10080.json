@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10080",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Quarantäne- und Absonderungsanordnungen während der Berlin Wahl 2021",
+  "date": "2021-11-12",
+  "drsNr": "19/10080",
+  "persons": [
+    {
+      "slug": "marc-vallendar",
+      "name": "Marc Vallendar",
+      "name_padoka": "Vallendar, Marc",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10080.pdf",
+    "filename": "S19-10080.pdf"
+  }
+}

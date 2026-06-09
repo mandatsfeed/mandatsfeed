@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10002",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Grubenabfuhr in Berlin und Pankow",
+  "date": "2021-11-04",
+  "drsNr": "19/10002",
+  "persons": [
+    {
+      "slug": "torsten-hofer",
+      "name": "Torsten Hofer",
+      "name_padoka": "Hofer, Torsten",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10002.pdf",
+    "filename": "S19-10002.pdf"
+  }
+}

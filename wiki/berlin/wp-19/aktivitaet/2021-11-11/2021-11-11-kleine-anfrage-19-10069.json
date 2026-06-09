@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10069",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Instandsetzung und Beleuchtung der Gehwege im und am Malchower Weg",
+  "date": "2021-11-11",
+  "drsNr": "19/10069",
+  "persons": [
+    {
+      "slug": "prof-dr-martin-patzold",
+      "name": "Prof. Dr. Martin Pätzold",
+      "name_padoka": "Pätzold, Prof. Dr. Martin",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10069.pdf",
+    "filename": "S19-10069.pdf"
+  }
+}

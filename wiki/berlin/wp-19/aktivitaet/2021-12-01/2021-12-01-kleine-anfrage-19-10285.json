@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10285",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Staufalle auf der Frankfurter Allee stadtauswärts",
+  "date": "2021-12-01",
+  "drsNr": "19/10285",
+  "persons": [
+    {
+      "slug": "alexander-herrmann",
+      "name": "Alexander Herrmann",
+      "name_padoka": "Herrmann, Alexander",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10285.pdf",
+    "filename": "S19-10285.pdf"
+  }
+}

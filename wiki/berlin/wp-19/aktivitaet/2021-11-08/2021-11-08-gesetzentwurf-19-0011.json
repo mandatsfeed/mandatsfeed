@@ -1,0 +1,20 @@
+{
+  "id": "starweb-be-ges-19-0011",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "gesetzentwurf",
+  "title": "Änderung der Verfassung von Berlin - Trennung von Amt und Mandat(Gesetz zur Änderung der Verfassung von Berlin)",
+  "date": "2021-11-08",
+  "drsNr": "19/0011",
+  "persons": [],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Antrag (Gesetzentwurf)",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-0011.pdf",
+    "filename": "d19-0011.pdf"
+  },
+  "urheber": "AfD"
+}

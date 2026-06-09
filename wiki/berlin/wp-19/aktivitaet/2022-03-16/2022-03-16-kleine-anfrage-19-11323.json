@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11323",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Überlassung der Immobilie an die Tiertafel",
+  "date": "2022-03-16",
+  "drsNr": "19/11323",
+  "persons": [
+    {
+      "slug": "tamara-ludke",
+      "name": "Tamara Lüdke",
+      "name_padoka": "Lüdke, Tamara",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11323.pdf",
+    "filename": "S19-11323.pdf"
+  }
+}

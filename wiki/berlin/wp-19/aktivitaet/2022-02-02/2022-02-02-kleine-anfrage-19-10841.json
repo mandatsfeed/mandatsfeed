@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10841",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Wie viele Schülerinnen und Schüler verlassen die Berliner Schulen mit und ohne Abschluss?",
+  "date": "2022-02-02",
+  "drsNr": "19/10841",
+  "persons": [
+    {
+      "slug": "christian-zander",
+      "name": "Christian Zander",
+      "name_padoka": "Zander, Christian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10841.pdf",
+    "filename": "S19-10841.pdf"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "starweb-be-ka-19-11343",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Verlängerung der Berliner Hochschulverträge",
+  "date": "2022-03-22",
+  "drsNr": "19/11343",
+  "persons": [
+    {
+      "slug": "adrian-grasse",
+      "name": "Adrian Grasse",
+      "name_padoka": "Grasse, Adrian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    },
+    {
+      "slug": "prof-dr-martin-patzold",
+      "name": "Prof. Dr. Martin Pätzold",
+      "name_padoka": "Pätzold, Prof. Dr. Martin",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11343.pdf",
+    "filename": "S19-11343.pdf"
+  }
+}

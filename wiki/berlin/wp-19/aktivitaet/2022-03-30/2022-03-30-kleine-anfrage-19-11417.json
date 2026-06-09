@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11417",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Abgehoben? Einsätze von Polizeihubschraubern",
+  "date": "2022-03-30",
+  "drsNr": "19/11417",
+  "persons": [
+    {
+      "slug": "vasili-franco",
+      "name": "Vasili Franco",
+      "name_padoka": "Franco, Vasili",
+      "role": "fragesteller",
+      "fraktion": "GRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11417.pdf",
+    "filename": "S19-11417.pdf"
+  }
+}

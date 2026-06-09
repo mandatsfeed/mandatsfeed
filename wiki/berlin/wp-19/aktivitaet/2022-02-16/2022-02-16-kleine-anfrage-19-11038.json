@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11038",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Aktuelle Erkenntnisse zu extremistischen Tendenzen innerhalb der Berliner Sicherheitsbehörden",
+  "date": "2022-02-16",
+  "drsNr": "19/11038",
+  "persons": [
+    {
+      "slug": "orkan-ozdemir",
+      "name": "Orkan Özdemir",
+      "name_padoka": "Özdemir, Orkan",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11038.pdf",
+    "filename": "S19-11038.pdf"
+  }
+}

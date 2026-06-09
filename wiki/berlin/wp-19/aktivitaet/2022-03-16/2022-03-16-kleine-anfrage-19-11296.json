@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11296",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Gain-of-function-Forschung und Untersuchungen zum Ursprung des Sars-CoV-2-Virus",
+  "date": "2022-03-16",
+  "drsNr": "19/11296",
+  "persons": [
+    {
+      "slug": "martin-trefzer",
+      "name": "Martin Trefzer",
+      "name_padoka": "Trefzer, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11296.pdf",
+    "filename": "S19-11296.pdf"
+  }
+}

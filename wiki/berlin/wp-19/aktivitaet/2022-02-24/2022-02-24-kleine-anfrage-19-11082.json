@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11082",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Bürger fragen, Bezirksamt antwortet nicht – Was ist los in Treptow-Köpenick?",
+  "date": "2022-02-24",
+  "drsNr": "19/11082",
+  "persons": [
+    {
+      "slug": "stefan-forster",
+      "name": "Stefan Förster",
+      "name_padoka": "Förster, Stefan",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11082.pdf",
+    "filename": "S19-11082.pdf"
+  }
+}

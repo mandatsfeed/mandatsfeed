@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10487",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Zur Personalsituation an Berliner Schulen",
+  "date": "2022-01-04",
+  "drsNr": "19/10487",
+  "persons": [
+    {
+      "slug": "katharina-gunther-wunsch",
+      "name": "Katharina Günther-Wünsch",
+      "name_padoka": "Günther-Wünsch, Katharina",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10487.pdf",
+    "filename": "S19-10487.pdf"
+  }
+}

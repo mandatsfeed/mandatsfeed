@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10011",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Zweierlei Maß? Ungleiche Besoldung von Ärzt:innen der BerlinerRechtsmedizininstitute",
+  "date": "2021-11-04",
+  "drsNr": "19/10011",
+  "persons": [
+    {
+      "slug": "tom-schreiber",
+      "name": "Tom Schreiber",
+      "name_padoka": "Schreiber, Tom",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10011.pdf",
+    "filename": "S19-10011.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10918",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Autobahnblockaden – Einordnung, Prävention und Intervention",
+  "date": "2022-02-08",
+  "drsNr": "19/10918",
+  "persons": [
+    {
+      "slug": "bjorn-matthias-jotzo",
+      "name": "Björn Matthias Jotzo",
+      "name_padoka": "Jotzo, Björn Matthias",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10918.pdf",
+    "filename": "S19-10918.pdf"
+  }
+}

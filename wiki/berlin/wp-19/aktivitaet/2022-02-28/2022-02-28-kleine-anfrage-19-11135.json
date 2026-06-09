@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11135",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Freie Universität: Neuer Anbau zur Silberlaube an der Fabeckstraße",
+  "date": "2022-02-28",
+  "drsNr": "19/11135",
+  "persons": [
+    {
+      "slug": "adrian-grasse",
+      "name": "Adrian Grasse",
+      "name_padoka": "Grasse, Adrian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11135.pdf",
+    "filename": "S19-11135.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11338",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Straftaten mit Bezug zum Ukraine-Krieg",
+  "date": "2022-03-22",
+  "drsNr": "19/11338",
+  "persons": [
+    {
+      "slug": "karsten-woldeit",
+      "name": "Karsten Woldeit",
+      "name_padoka": "Woldeit, Karsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11338.pdf",
+    "filename": "S19-11338.pdf"
+  }
+}

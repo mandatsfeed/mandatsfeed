@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-4138",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Baulicher Zustand des Staatstheaters Wiesbaden",
+  "date": "2026-03-30",
+  "drsNr": "21/4138",
+  "persons": [
+    {
+      "slug": "hildegard-forster-heldmann",
+      "name": "Hildegard Förster-Heldmann",
+      "name_padoka": "Förster-Heldmann, Hildegard",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "mathias-wagner-taunus",
+      "name": "Mathias Wagner(Taunus)",
+      "name_padoka": "Wagner(Taunus), Mathias",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04138.pdf",
+    "filename": "04138.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10047",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Zulässigkeit der Erfassung von Kfz-Kennzeichen mittels Videotechnik zum Zweck der Auswertung der Berliner Fahrzeugflotte.",
+  "date": "2021-11-09",
+  "drsNr": "19/10047",
+  "persons": [
+    {
+      "slug": "karsten-woldeit",
+      "name": "Karsten Woldeit",
+      "name_padoka": "Woldeit, Karsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10047.pdf",
+    "filename": "S19-10047.pdf"
+  }
+}

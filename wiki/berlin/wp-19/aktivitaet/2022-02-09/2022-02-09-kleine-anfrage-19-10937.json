@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10937",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Interessenvertretung der Studierenden an den Berliner Hochschulen",
+  "date": "2022-02-09",
+  "drsNr": "19/10937",
+  "persons": [
+    {
+      "slug": "adrian-grasse",
+      "name": "Adrian Grasse",
+      "name_padoka": "Grasse, Adrian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10937.pdf",
+    "filename": "S19-10937.pdf"
+  }
+}

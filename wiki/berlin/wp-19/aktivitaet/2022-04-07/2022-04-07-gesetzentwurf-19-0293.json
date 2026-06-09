@@ -1,0 +1,22 @@
+{
+  "id": "starweb-be-ges-19-0293",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "gesetzentwurf",
+  "title": "Zweites Gesetz zur Änderung des Landesbeamtenversorgungsgesetzes",
+  "date": "2022-04-07",
+  "drsNr": "19/0293",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "cdu",
+    "die-linke"
+  ],
+  "subtype": "Antrag (Gesetzentwurf)",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-0293.pdf",
+    "filename": "d19-0293.pdf"
+  },
+  "urheber": "SPD, Grüne, CDU, Die Linke"
+}

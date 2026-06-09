@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11238",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Radverkehrsanlage Hegemeisterweg (1. Bauabschnitt) und Woltersdorfer Weg (2. Bauabschnitt) in Berlin – Rahnsdorf: Notwendige Prüfungen stehen still!",
+  "date": "2022-03-02",
+  "drsNr": "19/11238",
+  "persons": [
+    {
+      "slug": "dunja-wolff",
+      "name": "Dunja Wolff",
+      "name_padoka": "Wolff, Dunja",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11238.pdf",
+    "filename": "S19-11238.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11368",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Durstig, schon krank: Wie ist der Zustand der Straßenbäume in Berlin?",
+  "date": "2022-03-24",
+  "drsNr": "19/11368",
+  "persons": [
+    {
+      "slug": "felix-reifschneider",
+      "name": "Felix Reifschneider",
+      "name_padoka": "Reifschneider, Felix",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11368.pdf",
+    "filename": "S19-11368.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10032",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Sperrung der Buckower Chaussee für den Durchgangsverkehr doch schon ab diesem Jahr?",
+  "date": "2021-11-05",
+  "drsNr": "19/10032",
+  "persons": [
+    {
+      "slug": "christian-zander",
+      "name": "Christian Zander",
+      "name_padoka": "Zander, Christian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10032.pdf",
+    "filename": "S19-10032.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10895",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Regionale Gemeinschaftsinitiative - Eine Chance für Marzahn-Hellersdorf?",
+  "date": "2022-02-07",
+  "drsNr": "19/10895",
+  "persons": [
+    {
+      "slug": "kristian-ronneburg",
+      "name": "Kristian Ronneburg",
+      "name_padoka": "Ronneburg, Kristian",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10895.pdf",
+    "filename": "S19-10895.pdf"
+  }
+}

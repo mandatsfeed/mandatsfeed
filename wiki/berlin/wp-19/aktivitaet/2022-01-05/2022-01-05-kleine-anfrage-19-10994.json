@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10994",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Frequenz ausgewählter Codes bei Notfalleinsätzen: 2020-2021",
+  "date": "2022-01-05",
+  "drsNr": "19/10994",
+  "persons": [
+    {
+      "slug": "dr-hugh-bronson",
+      "name": "Dr. Hugh Bronson",
+      "name_padoka": "Bronson, Dr. Hugh",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10994.pdf",
+    "filename": "S19-10994.pdf"
+  }
+}

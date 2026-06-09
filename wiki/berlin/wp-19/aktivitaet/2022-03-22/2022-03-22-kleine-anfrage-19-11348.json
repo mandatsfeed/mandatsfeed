@@ -1,0 +1,34 @@
+{
+  "id": "starweb-be-ka-19-11348",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Funkturm der Richtfunkstelle Schäferberg",
+  "date": "2022-03-22",
+  "drsNr": "19/11348",
+  "persons": [
+    {
+      "slug": "dr-hugh-bronson",
+      "name": "Dr. Hugh Bronson",
+      "name_padoka": "Bronson, Dr. Hugh",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "harald-laatsch",
+      "name": "Harald Laatsch",
+      "name_padoka": "Laatsch, Harald",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11348.pdf",
+    "filename": "S19-11348.pdf"
+  }
+}

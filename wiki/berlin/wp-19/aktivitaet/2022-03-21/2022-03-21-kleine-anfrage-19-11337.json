@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11337",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Frauen als Unternehmerinnen",
+  "date": "2022-03-21",
+  "drsNr": "19/11337",
+  "persons": [
+    {
+      "slug": "cornelia-seibeld",
+      "name": "Cornelia Seibeld",
+      "name_padoka": "Seibeld, Cornelia",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11337.pdf",
+    "filename": "S19-11337.pdf"
+  }
+}

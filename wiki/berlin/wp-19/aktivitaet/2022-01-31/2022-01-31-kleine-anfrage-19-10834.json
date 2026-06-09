@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10834",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Richterinnen in der Richterschaft",
+  "date": "2022-01-31",
+  "drsNr": "19/10834",
+  "persons": [
+    {
+      "slug": "holger-krestel",
+      "name": "Holger Krestel",
+      "name_padoka": "Krestel, Holger",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10834.pdf",
+    "filename": "S19-10834.pdf"
+  }
+}

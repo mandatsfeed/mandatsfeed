@@ -1,0 +1,20 @@
+{
+  "id": "starweb-be-drs-19-0006",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "antrag",
+  "title": "Änderung der Geschäftsordnung des Abgeordnetenhauses von Berlin (GO Abghs) 19. Wahlperiode",
+  "date": "2021-11-04",
+  "drsNr": "19/0006",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-0006.pdf",
+    "filename": "d19-0006.pdf"
+  },
+  "urheber": "SPD, Grüne, Die Linke"
+}

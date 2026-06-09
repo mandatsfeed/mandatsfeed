@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10762",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Personal im „Amt für Bürgerdienste“ in Marzahn-Hellersdorf",
+  "date": "2022-01-26",
+  "drsNr": "19/10762",
+  "persons": [
+    {
+      "slug": "katharina-gunther-wunsch",
+      "name": "Katharina Günther-Wünsch",
+      "name_padoka": "Günther-Wünsch, Katharina",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10762.pdf",
+    "filename": "S19-10762.pdf"
+  }
+}

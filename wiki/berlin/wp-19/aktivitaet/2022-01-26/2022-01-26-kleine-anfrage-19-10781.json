@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10781",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Planstellen und tatsächlich Beschäftigte in den Abteilungen der Bereitschaftspolizei 2021",
+  "date": "2022-01-26",
+  "drsNr": "19/10781",
+  "persons": [
+    {
+      "slug": "frank-balzer",
+      "name": "Frank Balzer",
+      "name_padoka": "Balzer, Frank",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10781.pdf",
+    "filename": "S19-10781.pdf"
+  }
+}

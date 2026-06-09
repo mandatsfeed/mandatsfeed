@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11002",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Zukunft der „Ergänzenden unabhängigen Teilhabeberatung“ (EUTB) für Menschen mit Behinderung durch die Teilhabeverordnung (EUTBV) im Land Berlin",
+  "date": "2022-02-15",
+  "drsNr": "19/11002",
+  "persons": [
+    {
+      "slug": "tobias-bauschke",
+      "name": "Tobias Bauschke",
+      "name_padoka": "Bauschke, Tobias",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11002.pdf",
+    "filename": "S19-11002.pdf"
+  }
+}

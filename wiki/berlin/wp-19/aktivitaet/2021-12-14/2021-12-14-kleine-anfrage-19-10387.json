@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10387",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Sicherer Kund*innenkontakt in den Berliner Jobcentern",
+  "date": "2021-12-14",
+  "drsNr": "19/10387",
+  "persons": [
+    {
+      "slug": "lars-dusterhoft",
+      "name": "Lars Düsterhöft",
+      "name_padoka": "Düsterhöft, Lars",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10387.pdf",
+    "filename": "S19-10387.pdf"
+  }
+}

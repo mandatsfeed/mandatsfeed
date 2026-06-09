@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-4589",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Aus „telli“ wird „AIS.chat“: Staatliche Unterrichts-KI muss aus markenrechtlichen Gründen umbenannt werden",
+  "date": "2026-06-05",
+  "drsNr": "21/4589",
+  "persons": [
+    {
+      "slug": "heiko-scholz",
+      "name": "Heiko Scholz",
+      "name_padoka": "Scholz, Heiko",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lothar-mulch",
+      "name": "Lothar Mulch",
+      "name_padoka": "Mulch, Lothar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-lobenstein",
+      "name": "Andreas Lobenstein",
+      "name_padoka": "Lobenstein, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marcus-resch",
+      "name": "Marcus Resch",
+      "name_padoka": "Resch, Marcus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/04589.pdf",
+    "filename": "04589.pdf"
+  }
+}

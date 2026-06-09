@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4606",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Zeitplan der Überführung der Maßnahmen des Evaluationsberichts des Modellprojekts „Starke Lehrer – Starke Schüler“",
+  "date": "2026-06-08",
+  "drsNr": "21/4606",
+  "persons": [
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/04606.pdf",
+    "filename": "04606.pdf"
+  }
+}

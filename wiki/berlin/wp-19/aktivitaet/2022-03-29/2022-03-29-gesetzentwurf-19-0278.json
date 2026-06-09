@@ -1,0 +1,21 @@
+{
+  "id": "starweb-be-ges-19-0278",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "gesetzentwurf",
+  "title": "Gesetz zur Änderung des Fraktionsgesetzes(Gesetz zur Änderung des Gesetzes über die Rechtsstellung der Fraktionen des Abgeordnetenhauses von Berlin (Fraktionsgesetz – FraktG))<Sechstes Gesetz zur Änderung des Fraktionsgesetzes>",
+  "date": "2022-03-29",
+  "drsNr": "19/0278",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "die-linke"
+  ],
+  "subtype": "Antrag (Gesetzentwurf)",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-0278.pdf",
+    "filename": "d19-0278.pdf"
+  },
+  "urheber": "SPD, Grüne, Die Linke"
+}

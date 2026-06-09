@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11024",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Wie bewahrt der Senat die Kita vor dem Nachzahlungsschock für Energiekosten?",
+  "date": "2022-01-14",
+  "drsNr": "19/11024",
+  "persons": [
+    {
+      "slug": "paul-fresdorf",
+      "name": "Paul Fresdorf",
+      "name_padoka": "Fresdorf, Paul",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11024.pdf",
+    "filename": "S19-11024.pdf"
+  }
+}

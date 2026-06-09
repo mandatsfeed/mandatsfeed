@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11080",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Falschmeldung der Polizei in Bezug auf den rassistischen Angriff auf Dilan S.",
+  "date": "2022-02-22",
+  "drsNr": "19/11080",
+  "persons": [
+    {
+      "slug": "niklas-schrader",
+      "name": "Niklas Schrader",
+      "name_padoka": "Schrader, Niklas",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11080.pdf",
+    "filename": "S19-11080.pdf"
+  }
+}

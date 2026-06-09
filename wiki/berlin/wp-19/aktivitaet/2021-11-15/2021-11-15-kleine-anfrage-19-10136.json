@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10136",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Radweg auf der Hauptstraße in Wilhelmsruh, Pankow",
+  "date": "2021-11-15",
+  "drsNr": "19/10136",
+  "persons": [
+    {
+      "slug": "torsten-hofer",
+      "name": "Torsten Hofer",
+      "name_padoka": "Hofer, Torsten",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10136.pdf",
+    "filename": "S19-10136.pdf"
+  }
+}

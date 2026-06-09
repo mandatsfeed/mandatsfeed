@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11342",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Einsatzlagen und Einsatzbelastungen der Berliner Einsatzhundertschaften (EHus)",
+  "date": "2022-03-22",
+  "drsNr": "19/11342",
+  "persons": [
+    {
+      "slug": "dirk-stettner",
+      "name": "Dirk Stettner",
+      "name_padoka": "Stettner, Dirk",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11342.pdf",
+    "filename": "S19-11342.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Turgut Altuğ (Abgeordnetenhaus Berlin, WP-19)</title>
+    <link>https://pardok.parlament-berlin.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Quelle: Abgeordnetenhaus Berlin – Parlamentsdokumentation (pardok.parlament-berlin.de). Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">aw-abst-berlin-6501</guid>
+      <title>Gesetz zur Errichtung eines Ausbildungsförderungsfonds im Land Berlin</title>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+      <link>https://www.abgeordnetenwatch.de/berlin/19/abstimmungen/gesetz-zur-errichtung-eines-ausbildungsfoerderungsfonds-im-land-berlin</link>
+      <description>Abstimmung · Ergebnis: 128 ja, 16 nein, 5 enth., 10 abw. von 159 (annahme) · Eigene Stimme: ja</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">aw-abst-berlin-6015</guid>
+      <title>Drittes Nachtragshaushaltsgesetz</title>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+      <link>https://www.abgeordnetenwatch.de/berlin/19/abstimmungen/drittes-nachtragshaushaltsgesetz</link>
+      <description>Abstimmung · Ergebnis: 84 ja, 70 nein, 0 enth., 7 abw. von 161 (annahme) · Eigene Stimme: nein</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">aw-abst-berlin-4821</guid>
+      <title>Entlassung des Berliner Senators Andreas Geisel</title>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+      <link>https://www.abgeordnetenwatch.de/berlin/19/abstimmungen/entlassung-des-berliner-senators-andreas-geisel</link>
+      <description>Abstimmung · Ergebnis: 38 ja, 81 nein, 16 enth., 12 abw. von 147 (ablehnung) · Eigene Stimme: nein</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11225",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Umgang des RBB mit Mitarbeitern im Hinblick auf Corona-Impfungen",
+  "date": "2022-03-09",
+  "drsNr": "19/11225",
+  "persons": [
+    {
+      "slug": "ronald-glaser",
+      "name": "Ronald Gläser",
+      "name_padoka": "Gläser, Ronald",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11225.pdf",
+    "filename": "S19-11225.pdf"
+  }
+}

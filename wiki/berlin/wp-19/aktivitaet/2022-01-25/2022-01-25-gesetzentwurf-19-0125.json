@@ -1,0 +1,23 @@
+{
+  "id": "starweb-be-ges-19-0125",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "gesetzentwurf",
+  "title": "Gesetz zur Änderung des Landesabgeordnetengesetzes<Drittes Gesetz zur Änderung des Landesabgeordnetengesetzes>",
+  "date": "2022-01-25",
+  "drsNr": "19/0125",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "cdu",
+    "die-linke",
+    "fdp"
+  ],
+  "subtype": "Antrag (Gesetzentwurf)",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-0125.pdf",
+    "filename": "d19-0125.pdf"
+  },
+  "urheber": "SPD, Grüne, CDU, Die Linke, FDP"
+}

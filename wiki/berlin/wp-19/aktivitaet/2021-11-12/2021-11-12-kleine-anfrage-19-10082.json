@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10082",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Straßen- und ÖPNV-Brücken in Berlin - Zustand und Kosten",
+  "date": "2021-11-12",
+  "drsNr": "19/10082",
+  "persons": [
+    {
+      "slug": "dr-kristin-brinker",
+      "name": "Dr. Kristin Brinker",
+      "name_padoka": "Brinker, Dr. Kristin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10082.pdf",
+    "filename": "S19-10082.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11341",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Konsequenzen für deutsch-russische und deutsch-ukrainische Kooperationen in Wissenschaft und Forschung durch den Krieg in der Ukraine. Wie hilft Berlin ukrainischen und russischen Wissenschaftlern?",
+  "date": "2022-03-22",
+  "drsNr": "19/11341",
+  "persons": [
+    {
+      "slug": "martin-trefzer",
+      "name": "Martin Trefzer",
+      "name_padoka": "Trefzer, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11341.pdf",
+    "filename": "S19-11341.pdf"
+  }
+}

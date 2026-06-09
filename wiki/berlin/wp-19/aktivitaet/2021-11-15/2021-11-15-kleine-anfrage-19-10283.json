@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10283",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Entfernung der Altglascontainer",
+  "date": "2021-11-15",
+  "drsNr": "19/10283",
+  "persons": [
+    {
+      "slug": "robert-schaddach",
+      "name": "Robert Schaddach",
+      "name_padoka": "Schaddach, Robert",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10283.pdf",
+    "filename": "S19-10283.pdf"
+  }
+}

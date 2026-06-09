@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11434",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Wird die M1 zur Heidekrautbahn verlängert?",
+  "date": "2022-03-31",
+  "drsNr": "19/11434",
+  "persons": [
+    {
+      "slug": "felix-reifschneider",
+      "name": "Felix Reifschneider",
+      "name_padoka": "Reifschneider, Felix",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11434.pdf",
+    "filename": "S19-11434.pdf"
+  }
+}

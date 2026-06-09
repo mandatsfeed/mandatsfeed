@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10738",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Medien an Schulen (Teil 2): Leseförderung",
+  "date": "2022-01-11",
+  "drsNr": "19/10738",
+  "persons": [
+    {
+      "slug": "thorsten-weiss",
+      "name": "Thorsten Weiß",
+      "name_padoka": "Weiß, Thorsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10738.pdf",
+    "filename": "S19-10738.pdf"
+  }
+}

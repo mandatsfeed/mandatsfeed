@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11001",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Wann kommt die Schulgeldfreiheit für Therapieberufe?",
+  "date": "2022-02-10",
+  "drsNr": "19/11001",
+  "persons": [
+    {
+      "slug": "bettina-konig",
+      "name": "Bettina König",
+      "name_padoka": "König, Bettina",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11001.pdf",
+    "filename": "S19-11001.pdf"
+  }
+}

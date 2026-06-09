@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10077",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Das bezirkliche Vorkaufsrecht: Bilanz und Ausblick",
+  "date": "2021-11-11",
+  "drsNr": "19/10077",
+  "persons": [
+    {
+      "slug": "sibylle-meister",
+      "name": "Sibylle Meister",
+      "name_padoka": "Meister, Sibylle",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10077.pdf",
+    "filename": "S19-10077.pdf"
+  }
+}

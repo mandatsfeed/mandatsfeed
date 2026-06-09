@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11044",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "„Nashorn“ – Warum kofinanziert das Medienboard Berlin-Brandenburg ukrainische Neonazis als Schauspieler?",
+  "date": "2022-02-18",
+  "drsNr": "19/11044",
+  "persons": [
+    {
+      "slug": "antonin-brousek",
+      "name": "Antonin Brousek",
+      "name_padoka": "Brousek, Antonin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11044.pdf",
+    "filename": "S19-11044.pdf"
+  }
+}

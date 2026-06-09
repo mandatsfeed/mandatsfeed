@@ -1,0 +1,34 @@
+{
+  "id": "starweb-be-ka-19-11176",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Übergang Schule – Beruf, (Teil 2): Auswirkungen der Corona-Maßnahmen",
+  "date": "2022-03-01",
+  "drsNr": "19/11176",
+  "persons": [
+    {
+      "slug": "tommy-tabor",
+      "name": "Tommy Tabor",
+      "name_padoka": "Tabor, Tommy",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thorsten-weiss",
+      "name": "Thorsten Weiß",
+      "name_padoka": "Weiß, Thorsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11176.pdf",
+    "filename": "S19-11176.pdf"
+  }
+}

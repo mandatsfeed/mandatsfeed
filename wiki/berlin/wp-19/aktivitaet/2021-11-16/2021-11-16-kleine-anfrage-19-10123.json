@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10123",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Extrem rechte Konzerte in Berlin (2016-2021)",
+  "date": "2021-11-16",
+  "drsNr": "19/10123",
+  "persons": [
+    {
+      "slug": "niklas-schrader",
+      "name": "Niklas Schrader",
+      "name_padoka": "Schrader, Niklas",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10123.pdf",
+    "filename": "S19-10123.pdf"
+  }
+}

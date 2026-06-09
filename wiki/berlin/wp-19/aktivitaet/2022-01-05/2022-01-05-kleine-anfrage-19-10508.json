@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10508",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Wie weiter bei der Berliner S-Bahn-Ausschreibung?",
+  "date": "2022-01-05",
+  "drsNr": "19/10508",
+  "persons": [
+    {
+      "slug": "sebastian-czaja",
+      "name": "Sebastian Czaja",
+      "name_padoka": "Czaja, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10508.pdf",
+    "filename": "S19-10508.pdf"
+  }
+}

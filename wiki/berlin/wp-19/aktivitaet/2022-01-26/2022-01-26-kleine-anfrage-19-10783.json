@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10783",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Missstände bei der Gewobag im Quartier Tegel-Süd: Werden lauwarme Wohnungen zum Standard?",
+  "date": "2022-01-26",
+  "drsNr": "19/10783",
+  "persons": [
+    {
+      "slug": "stephan-schmidt",
+      "name": "Stephan Schmidt",
+      "name_padoka": "Schmidt, Stephan",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10783.pdf",
+    "filename": "S19-10783.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10846",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Stand der Vorbereitungen der Nationalen Spiele der Menschen mit Behinderungen",
+  "date": "2022-01-12",
+  "drsNr": "19/10846",
+  "persons": [
+    {
+      "slug": "dirk-liebe",
+      "name": "Dirk Liebe",
+      "name_padoka": "Liebe, Dirk",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10846.pdf",
+    "filename": "S19-10846.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10043",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Kostenbeteiligung der Eltern an der Verpflegung in Kindertageseinrichtungen",
+  "date": "2021-11-09",
+  "drsNr": "19/10043",
+  "persons": [
+    {
+      "slug": "paul-fresdorf",
+      "name": "Paul Fresdorf",
+      "name_padoka": "Fresdorf, Paul",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10043.pdf",
+    "filename": "S19-10043.pdf"
+  }
+}

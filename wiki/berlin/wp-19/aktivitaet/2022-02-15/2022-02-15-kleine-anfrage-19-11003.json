@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11003",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Genesenenstatus - was ist die wissenschaftliche Grundlage?",
+  "date": "2022-02-15",
+  "drsNr": "19/11003",
+  "persons": [
+    {
+      "slug": "frank-christian-hansel",
+      "name": "Frank-Christian Hansel",
+      "name_padoka": "Hansel, Frank-Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11003.pdf",
+    "filename": "S19-11003.pdf"
+  }
+}

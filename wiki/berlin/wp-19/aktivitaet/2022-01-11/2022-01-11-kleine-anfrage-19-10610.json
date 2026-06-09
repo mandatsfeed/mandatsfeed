@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10610",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "„Tuntenhaus Forellenhof“ und „Die Rache der Panda-Pussies“ - Wofür geben Lederer und Roth nur unser Steuergeld aus?",
+  "date": "2022-01-11",
+  "drsNr": "19/10610",
+  "persons": [
+    {
+      "slug": "antonin-brousek",
+      "name": "Antonin Brousek",
+      "name_padoka": "Brousek, Antonin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10610.pdf",
+    "filename": "S19-10610.pdf"
+  }
+}

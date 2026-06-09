@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11139",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Umleitungsverkehre durch Baumaßnahme an der Bahnbrücke über die Wiltbergstraße im Pankower Ortsteil Buch",
+  "date": "2022-02-28",
+  "drsNr": "19/11139",
+  "persons": [
+    {
+      "slug": "johannes-kraft",
+      "name": "Johannes Kraft",
+      "name_padoka": "Kraft, Johannes",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11139.pdf",
+    "filename": "S19-11139.pdf"
+  }
+}

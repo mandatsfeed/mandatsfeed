@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11092",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Versorgung mit Oberschulplätzen in Hohenschönhausen",
+  "date": "2022-02-21",
+  "drsNr": "19/11092",
+  "persons": [
+    {
+      "slug": "dirk-liebe",
+      "name": "Dirk Liebe",
+      "name_padoka": "Liebe, Dirk",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11092.pdf",
+    "filename": "S19-11092.pdf"
+  }
+}

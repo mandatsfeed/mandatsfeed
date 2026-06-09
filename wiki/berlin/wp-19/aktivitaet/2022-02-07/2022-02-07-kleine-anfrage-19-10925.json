@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10925",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Corona und Berufsschulen",
+  "date": "2022-02-07",
+  "drsNr": "19/10925",
+  "persons": [
+    {
+      "slug": "heiko-melzer",
+      "name": "Heiko Melzer",
+      "name_padoka": "Melzer, Heiko",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10925.pdf",
+    "filename": "S19-10925.pdf"
+  }
+}

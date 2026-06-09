@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10983",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Strandbad Müggelsee (Teil 2) – Zeit- und Kostenplan der Sanierung, Bürgerbeteiligung und Nutzungsmöglichkeiten",
+  "date": "2022-02-15",
+  "drsNr": "19/10983",
+  "persons": [
+    {
+      "slug": "maik-penn",
+      "name": "Maik Penn",
+      "name_padoka": "Penn, Maik",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10983.pdf",
+    "filename": "S19-10983.pdf"
+  }
+}

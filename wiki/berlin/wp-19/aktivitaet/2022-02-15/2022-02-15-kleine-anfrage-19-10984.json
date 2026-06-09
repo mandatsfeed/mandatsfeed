@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10984",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Eigentümerstruktur eines von einer DEGEWO-Tochtergesellschaft verwalteten Wohngebäude-Fonds (Nachfrage zur Drucksache 19/10420)",
+  "date": "2022-02-15",
+  "drsNr": "19/10984",
+  "persons": [
+    {
+      "slug": "michael-dietmann",
+      "name": "Michael Dietmann",
+      "name_padoka": "Dietmann, Michael",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10984.pdf",
+    "filename": "S19-10984.pdf"
+  }
+}

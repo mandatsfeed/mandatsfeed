@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11429",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Pop-Up-Busspuren ohne Bürgerbeteiligung",
+  "date": "2022-03-30",
+  "drsNr": "19/11429",
+  "persons": [
+    {
+      "slug": "christopher-forster",
+      "name": "Christopher Förster",
+      "name_padoka": "Förster, Christopher",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11429.pdf",
+    "filename": "S19-11429.pdf"
+  }
+}

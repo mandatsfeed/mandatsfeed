@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10899",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Straßenstrich im Kurfürstenkiez",
+  "date": "2022-02-07",
+  "drsNr": "19/10899",
+  "persons": [
+    {
+      "slug": "marc-vallendar",
+      "name": "Marc Vallendar",
+      "name_padoka": "Vallendar, Marc",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10899.pdf",
+    "filename": "S19-10899.pdf"
+  }
+}

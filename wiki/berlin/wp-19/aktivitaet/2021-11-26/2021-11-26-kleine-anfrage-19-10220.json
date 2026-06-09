@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10220",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Unterbrechung der Tramlinie 21 und Verkehrschaos auf der Ehrlichstraße in Berlin Lichtenberg",
+  "date": "2021-11-26",
+  "drsNr": "19/10220",
+  "persons": [
+    {
+      "slug": "kristian-ronneburg",
+      "name": "Kristian Ronneburg",
+      "name_padoka": "Ronneburg, Kristian",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10220.pdf",
+    "filename": "S19-10220.pdf"
+  }
+}

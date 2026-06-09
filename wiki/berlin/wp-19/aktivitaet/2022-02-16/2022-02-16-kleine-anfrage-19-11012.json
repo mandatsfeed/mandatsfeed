@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11012",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Kriminalitätsentwicklung in Reinickendorf in den Jahren 2020 und 2021",
+  "date": "2022-02-16",
+  "drsNr": "19/11012",
+  "persons": [
+    {
+      "slug": "frank-balzer",
+      "name": "Frank Balzer",
+      "name_padoka": "Balzer, Frank",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11012.pdf",
+    "filename": "S19-11012.pdf"
+  }
+}

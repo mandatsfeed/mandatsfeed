@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11385",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Stärkung der MINT-Studiengänge an Berliner Hochschulen",
+  "date": "2022-03-25",
+  "drsNr": "19/11385",
+  "persons": [
+    {
+      "slug": "adrian-grasse",
+      "name": "Adrian Grasse",
+      "name_padoka": "Grasse, Adrian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11385.pdf",
+    "filename": "S19-11385.pdf"
+  }
+}

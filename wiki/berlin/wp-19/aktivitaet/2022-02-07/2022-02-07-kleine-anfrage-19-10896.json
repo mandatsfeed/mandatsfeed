@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10896",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Schloss Kaulsdorf – Wie weiter mit den dort lebenden Menschen und der Immobilie?",
+  "date": "2022-02-07",
+  "drsNr": "19/10896",
+  "persons": [
+    {
+      "slug": "kristian-ronneburg",
+      "name": "Kristian Ronneburg",
+      "name_padoka": "Ronneburg, Kristian",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10896.pdf",
+    "filename": "S19-10896.pdf"
+  }
+}

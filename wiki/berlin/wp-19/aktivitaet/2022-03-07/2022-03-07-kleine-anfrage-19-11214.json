@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11214",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Wurde eine Ampel vergessen an der neu errichteten Haltestelle auf der Rhinstraßenbrücke?",
+  "date": "2022-03-07",
+  "drsNr": "19/11214",
+  "persons": [
+    {
+      "slug": "christian-wolf",
+      "name": "Christian Wolf",
+      "name_padoka": "Wolf, Christian",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11214.pdf",
+    "filename": "S19-11214.pdf"
+  }
+}

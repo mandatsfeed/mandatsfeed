@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10795",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Muss sich die BVV Friedrichshain-Kreuzberg mit dem Umbau der Oranienstraße noch befassen?",
+  "date": "2022-01-28",
+  "drsNr": "19/10795",
+  "persons": [
+    {
+      "slug": "felix-reifschneider",
+      "name": "Felix Reifschneider",
+      "name_padoka": "Reifschneider, Felix",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10795.pdf",
+    "filename": "S19-10795.pdf"
+  }
+}

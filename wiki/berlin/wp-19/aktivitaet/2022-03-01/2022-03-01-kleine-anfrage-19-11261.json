@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11261",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Saubere Spree - Mischwassereinläufe in Berlin (Teil 1)",
+  "date": "2022-03-01",
+  "drsNr": "19/11261",
+  "persons": [
+    {
+      "slug": "nina-lerch",
+      "name": "Nina Lerch",
+      "name_padoka": "Lerch, Nina",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11261.pdf",
+    "filename": "S19-11261.pdf"
+  }
+}

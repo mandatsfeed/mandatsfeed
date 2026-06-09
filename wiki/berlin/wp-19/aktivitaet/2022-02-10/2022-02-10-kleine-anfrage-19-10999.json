@@ -1,0 +1,35 @@
+{
+  "id": "starweb-be-ka-19-10999",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Anzahl und Auslastung von Kurzzeitpflegeplätzen",
+  "date": "2022-02-10",
+  "drsNr": "19/10999",
+  "persons": [
+    {
+      "slug": "stefanie-fuchs",
+      "name": "Stefanie Fuchs",
+      "name_padoka": "Fuchs, Stefanie",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    },
+    {
+      "slug": "lars-dusterhoft",
+      "name": "Lars Düsterhöft",
+      "name_padoka": "Düsterhöft, Lars",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "die-linke",
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10999.pdf",
+    "filename": "S19-10999.pdf"
+  }
+}
