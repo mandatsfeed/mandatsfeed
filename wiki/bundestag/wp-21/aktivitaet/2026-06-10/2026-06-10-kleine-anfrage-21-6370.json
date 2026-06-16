@@ -1,0 +1,168 @@
+{
+  "id": "dip-ka-21-6370",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Informelle Finanztransferstrukturen und Hawala-Systeme im Bereich der Organisierten Kriminalität",
+  "date": "2026-06-10",
+  "persons": [
+    {
+      "slug": "rocco-kever",
+      "name": "Rocco Kever",
+      "name_padoka": "Kever, Rocco",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kurt-kleinschmidt",
+      "name": "Kurt Kleinschmidt",
+      "name_padoka": "Kleinschmidt, Kurt",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "achim-kohler",
+      "name": "Achim Köhler",
+      "name_padoka": "Köhler, Achim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "raimond-scheirich",
+      "name": "Raimond Scheirich",
+      "name_padoka": "Scheirich, Raimond",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "maximilian-krah",
+      "name": "Maximilian Krah",
+      "name_padoka": "Krah, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "name_padoka": "Peterka, Tobias Matthias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-schattner",
+      "name": "Bernd Schattner",
+      "name_padoka": "Schattner, Bernd",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-ladzinski",
+      "name": "Thomas Ladzinski",
+      "name_padoka": "Ladzinski, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-uhr",
+      "name": "Martina Uhr",
+      "name_padoka": "Uhr, Martina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexis-l-giersch",
+      "name": "Alexis L. Giersch",
+      "name_padoka": "Giersch, Alexis L.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sascha-lensing",
+      "name": "Sascha Lensing",
+      "name_padoka": "Lensing, Sascha",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-teich",
+      "name": "Tobias Teich",
+      "name_padoka": "Teich, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "edgar-naujok",
+      "name": "Edgar Naujok",
+      "name_padoka": "Naujok, Edgar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "knuth-meyer-soltau",
+      "name": "Knuth Meyer-Soltau",
+      "name_padoka": "Meyer-Soltau, Knuth",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christina-baum",
+      "name": "Christina Baum",
+      "name_padoka": "Baum, Christina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kay-uwe-ziegler",
+      "name": "Kay-Uwe Ziegler",
+      "name_padoka": "Ziegler, Kay-Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6370",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/063/2106370.pdf",
+    "filename": "2106370.pdf"
+  }
+}

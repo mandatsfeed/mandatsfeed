@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID218313600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Humanitäre Hilfe stärken, Völkerrecht verteidigen, international Verantwortung übernehmen",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "lars-castellucci",
+      "name": "Lars Castellucci",
+      "name_padoka": "Castellucci, Lars",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Beauftragter der Bundesregierung für Menschenrechtspolitik und humanitäre Hilfe"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/83",
+    "date": "2026-06-11",
+    "page": 10170
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf"
+  }
+}

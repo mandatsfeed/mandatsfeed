@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218213600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bitten und Beschwerden an den Deutschen Bundestag — Die Tätigkeit des Petitionsausschusses des Deutschen Bundestages im Jahr 2025",
+  "date": "2026-06-10",
+  "persons": [
+    {
+      "slug": "nicole-hess",
+      "name": "Nicole Hess",
+      "name_padoka": "Hess, Nicole",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/82",
+    "date": "2026-06-10",
+    "page": 9920
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21082.pdf"
+  }
+}

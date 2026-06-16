@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-6493",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bodenschutz, Edaphon und CO2-Bilanzierung beim Ausbau erneuerbarer Energien und der Stromnetzinfrastruktur",
+  "date": "2026-06-15",
+  "persons": [
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6493",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/064/2106493.pdf",
+    "filename": "2106493.pdf"
+  }
+}

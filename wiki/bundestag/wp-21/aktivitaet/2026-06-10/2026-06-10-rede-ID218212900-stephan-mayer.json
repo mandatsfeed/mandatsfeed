@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218212900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — auf Verlangen der Fraktion der AfD",
+  "date": "2026-06-10",
+  "persons": [
+    {
+      "slug": "stephan-mayer",
+      "name": "Stephan Mayer",
+      "name_padoka": "Mayer, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/82",
+    "date": "2026-06-10",
+    "page": 9920
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21082.pdf"
+  }
+}

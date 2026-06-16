@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218409800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Wertschätzung sicherstellen, Kürzungen vermeiden – Die Pflege von Angehörigen darf nicht in die Armut führen",
+  "date": "2026-06-12",
+  "persons": [
+    {
+      "slug": "ulrike-schielke-ziesing",
+      "name": "Ulrike Schielke-Ziesing",
+      "name_padoka": "Schielke-Ziesing, Ulrike",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/84",
+    "date": "2026-06-12",
+    "page": 10308
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21084.pdf"
+  }
+}

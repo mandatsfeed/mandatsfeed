@@ -1,0 +1,107 @@
+{
+  "id": "dip-rede-21-66",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Klimageld - Sofort und sozial gerecht",
+  "date": "2026-03-20",
+  "persons": [
+    {
+      "slug": "manuel-krauthausen",
+      "name": "Manuel Krauthausen",
+      "name_padoka": "Krauthausen, Manuel",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hans-koller",
+      "name": "Hans Koller",
+      "name_padoka": "Koller, Hans",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jan-niclas-gesenhues",
+      "name": "Jan-Niclas Gesenhues",
+      "name_padoka": "Gesenhues, Jan-Niclas",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "fabian-fahl",
+      "name": "Fabian Fahl",
+      "name_padoka": "Fahl, Fabian",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "lisa-badum",
+      "name": "Lisa Badum",
+      "name_padoka": "Badum, Lisa",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "thomas-gebhart",
+      "name": "Thomas Gebhart",
+      "name_padoka": "Gebhart, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "karsten-hilse",
+      "name": "Karsten Hilse",
+      "name_padoka": "Hilse, Karsten",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jakob-blankenburg",
+      "name": "Jakob Blankenburg",
+      "name_padoka": "Blankenburg, Jakob",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "daniel-rinkert",
+      "name": "Daniel Rinkert",
+      "name_padoka": "Rinkert, Daniel",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "mark-helfrich",
+      "name": "Mark Helfrich",
+      "name_padoka": "Helfrich, Mark",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "swantje-henrike-michaelsen",
+      "name": "Swantje Henrike Michaelsen",
+      "name_padoka": "Michaelsen, Swantje Henrike",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "afd",
+    "cdu-csu",
+    "bundnis-90-die-gruenen",
+    "die-linke",
+    "spd"
+  ],
+  "drsNr": "21/66",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21066.pdf#P.8000",
+    "filename": "21066.pdf#P.8000"
+  }
+}

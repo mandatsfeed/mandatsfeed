@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218213000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bitten und Beschwerden an den Deutschen Bundestag — Die Tätigkeit des Petitionsausschusses des Deutschen Bundestages im Jahr 2025",
+  "date": "2026-06-10",
+  "persons": [
+    {
+      "slug": "hulya-duber",
+      "name": "Hülya Düber",
+      "name_padoka": "Düber, Hülya",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/82",
+    "date": "2026-06-10",
+    "page": 9920
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21082.pdf"
+  }
+}

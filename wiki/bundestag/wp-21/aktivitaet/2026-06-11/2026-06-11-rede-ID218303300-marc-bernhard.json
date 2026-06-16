@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218303300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 9",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/83",
+    "date": "2026-06-11",
+    "page": 10170
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf"
+  }
+}

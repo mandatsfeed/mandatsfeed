@@ -1,0 +1,338 @@
+{
+  "id": "dip-rede-21-62",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Schlanker Staat statt Kostenexplosion - Beamtenzahl und Pensionslasten senken",
+  "date": "2026-03-05",
+  "persons": [
+    {
+      "slug": "siegfried-walch",
+      "name": "Siegfried Walch",
+      "name_padoka": "Walch, Siegfried",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jan-kostering",
+      "name": "Jan Köstering",
+      "name_padoka": "Köstering, Jan",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ingo-vogel",
+      "name": "Ingo Vogel",
+      "name_padoka": "Vogel, Ingo",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "marcel-emmerich",
+      "name": "Marcel Emmerich",
+      "name_padoka": "Emmerich, Marcel",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "florian-oest",
+      "name": "Florian Oest",
+      "name_padoka": "Oest, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ulrike-schielke-ziesing",
+      "name": "Ulrike Schielke-Ziesing",
+      "name_padoka": "Schielke-Ziesing, Ulrike",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "reinhard-mixl",
+      "name": "Reinhard Mixl",
+      "name_padoka": "Mixl, Reinhard",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kerstin-przygodda",
+      "name": "Kerstin Przygodda",
+      "name_padoka": "Przygodda, Kerstin",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "torben-braga",
+      "name": "Torben Braga",
+      "name_padoka": "Braga, Torben",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-feser",
+      "name": "Jan Feser",
+      "name_padoka": "Feser, Jan",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christina-baum",
+      "name": "Christina Baum",
+      "name_padoka": "Baum, Christina",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "name_padoka": "Gottschalk, Kay",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arne-raue",
+      "name": "Arne Raue",
+      "name_padoka": "Raue, Arne",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-reck",
+      "name": "Christian Reck",
+      "name_padoka": "Reck, Christian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lukas-rehm",
+      "name": "Lukas Rehm",
+      "name_padoka": "Rehm, Lukas",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "name_padoka": "Finger, Hauke",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "erhard-brucker",
+      "name": "Erhard Brucker",
+      "name_padoka": "Brucker, Erhard",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hans-jurgen-gossner",
+      "name": "Hans-Jürgen Goßner",
+      "name_padoka": "Goßner, Hans-Jürgen",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carina-schiessl",
+      "name": "Carina Schießl",
+      "name_padoka": "Schießl, Carina",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-bochmann",
+      "name": "René Bochmann",
+      "name_padoka": "Bochmann, René",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-douglas",
+      "name": "Christian Douglas",
+      "name_padoka": "Douglas, Christian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "georg-schroeter",
+      "name": "Georg Schroeter",
+      "name_padoka": "Schroeter, Georg",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-gross",
+      "name": "Rainer Groß",
+      "name_padoka": "Groß, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-ebenberger",
+      "name": "Tobias Ebenberger",
+      "name_padoka": "Ebenberger, Tobias",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-arpaschi",
+      "name": "Alexander Arpaschi",
+      "name_padoka": "Arpaschi, Alexander",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "karsten-hilse",
+      "name": "Karsten Hilse",
+      "name_padoka": "Hilse, Karsten",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Rainer Rothfuß",
+      "name_padoka": "Rothfuß, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "name_padoka": "Stephan, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "diana-zimmer",
+      "name": "Diana Zimmer",
+      "name_padoka": "Zimmer, Diana",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-springer",
+      "name": "René Springer",
+      "name_padoka": "Springer, René",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jorg-zirwes",
+      "name": "Jörg Zirwes",
+      "name_padoka": "Zirwes, Jörg",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "name_padoka": "von Zons, Ulrich",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kurt-kleinschmidt",
+      "name": "Kurt Kleinschmidt",
+      "name_padoka": "Kleinschmidt, Kurt",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carsten-becker",
+      "name": "Carsten Becker",
+      "name_padoka": "Becker, Carsten",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "name_padoka": "Bloch, Joachim",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "iris-nieland",
+      "name": "Iris Nieland",
+      "name_padoka": "Nieland, Iris",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-teske",
+      "name": "Robert Teske",
+      "name_padoka": "Teske, Robert",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-wenzel-schmidt",
+      "name": "Jan Wenzel Schmidt",
+      "name_padoka": "Schmidt, Jan Wenzel",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerrit-huy",
+      "name": "Gerrit Huy",
+      "name_padoka": "Huy, Gerrit",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marcus-buhl",
+      "name": "Marcus Bühl",
+      "name_padoka": "Bühl, Marcus",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "die-linke",
+    "spd",
+    "bundnis-90-die-gruenen",
+    "afd"
+  ],
+  "drsNr": "21/62",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21062.pdf#P.7582",
+    "filename": "21062.pdf#P.7582"
+  }
+}

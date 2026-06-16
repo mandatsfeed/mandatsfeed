@@ -1,0 +1,150 @@
+{
+  "id": "dip-rede-21-69",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Demokratie leben - Engagement schützen, Förderstrukturen erhalten",
+  "date": "2026-03-27",
+  "persons": [
+    {
+      "slug": "wolfgang-dahler",
+      "name": "Wolfgang Dahler",
+      "name_padoka": "Dahler, Wolfgang",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "konrad-korner",
+      "name": "Konrad Körner",
+      "name_padoka": "Körner, Konrad",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "marcel-emmerich",
+      "name": "Marcel Emmerich",
+      "name_padoka": "Emmerich, Marcel",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "name_padoka": "Gottschalk, Kay",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "filiz-polat",
+      "name": "Filiz Polat",
+      "name_padoka": "Polat, Filiz",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "anja-weisgerber",
+      "name": "Anja Weisgerber",
+      "name_padoka": "Weisgerber, Anja",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "mandy-eissing",
+      "name": "Mandy Eißing",
+      "name_padoka": "Eißing, Mandy",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "saskia-esken",
+      "name": "Saskia Esken",
+      "name_padoka": "Esken, Saskia",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "beatrix-von-storch",
+      "name": "Beatrix von Storch",
+      "name_padoka": "von Storch, Beatrix",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "name_padoka": "Maack, Sebastian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "name_padoka": "Latendorf, Ina",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "marvin-schulz",
+      "name": "Marvin Schulz",
+      "name_padoka": "Schulz, Marvin",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "misbah-khan",
+      "name": "Misbah Khan",
+      "name_padoka": "Khan, Misbah",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "felix-doring",
+      "name": "Felix Döring",
+      "name_padoka": "Döring, Felix",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "martin-reichardt",
+      "name": "Martin Reichardt",
+      "name_padoka": "Reichardt, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "karin-prien",
+      "name": "Karin Prien",
+      "name_padoka": "Prien, Karin",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "afd",
+    "spd"
+  ],
+  "drsNr": "21/69",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21069.pdf#P.8418",
+    "filename": "21069.pdf#P.8418"
+  }
+}

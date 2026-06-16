@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7262",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Geplante Änderung der Muster-Versammlungsstättenverordnung - Wegfall der Pflicht zu getrennten Toiletten für Frauen und Männer",
+  "date": "2026-06-10",
+  "drsNr": "8/7262",
+  "persons": [
+    {
+      "slug": "eric-recke",
+      "name": "Eric Recke",
+      "name_padoka": "Recke, Eric",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51299",
+    "filename": "Drs_8_7262_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "dip-rede-21-81",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Geschäftsmodelle der großen Immobilienkonzerne bekämpfen - Mieterinnen und Mieter konsequent schützen",
+  "date": "2026-05-22",
+  "persons": [
+    {
+      "slug": "jan-marco-luczak",
+      "name": "Jan-Marco Luczak",
+      "name_padoka": "Luczak, Jan-Marco",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "otto-strauss",
+      "name": "Otto Strauß",
+      "name_padoka": "Strauß, Otto",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "konrad-korner",
+      "name": "Konrad Körner",
+      "name_padoka": "Körner, Konrad",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "heidi-reichinnek",
+      "name": "Heidi Reichinnek",
+      "name_padoka": "Reichinnek, Heidi",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "mayra-vriesema",
+      "name": "Mayra Vriesema",
+      "name_padoka": "Vriesema, Mayra",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "hakan-demir",
+      "name": "Hakan Demir",
+      "name_padoka": "Demir, Hakan",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "olaf-hilmer",
+      "name": "Olaf Hilmer",
+      "name_padoka": "Hilmer, Olaf",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "johannes-wiegelmann",
+      "name": "Johannes Wiegelmann",
+      "name_padoka": "Wiegelmann, Johannes",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "hanna-steinmuller",
+      "name": "Hanna Steinmüller",
+      "name_padoka": "Steinmüller, Hanna",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "philipp-rottwilm",
+      "name": "Philipp Rottwilm",
+      "name_padoka": "Rottwilm, Philipp",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sebastian-steineke",
+      "name": "Sebastian Steineke",
+      "name_padoka": "Steineke, Sebastian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "caren-lay",
+      "name": "Caren Lay",
+      "name_padoka": "Lay, Caren",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "afd",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "spd"
+  ],
+  "drsNr": "21/81",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21081.pdf#P.9802",
+    "filename": "21081.pdf#P.9802"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7247",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Strukturelle Rahmenbedingungen zur Förderung von Menschen mit besonderen Unterstützungsbedarf im Bildungssystem Sachsen",
+  "date": "2026-06-08",
+  "drsNr": "8/7247",
+  "persons": [
+    {
+      "slug": "christin-melcher",
+      "name": "Christin Melcher",
+      "name_padoka": "Melcher, Christin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51267",
+    "filename": "Drs_8_7247_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

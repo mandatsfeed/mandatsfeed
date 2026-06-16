@@ -1,0 +1,56 @@
+{
+  "id": "dip-ka-21-6496",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Die menschenrechtspolitische und humanitäre Lage in Kuba vor dem Hintergrund des US-amerikanischen Ölembargos",
+  "date": "2026-06-15",
+  "persons": [
+    {
+      "slug": "ulle-schauws",
+      "name": "Ulle Schauws",
+      "name_padoka": "Schauws, Ulle",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "claudia-roth",
+      "name": "Claudia Roth",
+      "name_padoka": "Roth, Claudia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "boris-mijatovic",
+      "name": "Boris Mijatović",
+      "name_padoka": "Mijatović, Boris",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "deborah-during",
+      "name": "Deborah Düring",
+      "name_padoka": "Düring, Deborah",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "max-lucks",
+      "name": "Max Lucks",
+      "name_padoka": "Lucks, Max",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/6496",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/064/2106496.pdf",
+    "filename": "2106496.pdf"
+  }
+}

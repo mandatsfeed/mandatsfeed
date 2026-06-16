@@ -1,0 +1,70 @@
+{
+  "id": "dip-ka-21-6388",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Lagebild der deutschen Zementindustrie und Maßnahmen für Wettbewerbsfähigkeit und Klimaneutralität",
+  "date": "2026-06-10",
+  "persons": [
+    {
+      "slug": "andreas-audretsch",
+      "name": "Andreas Audretsch",
+      "name_padoka": "Audretsch, Andreas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sandra-stein",
+      "name": "Sandra Stein",
+      "name_padoka": "Stein, Sandra",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katrin-uhlig",
+      "name": "Katrin Uhlig",
+      "name_padoka": "Uhlig, Katrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "julian-joswig",
+      "name": "Julian Joswig",
+      "name_padoka": "Joswig, Julian",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "michael-kellner",
+      "name": "Michael Kellner",
+      "name_padoka": "Kellner, Michael",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "alaa-alhamwi",
+      "name": "Alaa Alhamwi",
+      "name_padoka": "Alhamwi, Alaa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sandra-detzer",
+      "name": "Sandra Detzer",
+      "name_padoka": "Detzer, Sandra",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/6388",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/063/2106388.pdf",
+    "filename": "2106388.pdf"
+  }
+}

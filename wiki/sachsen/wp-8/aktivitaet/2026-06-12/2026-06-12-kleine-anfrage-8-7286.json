@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7286",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zuwendungen an den Aktion Zivilcourage e.V.",
+  "date": "2026-06-12",
+  "drsNr": "8/7286",
+  "persons": [
+    {
+      "slug": "timo-schreyer",
+      "name": "Timo Schreyer",
+      "name_padoka": "Schreyer, Timo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51361",
+    "filename": "Drs_8_7286_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

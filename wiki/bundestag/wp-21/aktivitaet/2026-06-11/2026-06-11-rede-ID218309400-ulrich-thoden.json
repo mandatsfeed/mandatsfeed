@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218309400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUFOR ALTHEA in Bosnien und Herzegowina",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "ulrich-thoden",
+      "name": "Ulrich Thoden",
+      "name_padoka": "Thoden, Ulrich",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/83",
+    "date": "2026-06-11",
+    "page": 10170
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7261",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Strukturelle Neuordnung der sächsischen Geologie- und Bergverwaltung - Gewährleistung der Arbeitsfähigkeit des Geologischen Dienstes",
+  "date": "2026-06-09",
+  "drsNr": "8/7261",
+  "persons": [
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51298",
+    "filename": "Drs_8_7261_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

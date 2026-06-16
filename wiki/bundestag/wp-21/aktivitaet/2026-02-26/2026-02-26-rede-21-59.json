@@ -1,0 +1,58 @@
+{
+  "id": "dip-rede-21-59",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz zur Änderung des Umwelt-Rechtsbehelfsgesetzes und weiterer umweltrechtlicher Vorschriften",
+  "date": "2026-02-26",
+  "persons": [
+    {
+      "slug": "violetta-bock",
+      "name": "Violetta Bock",
+      "name_padoka": "Bock, Violetta",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "jan-niclas-gesenhues",
+      "name": "Jan-Niclas Gesenhues",
+      "name_padoka": "Gesenhues, Jan-Niclas",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "christian-moser",
+      "name": "Christian Moser",
+      "name_padoka": "Moser, Christian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "name_padoka": "Peterka, Tobias Matthias",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carsten-trager",
+      "name": "Carsten Träger",
+      "name_padoka": "Träger, Carsten",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "funktion": "Parl. Staatssekr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "cdu-csu",
+    "afd"
+  ],
+  "drsNr": "21/59",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21059.pdf#P.7198",
+    "filename": "21059.pdf#P.7198"
+  }
+}

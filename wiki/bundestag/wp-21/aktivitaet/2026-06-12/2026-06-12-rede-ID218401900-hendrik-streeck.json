@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218401900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 31",
+  "date": "2026-06-12",
+  "persons": [
+    {
+      "slug": "hendrik-streeck",
+      "name": "Hendrik Streeck",
+      "name_padoka": "Streeck, Hendrik",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/84",
+    "date": "2026-06-12",
+    "page": 10308
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21084.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7307",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung des Haushaltsbeschlusses 2025/2026 im Bereich Reparaturbonus",
+  "date": "2026-06-12",
+  "drsNr": "8/7307",
+  "persons": [
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51402",
+    "filename": "Drs_8_7307_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

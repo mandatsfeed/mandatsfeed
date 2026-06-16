@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218200700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-06-10",
+  "persons": [
+    {
+      "slug": "daniel-baldy",
+      "name": "Daniel Baldy",
+      "name_padoka": "Baldy, Daniel",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/82",
+    "date": "2026-06-10",
+    "page": 9920
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21082.pdf"
+  }
+}

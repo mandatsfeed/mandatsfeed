@@ -1,0 +1,123 @@
+{
+  "id": "dip-rede-21-54",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschlands Rolle bei der Verteidigung der internationalen Ordnung",
+  "date": "2026-01-16",
+  "persons": [
+    {
+      "slug": "tobias-winkler",
+      "name": "Tobias Winkler",
+      "name_padoka": "Winkler, Tobias",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "peter-beyer",
+      "name": "Peter Beyer",
+      "name_padoka": "Beyer, Peter",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "adis-ahmetovic",
+      "name": "Adis Ahmetovic",
+      "name_padoka": "Ahmetovic, Adis",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "alexander-wolf",
+      "name": "Alexander Wolf",
+      "name_padoka": "Wolf, Alexander",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "diana-herbstreuth",
+      "name": "Diana Herbstreuth",
+      "name_padoka": "Herbstreuth, Diana",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "boris-mijatovic",
+      "name": "Boris Mijatović",
+      "name_padoka": "Mijatović, Boris",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marja-liisa-vollers",
+      "name": "Marja-Liisa Völlers",
+      "name_padoka": "Völlers, Marja-Liisa",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "anna-rathert",
+      "name": "Anna Rathert",
+      "name_padoka": "Rathert, Anna",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jurgen-hardt",
+      "name": "Jürgen Hardt",
+      "name_padoka": "Hardt, Jürgen",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "desiree-becker",
+      "name": "Desiree Becker",
+      "name_padoka": "Becker, Desiree",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "boris-pistorius",
+      "name": "Boris Pistorius",
+      "name_padoka": "Pistorius, Boris",
+      "role": "redner",
+      "fraktion": "Bundesministerium der Verteidigung",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "florian-hahn",
+      "name": "Florian Hahn",
+      "name_padoka": "Hahn, Florian",
+      "role": "redner",
+      "fraktion": "Auswärtiges Amt",
+      "funktion": "Staatsmin."
+    },
+    {
+      "slug": "deborah-during",
+      "name": "Deborah Düring",
+      "name_padoka": "Düring, Deborah",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "spd",
+    "afd",
+    "bundnis-90-die-gruenen",
+    "die-linke"
+  ],
+  "drsNr": "21/54",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21054.pdf#P.6543",
+    "filename": "21054.pdf#P.6543"
+  }
+}

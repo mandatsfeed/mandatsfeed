@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218308100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ein BAföG, von dem man leben und studieren kann",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "nicole-gohlke",
+      "name": "Nicole Gohlke",
+      "name_padoka": "Gohlke, Nicole",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/83",
+    "date": "2026-06-11",
+    "page": 10170
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf"
+  }
+}

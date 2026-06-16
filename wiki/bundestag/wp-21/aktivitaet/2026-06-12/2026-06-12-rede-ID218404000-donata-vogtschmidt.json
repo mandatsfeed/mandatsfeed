@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218404000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Der Veteranentag – In Anerkennung, Respekt und Dankbarkeit für den Einsatz unserer Veteraninnen und Veteranen für Frieden und Freiheit",
+  "date": "2026-06-12",
+  "persons": [
+    {
+      "slug": "donata-vogtschmidt",
+      "name": "Donata Vogtschmidt",
+      "name_padoka": "Vogtschmidt, Donata",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/84",
+    "date": "2026-06-12",
+    "page": 10308
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21084.pdf"
+  }
+}

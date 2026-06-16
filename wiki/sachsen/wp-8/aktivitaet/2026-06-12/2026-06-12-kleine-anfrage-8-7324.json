@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7324",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Gefährdung von Rehkitzen durch Mäh- und Erntearbeiten",
+  "date": "2026-06-12",
+  "drsNr": "8/7324",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51428",
+    "filename": "Drs_8_7324_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

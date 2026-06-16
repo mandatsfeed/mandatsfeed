@@ -1,0 +1,65 @@
+{
+  "id": "dip-rede-21-68",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz zur Umsetzung der Richtlinie (EU) 2024/1785 zur Änderung der Richtlinie 2010/75/EU über Industrieemissionen",
+  "date": "2026-03-26",
+  "persons": [
+    {
+      "slug": "jan-niclas-gesenhues",
+      "name": "Jan-Niclas Gesenhues",
+      "name_padoka": "Gesenhues, Jan-Niclas",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "christian-moser",
+      "name": "Christian Moser",
+      "name_padoka": "Moser, Christian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "violetta-bock",
+      "name": "Violetta Bock",
+      "name_padoka": "Bock, Violetta",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sascha-van-beek",
+      "name": "Sascha van Beek",
+      "name_padoka": "van Beek, Sascha",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "michael-blos",
+      "name": "Michael Blos",
+      "name_padoka": "Blos, Michael",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "daniel-rinkert",
+      "name": "Daniel Rinkert",
+      "name_padoka": "Rinkert, Daniel",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen",
+    "cdu-csu",
+    "die-linke",
+    "afd",
+    "spd"
+  ],
+  "drsNr": "21/68",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21068.pdf#P.8326",
+    "filename": "21068.pdf#P.8326"
+  }
+}

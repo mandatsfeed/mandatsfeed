@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218406400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 21",
+  "date": "2026-06-12",
+  "persons": [
+    {
+      "slug": "anna-rathert",
+      "name": "Anna Rathert",
+      "name_padoka": "Rathert, Anna",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/84",
+    "date": "2026-06-12",
+    "page": 10308
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21084.pdf"
+  }
+}

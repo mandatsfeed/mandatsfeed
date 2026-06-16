@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218303800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 9",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "raimond-scheirich",
+      "name": "Raimond Scheirich",
+      "name_padoka": "Scheirich, Raimond",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/83",
+    "date": "2026-06-11",
+    "page": 10170
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf"
+  }
+}

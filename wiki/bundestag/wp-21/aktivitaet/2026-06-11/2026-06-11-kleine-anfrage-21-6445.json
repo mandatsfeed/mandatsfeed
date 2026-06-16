@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-6445",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bilanz des ersten Jahres der Tätigkeit des Beauftragten der Bundesregierung für Migration, Flüchtlinge und Integration zugleich Beauftragten der Bundesregierung für Antirassismus",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6445",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/064/2106445.pdf",
+    "filename": "2106445.pdf"
+  }
+}
