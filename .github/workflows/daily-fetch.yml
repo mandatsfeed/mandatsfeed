@@ -97,6 +97,16 @@ jobs:
           PARLIAMENT: sachsen
         run: pnpm run fetch-abstimmungen:abgeordnetenwatch
         continue-on-error: true
+      - name: fetch-abstimmungen hessen (abgeordnetenwatch)
+        env:
+          PARLIAMENT: hessen
+        run: pnpm run fetch-abstimmungen:abgeordnetenwatch
+        continue-on-error: true
+      - name: fetch-abstimmungen berlin (abgeordnetenwatch)
+        env:
+          PARLIAMENT: berlin
+        run: pnpm run fetch-abstimmungen:abgeordnetenwatch
+        continue-on-error: true
 
       # --- Aufbereitung ---
       - name: generate-rss
