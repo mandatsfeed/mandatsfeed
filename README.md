@@ -14,6 +14,8 @@ mandatsfeed läuft als **selektives Public-Angebot**: Für Parlamente, deren Que
 | Sächsischer Landtag (REDAS) | keine robots.txt | 🟢 Public |
 | Landtag Mecklenburg-Vorpommern (Parldok) | keine robots.txt | 🟢 Public |
 | Thüringer Landtag (Parldok) | keine robots.txt | 🟢 Public |
+| Hessischer Landtag (STARWEB) | keine robots.txt | 🟢 Public |
+| Abgeordnetenhaus Berlin (STARWEB) | keine robots.txt | 🟢 Public |
 | Landtag Sachsen-Anhalt (PADOKA) | `Disallow: /` + `/files/` | 🟥 Forschungsphase |
 | Landtag Brandenburg (STARWEB) | `Disallow: /` | 🟥 Forschungsphase |
 
@@ -47,6 +49,8 @@ mandatsfeed erzeugt pro **Abgeordneter** und pro **Fraktion** einen chronologisc
 | Thüringer Landtag               | Parldok + abgeordnetenwatch     | 🟢 Drucksachen + Reden (PlPr-PDF-Parser mit MdL-Nachname-Registry) + namentliche Abstimmungen via abgeordnetenwatch |
 | Sächsischer Landtag             | EDAS / REDAS + abgeordnetenwatch | 🟢 Drucksachen + Reden + namentliche Abstimmungen via abgeordnetenwatch |
 | Deutscher Bundestag             | DIP + Mediathek                 | 🟢 Drucksachen + Reden (DIP-XML, TOP-Titel + Druckseite) + Namentliche Abstimmungen (XLSX) + Video-RSS pro MdB via Mediathek-Plenar-Podcast — `DIP_API_KEY` in `.env` setzen |
+| Hessischer Landtag              | STARWEB + abgeordnetenwatch     | 🟢 Drucksachen |
+| Abgeordnetenhaus Berlin         | STARWEB + abgeordnetenwatch     | 🟢 Drucksachen |
 
 Den DIP-Key bekommt man formlos per E-Mail an `parlamentsdokumentation@bundestag.de` — siehe [DIP-Hilfe-Seite](https://dip.bundestag.de/über-dip/hilfe/api). Eintrag in `.env` (Vorlage: `.env.example`).
 
