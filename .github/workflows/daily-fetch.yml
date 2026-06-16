@@ -35,6 +35,12 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      - name: install agent-browser CLI
+        run: npm install -g agent-browser
+
+      - name: install agent-browser Chrome + system deps
+        run: agent-browser install --with-deps
+
       # --- Drucksachen ---
       - name: fetch bundestag
         if: env.DIP_API_KEY != ''
