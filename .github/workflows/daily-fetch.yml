@@ -1,0 +1,117 @@
+name: daily-fetch
+
+on:
+  schedule:
+    # täglich 04:30 UTC (≈ 06:30 MESZ / 05:30 MEZ) — nach den meisten Plenartagen
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: daily-fetch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      DIP_API_KEY: ${{ secrets.DIP_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # --- Drucksachen ---
+      - name: fetch bundestag
+        if: env.DIP_API_KEY != ''
+        run: pnpm run fetch:bundestag
+        continue-on-error: true
+      - name: fetch sachsen
+        run: pnpm run fetch:sachsen
+        continue-on-error: true
+      - name: fetch mecklenburg-vorpommern
+        run: pnpm run fetch:mecklenburg-vorpommern
+        continue-on-error: true
+      - name: fetch thueringen
+        run: pnpm run fetch:thueringen
+        continue-on-error: true
+      - name: fetch hessen
+        run: pnpm run fetch:hessen
+        continue-on-error: true
+      - name: fetch berlin
+        run: pnpm run fetch:berlin
+        continue-on-error: true
+
+      # --- Reden ---
+      - name: fetch-reden bundestag
+        if: env.DIP_API_KEY != ''
+        run: pnpm run fetch-reden:bundestag
+        continue-on-error: true
+      - name: fetch-reden sachsen
+        run: pnpm run fetch-reden:sachsen
+        continue-on-error: true
+      - name: fetch-reden mecklenburg-vorpommern
+        run: pnpm run fetch-reden:mecklenburg-vorpommern
+        continue-on-error: true
+      - name: fetch-reden thueringen
+        run: pnpm run fetch-reden:thueringen
+        continue-on-error: true
+
+      # --- Abstimmungen ---
+      - name: fetch-abstimmungen bundestag
+        if: env.DIP_API_KEY != ''
+        run: pnpm run fetch-abstimmungen:bundestag
+        continue-on-error: true
+      - name: fetch-abstimmungen mecklenburg-vorpommern (abgeordnetenwatch)
+        env:
+          PARLIAMENT: mecklenburg-vorpommern
+        run: pnpm run fetch-abstimmungen:abgeordnetenwatch
+        continue-on-error: true
+      - name: fetch-abstimmungen thueringen (abgeordnetenwatch)
+        env:
+          PARLIAMENT: thueringen
+        run: pnpm run fetch-abstimmungen:abgeordnetenwatch
+        continue-on-error: true
+      - name: fetch-abstimmungen sachsen (abgeordnetenwatch)
+        env:
+          PARLIAMENT: sachsen
+        run: pnpm run fetch-abstimmungen:abgeordnetenwatch
+        continue-on-error: true
+
+      # --- Aufbereitung ---
+      - name: generate-rss
+        run: pnpm run generate-rss
+      - name: generate-metadata
+        run: pnpm run generate-metadata
+      - name: append-update-log
+        run: pnpm run append-update-log
+
+      # --- Commit & Push ---
+      - name: Configure Git Identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: commit & push
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen — nichts zu committen."
+            exit 0
+          fi
+          git commit -m "data: daily fetch $(date -u +%Y-%m-%d)"
+          git push
