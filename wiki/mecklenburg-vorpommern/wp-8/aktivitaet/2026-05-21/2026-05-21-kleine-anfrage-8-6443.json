@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6443",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Reitwegenetz in Mecklenburg-Vorpommern – Umsetzungsstand des Landtagsbeschlusses",
+  "date": "2026-05-21",
+  "drsNr": "8/6443",
+  "persons": [
+    {
+      "slug": "martin-schmidt",
+      "name": "Martin Schmidt",
+      "name_padoka": "Schmidt, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70890"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

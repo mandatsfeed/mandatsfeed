@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4297",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Beantwortung und Fristverlängerungen bei der Beantwortung von „Kleinen Anfragen“ nach § 35 (3) der Geschäftsordnung für den Hessischen Landtag",
+  "date": "2026-04-27",
+  "drsNr": "21/4297",
+  "persons": [
+    {
+      "slug": "jurgen-frommrich",
+      "name": "Jürgen Frömmrich",
+      "name_padoka": "Frömmrich, Jürgen",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "miriam-dahlke",
+      "name": "Miriam Dahlke",
+      "name_padoka": "Dahlke, Miriam",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/7/04297.pdf",
+    "filename": "04297.pdf"
+  }
+}

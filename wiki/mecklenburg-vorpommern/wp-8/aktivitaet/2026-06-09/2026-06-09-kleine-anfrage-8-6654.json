@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6654",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beratung der Landesregierung durch die PR-Agentur „365 Sherpas“ im Zusammenhang mit dem Untersuchungsausschuss „Klimaschutzstiftung“",
+  "date": "2026-06-09",
+  "drsNr": "8/6654",
+  "persons": [
+    {
+      "slug": "constanze-oehlrich",
+      "name": "Constanze Oehlrich",
+      "name_padoka": "Oehlrich, Constanze",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71707"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6662",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Studierfähigkeit von Studienanfängern",
+  "date": "2026-06-12",
+  "drsNr": "8/6662",
+  "persons": [
+    {
+      "slug": "paul-joachim-timm",
+      "name": "Paul-Joachim Timm",
+      "name_padoka": "Timm, Paul-Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71773"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

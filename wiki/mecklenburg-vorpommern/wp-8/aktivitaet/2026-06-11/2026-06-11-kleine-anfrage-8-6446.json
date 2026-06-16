@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6446",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung des integrierten Verkehrssicherheitskonzeptes bis 2030",
+  "date": "2026-06-11",
+  "drsNr": "8/6446",
+  "persons": [
+    {
+      "slug": "jutta-wegner",
+      "name": "Jutta Wegner",
+      "name_padoka": "Wegner, Jutta",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70934"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

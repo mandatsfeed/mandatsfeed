@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11487",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Bauvorhaben nach Sonderbaurecht § 246 BauGB Nr. 8 bis 17",
+  "date": "2022-04-05",
+  "drsNr": "19/11487",
+  "persons": [
+    {
+      "slug": "harald-laatsch",
+      "name": "Harald Laatsch",
+      "name_padoka": "Laatsch, Harald",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11487.pdf",
+    "filename": "S19-11487.pdf"
+  }
+}

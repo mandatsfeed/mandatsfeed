@@ -1,0 +1,82 @@
+{
+  "id": "starweb-he-ka-21-4284",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Folgeanfrage zu Drucksache 21/3607: Vorzeitige Zuweisung von Flüchtlingen auf die Landkreise und kreisfreien Städte",
+  "date": "2026-04-23",
+  "drsNr": "21/4284",
+  "persons": [
+    {
+      "slug": "robert-lambrou",
+      "name": "Robert Lambrou",
+      "name_padoka": "Lambrou, Robert",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerhard-barsch",
+      "name": "Gerhard Bärsch",
+      "name_padoka": "Bärsch, Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sandra-weegels",
+      "name": "Sandra Weegels",
+      "name_padoka": "Weegels, Sandra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "pascal-schleich",
+      "name": "Pascal Schleich",
+      "name_padoka": "Schleich, Pascal",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "patrick-schenk-frankfurt",
+      "name": "Patrick Schenk(Frankfurt)",
+      "name_padoka": "Schenk(Frankfurt), Patrick",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/4/04284.pdf",
+    "filename": "04284.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4308",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung des „Zukunftsvertrags Studium und Lehre stärken“ (ZSL)",
+  "date": "2026-04-28",
+  "drsNr": "21/4308",
+  "persons": [
+    {
+      "slug": "nina-eisenhardt",
+      "name": "Nina Eisenhardt",
+      "name_padoka": "Eisenhardt, Nina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04308.pdf",
+    "filename": "04308.pdf"
+  }
+}

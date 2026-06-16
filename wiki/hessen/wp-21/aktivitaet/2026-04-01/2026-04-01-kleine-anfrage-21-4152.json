@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4152",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Finanzielle Förderung und wissenschaftliche Signifikanz der „Gender-Studies“ in Hessen in den Jahren 2024 und 2025",
+  "date": "2026-04-01",
+  "drsNr": "21/4152",
+  "persons": [
+    {
+      "slug": "frank-dr-grobe",
+      "name": "Frank Dr. Grobe",
+      "name_padoka": "Grobe, Frank Dr.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jochen-k-roos",
+      "name": "Jochen K. Roos",
+      "name_padoka": "Roos, Jochen K.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lothar-mulch",
+      "name": "Lothar Mulch",
+      "name_padoka": "Mulch, Lothar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/2/04152.pdf",
+    "filename": "04152.pdf"
+  }
+}

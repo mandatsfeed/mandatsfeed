@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6439",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verfassungsgemäße Beamtenbesoldung in Mecklenburg-Vorpommern – Finanzielle Auswirkungen des Karlsruher Urteils und Handlungsbedarf der Landesregierung",
+  "date": "2026-05-20",
+  "drsNr": "8/6439",
+  "persons": [
+    {
+      "slug": "martin-schmidt",
+      "name": "Martin Schmidt",
+      "name_padoka": "Schmidt, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70842"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

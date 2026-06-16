@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-4631",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Gesundheitsversorgung im Landkreis Hersfeld-Rotenburg",
+  "date": "2026-06-12",
+  "drsNr": "21/4631",
+  "persons": [
+    {
+      "slug": "kaya-kinkel",
+      "name": "Kaya Kinkel",
+      "name_padoka": "Kinkel, Kaya",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kathrin-anders",
+      "name": "Kathrin Anders",
+      "name_padoka": "Anders, Kathrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/04631.pdf",
+    "filename": "04631.pdf"
+  }
+}

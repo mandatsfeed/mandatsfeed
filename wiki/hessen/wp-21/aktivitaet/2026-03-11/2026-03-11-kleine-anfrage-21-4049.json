@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-4049",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ball des Sports: Schaut die Landesregierung zu, während Frankfurt zahlt?",
+  "date": "2026-03-11",
+  "drsNr": "21/4049",
+  "persons": [
+    {
+      "slug": "christoph-sippel",
+      "name": "Christoph Sippel",
+      "name_padoka": "Sippel, Christoph",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marcus-bocklet",
+      "name": "Marcus Bocklet",
+      "name_padoka": "Bocklet, Marcus",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/04049.pdf",
+    "filename": "04049.pdf"
+  }
+}

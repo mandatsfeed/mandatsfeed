@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6445",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Anlagestrategien des Landes Mecklenburg-Vorpommern",
+  "date": "2026-05-21",
+  "drsNr": "8/6445",
+  "persons": [
+    {
+      "slug": "dr-harald-terpe",
+      "name": "Dr. Harald Terpe",
+      "name_padoka": "Terpe, Dr. Harald",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70933"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6428",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bericht des Landesrechnungshofes und Auflösung des Tourismusverbandes Mecklenburg-Vorpommern",
+  "date": "2026-05-08",
+  "drsNr": "8/6428",
+  "persons": [
+    {
+      "slug": "wolfgang-waldmuller",
+      "name": "Wolfgang Waldmüller",
+      "name_padoka": "Waldmüller, Wolfgang",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70805"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

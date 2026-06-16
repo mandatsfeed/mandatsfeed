@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6427",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ambulante Operationen und wirtschaftliche sowie strukturelle Auswirkungen auf Krankenhäuser in Mecklenburg-Vorpommern",
+  "date": "2026-04-30",
+  "drsNr": "8/6427",
+  "persons": [
+    {
+      "slug": "thomas-de-jesus-fernandes",
+      "name": "Thomas de Jesus Fernandes",
+      "name_padoka": "Fernandes, Thomas de Jesus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70800"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

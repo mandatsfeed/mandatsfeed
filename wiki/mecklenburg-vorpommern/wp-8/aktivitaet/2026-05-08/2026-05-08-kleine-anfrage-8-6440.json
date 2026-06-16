@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6440",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung und Inanspruchnahme von Lohnkostenzuschüssen zur Beschäftigungsförderung in Mecklenburg-Vorpommern",
+  "date": "2026-05-08",
+  "drsNr": "8/6440",
+  "persons": [
+    {
+      "slug": "martin-schmidt",
+      "name": "Martin Schmidt",
+      "name_padoka": "Schmidt, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70862"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

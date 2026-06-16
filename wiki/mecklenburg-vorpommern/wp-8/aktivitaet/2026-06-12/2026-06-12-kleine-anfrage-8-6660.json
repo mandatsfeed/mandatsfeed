@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6660",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verfahrensstand zu angeblich rassistisch motivierter Straftat bei Fahrkartenkontrolle in Schwerin im Frühjahr 2025",
+  "date": "2026-06-12",
+  "drsNr": "8/6660",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71771"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

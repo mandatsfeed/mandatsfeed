@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4128",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Kürzungen bei Kunst und Kultur im Jahr 2026",
+  "date": "2026-03-27",
+  "drsNr": "21/4128",
+  "persons": [
+    {
+      "slug": "hildegard-forster-heldmann",
+      "name": "Hildegard Förster-Heldmann",
+      "name_padoka": "Förster-Heldmann, Hildegard",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04128.pdf",
+    "filename": "04128.pdf"
+  }
+}

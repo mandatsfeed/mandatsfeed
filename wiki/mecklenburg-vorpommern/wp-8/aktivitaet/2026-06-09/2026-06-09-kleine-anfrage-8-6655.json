@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6655",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umgang mit Anfragen von Einwohnerinnen und Einwohnern im Rahmen der Sitzungen kommunaler Vertretungen in Mecklenburg-Vorpommern",
+  "date": "2026-06-09",
+  "drsNr": "8/6655",
+  "persons": [
+    {
+      "slug": "henning-foerster",
+      "name": "Henning Foerster",
+      "name_padoka": "Foerster, Henning",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71708"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

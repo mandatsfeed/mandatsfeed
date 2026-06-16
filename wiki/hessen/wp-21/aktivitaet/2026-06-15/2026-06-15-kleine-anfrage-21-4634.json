@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4634",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen der geplanten Änderung des Telekommunikationsgesetzes auf Genehmigungs- und Ausbauverfahren in Hessen",
+  "date": "2026-06-15",
+  "drsNr": "21/4634",
+  "persons": [
+    {
+      "slug": "markus-fuchs",
+      "name": "Markus Fuchs",
+      "name_padoka": "Fuchs, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "karsten-bletzer",
+      "name": "Karsten Bletzer",
+      "name_padoka": "Bletzer, Karsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/4/04634.pdf",
+    "filename": "04634.pdf"
+  }
+}
