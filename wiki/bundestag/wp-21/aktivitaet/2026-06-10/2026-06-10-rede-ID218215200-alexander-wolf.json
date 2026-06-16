@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218215200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Feste Freundschaft in Frieden und Freiheit – 35 Jahre Neustart in den deutsch-polnischen Beziehungen",
+  "date": "2026-06-10",
+  "persons": [
+    {
+      "slug": "alexander-wolf",
+      "name": "Alexander Wolf",
+      "name_padoka": "Wolf, Alexander",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/82",
+    "date": "2026-06-10",
+    "page": 9920
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21082.pdf"
+  }
+}

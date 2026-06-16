@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218403400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschland in die KI-Zukunft bringen – Für einen nationalen Aufbruch an die digitale Weltspitze — Technologische Souveränität durch deutsches Fachwissen sichern – Staatliche Koordination für ein europäisches KI-Kooperationsprojekt nach Vorbild von Airbus starten",
+  "date": "2026-06-12",
+  "persons": [
+    {
+      "slug": "paul-schmidt",
+      "name": "Paul Schmidt",
+      "name_padoka": "Schmidt, Paul",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/84",
+    "date": "2026-06-12",
+    "page": 10308
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21084.pdf"
+  }
+}

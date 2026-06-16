@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218307400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Antidiskriminierungsstelle des Bundes stärken – Diskriminierungsschutz erweitern — Gleiche Rechte für alle – Das Allgemeine Gleichbehandlungsgesetz 20 Jahre nach Inkrafttreten wirksamer machen",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "name_padoka": "Wegge, Carmen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/83",
+    "date": "2026-06-11",
+    "page": 10170
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218216400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Leistung erbringen, Neutralität wahren – Aufgabenfremde Maßnahmen wie die Regenbogenbeflaggung bei der Deutschen Bahn AG unterlassen",
+  "date": "2026-06-10",
+  "persons": [
+    {
+      "slug": "henning-rehbaum",
+      "name": "Henning Rehbaum",
+      "name_padoka": "Rehbaum, Henning",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/82",
+    "date": "2026-06-10",
+    "page": 9920
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21082.pdf"
+  }
+}

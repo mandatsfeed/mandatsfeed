@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7347",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Strategien und Konzepte der Staatsregierung zum autonomen und hochautomatisierten Fahren im Freistaat Sachsen",
+  "date": "2026-06-16",
+  "drsNr": "8/7347",
+  "persons": [
+    {
+      "slug": "tobias-keller",
+      "name": "Tobias Keller",
+      "name_padoka": "Keller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51468",
+    "filename": "Drs_8_7347_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

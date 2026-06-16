@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7273",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zu Drs 8/ 6840: Vollzug der Richtlinie Familienwohnen 2025/26 und Wohnraumförderfonds",
+  "date": "2026-06-10",
+  "drsNr": "8/7273",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51340",
+    "filename": "Drs_8_7273_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

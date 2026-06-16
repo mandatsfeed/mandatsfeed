@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218304900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 10",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "michael-thews",
+      "name": "Michael Thews",
+      "name_padoka": "Thews, Michael",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/83",
+    "date": "2026-06-11",
+    "page": 10170
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf"
+  }
+}

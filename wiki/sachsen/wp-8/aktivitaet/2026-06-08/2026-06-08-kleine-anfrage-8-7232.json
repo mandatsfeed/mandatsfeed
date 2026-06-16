@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7232",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beauftragte im Geschäftsbereich des SMUL (vormals SMEKUL) und der nachgeordneten Organisationseinheiten",
+  "date": "2026-06-08",
+  "drsNr": "8/7232",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51238",
+    "filename": "Drs_8_7232_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

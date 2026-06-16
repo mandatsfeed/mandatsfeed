@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218302000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zukunftsinvestitionen statt Kürzungen – Familien stärken und Kinder fördern — Bildung darf nicht vom Einkommen abhängen – Gleiche Bildungschancen für alle Kinder und Jugendlichen",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "name_padoka": "Maack, Sebastian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/83",
+    "date": "2026-06-11",
+    "page": 10170
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "dip-rede-21-56",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Private Altersvorsorge modernisieren - ETF-Sparplan für die Rente ermöglichen",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "florian-dorn",
+      "name": "Florian Dorn",
+      "name_padoka": "Dorn, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "michael-thews",
+      "name": "Michael Thews",
+      "name_padoka": "Thews, Michael",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stefan-schmidt",
+      "name": "Stefan Schmidt",
+      "name_padoka": "Schmidt, Stefan",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "carsten-brodesser",
+      "name": "Carsten Brodesser",
+      "name_padoka": "Brodesser, Carsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ulrike-schielke-ziesing",
+      "name": "Ulrike Schielke-Ziesing",
+      "name_padoka": "Schielke-Ziesing, Ulrike",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "die-linke",
+    "spd",
+    "bundnis-90-die-gruenen",
+    "afd"
+  ],
+  "drsNr": "21/56",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21056.pdf#P.6819",
+    "filename": "21056.pdf#P.6819"
+  }
+}

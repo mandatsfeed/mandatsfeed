@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218314100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aus Anlass des Aufstandes vom 17. Juni 1953",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "michael-hose",
+      "name": "Michael Hose",
+      "name_padoka": "Hose, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/83",
+    "date": "2026-06-11",
+    "page": 10170
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf"
+  }
+}

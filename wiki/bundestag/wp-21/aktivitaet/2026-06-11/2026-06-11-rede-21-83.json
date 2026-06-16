@@ -1,0 +1,65 @@
+{
+  "id": "dip-rede-21-83",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zweites Gesetz zur Änderung des Düngegesetzes",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "name_padoka": "Latendorf, Ina",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "franziska-kersten",
+      "name": "Franziska Kersten",
+      "name_padoka": "Kersten, Franziska",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "artur-auernhammer",
+      "name": "Artur Auernhammer",
+      "name_padoka": "Auernhammer, Artur",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "karl-bar",
+      "name": "Karl Bär",
+      "name_padoka": "Bär, Karl",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "julian-schmidt",
+      "name": "Julian Schmidt",
+      "name_padoka": "Schmidt, Julian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "benedikt-budenbender",
+      "name": "Benedikt Büdenbender",
+      "name_padoka": "Büdenbender, Benedikt",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "die-linke",
+    "spd",
+    "cdu-csu",
+    "bundnis-90-die-gruenen",
+    "afd"
+  ],
+  "drsNr": "21/83",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10194",
+    "filename": "21083.pdf#P.10194"
+  }
+}

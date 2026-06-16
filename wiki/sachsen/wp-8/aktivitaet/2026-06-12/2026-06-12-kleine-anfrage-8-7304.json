@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7304",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung des Haushaltsbeschlusses 2025/2026 im Bereich Dialog- und Servicestelle Erneuerbare Energien",
+  "date": "2026-06-12",
+  "drsNr": "8/7304",
+  "persons": [
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51399",
+    "filename": "Drs_8_7304_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218311900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bestehende Verbrennerfahrzeuge wertschätzen – Günstige individuelle motorisierte Mobilität für alle Bürger erhalten — Das technische und kulturelle Erbe des wiedervereinigten Deutschlands schützen – Zulassung von Export-Simson-Kleinkrafträdern erleichtern",
+  "date": "2026-06-11",
+  "persons": [
+    {
+      "slug": "gunter-baumgartner",
+      "name": "Günter Baumgartner",
+      "name_padoka": "Baumgartner, Günter",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/83",
+    "date": "2026-06-11",
+    "page": 10170
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21083.pdf"
+  }
+}
