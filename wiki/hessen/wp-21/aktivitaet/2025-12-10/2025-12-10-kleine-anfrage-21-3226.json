@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-3226",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Leerstand von Wohnraum in Hessen am Beispiel der Wohnanlage Akaziengarten Darmstadt",
+  "date": "2025-12-10",
+  "drsNr": "21/3226",
+  "persons": [
+    {
+      "slug": "mirjam-glanz",
+      "name": "Mirjam Glanz",
+      "name_padoka": "Glanz, Mirjam",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "hildegard-forster-heldmann",
+      "name": "Hildegard Förster-Heldmann",
+      "name_padoka": "Förster-Heldmann, Hildegard",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katy-walther",
+      "name": "Katy Walther",
+      "name_padoka": "Walther, Katy",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/03226.pdf",
+    "filename": "03226.pdf"
+  }
+}

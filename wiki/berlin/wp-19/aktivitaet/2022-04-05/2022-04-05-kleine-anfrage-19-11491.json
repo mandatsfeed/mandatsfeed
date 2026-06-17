@@ -1,0 +1,34 @@
+{
+  "id": "starweb-be-ka-19-11491",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Parken mit Ausnahmegenehmigung für Bezirksamtsmitarbeiter",
+  "date": "2022-04-05",
+  "drsNr": "19/11491",
+  "persons": [
+    {
+      "slug": "marc-vallendar",
+      "name": "Marc Vallendar",
+      "name_padoka": "Vallendar, Marc",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "harald-laatsch",
+      "name": "Harald Laatsch",
+      "name_padoka": "Laatsch, Harald",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11491.pdf",
+    "filename": "S19-11491.pdf"
+  }
+}

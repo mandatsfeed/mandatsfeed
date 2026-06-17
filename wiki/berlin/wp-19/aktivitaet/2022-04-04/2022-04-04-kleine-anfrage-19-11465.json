@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11465",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Von 0,7 auf 25 in wie vielen Jahren? - Wie will der Senat das selbst gesteckte Ziel von 25 Prozent Solarstromerzeugung in Berlin erreichen?",
+  "date": "2022-04-04",
+  "drsNr": "19/11465",
+  "persons": [
+    {
+      "slug": "tommy-tabor",
+      "name": "Tommy Tabor",
+      "name_padoka": "Tabor, Tommy",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11465.pdf",
+    "filename": "S19-11465.pdf"
+  }
+}

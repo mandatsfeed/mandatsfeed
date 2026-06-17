@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4381",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ausbildungsduldung und Aufenthaltserlaubnis zum Zwecke der Ausbildung in Hessen",
+  "date": "2026-05-07",
+  "drsNr": "21/4381",
+  "persons": [
+    {
+      "slug": "felix-martin",
+      "name": "Felix Martin",
+      "name_padoka": "Martin, Felix",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marcus-bocklet",
+      "name": "Marcus Bocklet",
+      "name_padoka": "Bocklet, Marcus",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/04381.pdf",
+    "filename": "04381.pdf"
+  }
+}

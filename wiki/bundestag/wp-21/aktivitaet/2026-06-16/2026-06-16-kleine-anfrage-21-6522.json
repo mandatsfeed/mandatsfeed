@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-6522",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Deutsch-französische Zusammenarbeit im Bereich der nuklearen Abschreckung und die geplante Nukleare Steuerungsgruppe",
+  "date": "2026-06-16",
+  "persons": [
+    {
+      "slug": "jan-ralf-nolte",
+      "name": "Jan Ralf Nolte",
+      "name_padoka": "Nolte, Jan Ralf",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6522",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/065/2106522.pdf",
+    "filename": "2106522.pdf"
+  }
+}

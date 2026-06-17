@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11501",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Köpenicker Ortslage Wendenschloss mit der Tram an die S-Bahnhöfe Spindlersfeld und Adlershof verbinden",
+  "date": "2022-03-31",
+  "drsNr": "19/11501",
+  "persons": [
+    {
+      "slug": "felix-reifschneider",
+      "name": "Felix Reifschneider",
+      "name_padoka": "Reifschneider, Felix",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11501.pdf",
+    "filename": "S19-11501.pdf"
+  }
+}

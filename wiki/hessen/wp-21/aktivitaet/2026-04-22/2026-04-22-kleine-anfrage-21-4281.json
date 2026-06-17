@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4281",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Gesundheitsversorgung im Landkreis Schwalm-Eder",
+  "date": "2026-04-22",
+  "drsNr": "21/4281",
+  "persons": [
+    {
+      "slug": "christoph-sippel",
+      "name": "Christoph Sippel",
+      "name_padoka": "Sippel, Christoph",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/04281.pdf",
+    "filename": "04281.pdf"
+  }
+}

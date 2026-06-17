@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11476",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Straßenbahnvorhaben Haltestelle S-Bahnhof Friedrichshagen",
+  "date": "2022-04-05",
+  "drsNr": "19/11476",
+  "persons": [
+    {
+      "slug": "maik-penn",
+      "name": "Maik Penn",
+      "name_padoka": "Penn, Maik",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11476.pdf",
+    "filename": "S19-11476.pdf"
+  }
+}

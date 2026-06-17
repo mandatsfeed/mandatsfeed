@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11402",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Umsetzungsstand der digitalen Teilhabe für Menschen mit Behinderung",
+  "date": "2022-03-29",
+  "drsNr": "19/11402",
+  "persons": [
+    {
+      "slug": "tobias-bauschke",
+      "name": "Tobias Bauschke",
+      "name_padoka": "Bauschke, Tobias",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11402.pdf",
+    "filename": "S19-11402.pdf"
+  }
+}
