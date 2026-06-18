@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4397",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Jagdausübung im hessischen Staatswald: Transparenz bei Pacht und Vergabepraxis",
+  "date": "2026-05-08",
+  "drsNr": "21/4397",
+  "persons": [
+    {
+      "slug": "pascal-schleich",
+      "name": "Pascal Schleich",
+      "name_padoka": "Schleich, Pascal",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "johannes-marxen",
+      "name": "Johannes Marxen",
+      "name_padoka": "Marxen, Johannes",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerhard-schenk-bebra",
+      "name": "Gerhard Schenk(Bebra)",
+      "name_padoka": "Schenk(Bebra), Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/7/04397.pdf",
+    "filename": "04397.pdf"
+  }
+}

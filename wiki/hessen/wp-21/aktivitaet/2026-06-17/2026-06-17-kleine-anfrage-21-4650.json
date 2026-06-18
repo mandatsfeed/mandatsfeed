@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-4650",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Evaluation APAV 2.0",
+  "date": "2026-06-17",
+  "drsNr": "21/4650",
+  "persons": [
+    {
+      "slug": "andreas-ewald",
+      "name": "Andreas Ewald",
+      "name_padoka": "Ewald, Andreas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/0/04650.pdf",
+    "filename": "04650.pdf"
+  }
+}
