@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7409",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur Kleinen Anfrage mit der Drs.-Nr. 8/6780 \"Impfungen in Sachsen 2025\"",
+  "date": "2026-06-18",
+  "drsNr": "8/7409",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51585",
+    "filename": "Drs_8_7409_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

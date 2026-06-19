@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7402",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aufgeschobene Kreditaufnahmen - Nebenbuchführung - Sachbuch Kap. 89 01",
+  "date": "2026-06-18",
+  "drsNr": "8/7402",
+  "persons": [
+    {
+      "slug": "norbert-otto-mayer",
+      "name": "Norbert Otto Mayer",
+      "name_padoka": "Mayer, Norbert Otto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51562",
+    "filename": "Drs_8_7402_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

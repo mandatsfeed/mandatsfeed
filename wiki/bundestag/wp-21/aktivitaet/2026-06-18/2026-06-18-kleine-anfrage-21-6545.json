@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-6545",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bilanz des ersten Jahres der Tätigkeit des Beauftragten der Bundesregierung gegen Antiziganismus und für das Leben der Sinti und Roma in Deutschland",
+  "date": "2026-06-18",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6545",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/065/2106545.pdf",
+    "filename": "2106545.pdf"
+  }
+}

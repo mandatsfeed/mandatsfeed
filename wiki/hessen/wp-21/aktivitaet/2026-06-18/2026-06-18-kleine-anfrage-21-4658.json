@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4658",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Verzögerungen bei der Endabrechnung und daraus resultierende Zahlungsrückstände bei der Ausbildungsfinanzierung in der Pflege in Hessen",
+  "date": "2026-06-18",
+  "drsNr": "21/4658",
+  "persons": [
+    {
+      "slug": "kathrin-anders",
+      "name": "Kathrin Anders",
+      "name_padoka": "Anders, Kathrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04658.pdf",
+    "filename": "04658.pdf"
+  }
+}

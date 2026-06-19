@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6449",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Jahrelanger Stillstand bei der Ortsumgehung Bergen auf Rügen (B 96/B 196) – Sachstand der Planungen und Realisierungsperspektiven",
+  "date": "2026-06-17",
+  "drsNr": "8/6449",
+  "persons": [
+    {
+      "slug": "wolfgang-waldmuller",
+      "name": "Wolfgang Waldmüller",
+      "name_padoka": "Waldmüller, Wolfgang",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70959"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6461",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Geothermie in Mecklenburg-Vorpommern",
+  "date": "2026-04-20",
+  "drsNr": "8/6461",
+  "persons": [
+    {
+      "slug": "thore-stein",
+      "name": "Thore Stein",
+      "name_padoka": "Stein, Thore",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71001"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
