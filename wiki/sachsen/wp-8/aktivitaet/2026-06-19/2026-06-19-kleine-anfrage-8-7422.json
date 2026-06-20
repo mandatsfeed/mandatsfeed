@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7422",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Übergang des St. Johannes Krankenhauses Kamenz auf die DERMANOVIS Holding GmbH",
+  "date": "2026-06-19",
+  "drsNr": "8/7422",
+  "persons": [
+    {
+      "slug": "ronny-kupke",
+      "name": "Ronny Kupke",
+      "name_padoka": "Kupke, Ronny",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51629",
+    "filename": "Drs_8_7422_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

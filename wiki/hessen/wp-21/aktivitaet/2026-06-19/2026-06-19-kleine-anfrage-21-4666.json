@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4666",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Rücknahme der Kürzungen an Integrierten Gesamtschulen und beim Sozialindex",
+  "date": "2026-06-19",
+  "drsNr": "21/4666",
+  "persons": [
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/04666.pdf",
+    "filename": "04666.pdf"
+  }
+}

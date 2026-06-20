@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4665",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Lagebild der Begabtenförderung in Hessen",
+  "date": "2026-06-19",
+  "drsNr": "21/4665",
+  "persons": [
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/04665.pdf",
+    "filename": "04665.pdf"
+  }
+}

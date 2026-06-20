@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6694",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Containerhafen Swinemünde – Benachrichtigung und Beteiligung Mecklenburg-Vorpommerns zu den geänderten Planungen",
+  "date": "2026-06-19",
+  "drsNr": "8/6694",
+  "persons": [
+    {
+      "slug": "jutta-wegner",
+      "name": "Jutta Wegner",
+      "name_padoka": "Wegner, Jutta",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71877"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
