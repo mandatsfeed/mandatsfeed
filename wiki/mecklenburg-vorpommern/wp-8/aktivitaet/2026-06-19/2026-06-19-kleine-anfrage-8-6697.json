@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6697",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Modernisierung bzw. Relaunch des Regierungsportals Mecklenburg-Vorpommern",
+  "date": "2026-06-19",
+  "drsNr": "8/6697",
+  "persons": [
+    {
+      "slug": "sabine-enseleit",
+      "name": "Sabine Enseleit",
+      "name_padoka": "Enseleit, Sabine",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71888"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

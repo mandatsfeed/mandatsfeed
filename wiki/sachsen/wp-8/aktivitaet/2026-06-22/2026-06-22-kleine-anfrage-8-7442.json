@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7442",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Erfüllungsaufwand und tatsächliche Umsetzung des Sächsischen Gleichstellungsgesetzes im Geschäftsbereich des SMJus",
+  "date": "2026-06-22",
+  "drsNr": "8/7442",
+  "persons": [
+    {
+      "slug": "martin-braukmann",
+      "name": "Martin Braukmann",
+      "name_padoka": "Braukmann, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51655",
+    "filename": "Drs_8_7442_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

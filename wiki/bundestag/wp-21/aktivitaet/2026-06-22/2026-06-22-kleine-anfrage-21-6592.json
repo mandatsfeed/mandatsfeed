@@ -1,0 +1,49 @@
+{
+  "id": "dip-ka-21-6592",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung von Gruppenvergewaltigungen bis zum 31. Dezember 2025 (Nachfrage auf die Antwort der Bundesregierung auf Bundestagsdrucksache 21/4602)",
+  "date": "2026-06-22",
+  "persons": [
+    {
+      "slug": "sascha-lensing",
+      "name": "Sascha Lensing",
+      "name_padoka": "Lensing, Sascha",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "name_padoka": "Hess, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6592",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/065/2106592.pdf",
+    "filename": "2106592.pdf"
+  }
+}
