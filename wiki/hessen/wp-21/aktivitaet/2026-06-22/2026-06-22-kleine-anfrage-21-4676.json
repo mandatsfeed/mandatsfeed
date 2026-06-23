@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-4676",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ausbau von Azubi-Wohnheimen in Hessen",
+  "date": "2026-06-22",
+  "drsNr": "21/4676",
+  "persons": [
+    {
+      "slug": "mirjam-glanz",
+      "name": "Mirjam Glanz",
+      "name_padoka": "Glanz, Mirjam",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jurgen-frommrich",
+      "name": "Jürgen Frömmrich",
+      "name_padoka": "Frömmrich, Jürgen",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "felix-martin",
+      "name": "Felix Martin",
+      "name_padoka": "Martin, Felix",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/04676.pdf",
+    "filename": "04676.pdf"
+  }
+}

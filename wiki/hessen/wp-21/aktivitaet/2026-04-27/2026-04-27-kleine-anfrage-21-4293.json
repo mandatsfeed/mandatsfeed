@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4293",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Zentrum für Safe Sport (ZfSS) in Kassel",
+  "date": "2026-04-27",
+  "drsNr": "21/4293",
+  "persons": [
+    {
+      "slug": "julia-herz",
+      "name": "Julia Herz",
+      "name_padoka": "Herz, Julia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "christoph-sippel",
+      "name": "Christoph Sippel",
+      "name_padoka": "Sippel, Christoph",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/3/04293.pdf",
+    "filename": "04293.pdf"
+  }
+}
