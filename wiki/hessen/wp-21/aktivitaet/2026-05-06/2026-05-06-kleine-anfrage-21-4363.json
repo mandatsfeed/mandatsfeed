@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4363",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Folgeanfrage zu Drucksache 21/3630 - Entwicklung der generalistischen Pflegeausbildung und Auswirkungen auf die Altenpflege in Hessen",
+  "date": "2026-05-06",
+  "drsNr": "21/4363",
+  "persons": [
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerhard-barsch",
+      "name": "Gerhard Bärsch",
+      "name_padoka": "Bärsch, Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/3/04363.pdf",
+    "filename": "04363.pdf"
+  }
+}

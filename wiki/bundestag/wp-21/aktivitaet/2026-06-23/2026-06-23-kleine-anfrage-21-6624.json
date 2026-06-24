@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-6624",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bilanz des ersten Jahres der Tätigkeit des Bevollmächtigten der Bundesregierung für Pflege",
+  "date": "2026-06-23",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6624",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/066/2106624.pdf",
+    "filename": "2106624.pdf"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "dip-ges-21-6637",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "gesetzentwurf",
+  "title": "Gesetz zum Schließen einer Gerechtigkeitslücke bei der Besteuerung von Immobilienveräußerungen",
+  "date": "2026-06-23",
+  "persons": [
+    {
+      "slug": "andreas-audretsch",
+      "name": "Andreas Audretsch",
+      "name_padoka": "Audretsch, Andreas",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "stefan-schmidt",
+      "name": "Stefan Schmidt",
+      "name_padoka": "Schmidt, Stefan",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sebastian-schafer",
+      "name": "Sebastian Schäfer",
+      "name_padoka": "Schäfer, Sebastian",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-muller",
+      "name": "Sascha Müller",
+      "name_padoka": "Müller, Sascha",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "karoline-otte",
+      "name": "Karoline Otte",
+      "name_padoka": "Otte, Karoline",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "max-lucks",
+      "name": "Max Lucks",
+      "name_padoka": "Lucks, Max",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "moritz-heuberger",
+      "name": "Moritz Heuberger",
+      "name_padoka": "Heuberger, Moritz",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katharina-beck",
+      "name": "Katharina Beck",
+      "name_padoka": "Beck, Katharina",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/6637",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/066/2106637.pdf",
+    "filename": "2106637.pdf"
+  }
+}

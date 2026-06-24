@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7453",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung von Sprach- und Entwicklungsauffälligkeiten bei Kindern vor Schuleintritt in Sachsen",
+  "date": "2026-06-23",
+  "drsNr": "8/7453",
+  "persons": [
+    {
+      "slug": "katja-dietz",
+      "name": "Katja Dietz",
+      "name_padoka": "Dietz, Katja",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51678",
+    "filename": "Drs_8_7453_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

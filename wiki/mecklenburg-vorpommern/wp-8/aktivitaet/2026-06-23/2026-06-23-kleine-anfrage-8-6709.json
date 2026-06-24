@@ -1,0 +1,34 @@
+{
+  "id": "parldok-ka-8-6709",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Investitionen des Landes Mecklenburg-Vorpommern in die Hochschulen",
+  "date": "2026-06-23",
+  "drsNr": "8/6709",
+  "persons": [
+    {
+      "slug": "martin-schmidt",
+      "name": "Martin Schmidt",
+      "name_padoka": "Schmidt, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "paul-joachim-timm",
+      "name": "Paul-Joachim Timm",
+      "name_padoka": "Timm, Paul-Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71904"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

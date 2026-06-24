@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-4681",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Verwendung des Szenarios RCP8.5/SSP5-8.5 in Klimaprojektionen und politischen Entscheidungsgrundlagen des Landes Hessen",
+  "date": "2026-06-23",
+  "drsNr": "21/4681",
+  "persons": [
+    {
+      "slug": "klaus-gagel",
+      "name": "Klaus Gagel",
+      "name_padoka": "Gagel, Klaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "olaf-schwaier",
+      "name": "Olaf Schwaier",
+      "name_padoka": "Schwaier, Olaf",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-lichert",
+      "name": "Andreas Lichert",
+      "name_padoka": "Lichert, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "dimitri-schulz",
+      "name": "Dimitri Schulz",
+      "name_padoka": "Schulz, Dimitri",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/04681.pdf",
+    "filename": "04681.pdf"
+  }
+}

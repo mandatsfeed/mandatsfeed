@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7456",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kater erklärt Strukturwandel: Comic macht Zukunftsthema kindgerecht",
+  "date": "2026-06-23",
+  "drsNr": "8/7456",
+  "persons": [
+    {
+      "slug": "romy-penz",
+      "name": "Romy Penz",
+      "name_padoka": "Penz, Romy",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51709",
+    "filename": "Drs_8_7456_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

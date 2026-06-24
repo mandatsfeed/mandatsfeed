@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4682",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "GPS-GNSS-Störungen durch russische Satelliteninterferenzen und Resilienz kritischer Systeme in Hessen",
+  "date": "2026-06-23",
+  "drsNr": "21/4682",
+  "persons": [
+    {
+      "slug": "markus-fuchs",
+      "name": "Markus Fuchs",
+      "name_padoka": "Fuchs, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "karsten-bletzer",
+      "name": "Karsten Bletzer",
+      "name_padoka": "Bletzer, Karsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/2/04682.pdf",
+    "filename": "04682.pdf"
+  }
+}
