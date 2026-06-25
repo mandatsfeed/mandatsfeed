@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7469",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Freistellung von Professoren an den sächsischen Hochschulen",
+  "date": "2026-06-24",
+  "drsNr": "8/7469",
+  "persons": [
+    {
+      "slug": "martina-jost",
+      "name": "Martina Jost",
+      "name_padoka": "Jost, Martina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51734",
+    "filename": "Drs_8_7469_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "parldok-ka-8-6494",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Gutachten zur Festlegung von Vorranggebieten für die Windenergienutzung in der Regionalplanung",
+  "date": "2026-04-24",
+  "drsNr": "8/6494",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "petra-federau",
+      "name": "Petra Federau",
+      "name_padoka": "Federau, Petra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71115"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

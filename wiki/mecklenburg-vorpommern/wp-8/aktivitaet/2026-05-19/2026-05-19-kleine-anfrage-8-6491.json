@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6491",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Interministerielle Arbeitsgruppe „Schulbauvorhaben“",
+  "date": "2026-05-19",
+  "drsNr": "8/6491",
+  "persons": [
+    {
+      "slug": "christiane-berg",
+      "name": "Christiane Berg",
+      "name_padoka": "Berg, Christiane",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71043"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}
