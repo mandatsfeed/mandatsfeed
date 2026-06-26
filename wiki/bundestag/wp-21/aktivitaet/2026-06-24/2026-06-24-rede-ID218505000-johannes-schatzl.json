@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218505000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-06-24",
+  "persons": [
+    {
+      "slug": "johannes-schatzl",
+      "name": "Johannes Schätzl",
+      "name_padoka": "Schätzl, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/85",
+    "date": "2026-06-24",
+    "page": 10415
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21085.pdf"
+  }
+}

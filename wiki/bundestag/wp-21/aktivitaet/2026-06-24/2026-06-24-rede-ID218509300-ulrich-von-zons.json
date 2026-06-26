@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218509300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 2",
+  "date": "2026-06-24",
+  "persons": [
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "name_padoka": "von Zons, Ulrich",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/85",
+    "date": "2026-06-24",
+    "page": 10415
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21085.pdf"
+  }
+}

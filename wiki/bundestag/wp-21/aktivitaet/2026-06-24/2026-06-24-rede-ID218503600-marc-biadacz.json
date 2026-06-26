@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218503600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-06-24",
+  "persons": [
+    {
+      "slug": "marc-biadacz",
+      "name": "Marc Biadacz",
+      "name_padoka": "Biadacz, Marc",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/85",
+    "date": "2026-06-24",
+    "page": 10415
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21085.pdf"
+  }
+}

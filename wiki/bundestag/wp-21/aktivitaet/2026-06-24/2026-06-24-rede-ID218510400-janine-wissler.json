@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218510400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Neue Wirtschaftskraft entfesseln – Bürger und Unternehmen entlasten",
+  "date": "2026-06-24",
+  "persons": [
+    {
+      "slug": "janine-wissler",
+      "name": "Janine Wissler",
+      "name_padoka": "Wissler, Janine",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/85",
+    "date": "2026-06-24",
+    "page": 10415
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21085.pdf"
+  }
+}

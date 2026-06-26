@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218507600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Inakzeptable Äußerungen des Co-Vorsitzenden Pantisano und antisemitische Tendenzen auf dem Bundesparteitag der Partei Die Linke",
+  "date": "2026-06-24",
+  "persons": [
+    {
+      "slug": "sebastian-fiedler",
+      "name": "Sebastian Fiedler",
+      "name_padoka": "Fiedler, Sebastian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/85",
+    "date": "2026-06-24",
+    "page": 10415
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21085.pdf"
+  }
+}

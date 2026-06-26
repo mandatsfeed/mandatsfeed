@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218512600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Demokratie stärken – Chancengerechtigkeit durch Geschlechterparität",
+  "date": "2026-06-24",
+  "persons": [
+    {
+      "slug": "christina-stumpp",
+      "name": "Christina Stumpp",
+      "name_padoka": "Stumpp, Christina",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/85",
+    "date": "2026-06-24",
+    "page": 10415
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21085.pdf"
+  }
+}

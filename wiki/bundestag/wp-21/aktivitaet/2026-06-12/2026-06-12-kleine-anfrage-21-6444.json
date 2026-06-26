@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-6444",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bilanz des ersten Jahres der Tätigkeit des Beauftragten der Bundesregierung für die Belange von Menschen mit Behinderungen",
+  "date": "2026-06-12",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6444",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/064/2106444.pdf",
+    "filename": "2106444.pdf"
+  }
+}
