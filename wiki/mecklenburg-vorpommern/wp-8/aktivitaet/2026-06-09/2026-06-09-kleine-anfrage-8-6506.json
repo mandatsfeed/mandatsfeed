@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6506",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verkehrssicherheit und Anwendung der Straßenverkehrs-Ordnung-Novelle 2024 in Mecklenburg-Vorpommern",
+  "date": "2026-06-09",
+  "drsNr": "8/6506",
+  "persons": [
+    {
+      "slug": "jutta-wegner",
+      "name": "Jutta Wegner",
+      "name_padoka": "Wegner, Jutta",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71173"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

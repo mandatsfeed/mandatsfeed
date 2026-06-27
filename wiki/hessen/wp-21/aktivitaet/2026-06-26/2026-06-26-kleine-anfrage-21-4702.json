@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4702",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Änderung der Hessischen Hochschulzulassungsverordnung in Bezug auf Härtefäll",
+  "date": "2026-06-26",
+  "drsNr": "21/4702",
+  "persons": [
+    {
+      "slug": "nina-eisenhardt",
+      "name": "Nina Eisenhardt",
+      "name_padoka": "Eisenhardt, Nina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/2/04702.pdf",
+    "filename": "04702.pdf"
+  }
+}

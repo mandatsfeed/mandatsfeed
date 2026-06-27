@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218602300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einwanderung in das Sozialsystem und Sozialleistungsmissbrauch stoppen",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "ferat-kocak",
+      "name": "Ferat Koçak",
+      "name_padoka": "Koçak, Ferat",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

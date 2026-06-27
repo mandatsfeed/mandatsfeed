@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218613700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gedenken an Flucht und Vertreibung vor 80 Jahren – Aussöhnung und europäische Verständigung voranbringen",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "cornell-anette-babendererde",
+      "name": "Cornell-Anette Babendererde",
+      "name_padoka": "Babendererde, Cornell-Anette",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

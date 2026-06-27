@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218615000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 17",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "michael-kaufmann",
+      "name": "Michael Kaufmann",
+      "name_padoka": "Kaufmann, Michael",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

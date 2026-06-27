@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218601000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gegen die Einführung von Hackbacks und offensiver Cyberabwehr",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "sebastian-schmidt",
+      "name": "Sebastian Schmidt",
+      "name_padoka": "Schmidt, Sebastian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

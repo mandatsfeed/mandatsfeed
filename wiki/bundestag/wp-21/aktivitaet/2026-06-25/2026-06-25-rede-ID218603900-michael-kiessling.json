@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218603900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Stadt gemeinsam gestalten und demokratische Beteiligung stärken – Kooperative Stadtentwicklung in das Baugesetzbuch aufnehmen",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "michael-kiessling",
+      "name": "Michael Kießling",
+      "name_padoka": "Kießling, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

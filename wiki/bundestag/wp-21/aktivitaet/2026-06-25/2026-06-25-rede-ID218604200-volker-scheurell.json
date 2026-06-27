@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218604200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Stadt gemeinsam gestalten und demokratische Beteiligung stärken – Kooperative Stadtentwicklung in das Baugesetzbuch aufnehmen",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "volker-scheurell",
+      "name": "Volker Scheurell",
+      "name_padoka": "Scheurell, Volker",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218609600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Organspende",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "hans-theiss",
+      "name": "Hans Theiss",
+      "name_padoka": "Theiss, Hans",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

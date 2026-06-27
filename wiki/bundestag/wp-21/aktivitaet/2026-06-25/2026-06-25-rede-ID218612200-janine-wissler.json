@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218612200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die Gewinnmargen der Mineralölindustrie deckeln — Übergewinne steuerlich erfassen, Preise dämpfen und Krisenlasten gerecht verteilen",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "janine-wissler",
+      "name": "Janine Wissler",
+      "name_padoka": "Wissler, Janine",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

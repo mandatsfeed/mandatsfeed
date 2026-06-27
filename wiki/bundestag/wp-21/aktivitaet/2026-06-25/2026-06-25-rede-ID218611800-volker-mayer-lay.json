@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218611800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der „United Nations Interim Force in Lebanon“ (UNIFIL)",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "volker-mayer-lay",
+      "name": "Volker Mayer-Lay",
+      "name_padoka": "Mayer-Lay, Volker",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

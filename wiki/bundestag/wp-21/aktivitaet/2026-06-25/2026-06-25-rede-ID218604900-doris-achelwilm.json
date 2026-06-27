@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218604900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kleine und mittlere Einkommen entlasten – Vorschlag für eine umsetzbare und gegenfinanzierte Reform, die zudem Unternehmen entlastet — Drucksache 21/6644",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "doris-achelwilm",
+      "name": "Doris Achelwilm",
+      "name_padoka": "Achelwilm, Doris",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218601200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gegen die Einführung von Hackbacks und offensiver Cyberabwehr",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "henri-schmidt",
+      "name": "Henri Schmidt",
+      "name_padoka": "Schmidt, Henri",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

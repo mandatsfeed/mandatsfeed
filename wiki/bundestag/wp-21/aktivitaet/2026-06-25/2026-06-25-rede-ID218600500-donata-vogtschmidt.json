@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218600500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gegen die Einführung von Hackbacks und offensiver Cyberabwehr",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "donata-vogtschmidt",
+      "name": "Donata Vogtschmidt",
+      "name_padoka": "Vogtschmidt, Donata",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "dip-drs-21-6665",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Ein Demokratieschild gegen Desinformation und für eine wehrhafte digitale Öffentlichkeit als Eckpfeiler deutscher und europäischer Sicherheit",
+  "date": "2026-06-23",
+  "persons": [
+    {
+      "slug": "irene-mihalic",
+      "name": "Irene Mihalic",
+      "name_padoka": "Mihalic, Irene",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marcel-emmerich",
+      "name": "Marcel Emmerich",
+      "name_padoka": "Emmerich, Marcel",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "julian-joswig",
+      "name": "Julian Joswig",
+      "name_padoka": "Joswig, Julian",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "claudia-roth",
+      "name": "Claudia Roth",
+      "name_padoka": "Roth, Claudia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sven-lehmann",
+      "name": "Sven Lehmann",
+      "name_padoka": "Lehmann, Sven",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "linda-heitmann",
+      "name": "Linda Heitmann",
+      "name_padoka": "Heitmann, Linda",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jeanne-dillschneider",
+      "name": "Jeanne Dillschneider",
+      "name_padoka": "Dillschneider, Jeanne",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "konstantin-von-notz",
+      "name": "Konstantin von Notz",
+      "name_padoka": "von Notz, Konstantin",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sara-nanni",
+      "name": "Sara Nanni",
+      "name_padoka": "Nanni, Sara",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "rebecca-lenhard",
+      "name": "Rebecca Lenhard",
+      "name_padoka": "Lenhard, Rebecca",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "ayse-asar",
+      "name": "Ayse Asar",
+      "name_padoka": "Asar, Ayse",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marlene-schonberger",
+      "name": "Marlene Schönberger",
+      "name_padoka": "Schönberger, Marlene",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "agnieszka-brugger",
+      "name": "Agnieszka Brugger",
+      "name_padoka": "Brugger, Agnieszka",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "denise-loop",
+      "name": "Denise Loop",
+      "name_padoka": "Loop, Denise",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "anna-luhrmann",
+      "name": "Anna Lührmann",
+      "name_padoka": "Lührmann, Anna",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lukas-benner",
+      "name": "Lukas Benner",
+      "name_padoka": "Benner, Lukas",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "schahina-gambir",
+      "name": "Schahina Gambir",
+      "name_padoka": "Gambir, Schahina",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "moritz-heuberger",
+      "name": "Moritz Heuberger",
+      "name_padoka": "Heuberger, Moritz",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/6665",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/066/2106665.pdf",
+    "filename": "2106665.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218612800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Die Gewinnmargen der Mineralölindustrie deckeln — Übergewinne steuerlich erfassen, Preise dämpfen und Krisenlasten gerecht verteilen",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "rainer-gross",
+      "name": "Rainer Groß",
+      "name_padoka": "Groß, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

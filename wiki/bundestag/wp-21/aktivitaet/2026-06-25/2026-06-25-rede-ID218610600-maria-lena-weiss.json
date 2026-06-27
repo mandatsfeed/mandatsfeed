@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218610600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Organspende",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "maria-lena-weiss",
+      "name": "Maria-Lena Weiss",
+      "name_padoka": "Weiss, Maria-Lena",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218607800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Organspende",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "christina-baum",
+      "name": "Christina Baum",
+      "name_padoka": "Baum, Christina",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218614300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Organisierten Wissenschaftsbetrug unterbinden – Qualität und Transparenz in der Forschung sichern",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "sonja-lemke",
+      "name": "Sonja Lemke",
+      "name_padoka": "Lemke, Sonja",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

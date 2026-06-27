@@ -1,0 +1,128 @@
+{
+  "id": "dip-rede-21-86",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschland ist nicht Kriegspartei im eskalierenden Ukrainekrieg - Nationale Interessen in den Fokus nehmen",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "thomas-silberhorn",
+      "name": "Thomas Silberhorn",
+      "name_padoka": "Silberhorn, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "markus-frohnmaier",
+      "name": "Markus Frohnmaier",
+      "name_padoka": "Frohnmaier, Markus",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "knut-abraham",
+      "name": "Knut Abraham",
+      "name_padoka": "Abraham, Knut",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "robin-wagener",
+      "name": "Robin Wagener",
+      "name_padoka": "Wagener, Robin",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "derya-turk-nachbaur",
+      "name": "Derya Türk-Nachbaur",
+      "name_padoka": "Türk-Nachbaur, Derya",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "jurgen-cosse",
+      "name": "Jürgen Coße",
+      "name_padoka": "Coße, Jürgen",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "tilman-kuban",
+      "name": "Tilman Kuban",
+      "name_padoka": "Kuban, Tilman",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jurgen-hardt",
+      "name": "Jürgen Hardt",
+      "name_padoka": "Hardt, Jürgen",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ulrich-thoden",
+      "name": "Ulrich Thoden",
+      "name_padoka": "Thoden, Ulrich",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "johannes-schraps",
+      "name": "Johannes Schraps",
+      "name_padoka": "Schraps, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "anton-hofreiter",
+      "name": "Anton Hofreiter",
+      "name_padoka": "Hofreiter, Anton",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "alexis-l-giersch",
+      "name": "Alexis L. Giersch",
+      "name_padoka": "Giersch, Alexis L.",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "norbert-rottgen",
+      "name": "Norbert Röttgen",
+      "name_padoka": "Röttgen, Norbert",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "alexander-gauland",
+      "name": "Alexander Gauland",
+      "name_padoka": "Gauland, Alexander",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "afd",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "die-linke"
+  ],
+  "drsNr": "21/86",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf#P.10508",
+    "filename": "21086.pdf#P.10508"
+  }
+}

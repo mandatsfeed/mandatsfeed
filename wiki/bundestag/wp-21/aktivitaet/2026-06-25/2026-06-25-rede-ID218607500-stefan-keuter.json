@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218607500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Deutschland ist nicht Kriegspartei im eskalierenden Ukrainekrieg – Nationale Interessen in den Fokus nehmen",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}

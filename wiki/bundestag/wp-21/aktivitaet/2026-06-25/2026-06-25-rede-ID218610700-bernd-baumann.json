@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218610700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gruppenbasierte sexuelle Ausbeutung Minderjähriger durch sogenannte Grooming Gangs systematisch erfassen, erforschen und bekämpfen",
+  "date": "2026-06-25",
+  "persons": [
+    {
+      "slug": "bernd-baumann",
+      "name": "Bernd Baumann",
+      "name_padoka": "Baumann, Bernd",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/86",
+    "date": "2026-06-25",
+    "page": 10577
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21086.pdf"
+  }
+}
