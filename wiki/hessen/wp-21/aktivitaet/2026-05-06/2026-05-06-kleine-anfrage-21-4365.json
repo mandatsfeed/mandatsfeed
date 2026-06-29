@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4365",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Denkmalgeschützte Spinnerei Venusberg I in Sachsen",
+  "date": "2026-05-06",
+  "drsNr": "21/4365",
+  "persons": [
+    {
+      "slug": "hildegard-forster-heldmann",
+      "name": "Hildegard Förster-Heldmann",
+      "name_padoka": "Förster-Heldmann, Hildegard",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/04365.pdf",
+    "filename": "04365.pdf"
+  }
+}

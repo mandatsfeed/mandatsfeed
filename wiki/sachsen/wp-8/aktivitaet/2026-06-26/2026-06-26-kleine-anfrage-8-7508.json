@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7508",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktueller Stand des Zivil- und Katastrophenschutzes hinsichtlich des \"Operationsplan Deutschland\" in Sachsen",
+  "date": "2026-06-26",
+  "drsNr": "8/7508",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51809",
+    "filename": "Drs_8_7508_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

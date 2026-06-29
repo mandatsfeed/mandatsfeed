@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7509",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Netzkapazitäten, Netzausbaubedarf und regionale Belastungsschwerpunkte beim weiteren Ausbau erneuerbarer Energie in Sachsen",
+  "date": "2026-06-27",
+  "drsNr": "8/7509",
+  "persons": [
+    {
+      "slug": "eric-recke",
+      "name": "Eric Recke",
+      "name_padoka": "Recke, Eric",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51810",
+    "filename": "Drs_8_7509_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
