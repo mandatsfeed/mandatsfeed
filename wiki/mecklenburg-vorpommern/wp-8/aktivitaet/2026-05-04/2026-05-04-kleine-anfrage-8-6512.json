@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6512",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Personen im Gleis",
+  "date": "2026-05-04",
+  "drsNr": "8/6512",
+  "persons": [
+    {
+      "slug": "sabine-enseleit",
+      "name": "Sabine Enseleit",
+      "name_padoka": "Enseleit, Sabine",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71193"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

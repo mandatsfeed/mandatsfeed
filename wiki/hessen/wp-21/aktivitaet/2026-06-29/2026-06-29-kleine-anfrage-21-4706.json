@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4706",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung des Frauenanteils an Hessischen Hochschulen 2025",
+  "date": "2026-06-29",
+  "drsNr": "21/4706",
+  "persons": [
+    {
+      "slug": "nina-eisenhardt",
+      "name": "Nina Eisenhardt",
+      "name_padoka": "Eisenhardt, Nina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/04706.pdf",
+    "filename": "04706.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6513",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Konnexitätsprinzip – Verfassungswirklichkeit bei der Gesetzgebungs- und Verordnungspraxis der Landesregierung",
+  "date": "2026-05-04",
+  "drsNr": "8/6513",
+  "persons": [
+    {
+      "slug": "marc-reinhardt",
+      "name": "Marc Reinhardt",
+      "name_padoka": "Reinhardt, Marc",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71194"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-124-thomas-wurdisch",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/124",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "thomas-wurdisch",
+      "name": "Thomas Würdisch",
+      "name_padoka": "Würdisch, Thomas",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/124",
+    "date": "2026-01-28"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70232"
+  }
+}

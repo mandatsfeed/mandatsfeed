@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218702400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Demokratie stärken – Meinungsfreiheit schützen — Demokratie stärken – Wahlalter ab 16 Jahren einführen",
+  "date": "2026-06-26",
+  "persons": [
+    {
+      "slug": "cornell-anette-babendererde",
+      "name": "Cornell-Anette Babendererde",
+      "name_padoka": "Babendererde, Cornell-Anette",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/87",
+    "date": "2026-06-26",
+    "page": 10736
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21087.pdf"
+  }
+}

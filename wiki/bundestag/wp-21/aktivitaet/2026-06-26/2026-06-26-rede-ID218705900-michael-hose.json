@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218705900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Beliebigkeit in der Lehrerbildung beenden – Verbindliches Staatsexamen wieder einführen",
+  "date": "2026-06-26",
+  "persons": [
+    {
+      "slug": "michael-hose",
+      "name": "Michael Hose",
+      "name_padoka": "Hose, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/87",
+    "date": "2026-06-26",
+    "page": 10736
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21087.pdf"
+  }
+}

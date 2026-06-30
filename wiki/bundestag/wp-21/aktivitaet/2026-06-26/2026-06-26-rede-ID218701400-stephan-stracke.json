@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218701400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Infrastrukturvorhaben im Schienennetz effektiv beschleunigen",
+  "date": "2026-06-26",
+  "persons": [
+    {
+      "slug": "stephan-stracke",
+      "name": "Stephan Stracke",
+      "name_padoka": "Stracke, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/87",
+    "date": "2026-06-26",
+    "page": 10736
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21087.pdf"
+  }
+}

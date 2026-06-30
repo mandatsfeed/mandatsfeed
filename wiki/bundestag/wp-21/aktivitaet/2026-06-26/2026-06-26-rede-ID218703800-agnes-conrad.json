@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218703800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 19",
+  "date": "2026-06-26",
+  "persons": [
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "name_padoka": "Conrad, Agnes",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/87",
+    "date": "2026-06-26",
+    "page": 10736
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21087.pdf"
+  }
+}

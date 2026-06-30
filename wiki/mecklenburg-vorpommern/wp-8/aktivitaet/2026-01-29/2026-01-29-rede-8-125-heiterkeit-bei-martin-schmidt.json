@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-125-heiterkeit-bei-martin-schmidt",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/125",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "heiterkeit-bei-martin-schmidt",
+      "name": "Heiterkeit bei Martin Schmidt",
+      "name_padoka": "Schmidt, Heiterkeit bei Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/125",
+    "date": "2026-01-29"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70245"
+  }
+}

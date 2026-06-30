@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-124-jeannine-rosler",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in PlPr 8/124",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "jeannine-rosler",
+      "name": "Jeannine Rösler",
+      "name_padoka": "Rösler, Jeannine",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/124",
+    "date": "2026-01-28"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70232"
+  }
+}

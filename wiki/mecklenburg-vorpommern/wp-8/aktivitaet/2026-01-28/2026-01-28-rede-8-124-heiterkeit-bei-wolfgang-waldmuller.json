@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-124-heiterkeit-bei-wolfgang-waldmuller",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in PlPr 8/124",
+  "date": "2026-01-28",
+  "persons": [
+    {
+      "slug": "heiterkeit-bei-wolfgang-waldmuller",
+      "name": "Heiterkeit bei Wolfgang Waldmüller",
+      "name_padoka": "Waldmüller, Heiterkeit bei Wolfgang",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/124",
+    "date": "2026-01-28"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70232"
+  }
+}

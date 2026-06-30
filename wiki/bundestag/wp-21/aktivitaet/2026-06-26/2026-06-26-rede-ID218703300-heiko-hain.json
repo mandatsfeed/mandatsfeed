@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218703300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Demokratie stärken – Meinungsfreiheit schützen — Demokratie stärken – Wahlalter ab 16 Jahren einführen",
+  "date": "2026-06-26",
+  "persons": [
+    {
+      "slug": "heiko-hain",
+      "name": "Heiko Hain",
+      "name_padoka": "Hain, Heiko",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/87",
+    "date": "2026-06-26",
+    "page": 10736
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21087.pdf"
+  }
+}

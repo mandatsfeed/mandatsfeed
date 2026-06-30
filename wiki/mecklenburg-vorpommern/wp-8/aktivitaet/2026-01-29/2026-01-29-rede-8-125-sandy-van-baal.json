@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-125-sandy-van-baal",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "8 Redebeiträge in PlPr 8/125",
+  "date": "2026-01-29",
+  "persons": [
+    {
+      "slug": "sandy-van-baal",
+      "name": "Sandy van Baal",
+      "name_padoka": "van Baal, Sandy",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    }
+  ],
+  "fraktionen": [
+    "fraktionslos"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/125",
+    "date": "2026-01-29"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70245"
+  }
+}
