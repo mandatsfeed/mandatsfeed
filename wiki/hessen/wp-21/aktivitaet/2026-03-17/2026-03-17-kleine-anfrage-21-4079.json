@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4079",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Anschlussfinanzierung von LOEWE-Forschungsprojekten",
+  "date": "2026-03-17",
+  "drsNr": "21/4079",
+  "persons": [
+    {
+      "slug": "nina-eisenhardt",
+      "name": "Nina Eisenhardt",
+      "name_padoka": "Eisenhardt, Nina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/04079.pdf",
+    "filename": "04079.pdf"
+  }
+}

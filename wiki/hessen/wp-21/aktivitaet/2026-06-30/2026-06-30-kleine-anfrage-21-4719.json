@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4719",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Trinkwasserverluste in den hessischen Leitungsnetzen: Verlustmengen, Aufsicht der oberen Wasserbehörden und Sanierungsstand",
+  "date": "2026-06-30",
+  "drsNr": "21/4719",
+  "persons": [
+    {
+      "slug": "maximilian-muger",
+      "name": "Maximilian Müger",
+      "name_padoka": "Müger, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/04719.pdf",
+    "filename": "04719.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7544",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktivitäten der Vereinigung \"Kameraden Trupp Deutschland\" und der \"Abteilung Sachsen\" seit Beginn des Jahres 2025",
+  "date": "2026-06-30",
+  "drsNr": "8/7544",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51857",
+    "filename": "Drs_8_7544_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

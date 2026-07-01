@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-4717",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Politisch rechts motivierte Gewalttaten, Bedrohungen und Nötigungen im ersten Halbjahr 2026",
+  "date": "2026-06-30",
+  "drsNr": "21/4717",
+  "persons": [
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/7/04717.pdf",
+    "filename": "04717.pdf"
+  }
+}

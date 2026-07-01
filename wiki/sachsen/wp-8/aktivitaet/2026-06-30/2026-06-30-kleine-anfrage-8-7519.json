@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7519",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zu Drs 8/6228: Kapazitäten Frauen- und Kinderschutzhäuser und Männerschutzwohnungen 2025",
+  "date": "2026-06-30",
+  "drsNr": "8/7519",
+  "persons": [
+    {
+      "slug": "juliane-nagel",
+      "name": "Juliane Nagel",
+      "name_padoka": "Nagel, Juliane",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51832",
+    "filename": "Drs_8_7519_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

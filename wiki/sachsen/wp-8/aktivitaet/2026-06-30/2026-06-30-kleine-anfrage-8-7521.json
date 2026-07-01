@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7521",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Hinweise auf fehlende Munition bei der Polizei Sachsen im 1. Halbjahr 2026",
+  "date": "2026-06-30",
+  "drsNr": "8/7521",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51834",
+    "filename": "Drs_8_7521_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
