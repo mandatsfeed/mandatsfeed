@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4732",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Mögliche Auswirkungen des geplanten GKV-Beitragssatzstabilisierungsgesetzes auf die Krankenhausversorgung in Hessen",
+  "date": "2026-07-01",
+  "drsNr": "21/4732",
+  "persons": [
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerhard-barsch",
+      "name": "Gerhard Bärsch",
+      "name_padoka": "Bärsch, Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/2/04732.pdf",
+    "filename": "04732.pdf"
+  }
+}

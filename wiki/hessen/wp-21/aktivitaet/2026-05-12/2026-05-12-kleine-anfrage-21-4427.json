@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-4427",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Nicht gelistete Bundesstraßenprojekte auf den Seiten von Hessen-Mobil",
+  "date": "2026-05-12",
+  "drsNr": "21/4427",
+  "persons": [
+    {
+      "slug": "klaus-gagel",
+      "name": "Klaus Gagel",
+      "name_padoka": "Gagel, Klaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "olaf-schwaier",
+      "name": "Olaf Schwaier",
+      "name_padoka": "Schwaier, Olaf",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-lichert",
+      "name": "Andreas Lichert",
+      "name_padoka": "Lichert, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "dimitri-schulz",
+      "name": "Dimitri Schulz",
+      "name_padoka": "Schulz, Dimitri",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/7/04427.pdf",
+    "filename": "04427.pdf"
+  }
+}

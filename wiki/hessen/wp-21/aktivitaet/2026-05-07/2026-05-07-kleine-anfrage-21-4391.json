@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4391",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Reaktivierung der Lumdatalbahn: Zurückhaltung der Nutzen-Kosten-Untersuchung trotz angekündigter Veröffentlichung im zweiten Quartal 2026 und Information der Anrainerkommunen über die Folgekostenverteilung",
+  "date": "2026-05-07",
+  "drsNr": "21/4391",
+  "persons": [
+    {
+      "slug": "maximilian-muger",
+      "name": "Maximilian Müger",
+      "name_padoka": "Müger, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/04391.pdf",
+    "filename": "04391.pdf"
+  }
+}

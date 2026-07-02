@@ -1,0 +1,22 @@
+{
+  "id": "parldok-drs-8-6736",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "antrag",
+  "title": "Gesetz zur Neuregelung des Katastrophenschutzes in Mecklenburg-Vorpommern",
+  "date": "2026-07-01",
+  "drsNr": "8/6736",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "cdu",
+    "die-linke",
+    "fdp",
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71968"
+  },
+  "urheber": "SPD, CDU, Die Linke, B90/GR, FDP (Gruppe)"
+}

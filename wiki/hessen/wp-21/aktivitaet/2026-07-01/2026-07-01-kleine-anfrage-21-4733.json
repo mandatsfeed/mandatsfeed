@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-4733",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Personenbezogene Dienstfahrzeuge",
+  "date": "2026-07-01",
+  "drsNr": "21/4733",
+  "persons": [
+    {
+      "slug": "robert-lambrou",
+      "name": "Robert Lambrou",
+      "name_padoka": "Lambrou, Robert",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "roman-bausch",
+      "name": "Roman Bausch",
+      "name_padoka": "Bausch, Roman",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "klaus-gagel",
+      "name": "Klaus Gagel",
+      "name_padoka": "Gagel, Klaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "olaf-schwaier",
+      "name": "Olaf Schwaier",
+      "name_padoka": "Schwaier, Olaf",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/3/04733.pdf",
+    "filename": "04733.pdf"
+  }
+}

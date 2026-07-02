@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-4728",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Hitzeschäden an hessischer Verkehrsinfrastruktur und generelle Folgen der Rekordhitze für den Verkehr",
+  "date": "2026-07-01",
+  "drsNr": "21/4728",
+  "persons": [
+    {
+      "slug": "katy-walther",
+      "name": "Katy Walther",
+      "name_padoka": "Walther, Katy",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jurgen-frommrich",
+      "name": "Jürgen Frömmrich",
+      "name_padoka": "Frömmrich, Jürgen",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04728.pdf",
+    "filename": "04728.pdf"
+  }
+}
