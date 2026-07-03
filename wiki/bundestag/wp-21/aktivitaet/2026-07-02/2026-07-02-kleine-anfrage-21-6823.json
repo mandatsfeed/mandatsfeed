@@ -1,0 +1,35 @@
+{
+  "id": "dip-ka-21-6823",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ausstehende Angaben aufgrund laut Bundesregierung unklarer Begrifflichkeiten zur Förderung von Arbeitnehmer- und Arbeitgeberverbänden und von mit ihnen verbundenen Organisationen aus Bundesmitteln (Nachfrage zur Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 21/5614)",
+  "date": "2026-07-02",
+  "persons": [
+    {
+      "slug": "hans-jurgen-gossner",
+      "name": "Hans-Jürgen Goßner",
+      "name_padoka": "Goßner, Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-springer",
+      "name": "René Springer",
+      "name_padoka": "Springer, René",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6823",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/068/2106823.pdf",
+    "filename": "2106823.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6742",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Besuch der Ministerpräsidentin bei der Universitätsmedizin in Rostock am 27. Juni 2026",
+  "date": "2026-07-01",
+  "drsNr": "8/6742",
+  "persons": [
+    {
+      "slug": "paul-joachim-timm",
+      "name": "Paul-Joachim Timm",
+      "name_padoka": "Timm, Paul-Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71988"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

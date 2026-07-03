@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7572",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ablehnende Stellungnahme der Bundesregierung zur Entschließung des Bundesrates: Nationale Minderheiten und Volksgruppen in das Grundgesetz aufnehmen!",
+  "date": "2026-07-02",
+  "drsNr": "8/7572",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51936",
+    "filename": "Drs_8_7572_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

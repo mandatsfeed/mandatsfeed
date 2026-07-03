@@ -1,0 +1,65 @@
+{
+  "id": "parldok-drs-8-6740",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "antrag",
+  "title": "Beschlussempfehlung des Petitionsausschusses (1. Ausschuss) - Drucksache 8/6711 - gemäß § 17 Absatz 2 des Gesetzes zur Behandlung von Vorschlägen, Bitten und Beschwerden der Bürger sowie über den Bürgerbeauftragten des Landes Mecklenburg-Vorpommern (Petitions- und Bürgerbeauftragtengesetz – PetBüG M-V)",
+  "date": "2026-07-01",
+  "drsNr": "8/6740",
+  "persons": [
+    {
+      "slug": "thomas-kruger",
+      "name": "Thomas Krüger",
+      "name_padoka": "Krüger, Thomas",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "marcel-falk",
+      "name": "Marcel Falk",
+      "name_padoka": "Falk, Marcel",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stephan-j-reuken",
+      "name": "Stephan J. Reuken",
+      "name_padoka": "Reuken, Stephan J.",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christiane-berg",
+      "name": "Christiane Berg",
+      "name_padoka": "Berg, Christiane",
+      "role": "antragsteller",
+      "fraktion": "CDU"
+    },
+    {
+      "slug": "dirk-bruhn",
+      "name": "Dirk Bruhn",
+      "name_padoka": "Bruhn, Dirk",
+      "role": "antragsteller",
+      "fraktion": "Die Linke"
+    },
+    {
+      "slug": "anne-shepley",
+      "name": "Anne Shepley",
+      "name_padoka": "Shepley, Anne",
+      "role": "antragsteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "spd",
+    "afd",
+    "cdu",
+    "die-linke",
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71967"
+  },
+  "subtype": "Änderungsantrag"
+}

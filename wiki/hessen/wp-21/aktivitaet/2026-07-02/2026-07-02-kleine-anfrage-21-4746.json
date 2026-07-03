@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4746",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Sommerferienarbeitslosigkeit hessischer Lehrkräfte",
+  "date": "2026-07-02",
+  "drsNr": "21/4746",
+  "persons": [
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/04746.pdf",
+    "filename": "04746.pdf"
+  }
+}
