@@ -1,0 +1,61 @@
+{
+  "id": "starweb-he-ka-21-4425",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Freistellung vom Unterricht an nicht-gesetzlichen religiösen Feiertagen ohne Antrag",
+  "date": "2026-05-12",
+  "drsNr": "21/4425",
+  "persons": [
+    {
+      "slug": "heiko-scholz",
+      "name": "Heiko Scholz",
+      "name_padoka": "Scholz, Heiko",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lothar-mulch",
+      "name": "Lothar Mulch",
+      "name_padoka": "Mulch, Lothar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-lambrou",
+      "name": "Robert Lambrou",
+      "name_padoka": "Lambrou, Robert",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-lobenstein",
+      "name": "Andreas Lobenstein",
+      "name_padoka": "Lobenstein, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marcus-resch",
+      "name": "Marcus Resch",
+      "name_padoka": "Resch, Marcus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/04425.pdf",
+    "filename": "04425.pdf"
+  }
+}

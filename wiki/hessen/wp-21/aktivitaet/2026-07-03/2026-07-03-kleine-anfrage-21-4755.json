@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4755",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Stichprobenartige Erhebung von Unterrichtsausfall - Folgeanfrage zu Drs. 21/4288 vom 26.06.2026",
+  "date": "2026-07-03",
+  "drsNr": "21/4755",
+  "persons": [
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/04755.pdf",
+    "filename": "04755.pdf"
+  }
+}

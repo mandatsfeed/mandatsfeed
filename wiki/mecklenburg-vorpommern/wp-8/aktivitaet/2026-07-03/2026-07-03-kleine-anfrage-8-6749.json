@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6749",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verbotene Kraftfahrzeugrennen in Mecklenburg-Vorpommern in den Jahren 2024 bis 2026",
+  "date": "2026-07-03",
+  "drsNr": "8/6749",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72002"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

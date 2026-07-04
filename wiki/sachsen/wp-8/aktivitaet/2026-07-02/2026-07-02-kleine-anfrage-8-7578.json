@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7578",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schleichende Konsolidierung und Verdrängungswettbewerb in der sächsischen Landwirtschaft?",
+  "date": "2026-07-02",
+  "drsNr": "8/7578",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=51955",
+    "filename": "Drs_8_7578_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

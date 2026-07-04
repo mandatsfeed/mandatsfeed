@@ -1,0 +1,63 @@
+{
+  "id": "dip-ka-21-6861",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ausbleiben von Linienflügen zur Hochseeinsel Helgoland und Auswirkungen auf Tourismus sowie medizinische Versorgung",
+  "date": "2026-07-03",
+  "persons": [
+    {
+      "slug": "dario-seifert",
+      "name": "Dario Seifert",
+      "name_padoka": "Seifert, Dario",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "manfred-schiller",
+      "name": "Manfred Schiller",
+      "name_padoka": "Schiller, Manfred",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "name_padoka": "Stephan, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marcel-queckemeyer",
+      "name": "Marcel Queckemeyer",
+      "name_padoka": "Queckemeyer, Marcel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sebastian-munzenmaier",
+      "name": "Sebastian Münzenmaier",
+      "name_padoka": "Münzenmaier, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "erhard-brucker",
+      "name": "Erhard Brucker",
+      "name_padoka": "Brucker, Erhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6861",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/068/2106861.pdf",
+    "filename": "2106861.pdf"
+  }
+}
