@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4764",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen der Neuausrichtung des Bundesprogramms „Demokratie leben!“ auf hessische Träger und die Demokratieförderung",
+  "date": "2026-07-06",
+  "drsNr": "21/4764",
+  "persons": [
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/4/04764.pdf",
+    "filename": "04764.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6546",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Politische Neutralität, Finanzierung und Kontrollmechanismen des Wahl-O-Maten zur Landtagswahl in Mecklenburg-Vorpommern",
+  "date": "2026-06-05",
+  "drsNr": "8/6546",
+  "persons": [
+    {
+      "slug": "paul-joachim-timm",
+      "name": "Paul-Joachim Timm",
+      "name_padoka": "Timm, Paul-Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71267"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}
