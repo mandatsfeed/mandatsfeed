@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11524",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Grubenabfuhr in Berlin und Pankow ( Teil 7) – hier: temporäre Einleitstellen",
+  "date": "2022-04-05",
+  "drsNr": "19/11524",
+  "persons": [
+    {
+      "slug": "torsten-hofer",
+      "name": "Torsten Hofer",
+      "name_padoka": "Hofer, Torsten",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11524.pdf",
+    "filename": "S19-11524.pdf"
+  }
+}

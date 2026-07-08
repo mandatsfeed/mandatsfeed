@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11438",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Schriftliche Anfragen an den Senat – Fußnoten",
+  "date": "2022-03-31",
+  "drsNr": "19/11438",
+  "persons": [
+    {
+      "slug": "dr-hugh-bronson",
+      "name": "Dr. Hugh Bronson",
+      "name_padoka": "Bronson, Dr. Hugh",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11438.pdf",
+    "filename": "S19-11438.pdf"
+  }
+}

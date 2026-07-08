@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11485",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "A 100, Weiterbau 17. Bauabschnitt: Wie unterstützt der Senat den Bundesverkehrsminister, um zügig mit der Planung voranzukommen?",
+  "date": "2022-04-04",
+  "drsNr": "19/11485",
+  "persons": [
+    {
+      "slug": "harald-laatsch",
+      "name": "Harald Laatsch",
+      "name_padoka": "Laatsch, Harald",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11485.pdf",
+    "filename": "S19-11485.pdf"
+  }
+}

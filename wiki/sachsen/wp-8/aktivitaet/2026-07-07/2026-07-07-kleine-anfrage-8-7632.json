@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7632",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vorbereitung der Landesausstellung \"1100 Jahre Sachsen\" - Nachfrage zu Drs. 8/6992",
+  "date": "2026-07-07",
+  "drsNr": "8/7632",
+  "persons": [
+    {
+      "slug": "thomas-kirste",
+      "name": "Thomas Kirste",
+      "name_padoka": "Kirste, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52072",
+    "filename": "Drs_8_7632_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

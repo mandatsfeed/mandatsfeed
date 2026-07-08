@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7613",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zuweisungspraxis von Spätaussiedlerkindern in DaZ-Klassen und Sicherung der Bildungsgerechtigkeit am Beispiel des Falls einer Familie - Verwaltungsgericht Leipzig, Az.: 7 L 372/26 -",
+  "date": "2026-07-06",
+  "drsNr": "8/7613",
+  "persons": [
+    {
+      "slug": "roberto-kuhnert",
+      "name": "Roberto Kuhnert",
+      "name_padoka": "Kuhnert, Roberto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52043",
+    "filename": "Drs_8_7613_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

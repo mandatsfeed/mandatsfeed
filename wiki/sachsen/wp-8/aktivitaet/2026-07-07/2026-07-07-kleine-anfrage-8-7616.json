@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7616",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfragen zur kl. Anfrage Drs.-Nr. 8/5604 - Erhalt von Pehna-Bach und Pehna-Wasserfall und den Antworten der Staatsregierung",
+  "date": "2026-07-07",
+  "drsNr": "8/7616",
+  "persons": [
+    {
+      "slug": "thomas-loser",
+      "name": "Thomas Löser",
+      "name_padoka": "Löser, Thomas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52054",
+    "filename": "Drs_8_7616_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

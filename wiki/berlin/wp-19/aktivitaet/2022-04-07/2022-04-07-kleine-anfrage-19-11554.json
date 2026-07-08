@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11554",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Schulische Ausbildung an der REHA - AKADEMIE BERLIN",
+  "date": "2022-04-07",
+  "drsNr": "19/11554",
+  "persons": [
+    {
+      "slug": "bettina-konig",
+      "name": "Bettina König",
+      "name_padoka": "König, Bettina",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11554.pdf",
+    "filename": "S19-11554.pdf"
+  }
+}

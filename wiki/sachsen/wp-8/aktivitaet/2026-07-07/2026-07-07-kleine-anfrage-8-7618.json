@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7618",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Polizeiliche Lage und mögliche besondere Vorkommnisse am 5. Juli 2026 in Hoyerswerda, insbesondere im Bereich \nSteinstraße/Heinestr.",
+  "date": "2026-07-07",
+  "drsNr": "8/7618",
+  "persons": [
+    {
+      "slug": "doreen-schwietzer",
+      "name": "Doreen Schwietzer",
+      "name_padoka": "Schwietzer, Doreen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52057",
+    "filename": "Drs_8_7618_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

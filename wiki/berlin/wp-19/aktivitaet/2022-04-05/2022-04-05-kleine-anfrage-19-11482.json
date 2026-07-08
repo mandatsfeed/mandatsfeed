@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11482",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Einsatz von Parkraumüberwachungskräften im Verkehrsüberwachungsdienst",
+  "date": "2022-04-05",
+  "drsNr": "19/11482",
+  "persons": [
+    {
+      "slug": "kristian-ronneburg",
+      "name": "Kristian Ronneburg",
+      "name_padoka": "Ronneburg, Kristian",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11482.pdf",
+    "filename": "S19-11482.pdf"
+  }
+}
