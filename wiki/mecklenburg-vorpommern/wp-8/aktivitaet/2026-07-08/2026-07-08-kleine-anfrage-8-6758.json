@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6758",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Fördermittelvergabe an die ratiodomo Ingenieurgesellschaft mbH – Klärung von Zuständigkeiten und potenziellen Interessenkonflikten",
+  "date": "2026-07-08",
+  "drsNr": "8/6758",
+  "persons": [
+    {
+      "slug": "sabine-enseleit",
+      "name": "Sabine Enseleit",
+      "name_padoka": "Enseleit, Sabine",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72014"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6759",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Sportstudium, -unterricht und -infrastruktur",
+  "date": "2026-07-08",
+  "drsNr": "8/6759",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72015"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

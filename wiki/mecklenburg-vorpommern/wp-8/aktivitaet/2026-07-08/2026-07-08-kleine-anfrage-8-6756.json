@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6756",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kündigung der Vivantes-Kooperation durch die Universitätsmedizin Rostock",
+  "date": "2026-07-08",
+  "drsNr": "8/6756",
+  "persons": [
+    {
+      "slug": "daniel-peters",
+      "name": "Daniel Peters",
+      "name_padoka": "Peters, Daniel",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72012"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

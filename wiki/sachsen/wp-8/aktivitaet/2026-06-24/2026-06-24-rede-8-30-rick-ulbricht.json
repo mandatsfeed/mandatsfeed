@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-30-rick-ulbricht",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 30. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-06-24",
+  "persons": [
+    {
+      "slug": "rick-ulbricht",
+      "name": "Rick Ulbricht",
+      "name_padoka": "Ulbricht, Rick",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/30",
+    "date": "2026-06-24"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=52074"
+  }
+}
