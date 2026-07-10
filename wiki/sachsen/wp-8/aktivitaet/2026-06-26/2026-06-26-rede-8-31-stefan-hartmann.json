@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-31-stefan-hartmann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in Historisches Erbe bewahren - keine Zerschlagung von Denkmalschutz und Archäologie in Sachsen!",
+  "date": "2026-06-26",
+  "persons": [
+    {
+      "slug": "stefan-hartmann",
+      "name": "Stefan Hartmann",
+      "name_padoka": "Hartmann, Stefan",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/31",
+    "date": "2026-06-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=52123"
+  }
+}

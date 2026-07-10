@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4787",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen des Auslaufens des Bundesprogramms zum Umbau der Tierhaltung auf die Schweinehaltung in Hessen",
+  "date": "2026-07-09",
+  "drsNr": "21/4787",
+  "persons": [
+    {
+      "slug": "hans-jurgen-muller-witzenhausen",
+      "name": "Hans-Jürgen Müller(Witzenhausen)",
+      "name_padoka": "Müller(Witzenhausen), Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "martina-feldmayer",
+      "name": "Martina Feldmayer",
+      "name_padoka": "Feldmayer, Martina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/7/04787.pdf",
+    "filename": "04787.pdf"
+  }
+}

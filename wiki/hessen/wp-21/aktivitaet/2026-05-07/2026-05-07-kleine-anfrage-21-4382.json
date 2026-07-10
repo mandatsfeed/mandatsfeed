@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4382",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Hessisches Kompetenzzentrum Gesunde Schule",
+  "date": "2026-05-07",
+  "drsNr": "21/4382",
+  "persons": [
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/2/04382.pdf",
+    "filename": "04382.pdf"
+  }
+}

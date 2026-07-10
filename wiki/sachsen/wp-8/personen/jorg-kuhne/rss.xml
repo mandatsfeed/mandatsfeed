@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Jörg Kühne (Sächsischer Landtag, WP-8)</title>
+    <link>https://redas.landtag.sachsen.de/redas/</link>
+    <description>Aufbereitung durch mandatsfeed. Quelle: Sächsischer Landtag – EDAS (redas.landtag.sachsen.de). Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">edas-ka-8-7661</guid>
+      <title>Angriffe auf die freikirchliche &quot;Zeal Church&quot; in Leipzig</title>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://redas.landtag.sachsen.de/redas/download?datei_id=52105</link>
+      <description>Kleine Anfrage (Kleine Anfrage) · 8/7661 · Urheber: Jörg Kühne (AfD)</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">edas-ka-8-7662</guid>
+      <title>Straftaten im Umfeld von Friedhöfen</title>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://redas.landtag.sachsen.de/redas/download?datei_id=52106</link>
+      <description>Kleine Anfrage (Kleine Anfrage) · 8/7662 · Urheber: Jörg Kühne (AfD)</description>
+    </item>
+  </channel>
+</rss>

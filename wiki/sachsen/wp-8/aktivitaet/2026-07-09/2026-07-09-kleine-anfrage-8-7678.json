@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7678",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Haushaltsvollzug 2025 - Übersicht der Einwilligungen in über- und außerplanmäßige Ausgaben nach § 37 SäHO und Verpflichtungsermächtigungen nach § 38 SäHO sowie zusätzliche Ausgaben und Verpflichtungsermächtigungen gemäß § 10 Abs. 1 HG 2025/2026 2. Halbjahr 2025 - Nachfrage Drs 8/6005",
+  "date": "2026-07-09",
+  "drsNr": "8/7678",
+  "persons": [
+    {
+      "slug": "norbert-otto-mayer",
+      "name": "Norbert Otto Mayer",
+      "name_padoka": "Mayer, Norbert Otto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52122",
+    "filename": "Drs_8_7678_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

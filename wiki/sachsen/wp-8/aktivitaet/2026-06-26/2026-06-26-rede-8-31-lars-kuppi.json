@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-31-lars-kuppi",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in Historisches Erbe bewahren - keine Zerschlagung von Denkmalschutz und Archäologie in Sachsen!",
+  "date": "2026-06-26",
+  "persons": [
+    {
+      "slug": "lars-kuppi",
+      "name": "Lars Kuppi",
+      "name_padoka": "Kuppi, Lars",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/31",
+    "date": "2026-06-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=52123"
+  }
+}

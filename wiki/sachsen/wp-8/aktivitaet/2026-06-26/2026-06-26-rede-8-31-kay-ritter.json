@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-31-kay-ritter",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in Historisches Erbe bewahren - keine Zerschlagung von Denkmalschutz und Archäologie in Sachsen!",
+  "date": "2026-06-26",
+  "persons": [
+    {
+      "slug": "kay-ritter",
+      "name": "Kay Ritter",
+      "name_padoka": "Ritter, Kay",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/31",
+    "date": "2026-06-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=52123"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-31-henning-homann",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in Historisches Erbe bewahren - keine Zerschlagung von Denkmalschutz und Archäologie in Sachsen!",
+  "date": "2026-06-26",
+  "persons": [
+    {
+      "slug": "henning-homann",
+      "name": "Henning Homann",
+      "name_padoka": "Homann, Henning",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/31",
+    "date": "2026-06-26"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=52123"
+  }
+}

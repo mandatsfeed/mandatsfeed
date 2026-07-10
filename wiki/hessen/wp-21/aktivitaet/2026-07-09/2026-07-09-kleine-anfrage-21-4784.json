@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4784",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "HIV-Testmöglichkeiten in Hessen",
+  "date": "2026-07-09",
+  "drsNr": "21/4784",
+  "persons": [
+    {
+      "slug": "andreas-ewald",
+      "name": "Andreas Ewald",
+      "name_padoka": "Ewald, Andreas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/4/04784.pdf",
+    "filename": "04784.pdf"
+  }
+}

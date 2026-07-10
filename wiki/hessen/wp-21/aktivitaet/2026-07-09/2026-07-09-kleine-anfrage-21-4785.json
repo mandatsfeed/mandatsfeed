@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-4785",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Waldorf-Förderschule vom Institut Lauterbad e.V. in Kassel",
+  "date": "2026-07-09",
+  "drsNr": "21/4785",
+  "persons": [
+    {
+      "slug": "julia-herz",
+      "name": "Julia Herz",
+      "name_padoka": "Herz, Julia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marcus-bocklet",
+      "name": "Marcus Bocklet",
+      "name_padoka": "Bocklet, Marcus",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katrin-schleenbecker",
+      "name": "Katrin Schleenbecker",
+      "name_padoka": "Schleenbecker, Katrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/04785.pdf",
+    "filename": "04785.pdf"
+  }
+}

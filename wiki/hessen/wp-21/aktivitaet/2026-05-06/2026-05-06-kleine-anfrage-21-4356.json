@@ -1,0 +1,61 @@
+{
+  "id": "starweb-he-ka-21-4356",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ausnahmegenehmigungen für betäubungsloses Schlachten (Schächten) aus religiösen Gründen in Hessen",
+  "date": "2026-05-06",
+  "drsNr": "21/4356",
+  "persons": [
+    {
+      "slug": "johannes-marxen",
+      "name": "Johannes Marxen",
+      "name_padoka": "Marxen, Johannes",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-lambrou",
+      "name": "Robert Lambrou",
+      "name_padoka": "Lambrou, Robert",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "pascal-schleich",
+      "name": "Pascal Schleich",
+      "name_padoka": "Schleich, Pascal",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerhard-schenk-bebra",
+      "name": "Gerhard Schenk(Bebra)",
+      "name_padoka": "Schenk(Bebra), Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "dimitri-schulz",
+      "name": "Dimitri Schulz",
+      "name_padoka": "Schulz, Dimitri",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/04356.pdf",
+    "filename": "04356.pdf"
+  }
+}

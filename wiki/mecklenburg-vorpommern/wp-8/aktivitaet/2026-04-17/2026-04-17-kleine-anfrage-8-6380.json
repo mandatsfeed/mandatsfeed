@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6380",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Gemeinschaftsunterkünfte und Kostenerstattungen nach § 5 des Flüchtlingsaufnahmegesetzes an den Landkreis Ludwigslust-Parchim in den Jahren 2025 und 2026",
+  "date": "2026-04-17",
+  "drsNr": "8/6380",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/70693"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

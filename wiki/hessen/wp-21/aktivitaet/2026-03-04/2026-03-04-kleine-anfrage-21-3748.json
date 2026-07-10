@@ -1,0 +1,89 @@
+{
+  "id": "starweb-he-ka-21-3748",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Mögliche Landesförderung des HMFG für eine Veranstaltung des Vereins „Welcome In! Fulda e.V.“ unter Beteiligung der parteipolitisch tätigen Gruppierung „Omas gegen Rechts Fulda“",
+  "date": "2026-03-04",
+  "drsNr": "21/3748",
+  "persons": [
+    {
+      "slug": "gerhard-barsch",
+      "name": "Gerhard Bärsch",
+      "name_padoka": "Bärsch, Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-lambrou",
+      "name": "Robert Lambrou",
+      "name_padoka": "Lambrou, Robert",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "frank-dr-grobe",
+      "name": "Frank Dr. Grobe",
+      "name_padoka": "Grobe, Frank Dr.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "roman-bausch",
+      "name": "Roman Bausch",
+      "name_padoka": "Bausch, Roman",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "patrick-schenk-frankfurt",
+      "name": "Patrick Schenk(Frankfurt)",
+      "name_padoka": "Schenk(Frankfurt), Patrick",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "klaus-gagel",
+      "name": "Klaus Gagel",
+      "name_padoka": "Gagel, Klaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/03748.pdf",
+    "filename": "03748.pdf"
+  }
+}

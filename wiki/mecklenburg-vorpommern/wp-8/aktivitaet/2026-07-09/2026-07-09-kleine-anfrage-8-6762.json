@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6762",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Partei- und Wahlkampfaktivitäten an Schulen",
+  "date": "2026-07-09",
+  "drsNr": "8/6762",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72021"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

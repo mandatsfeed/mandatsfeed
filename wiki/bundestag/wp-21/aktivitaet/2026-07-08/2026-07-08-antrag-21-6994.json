@@ -1,0 +1,109 @@
+{
+  "id": "dip-drs-21-6994",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Gesetz zur Haftung bei Unfällen mit Elektrokleinstfahrzeugen im Straßenverkehr",
+  "date": "2026-07-08",
+  "persons": [
+    {
+      "slug": "thomas-fetsch",
+      "name": "Thomas Fetsch",
+      "name_padoka": "Fetsch, Thomas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "name_padoka": "von Zons, Ulrich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "name_padoka": "Peterka, Tobias Matthias",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "knuth-meyer-soltau",
+      "name": "Knuth Meyer-Soltau",
+      "name_padoka": "Meyer-Soltau, Knuth",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nadine-heselhaus",
+      "name": "Nadine Heselhaus",
+      "name_padoka": "Heselhaus, Nadine",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "luke-hoss",
+      "name": "Luke Hoß",
+      "name_padoka": "Hoß, Luke",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sebastian-steineke",
+      "name": "Sebastian Steineke",
+      "name_padoka": "Steineke, Sebastian",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "helge-limburg",
+      "name": "Helge Limburg",
+      "name_padoka": "Limburg, Helge",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "aaron-valent",
+      "name": "Aaron Valent",
+      "name_padoka": "Valent, Aaron",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "victoria-brossart",
+      "name": "Victoria Broßart",
+      "name_padoka": "Broßart, Victoria",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "konrad-korner",
+      "name": "Konrad Körner",
+      "name_padoka": "Körner, Konrad",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "frank-schwabe",
+      "name": "Frank Schwabe",
+      "name_padoka": "Schwabe, Frank",
+      "role": "antragsteller",
+      "fraktion": "Bundesministerium der Justiz und für Verbraucherschutz",
+      "funktion": "Parl. Staatssekr."
+    }
+  ],
+  "fraktionen": [
+    "afd",
+    "spd",
+    "die-linke",
+    "cdu-csu",
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/6994",
+  "subtype": "Änderungsantrag",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/069/2106994.pdf",
+    "filename": "2106994.pdf"
+  }
+}

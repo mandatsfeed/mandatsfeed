@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4389",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Hessischer Erdbeer- und Sonderkulturanbau: Drohende kommunale Versiegelungsabgaben für Wandertunnel und Folgewirkungen für Erwerbsobstbaubetriebe",
+  "date": "2026-05-07",
+  "drsNr": "21/4389",
+  "persons": [
+    {
+      "slug": "maximilian-muger",
+      "name": "Maximilian Müger",
+      "name_padoka": "Müger, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/04389.pdf",
+    "filename": "04389.pdf"
+  }
+}
