@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218902300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Stillstand in der Bahnpolitik überwinden – Strukturreformen umsetzen, Kapazitäten des Schienennetzes verstärken und ein gutes Fernverkehrsangebot sicherstellen — Hitzebedingte Schäden an der Verkehrsinfrastruktur – Klimaschutz jetzt forcieren",
+  "date": "2026-07-09",
+  "persons": [
+    {
+      "slug": "stefan-henze",
+      "name": "Stefan Henze",
+      "name_padoka": "Henze, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/89",
+    "date": "2026-07-09",
+    "page": 11074
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21089.pdf"
+  }
+}

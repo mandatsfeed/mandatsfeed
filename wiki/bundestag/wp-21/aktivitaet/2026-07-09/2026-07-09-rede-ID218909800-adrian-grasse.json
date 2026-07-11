@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218909800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Echte Perspektiven statt Kettenbefristungen – Gute Arbeitsbedingungen für gute Wissenschaft — Gute Arbeit auf dem Campus – Maßnahmenpaket für wissenschaftliche Karriereperspektiven vorlegen und Generationenwechsel als Reformchance nutzen",
+  "date": "2026-07-09",
+  "persons": [
+    {
+      "slug": "adrian-grasse",
+      "name": "Adrian Grasse",
+      "name_padoka": "Grasse, Adrian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/89",
+    "date": "2026-07-09",
+    "page": 11074
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21089.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218911400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bundesprogramm „Demokratie leben!“ sofort einstellen – Parteipolitische Neutralität wahren",
+  "date": "2026-07-09",
+  "persons": [
+    {
+      "slug": "konrad-korner",
+      "name": "Konrad Körner",
+      "name_padoka": "Körner, Konrad",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/89",
+    "date": "2026-07-09",
+    "page": 11074
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21089.pdf"
+  }
+}

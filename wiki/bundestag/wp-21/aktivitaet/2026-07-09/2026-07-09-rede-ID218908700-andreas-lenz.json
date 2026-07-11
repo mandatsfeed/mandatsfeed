@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218908700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Effiziente Kapazitätsausschreibungen mit Zukunft – Für eine Versorgungssicherheit ohne teuren fossilen Lock-In — Energieversorgung sichern – Bezahlbar, erneuerbar und dezentral",
+  "date": "2026-07-09",
+  "persons": [
+    {
+      "slug": "andreas-lenz",
+      "name": "Andreas Lenz",
+      "name_padoka": "Lenz, Andreas",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/89",
+    "date": "2026-07-09",
+    "page": 11074
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21089.pdf"
+  }
+}

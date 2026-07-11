@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218800200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zur Geschäftsordnung",
+  "date": "2026-07-08",
+  "persons": [
+    {
+      "slug": "steffen-bilger",
+      "name": "Steffen Bilger",
+      "name_padoka": "Bilger, Steffen",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/88",
+    "date": "2026-07-08",
+    "page": 10860
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21088.pdf"
+  }
+}

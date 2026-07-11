@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218909000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Effiziente Kapazitätsausschreibungen mit Zukunft – Für eine Versorgungssicherheit ohne teuren fossilen Lock-In — Energieversorgung sichern – Bezahlbar, erneuerbar und dezentral",
+  "date": "2026-07-09",
+  "persons": [
+    {
+      "slug": "paul-schmidt",
+      "name": "Paul Schmidt",
+      "name_padoka": "Schmidt, Paul",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/89",
+    "date": "2026-07-09",
+    "page": 11074
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21089.pdf"
+  }
+}

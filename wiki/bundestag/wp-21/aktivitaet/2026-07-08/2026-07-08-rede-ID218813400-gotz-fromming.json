@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218813400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Mutmaßliche Angriffe gegen Journalisten in Erfurt am vergangenen Wochenende",
+  "date": "2026-07-08",
+  "persons": [
+    {
+      "slug": "gotz-fromming",
+      "name": "Götz Frömming",
+      "name_padoka": "Frömming, Götz",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/88",
+    "date": "2026-07-08",
+    "page": 10860
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21088.pdf"
+  }
+}

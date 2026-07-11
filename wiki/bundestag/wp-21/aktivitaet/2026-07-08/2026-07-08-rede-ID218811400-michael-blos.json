@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218811400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-07-08",
+  "persons": [
+    {
+      "slug": "michael-blos",
+      "name": "Michael Blos",
+      "name_padoka": "Blos, Michael",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/88",
+    "date": "2026-07-08",
+    "page": 10860
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21088.pdf"
+  }
+}

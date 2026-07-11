@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218818900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Entwicklungshilfe drastisch reduzieren und das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung auflösen — Mehr Transparenz in der Entwicklungshilfe – Alle öffentlichen Entwicklungshilfeleistungen lückenlos veröffentlichen",
+  "date": "2026-07-08",
+  "persons": [
+    {
+      "slug": "charlotte-antonia-neuhauser",
+      "name": "Charlotte Antonia Neuhäuser",
+      "name_padoka": "Neuhäuser, Charlotte Antonia",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/88",
+    "date": "2026-07-08",
+    "page": 10860
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21088.pdf"
+  }
+}

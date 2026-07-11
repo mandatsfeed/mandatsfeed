@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218800400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zur Geschäftsordnung",
+  "date": "2026-07-08",
+  "persons": [
+    {
+      "slug": "dirk-wiese",
+      "name": "Dirk Wiese",
+      "name_padoka": "Wiese, Dirk",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/88",
+    "date": "2026-07-08",
+    "page": 10860
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21088.pdf"
+  }
+}

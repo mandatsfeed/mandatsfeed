@@ -6,6 +6,524 @@
     <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
     <language>de</language>
     <item>
+      <guid isPermaLink="false">dip-rede-ID218900100</guid>
+      <title>Zur aktuellen politischen Lage</title>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21089.pdf</link>
+      <description>Rede · Sprecher:in: Friedrich Merz (Bundesregierung) · Plenarprotokoll 21/89, S. 11074</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218906800</guid>
+      <title>Aktuelle Stunde — Zukunft deutscher Automobilindustrie gestalten – Erfolgreiche Reformschritte für Wettbewerbsfähigkeit, Beschäftigung und Innovation</title>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21089.pdf</link>
+      <description>Rede · Sprecher:in: Gitta Connemann (Bundesregierung) · Plenarprotokoll 21/89, S. 11074</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218907500</guid>
+      <title>Aktuelle Stunde — Zukunft deutscher Automobilindustrie gestalten – Erfolgreiche Reformschritte für Wettbewerbsfähigkeit, Beschäftigung und Innovation</title>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21089.pdf</link>
+      <description>Rede · Sprecher:in: Elisabeth Kaiser (Bundesregierung) · Plenarprotokoll 21/89, S. 11074</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218910100</guid>
+      <title>Mietrechtsnovelle nachschärfen – Mieterinnen und Mieter wirklich schützen — Drucksache 21/6915</title>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21089.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/89, S. 11074</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218911900</guid>
+      <title>Tagesordnungspunkt 13</title>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21089.pdf</link>
+      <description>Rede · Sprecher:in: Gitta Connemann (Bundesregierung) · Plenarprotokoll 21/89, S. 11074</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218913500</guid>
+      <title>Tagesordnungspunkt 14</title>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21089.pdf</link>
+      <description>Rede · Sprecher:in: Daniela Ludwig (Bundesregierung) · Plenarprotokoll 21/89, S. 11074</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218800600</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218800700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218800900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218801100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218801300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218801500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218801700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218801900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218802100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218802300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218802500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218802700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218802900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218803100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218803300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218803500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218803700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218803900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218804100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218804300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218804500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218804700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218804900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218805100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218805300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218805500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218805700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218805900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218806100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218806300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218806500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218806700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218806900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218807100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218807300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218807500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218807700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218807900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218808100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218808300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218808500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218808700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218808900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218809100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218809300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218809500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218809700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218809900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218810100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218810300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218810500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218810700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218810900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218811100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218811300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218811500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218811700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218811900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Carsten Schneider (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218812100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218812300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218812500</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218812700</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218812900</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218813100</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218813300</guid>
+      <title>Befragung der Bundesregierung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218815600</guid>
+      <title>250 Jahre USA – Freiheit, Demokratie und Verantwortung</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Florian Hahn (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218817400</guid>
+      <title>Rechtsstaat stärken, Grundrechte schützen – Moderne Polizeiarbeit gestalten — Nein zu biometrischen Massenerkennungssystemen</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Stefanie Hubig (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID218817600</guid>
+      <title>Rechtsstaat stärken, Grundrechte schützen – Moderne Polizeiarbeit gestalten — Nein zu biometrischen Massenerkennungssystemen</title>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21088.pdf</link>
+      <description>Rede · Sprecher:in: Christoph de Vries (Bundesregierung) · Plenarprotokoll 21/88, S. 10860</description>
+    </item>
+    <item>
       <guid isPermaLink="false">dip-rede-ID218700600</guid>
       <title>Infrastrukturvorhaben im Schienennetz effektiv beschleunigen</title>
       <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>

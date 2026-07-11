@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218817500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Rechtsstaat stärken, Grundrechte schützen – Moderne Polizeiarbeit gestalten — Nein zu biometrischen Massenerkennungssystemen",
+  "date": "2026-07-08",
+  "persons": [
+    {
+      "slug": "fabian-jacobi",
+      "name": "Fabian Jacobi",
+      "name_padoka": "Jacobi, Fabian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/88",
+    "date": "2026-07-08",
+    "page": 10860
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21088.pdf"
+  }
+}

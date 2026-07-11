@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218817900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Rechtsstaat stärken, Grundrechte schützen – Moderne Polizeiarbeit gestalten — Nein zu biometrischen Massenerkennungssystemen",
+  "date": "2026-07-08",
+  "persons": [
+    {
+      "slug": "johannes-schatzl",
+      "name": "Johannes Schätzl",
+      "name_padoka": "Schätzl, Johannes",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/88",
+    "date": "2026-07-08",
+    "page": 10860
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21088.pdf"
+  }
+}

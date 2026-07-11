@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID218902100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Stillstand in der Bahnpolitik überwinden – Strukturreformen umsetzen, Kapazitäten des Schienennetzes verstärken und ein gutes Fernverkehrsangebot sicherstellen — Hitzebedingte Schäden an der Verkehrsinfrastruktur – Klimaschutz jetzt forcieren",
+  "date": "2026-07-09",
+  "persons": [
+    {
+      "slug": "fabian-fahl",
+      "name": "Fabian Fahl",
+      "name_padoka": "Fahl, Fabian",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/89",
+    "date": "2026-07-09",
+    "page": 11074
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21089.pdf"
+  }
+}

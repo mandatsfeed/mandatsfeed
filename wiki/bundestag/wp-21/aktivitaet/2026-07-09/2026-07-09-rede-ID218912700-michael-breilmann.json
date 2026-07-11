@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID218912700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Verhinderung von Zwangsverheiratungen und Kinderehen in Deutschland",
+  "date": "2026-07-09",
+  "persons": [
+    {
+      "slug": "michael-breilmann",
+      "name": "Michael Breilmann",
+      "name_padoka": "Breilmann, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/89",
+    "date": "2026-07-09",
+    "page": 11074
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21089.pdf"
+  }
+}
