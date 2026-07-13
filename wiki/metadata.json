@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T07:14:42.713Z",
+  "generatedAt": "2026-07-13T07:56:22.225Z",
   "parliaments": [
     {
       "slug": "bundestag",
@@ -17868,8 +17868,8 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "beate-schlupp",
               "label": "Beate Schlupp",
-              "count": 66,
-              "updatedAt": "2026-07-03T00:00:00.000Z",
+              "count": 69,
+              "updatedAt": "2026-07-10T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/personen/beate-schlupp/rss.xml"
             },
             {
@@ -18480,8 +18480,8 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "henning-foerster",
               "label": "Henning Foerster",
-              "count": 95,
-              "updatedAt": "2026-06-09T00:00:00.000Z",
+              "count": 96,
+              "updatedAt": "2026-07-10T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/personen/henning-foerster/rss.xml"
             },
             {
@@ -18986,8 +18986,8 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "cdu",
               "label": "Fraktion CDU",
-              "count": 1045,
-              "updatedAt": "2026-07-08T00:00:00.000Z",
+              "count": 1048,
+              "updatedAt": "2026-07-10T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/fraktion/cdu/rss.xml"
             },
             {
@@ -18995,8 +18995,8 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "die-linke",
               "label": "Fraktion Die Linke",
-              "count": 678,
-              "updatedAt": "2026-07-01T00:00:00.000Z",
+              "count": 679,
+              "updatedAt": "2026-07-10T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/fraktion/die-linke/rss.xml"
             },
             {

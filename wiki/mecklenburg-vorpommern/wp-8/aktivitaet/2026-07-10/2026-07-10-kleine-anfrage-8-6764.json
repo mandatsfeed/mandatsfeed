@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6764",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Ihlenberger Abfallentsorgungsgesellschaft mbH",
+  "date": "2026-07-10",
+  "drsNr": "8/6764",
+  "persons": [
+    {
+      "slug": "beate-schlupp",
+      "name": "Beate Schlupp",
+      "name_padoka": "Schlupp, Beate",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72025"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
