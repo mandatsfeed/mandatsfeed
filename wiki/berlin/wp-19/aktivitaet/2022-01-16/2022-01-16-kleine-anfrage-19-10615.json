@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10615",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Gewalt an Marzahn-Hellersdorfer Schulen",
+  "date": "2022-01-16",
+  "drsNr": "19/10615",
+  "persons": [
+    {
+      "slug": "gunnar-lindemann",
+      "name": "Gunnar Lindemann",
+      "name_padoka": "Lindemann, Gunnar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10615.pdf",
+    "filename": "S19-10615.pdf"
+  }
+}

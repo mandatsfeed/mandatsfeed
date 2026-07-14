@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219007900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Spitzensportförderung transparent, wirksam und zukunftsfest gestalten — Mutterschutz von Athletinnen wirksam absichern – Schutzlücken für selbstständige Spitzensportlerinnen schließen",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "lars-schieske",
+      "name": "Lars Schieske",
+      "name_padoka": "Schieske, Lars",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219004100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für das Recht auf Heizen – Bezahlbar und erneuerbar — Heizkostendeckel sofort einführen und Gasausstieg ermöglichen",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "angelika-glockner",
+      "name": "Angelika Glöckner",
+      "name_padoka": "Glöckner, Angelika",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

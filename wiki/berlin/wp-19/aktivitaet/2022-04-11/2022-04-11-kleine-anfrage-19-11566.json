@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11566",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Einrichtungsbezogene Impfpflicht",
+  "date": "2022-04-11",
+  "drsNr": "19/11566",
+  "persons": [
+    {
+      "slug": "christian-zander",
+      "name": "Christian Zander",
+      "name_padoka": "Zander, Christian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11566.pdf",
+    "filename": "S19-11566.pdf"
+  }
+}

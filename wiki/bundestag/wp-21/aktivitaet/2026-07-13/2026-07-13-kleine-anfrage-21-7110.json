@@ -1,0 +1,35 @@
+{
+  "id": "dip-ka-21-7110",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Das Portal Apollo News im Visier des Bundesamtes für Verfassungsschutz und des Bundeskriminalamtes",
+  "date": "2026-07-13",
+  "persons": [
+    {
+      "slug": "peter-felser",
+      "name": "Peter Felser",
+      "name_padoka": "Felser, Peter",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7110",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/071/2107110.pdf",
+    "filename": "2107110.pdf"
+  }
+}

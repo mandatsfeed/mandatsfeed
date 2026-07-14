@@ -1,0 +1,35 @@
+{
+  "id": "dip-ka-21-7116",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Altersarmut und Alterssicherung in Rheinland-Pfalz",
+  "date": "2026-07-13",
+  "persons": [
+    {
+      "slug": "julia-christina-stange",
+      "name": "Julia-Christina Stange",
+      "name_padoka": "Stange, Julia-Christina",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/7116",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/071/2107116.pdf",
+    "filename": "2107116.pdf"
+  }
+}

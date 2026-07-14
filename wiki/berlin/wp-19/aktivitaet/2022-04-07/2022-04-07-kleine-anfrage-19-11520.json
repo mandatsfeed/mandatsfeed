@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11520",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen von Energiepreiserhöhungen im öffentlichen Nahverkehr",
+  "date": "2022-04-07",
+  "drsNr": "19/11520",
+  "persons": [
+    {
+      "slug": "dr-kristin-brinker",
+      "name": "Dr. Kristin Brinker",
+      "name_padoka": "Brinker, Dr. Kristin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11520.pdf",
+    "filename": "S19-11520.pdf"
+  }
+}

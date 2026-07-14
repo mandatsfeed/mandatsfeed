@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6765",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Stand der Entwaffnung von Rechtsextremistinnen und Rechtsextremisten sowie Reichsbürgerinnen und Reichsbürgern",
+  "date": "2026-07-13",
+  "drsNr": "8/6765",
+  "persons": [
+    {
+      "slug": "constanze-oehlrich",
+      "name": "Constanze Oehlrich",
+      "name_padoka": "Oehlrich, Constanze",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72031"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

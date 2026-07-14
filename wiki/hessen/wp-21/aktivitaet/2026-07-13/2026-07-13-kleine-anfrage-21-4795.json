@@ -1,0 +1,54 @@
+{
+  "id": "starweb-he-ka-21-4795",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Die neuen Stellenabbaupläne des Volkswagen-Konzerns und die geplanten Maßnahmen der Landesregierung für die Standortsicherung des VW Komponentenwerkes in Baunatal",
+  "date": "2026-07-13",
+  "drsNr": "21/4795",
+  "persons": [
+    {
+      "slug": "olaf-schwaier",
+      "name": "Olaf Schwaier",
+      "name_padoka": "Schwaier, Olaf",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "klaus-gagel",
+      "name": "Klaus Gagel",
+      "name_padoka": "Gagel, Klaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-lichert",
+      "name": "Andreas Lichert",
+      "name_padoka": "Lichert, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "dimitri-schulz",
+      "name": "Dimitri Schulz",
+      "name_padoka": "Schulz, Dimitri",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/04795.pdf",
+    "filename": "04795.pdf"
+  }
+}

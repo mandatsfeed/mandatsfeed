@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11480",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Schnelllerner-Klassen in Berlin und ihre Zukunft",
+  "date": "2022-04-05",
+  "drsNr": "19/11480",
+  "persons": [
+    {
+      "slug": "katharina-gunther-wunsch",
+      "name": "Katharina Günther-Wünsch",
+      "name_padoka": "Günther-Wünsch, Katharina",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11480.pdf",
+    "filename": "S19-11480.pdf"
+  }
+}

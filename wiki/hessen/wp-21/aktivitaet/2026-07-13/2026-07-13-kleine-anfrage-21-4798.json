@@ -1,0 +1,54 @@
+{
+  "id": "starweb-he-ka-21-4798",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen der geplanten Reform der Gemeinsamen Agrarpolitik (GAP) ab 2028 auf die Förderung der ländlichen Entwicklung und von Agrarumweltmaßnahmen in Hessen",
+  "date": "2026-07-13",
+  "drsNr": "21/4798",
+  "persons": [
+    {
+      "slug": "hans-jurgen-muller-witzenhausen",
+      "name": "Hans-Jürgen Müller(Witzenhausen)",
+      "name_padoka": "Müller(Witzenhausen), Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "martina-feldmayer",
+      "name": "Martina Feldmayer",
+      "name_padoka": "Feldmayer, Martina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jurgen-frommrich",
+      "name": "Jürgen Frömmrich",
+      "name_padoka": "Frömmrich, Jürgen",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kaya-kinkel",
+      "name": "Kaya Kinkel",
+      "name_padoka": "Kinkel, Kaya",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04798.pdf",
+    "filename": "04798.pdf"
+  }
+}

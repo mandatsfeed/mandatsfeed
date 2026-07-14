@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219002500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschland braucht echte Reformen – Der Krise des Wirtschaftsstandorts Deutschland wirksam entgegentreten",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "lars-rohwer",
+      "name": "Lars Rohwer",
+      "name_padoka": "Rohwer, Lars",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

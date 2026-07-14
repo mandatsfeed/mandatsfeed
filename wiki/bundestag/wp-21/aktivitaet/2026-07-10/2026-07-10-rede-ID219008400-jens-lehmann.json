@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219008400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Spitzensportförderung transparent, wirksam und zukunftsfest gestalten — Mutterschutz von Athletinnen wirksam absichern – Schutzlücken für selbstständige Spitzensportlerinnen schließen",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "jens-lehmann",
+      "name": "Jens Lehmann",
+      "name_padoka": "Lehmann, Jens",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

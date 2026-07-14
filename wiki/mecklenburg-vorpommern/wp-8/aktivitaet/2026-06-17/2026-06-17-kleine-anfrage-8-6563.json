@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6563",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Förderung des altersgerechten und barrierearmen Umbaus von Wohnraum in Mecklenburg-Vorpommern",
+  "date": "2026-06-17",
+  "drsNr": "8/6563",
+  "persons": [
+    {
+      "slug": "petra-federau",
+      "name": "Petra Federau",
+      "name_padoka": "Federau, Petra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71286"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

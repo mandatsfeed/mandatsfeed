@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11568",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Welche Maßnahmen wurden bezüglich der Sicherung des Standorts für die Jugendverkehrsschule am Sachsendamm, dem wichtigsten Standort für Verkehrserziehung in Tempelhof-Schöneberg, ergriffen?",
+  "date": "2022-04-11",
+  "drsNr": "19/11568",
+  "persons": [
+    {
+      "slug": "roman-simon",
+      "name": "Roman Simon",
+      "name_padoka": "Simon, Roman",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11568.pdf",
+    "filename": "S19-11568.pdf"
+  }
+}

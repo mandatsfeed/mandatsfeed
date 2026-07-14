@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6564",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Sachstand Pipelineertüchtigung oder Neubau Rostock Ölhafen",
+  "date": "2026-06-18",
+  "drsNr": "8/6564",
+  "persons": [
+    {
+      "slug": "henning-foerster",
+      "name": "Henning Foerster",
+      "name_padoka": "Foerster, Henning",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71287"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

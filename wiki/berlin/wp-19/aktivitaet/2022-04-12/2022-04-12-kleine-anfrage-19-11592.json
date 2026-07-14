@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11592",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Organisation störender Ereignisse auf dem Gelände des Olympiaparks",
+  "date": "2022-04-12",
+  "drsNr": "19/11592",
+  "persons": [
+    {
+      "slug": "ariturel-hack",
+      "name": "Ariturel Hack",
+      "name_padoka": "Hack, Ariturel",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11592.pdf",
+    "filename": "S19-11592.pdf"
+  }
+}

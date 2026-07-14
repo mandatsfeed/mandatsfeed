@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11498",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Situation an den Grundschulen in Tempelhof-Schöneberg",
+  "date": "2022-04-06",
+  "drsNr": "19/11498",
+  "persons": [
+    {
+      "slug": "roman-simon",
+      "name": "Roman Simon",
+      "name_padoka": "Simon, Roman",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11498.pdf",
+    "filename": "S19-11498.pdf"
+  }
+}

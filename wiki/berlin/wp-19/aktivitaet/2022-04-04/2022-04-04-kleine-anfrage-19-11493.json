@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11493",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Erlass von Gebühren für die Sondernutzung des Straßenlands 2021/2022",
+  "date": "2022-04-04",
+  "drsNr": "19/11493",
+  "persons": [
+    {
+      "slug": "dunja-wolff",
+      "name": "Dunja Wolff",
+      "name_padoka": "Wolff, Dunja",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11493.pdf",
+    "filename": "S19-11493.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11565",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Chaotische Buslinien 124 und 133 nach Übertragung an Subunternehmer – Was gedenken Senat und BVG zu tun?",
+  "date": "2022-04-08",
+  "drsNr": "19/11565",
+  "persons": [
+    {
+      "slug": "stephan-schmidt",
+      "name": "Stephan Schmidt",
+      "name_padoka": "Schmidt, Stephan",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11565.pdf",
+    "filename": "S19-11565.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11518",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Geschlechtergetrennte Sicherheitskontrollen bei diversen Personen?",
+  "date": "2022-04-07",
+  "drsNr": "19/11518",
+  "persons": [
+    {
+      "slug": "stefan-evers",
+      "name": "Stefan Evers",
+      "name_padoka": "Evers, Stefan",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11518.pdf",
+    "filename": "S19-11518.pdf"
+  }
+}

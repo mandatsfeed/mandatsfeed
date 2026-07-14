@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10572",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Selbstverbrennung auf dem Alexanderplatz – (k)eine politische Tat?",
+  "date": "2022-01-03",
+  "drsNr": "19/10572",
+  "persons": [
+    {
+      "slug": "vasili-franco",
+      "name": "Vasili Franco",
+      "name_padoka": "Franco, Vasili",
+      "role": "fragesteller",
+      "fraktion": "GRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10572.pdf",
+    "filename": "S19-10572.pdf"
+  }
+}

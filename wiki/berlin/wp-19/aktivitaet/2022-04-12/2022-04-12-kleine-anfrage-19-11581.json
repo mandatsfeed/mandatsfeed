@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11581",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Straftaten in Marzahn-Hellersdorf",
+  "date": "2022-04-12",
+  "drsNr": "19/11581",
+  "persons": [
+    {
+      "slug": "alexander-herrmann",
+      "name": "Alexander Herrmann",
+      "name_padoka": "Herrmann, Alexander",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11581.pdf",
+    "filename": "S19-11581.pdf"
+  }
+}

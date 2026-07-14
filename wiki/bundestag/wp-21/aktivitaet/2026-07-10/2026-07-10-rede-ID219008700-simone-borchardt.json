@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219008700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Angekündigte Verschärfungen bei Krankschreibungen – Mehr Gesundheitsschutz, kein Misstrauen",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "simone-borchardt",
+      "name": "Simone Borchardt",
+      "name_padoka": "Borchardt, Simone",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

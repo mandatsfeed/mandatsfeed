@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6766",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Personenpotenzial, Aktivitäten und Verbindungen der Partei „Der III. Weg“",
+  "date": "2026-07-13",
+  "drsNr": "8/6766",
+  "persons": [
+    {
+      "slug": "constanze-oehlrich",
+      "name": "Constanze Oehlrich",
+      "name_padoka": "Oehlrich, Constanze",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72032"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

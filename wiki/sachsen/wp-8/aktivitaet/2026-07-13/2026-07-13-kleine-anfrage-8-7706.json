@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7706",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung der Stellen und der Entgelte für Beschäftigte im Landesamt für Denkmalpflege",
+  "date": "2026-07-13",
+  "drsNr": "8/7706",
+  "persons": [
+    {
+      "slug": "thomas-kirste",
+      "name": "Thomas Kirste",
+      "name_padoka": "Kirste, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52169",
+    "filename": "Drs_8_7706_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

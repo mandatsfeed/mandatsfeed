@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219004900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bundesprogramm „Kultur macht stark. Bündnisse für Bildung“ bedarfsgerecht ausbauen und die vierte Förderphase für die Jahre 2028 bis 2032 nachhaltig verstetigen — Kultur und Sport als Staatsziel im Grundgesetz verankern – Öffentliche Daseinsvorsorge sichern und Demokratie stärken",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "sven-wendorf",
+      "name": "Sven Wendorf",
+      "name_padoka": "Wendorf, Sven",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

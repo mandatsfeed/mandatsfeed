@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219006500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ein Demokratieschild gegen Desinformation und für eine wehrhafte digitale Öffentlichkeit als Eckpfeiler deutscher und europäischer Sicherheit",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "carolin-wagner",
+      "name": "Carolin Wagner",
+      "name_padoka": "Wagner, Carolin",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

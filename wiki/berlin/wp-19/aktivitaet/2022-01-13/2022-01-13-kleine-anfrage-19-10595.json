@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10595",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Berliner Feuerwehr – Situation des Rettungsdienstes",
+  "date": "2022-01-13",
+  "drsNr": "19/10595",
+  "persons": [
+    {
+      "slug": "alexander-herrmann",
+      "name": "Alexander Herrmann",
+      "name_padoka": "Herrmann, Alexander",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10595.pdf",
+    "filename": "S19-10595.pdf"
+  }
+}

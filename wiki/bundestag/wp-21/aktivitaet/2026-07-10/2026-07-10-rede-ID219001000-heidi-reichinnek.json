@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219001000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Akute Not der gesetzlichen Krankenversicherung lindern – Vollständige Finanzierung der Beiträge für Bürgergeldempfänger durch den Bund gewährleisten — Ambulante ärztliche Versorgung zukunftssicher machen",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "heidi-reichinnek",
+      "name": "Heidi Reichinnek",
+      "name_padoka": "Reichinnek, Heidi",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

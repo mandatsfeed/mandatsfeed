@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219003800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für das Recht auf Heizen – Bezahlbar und erneuerbar — Heizkostendeckel sofort einführen und Gasausstieg ermöglichen",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "jorg-cezanne",
+      "name": "Jörg Cezanne",
+      "name_padoka": "Cezanne, Jörg",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

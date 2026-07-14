@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10628",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Nutzung der Kaserne in der General-Pape-Str.",
+  "date": "2022-01-14",
+  "drsNr": "19/10628",
+  "persons": [
+    {
+      "slug": "roman-francesco-rogat",
+      "name": "Roman-Francesco Rogat",
+      "name_padoka": "Rogat, Roman-Francesco",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10628.pdf",
+    "filename": "S19-10628.pdf"
+  }
+}

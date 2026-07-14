@@ -1,0 +1,23 @@
+{
+  "id": "starweb-be-ges-19-0151",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "gesetzentwurf",
+  "title": "Gesetz zur Änderung des Bezirksverordnetenentschädigungsgesetzes(Siebtes Gesetz zur Änderung des Gesetzes über die Entschädigung der Mitglieder der Bezirksverordnetenversammlungen, der Bürgerdeputierten und sonstiger ehrenamtlich tätiger Personen (Bezirksverordnetenentschädigungsgesetz))<Siebtes Gesetz zur Änderung des Gesetzes über die Entschädigung der Mitglieder der Bezirksverordnetenversammlungen, der Bürgerdeputierten und sonstiger ehrenamtlich tätiger Personen>",
+  "date": "2022-02-08",
+  "drsNr": "19/0151",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "cdu",
+    "die-linke",
+    "fdp"
+  ],
+  "subtype": "Antrag (Gesetzentwurf)",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-0151.pdf",
+    "filename": "d19-0151.pdf"
+  },
+  "urheber": "SPD, Grüne, CDU, Die Linke, FDP"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10561",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Weddinger Islamistenzentrum – Zum Umgang des Senats mit verfassungsfeindlichen Gruppierungen",
+  "date": "2022-01-11",
+  "drsNr": "19/10561",
+  "persons": [
+    {
+      "slug": "kai-wegner",
+      "name": "Kai Wegner",
+      "name_padoka": "Wegner, Kai",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10561.pdf",
+    "filename": "S19-10561.pdf"
+  }
+}

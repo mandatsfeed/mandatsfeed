@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10510",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Kommissar „Homeoffice“ - Alternierende Telearbeit, mobile Endgeräte und mobiles Arbeiten bei der Berliner Polizei",
+  "date": "2022-01-05",
+  "drsNr": "19/10510",
+  "persons": [
+    {
+      "slug": "tobias-bauschke",
+      "name": "Tobias Bauschke",
+      "name_padoka": "Bauschke, Tobias",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10510.pdf",
+    "filename": "S19-10510.pdf"
+  }
+}

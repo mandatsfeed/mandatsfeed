@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10503",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "„Aulak“ - eine 30 Jahre alte Software gefährdet die IT-Sicherheit der BerlinerJustiz",
+  "date": "2022-01-05",
+  "drsNr": "19/10503",
+  "persons": [
+    {
+      "slug": "sven-rissmann",
+      "name": "Sven Rissmann",
+      "name_padoka": "Rissmann, Sven",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10503.pdf",
+    "filename": "S19-10503.pdf"
+  }
+}

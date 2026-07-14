@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10592",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung des geplanten „Wind-an-Land-Gesetzes“ der Ampel",
+  "date": "2022-01-12",
+  "drsNr": "19/10592",
+  "persons": [
+    {
+      "slug": "danny-freymark",
+      "name": "Danny Freymark",
+      "name_padoka": "Freymark, Danny",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10592.pdf",
+    "filename": "S19-10592.pdf"
+  }
+}

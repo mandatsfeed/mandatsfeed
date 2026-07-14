@@ -1,0 +1,42 @@
+{
+  "id": "dip-ka-21-7111",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Altersarmut und Alterssicherung in Sachsen-Anhalt",
+  "date": "2026-07-13",
+  "persons": [
+    {
+      "slug": "janina-bottger",
+      "name": "Janina Böttger",
+      "name_padoka": "Böttger, Janina",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "david-schliesing",
+      "name": "David Schliesing",
+      "name_padoka": "Schliesing, David",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "fragesteller",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "drsNr": "21/7111",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/071/2107111.pdf",
+    "filename": "2107111.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219006300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ein Demokratieschild gegen Desinformation und für eine wehrhafte digitale Öffentlichkeit als Eckpfeiler deutscher und europäischer Sicherheit",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "konrad-korner",
+      "name": "Konrad Körner",
+      "name_padoka": "Körner, Konrad",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

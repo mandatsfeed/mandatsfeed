@@ -1,0 +1,130 @@
+{
+  "id": "dip-rede-21-90",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz zur Modernisierung des Bundespolizeigesetzes",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "josef-oster",
+      "name": "Josef Oster",
+      "name_padoka": "Oster, Josef",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ingo-vogel",
+      "name": "Ingo Vogel",
+      "name_padoka": "Vogel, Ingo",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "alexander-dobrindt",
+      "name": "Alexander Dobrindt",
+      "name_padoka": "Dobrindt, Alexander",
+      "role": "redner",
+      "fraktion": "Bundesministerium des Innern",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "irene-mihalic",
+      "name": "Irene Mihalic",
+      "name_padoka": "Mihalic, Irene",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sebastian-fiedler",
+      "name": "Sebastian Fiedler",
+      "name_padoka": "Fiedler, Sebastian",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "christopher-drossler",
+      "name": "Christopher Drößler",
+      "name_padoka": "Drößler, Christopher",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-throm",
+      "name": "Alexander Throm",
+      "name_padoka": "Throm, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "name_padoka": "Seidler, Stefan",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    },
+    {
+      "slug": "klaus-peter-willsch",
+      "name": "Klaus-Peter Willsch",
+      "name_padoka": "Willsch, Klaus-Peter",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "leon-eckert",
+      "name": "Leon Eckert",
+      "name_padoka": "Eckert, Leon",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "dietmar-bartsch",
+      "name": "Dietmar Bartsch",
+      "name_padoka": "Bartsch, Dietmar",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "marcus-buhl",
+      "name": "Marcus Bühl",
+      "name_padoka": "Bühl, Marcus",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martin-gerster",
+      "name": "Martin Gerster",
+      "name_padoka": "Gerster, Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "marcel-emmerich",
+      "name": "Marcel Emmerich",
+      "name_padoka": "Emmerich, Marcel",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "spd",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "afd",
+    "fraktionslos"
+  ],
+  "drsNr": "21/90",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf#P.11214",
+    "filename": "21090.pdf#P.11214"
+  }
+}

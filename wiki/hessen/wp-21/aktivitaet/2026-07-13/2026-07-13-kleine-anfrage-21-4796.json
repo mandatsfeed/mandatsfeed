@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-4796",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Belastungen der Gerichtsvollzieher und Gerichtsvollzieherinnen",
+  "date": "2026-07-13",
+  "drsNr": "21/4796",
+  "persons": [
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kaya-kinkel",
+      "name": "Kaya Kinkel",
+      "name_padoka": "Kinkel, Kaya",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/04796.pdf",
+    "filename": "04796.pdf"
+  }
+}

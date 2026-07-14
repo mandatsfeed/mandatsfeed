@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11567",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Unterstützung persönlicher Hygiene obdachloser Menschen",
+  "date": "2022-04-11",
+  "drsNr": "19/11567",
+  "persons": [
+    {
+      "slug": "christopher-forster",
+      "name": "Christopher Förster",
+      "name_padoka": "Förster, Christopher",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11567.pdf",
+    "filename": "S19-11567.pdf"
+  }
+}

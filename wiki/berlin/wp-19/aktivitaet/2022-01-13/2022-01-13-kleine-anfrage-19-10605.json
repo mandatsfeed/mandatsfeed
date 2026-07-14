@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10605",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Einsatzstunden bei Polizei und Feuerwehr im Jahr 2021 im Bezirk Lichtenberg",
+  "date": "2022-01-13",
+  "drsNr": "19/10605",
+  "persons": [
+    {
+      "slug": "sebastian-schlusselburg",
+      "name": "Sebastian Schlüsselburg",
+      "name_padoka": "Schlüsselburg, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10605.pdf",
+    "filename": "S19-10605.pdf"
+  }
+}

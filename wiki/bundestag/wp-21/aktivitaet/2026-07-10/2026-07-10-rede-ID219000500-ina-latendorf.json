@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219000500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zur Geschäftsordnung",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "ina-latendorf",
+      "name": "Ina Latendorf",
+      "name_padoka": "Latendorf, Ina",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

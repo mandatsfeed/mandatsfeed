@@ -1,0 +1,35 @@
+{
+  "id": "starweb-be-ka-19-11527",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Nachfragen zur Anfrage 19/11229 über Planung und Bau der Freitreppe „Schlossfreiheit“",
+  "date": "2022-04-07",
+  "drsNr": "19/11527",
+  "persons": [
+    {
+      "slug": "danny-freymark",
+      "name": "Danny Freymark",
+      "name_padoka": "Freymark, Danny",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    },
+    {
+      "slug": "stefan-forster",
+      "name": "Stefan Förster",
+      "name_padoka": "Förster, Stefan",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "cdu",
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11527.pdf",
+    "filename": "S19-11527.pdf"
+  }
+}

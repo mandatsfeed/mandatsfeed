@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219007200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bundespolizei rechtsstaatlich modernisieren – Menschenrechte in Vollzugspraxis und Ausbildung stärken",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "sebastian-fiedler",
+      "name": "Sebastian Fiedler",
+      "name_padoka": "Fiedler, Sebastian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

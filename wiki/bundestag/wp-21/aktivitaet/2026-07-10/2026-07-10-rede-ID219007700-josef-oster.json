@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219007700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bundespolizei rechtsstaatlich modernisieren – Menschenrechte in Vollzugspraxis und Ausbildung stärken",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "josef-oster",
+      "name": "Josef Oster",
+      "name_padoka": "Oster, Josef",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}

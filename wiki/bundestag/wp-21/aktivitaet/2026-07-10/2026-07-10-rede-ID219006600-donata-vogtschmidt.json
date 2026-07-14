@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219006600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ein Demokratieschild gegen Desinformation und für eine wehrhafte digitale Öffentlichkeit als Eckpfeiler deutscher und europäischer Sicherheit",
+  "date": "2026-07-10",
+  "persons": [
+    {
+      "slug": "donata-vogtschmidt",
+      "name": "Donata Vogtschmidt",
+      "name_padoka": "Vogtschmidt, Donata",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/90",
+    "date": "2026-07-10",
+    "page": 11247
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21090.pdf"
+  }
+}
