@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6566",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Stand der Umsetzung der Reform des Gemeinsamen Europäischen Asylsystems der Europäischen Union, soweit die Zuständigkeit des Landes Mecklenburg-Vorpommern gegeben ist",
+  "date": "2026-06-18",
+  "drsNr": "8/6566",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71311"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

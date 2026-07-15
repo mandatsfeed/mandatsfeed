@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T06:44:05.420Z",
+  "generatedAt": "2026-07-15T06:44:05.929Z",
   "parliaments": [
     {
       "slug": "bundestag",
@@ -12174,7 +12174,7 @@
               "parliament": "bundestag",
               "slug": "matthias-gastel",
               "label": "Matthias Gastel",
-              "count": 169,
+              "count": 170,
               "updatedAt": "2026-07-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/matthias-gastel/rss.xml",
               "externalFeeds": [
@@ -15044,7 +15044,7 @@
               "parliament": "bundestag",
               "slug": "swantje-henrike-michaelsen",
               "label": "Swantje Henrike Michaelsen",
-              "count": 165,
+              "count": 166,
               "updatedAt": "2026-07-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/swantje-henrike-michaelsen/rss.xml",
               "externalFeeds": [
@@ -15108,7 +15108,7 @@
               "parliament": "bundestag",
               "slug": "tarek-al-wazir",
               "label": "Tarek Al-Wazir",
-              "count": 142,
+              "count": 143,
               "updatedAt": "2026-07-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/tarek-al-wazir/rss.xml",
               "externalFeeds": [
@@ -15791,7 +15791,7 @@
               "parliament": "bundestag",
               "slug": "victoria-brossart",
               "label": "Victoria Broßart",
-              "count": 154,
+              "count": 155,
               "updatedAt": "2026-07-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/victoria-brossart/rss.xml",
               "externalFeeds": [
@@ -16067,7 +16067,7 @@
               "parliament": "bundestag",
               "slug": "bundnis-90-die-gruenen",
               "label": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-              "count": 679,
+              "count": 680,
               "updatedAt": "2026-07-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/fraktion/bundnis-90-die-gruenen/rss.xml"
             },
@@ -16287,8 +16287,8 @@
               "parliament": "sachsen",
               "slug": "christin-melcher",
               "label": "Christin Melcher",
-              "count": 144,
-              "updatedAt": "2026-07-09T00:00:00.000Z",
+              "count": 148,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/christin-melcher/rss.xml"
             },
             {
@@ -16953,8 +16953,8 @@
               "parliament": "sachsen",
               "slug": "lars-kuppi",
               "label": "Lars Kuppi",
-              "count": 34,
-              "updatedAt": "2026-07-13T00:00:00.000Z",
+              "count": 36,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/lars-kuppi/rss.xml"
             },
             {
@@ -16980,8 +16980,8 @@
               "parliament": "sachsen",
               "slug": "luise-neuhaus-wartenberg",
               "label": "Luise Neuhaus-Wartenberg",
-              "count": 91,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 92,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/luise-neuhaus-wartenberg/rss.xml"
             },
             {
@@ -17277,8 +17277,8 @@
               "parliament": "sachsen",
               "slug": "rico-gebhardt",
               "label": "Rico Gebhardt",
-              "count": 183,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 185,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/rico-gebhardt/rss.xml"
             },
             {
@@ -17430,8 +17430,8 @@
               "parliament": "sachsen",
               "slug": "stefan-hartmann",
               "label": "Stefan Hartmann",
-              "count": 76,
-              "updatedAt": "2026-06-26T00:00:00.000Z",
+              "count": 80,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/stefan-hartmann/rss.xml"
             },
             {
@@ -17520,8 +17520,8 @@
               "parliament": "sachsen",
               "slug": "timo-schreyer",
               "label": "Timo Schreyer",
-              "count": 92,
-              "updatedAt": "2026-07-07T00:00:00.000Z",
+              "count": 94,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/timo-schreyer/rss.xml"
             },
             {
@@ -17747,8 +17747,8 @@
               "parliament": "sachsen",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 2930,
-              "updatedAt": "2026-07-13T00:00:00.000Z",
+              "count": 2934,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/afd/rss.xml"
             },
             {
@@ -17765,8 +17765,8 @@
               "parliament": "sachsen",
               "slug": "bundnisgruene",
               "label": "Fraktion BÜNDNISGRÜNE",
-              "count": 832,
-              "updatedAt": "2026-07-13T00:00:00.000Z",
+              "count": 836,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/bundnisgruene/rss.xml"
             },
             {
@@ -17783,8 +17783,8 @@
               "parliament": "sachsen",
               "slug": "die-linke",
               "label": "Fraktion Die Linke",
-              "count": 1275,
-              "updatedAt": "2026-07-13T00:00:00.000Z",
+              "count": 1282,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/die-linke/rss.xml"
             },
             {
@@ -18048,8 +18048,8 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "constanze-oehlrich",
               "label": "Constanze Oehlrich",
-              "count": 120,
-              "updatedAt": "2026-07-13T00:00:00.000Z",
+              "count": 121,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/personen/constanze-oehlrich/rss.xml"
             },
             {
@@ -18498,7 +18498,7 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "jan-phillip-tadsen",
               "label": "Jan-Phillip Tadsen",
-              "count": 141,
+              "count": 142,
               "updatedAt": "2026-07-03T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/personen/jan-phillip-tadsen/rss.xml"
             },
@@ -18858,8 +18858,8 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "thomas-de-jesus-fernandes",
               "label": "Thomas de Jesus Fernandes",
-              "count": 189,
-              "updatedAt": "2026-07-06T00:00:00.000Z",
+              "count": 190,
+              "updatedAt": "2026-07-13T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/personen/thomas-de-jesus-fernandes/rss.xml"
             },
             {
@@ -18968,7 +18968,7 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 1418,
+              "count": 1420,
               "updatedAt": "2026-07-13T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/fraktion/afd/rss.xml"
             },
@@ -18977,8 +18977,8 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "bundnis-90-die-gruenen",
               "label": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-              "count": 506,
-              "updatedAt": "2026-07-13T00:00:00.000Z",
+              "count": 507,
+              "updatedAt": "2026-07-14T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/fraktion/bundnis-90-die-gruenen/rss.xml"
             },
             {
@@ -20067,7 +20067,7 @@
               "parliament": "hessen",
               "slug": "bernd-erich-vohl",
               "label": "Bernd-Erich Vohl",
-              "count": 26,
+              "count": 27,
               "updatedAt": "2026-07-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/bernd-erich-vohl/rss.xml"
             },
@@ -20112,7 +20112,7 @@
               "parliament": "hessen",
               "slug": "christian-rohde",
               "label": "Christian Rohde",
-              "count": 27,
+              "count": 28,
               "updatedAt": "2026-07-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/christian-rohde/rss.xml"
             },
@@ -20544,7 +20544,7 @@
               "parliament": "hessen",
               "slug": "kathrin-anders",
               "label": "Kathrin Anders",
-              "count": 18,
+              "count": 20,
               "updatedAt": "2026-07-10T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/kathrin-anders/rss.xml"
             },
@@ -20598,7 +20598,7 @@
               "parliament": "hessen",
               "slug": "klaus-gagel",
               "label": "Klaus Gagel",
-              "count": 17,
+              "count": 18,
               "updatedAt": "2026-07-13T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/klaus-gagel/rss.xml"
             },
@@ -20661,7 +20661,7 @@
               "parliament": "hessen",
               "slug": "marcus-bocklet",
               "label": "Marcus Bocklet",
-              "count": 16,
+              "count": 17,
               "updatedAt": "2026-07-09T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/marcus-bocklet/rss.xml"
             },
@@ -20913,7 +20913,7 @@
               "parliament": "hessen",
               "slug": "pascal-schleich",
               "label": "Pascal Schleich",
-              "count": 26,
+              "count": 27,
               "updatedAt": "2026-07-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/pascal-schleich/rss.xml"
             },
@@ -20940,7 +20940,7 @@
               "parliament": "hessen",
               "slug": "patrick-schenk-frankfurt",
               "label": "Patrick Schenk(Frankfurt)",
-              "count": 8,
+              "count": 9,
               "updatedAt": "2026-07-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/patrick-schenk-frankfurt/rss.xml"
             },
@@ -20994,7 +20994,7 @@
               "parliament": "hessen",
               "slug": "roman-bausch",
               "label": "Roman Bausch",
-              "count": 13,
+              "count": 14,
               "updatedAt": "2026-07-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/roman-bausch/rss.xml"
             },
@@ -21030,7 +21030,7 @@
               "parliament": "hessen",
               "slug": "sandra-weegels",
               "label": "Sandra Weegels",
-              "count": 20,
+              "count": 21,
               "updatedAt": "2026-07-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/sandra-weegels/rss.xml"
             },
@@ -21239,7 +21239,7 @@
               "parliament": "hessen",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 66,
+              "count": 67,
               "updatedAt": "2026-07-13T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/fraktion/afd/rss.xml"
             },
@@ -21248,7 +21248,7 @@
               "parliament": "hessen",
               "slug": "bundnis-90-die-gruenen",
               "label": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-              "count": 93,
+              "count": 95,
               "updatedAt": "2026-07-13T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/fraktion/bundnis-90-die-gruenen/rss.xml"
             },

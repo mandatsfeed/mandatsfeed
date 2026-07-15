@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7715",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Extreme Rechte an den Sächsischen Schulen",
+  "date": "2026-07-14",
+  "drsNr": "8/7715",
+  "persons": [
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52186",
+    "filename": "Drs_8_7715_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
