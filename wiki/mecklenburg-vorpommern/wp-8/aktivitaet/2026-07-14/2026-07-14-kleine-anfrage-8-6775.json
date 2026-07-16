@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6775",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schulbetrieb unter Druck – Offene Stellen von Lehrkräften, unterstützenden pädagogischen und multiprofessionellem Fachpersonal sowie aktueller Unterrichtsausfall",
+  "date": "2026-07-14",
+  "drsNr": "8/6775",
+  "persons": [
+    {
+      "slug": "jutta-wegner",
+      "name": "Jutta Wegner",
+      "name_padoka": "Wegner, Jutta",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72055"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

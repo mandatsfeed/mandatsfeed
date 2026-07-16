@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6770",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "EU-gefördertes Klimaschutzprojekt „Serrahn-Süd“",
+  "date": "2026-07-14",
+  "drsNr": "8/6770",
+  "persons": [
+    {
+      "slug": "beate-schlupp",
+      "name": "Beate Schlupp",
+      "name_padoka": "Schlupp, Beate",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72053"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

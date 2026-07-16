@@ -1,0 +1,55 @@
+{
+  "id": "starweb-he-drs-21-4805",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Gesamtkosten und wirtschaftliche Auswirkungen des Nationalen Naturmonuments „Grünes Band Hessen“",
+  "date": "2026-07-15",
+  "drsNr": "21/4805",
+  "persons": [
+    {
+      "slug": "gerhard-schenk-bebra",
+      "name": "Gerhard Schenk(Bebra)",
+      "name_padoka": "Schenk(Bebra), Gerhard",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lothar-mulch",
+      "name": "Lothar Mulch",
+      "name_padoka": "Mulch, Lothar",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "johannes-marxen",
+      "name": "Johannes Marxen",
+      "name_padoka": "Marxen, Johannes",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "roman-bausch",
+      "name": "Roman Bausch",
+      "name_padoka": "Bausch, Roman",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Berichtsantrag",
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/04805.pdf",
+    "filename": "04805.pdf"
+  }
+}

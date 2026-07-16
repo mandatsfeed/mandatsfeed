@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6774",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bearbeitung von Beihilfeanträgen der Landespolizei Mecklenburg-Vorpommern",
+  "date": "2026-07-15",
+  "drsNr": "8/6774",
+  "persons": [
+    {
+      "slug": "ann-christin-von-allworden",
+      "name": "Ann Christin von Allwörden",
+      "name_padoka": "von Allwörden, Ann Christin",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72054"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
