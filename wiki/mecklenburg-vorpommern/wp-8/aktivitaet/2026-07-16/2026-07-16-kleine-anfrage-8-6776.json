@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6776",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung von Minijobs in Mecklenburg-Vorpommern",
+  "date": "2026-07-16",
+  "drsNr": "8/6776",
+  "persons": [
+    {
+      "slug": "henning-foerster",
+      "name": "Henning Foerster",
+      "name_padoka": "Foerster, Henning",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72056"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

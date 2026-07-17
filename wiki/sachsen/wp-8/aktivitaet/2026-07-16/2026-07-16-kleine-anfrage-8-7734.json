@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7734",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Erkenntnisse der Staatsregierung zu Menstruationsstörungen im zeitlichen Zusammenhang mit COVID-19-Impfungen in Sachsen",
+  "date": "2026-07-16",
+  "drsNr": "8/7734",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52230",
+    "filename": "Drs_8_7734_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

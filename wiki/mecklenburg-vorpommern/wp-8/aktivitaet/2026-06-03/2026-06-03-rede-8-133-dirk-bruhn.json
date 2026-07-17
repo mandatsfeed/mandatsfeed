@@ -1,0 +1,28 @@
+{
+  "id": "parldok-rede-mecklenburg-vorpommern-8-133-dirk-bruhn",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "rede",
+  "title": "2 Redebeiträge in PlPr 8/133",
+  "date": "2026-06-03",
+  "persons": [
+    {
+      "slug": "dirk-bruhn",
+      "name": "Dirk Bruhn",
+      "name_padoka": "Bruhn, Dirk",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/133",
+    "date": "2026-06-03"
+  },
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71633"
+  }
+}
