@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4827",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Schutzkonzepte gegen Gewalt und sexuellen Missbrauch an Schulen",
+  "date": "2026-07-20",
+  "drsNr": "21/4827",
+  "persons": [
+    {
+      "slug": "julia-herz",
+      "name": "Julia Herz",
+      "name_padoka": "Herz, Julia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/7/04827.pdf",
+    "filename": "04827.pdf"
+  }
+}

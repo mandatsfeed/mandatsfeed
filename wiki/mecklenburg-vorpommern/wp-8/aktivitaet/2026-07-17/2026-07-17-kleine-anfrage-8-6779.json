@@ -1,0 +1,41 @@
+{
+  "id": "parldok-ka-8-6779",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Abitur 2026 am Robert-Stock-Gymnasium in Hagenow",
+  "date": "2026-07-17",
+  "drsNr": "8/6779",
+  "persons": [
+    {
+      "slug": "torsten-renz",
+      "name": "Torsten Renz",
+      "name_padoka": "Renz, Torsten",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    },
+    {
+      "slug": "katy-hoffmeister",
+      "name": "Katy Hoffmeister",
+      "name_padoka": "Hoffmeister, Katy",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    },
+    {
+      "slug": "christian-geier",
+      "name": "Christian Geier",
+      "name_padoka": "Geier, Christian",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72064"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

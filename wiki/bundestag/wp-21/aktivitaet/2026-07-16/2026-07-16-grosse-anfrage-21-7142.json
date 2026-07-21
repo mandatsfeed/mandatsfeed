@@ -1,0 +1,82 @@
+{
+  "id": "dip-ka-21-7142",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "grosse_anfrage",
+  "title": "Erfolgreiche Gestaltung der Energiewende",
+  "date": "2026-07-16",
+  "persons": [
+    {
+      "slug": "andrea-lubcke",
+      "name": "Andrea Lübcke",
+      "name_padoka": "Lübcke, Andrea",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lisa-badum",
+      "name": "Lisa Badum",
+      "name_padoka": "Badum, Lisa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "michael-kellner",
+      "name": "Michael Kellner",
+      "name_padoka": "Kellner, Michael",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katrin-uhlig",
+      "name": "Katrin Uhlig",
+      "name_padoka": "Uhlig, Katrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sandra-detzer",
+      "name": "Sandra Detzer",
+      "name_padoka": "Detzer, Sandra",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "julian-joswig",
+      "name": "Julian Joswig",
+      "name_padoka": "Joswig, Julian",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "alaa-alhamwi",
+      "name": "Alaa Alhamwi",
+      "name_padoka": "Alhamwi, Alaa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "julia-verlinden",
+      "name": "Julia Verlinden",
+      "name_padoka": "Verlinden, Julia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sandra-stein",
+      "name": "Sandra Stein",
+      "name_padoka": "Stein, Sandra",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/7142",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/071/2107142.pdf",
+    "filename": "2107142.pdf"
+  }
+}
