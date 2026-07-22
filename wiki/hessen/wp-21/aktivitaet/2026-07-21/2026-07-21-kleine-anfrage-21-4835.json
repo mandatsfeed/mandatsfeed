@@ -1,0 +1,54 @@
+{
+  "id": "starweb-he-ka-21-4835",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Hitzeschutz und Klimaanpassung in hessischen Bildungseinrichtungen",
+  "date": "2026-07-21",
+  "drsNr": "21/4835",
+  "persons": [
+    {
+      "slug": "martina-feldmayer",
+      "name": "Martina Feldmayer",
+      "name_padoka": "Feldmayer, Martina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "felix-martin",
+      "name": "Felix Martin",
+      "name_padoka": "Martin, Felix",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kathrin-anders",
+      "name": "Kathrin Anders",
+      "name_padoka": "Anders, Kathrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/04835.pdf",
+    "filename": "04835.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4487",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur Kleinen Anfrage 21/3613 Baulicher Zustand der Polizeistationen",
+  "date": "2026-05-21",
+  "drsNr": "21/4487",
+  "persons": [
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/7/04487.pdf",
+    "filename": "04487.pdf"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "starweb-he-ka-21-4834",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Behördlicher Umgang in Hessen mit im Ausland durch Leihmutterschaft geborenen Kindern und ihren Wunscheltern",
+  "date": "2026-07-21",
+  "drsNr": "21/4834",
+  "persons": [
+    {
+      "slug": "gerhard-barsch",
+      "name": "Gerhard Bärsch",
+      "name_padoka": "Bärsch, Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-lambrou",
+      "name": "Robert Lambrou",
+      "name_padoka": "Lambrou, Robert",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sandra-weegels",
+      "name": "Sandra Weegels",
+      "name_padoka": "Weegels, Sandra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "anna-nguyen",
+      "name": "Anna Nguyen",
+      "name_padoka": "Nguyen, Anna",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/4/04834.pdf",
+    "filename": "04834.pdf"
+  }
+}

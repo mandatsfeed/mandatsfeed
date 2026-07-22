@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6783",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Neubau der Mensa Süd der Universität Rostock",
+  "date": "2026-07-21",
+  "drsNr": "8/6783",
+  "persons": [
+    {
+      "slug": "martin-schmidt",
+      "name": "Martin Schmidt",
+      "name_padoka": "Schmidt, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72074"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

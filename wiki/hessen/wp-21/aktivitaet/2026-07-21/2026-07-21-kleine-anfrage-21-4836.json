@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4836",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Erneuerung der L 3147 zwischen Melsungen und Günsterode",
+  "date": "2026-07-21",
+  "drsNr": "21/4836",
+  "persons": [
+    {
+      "slug": "christoph-sippel",
+      "name": "Christoph Sippel",
+      "name_padoka": "Sippel, Christoph",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/04836.pdf",
+    "filename": "04836.pdf"
+  }
+}
