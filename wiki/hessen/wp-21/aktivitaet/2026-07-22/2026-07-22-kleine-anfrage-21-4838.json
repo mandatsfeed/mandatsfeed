@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4838",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Cyberangriff auf die Stadtverwaltung Wiesbaden: Ausmaß und kommunale Cybersicherheit in Hessen",
+  "date": "2026-07-22",
+  "drsNr": "21/4838",
+  "persons": [
+    {
+      "slug": "maximilian-muger",
+      "name": "Maximilian Müger",
+      "name_padoka": "Müger, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04838.pdf",
+    "filename": "04838.pdf"
+  }
+}

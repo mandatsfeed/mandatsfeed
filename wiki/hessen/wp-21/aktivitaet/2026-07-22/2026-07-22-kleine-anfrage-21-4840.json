@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4840",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Siemens-Ansiedlung in Offenbach nach dem Aus von Manroland: Landesförderung, Beschäftigungswechsel und Netzkapazität",
+  "date": "2026-07-22",
+  "drsNr": "21/4840",
+  "persons": [
+    {
+      "slug": "maximilian-muger",
+      "name": "Maximilian Müger",
+      "name_padoka": "Müger, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/0/04840.pdf",
+    "filename": "04840.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6728",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Influencer- und Blogger-Marketing der MV Tourismus GmbH",
+  "date": "2026-07-21",
+  "drsNr": "8/6728",
+  "persons": [
+    {
+      "slug": "sabine-enseleit",
+      "name": "Sabine Enseleit",
+      "name_padoka": "Enseleit, Sabine",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/71955"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

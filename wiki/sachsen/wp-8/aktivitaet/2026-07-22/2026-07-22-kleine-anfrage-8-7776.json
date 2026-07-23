@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7776",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Fragen zu einer Dienstaufsichtsbeschwerde gegen den Oberbürgermeister der Stadt Radebeul",
+  "date": "2026-07-22",
+  "drsNr": "8/7776",
+  "persons": [
+    {
+      "slug": "thomas-kirste",
+      "name": "Thomas Kirste",
+      "name_padoka": "Kirste, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52341",
+    "filename": "Drs_8_7776_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

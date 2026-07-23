@@ -1,0 +1,77 @@
+{
+  "id": "dip-ka-21-7266",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Nationale Zusatzanforderungen (sog. Gold Plating) bei der Anwendung der Anti-Hybrid-Regelung §4k EstG (Nachfrage zur Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 21/6091)",
+  "date": "2026-07-22",
+  "persons": [
+    {
+      "slug": "jorn-konig",
+      "name": "Jörn König",
+      "name_padoka": "König, Jörn",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "reinhard-mixl",
+      "name": "Reinhard Mixl",
+      "name_padoka": "Mixl, Reinhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "name_padoka": "Gottschalk, Kay",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "diana-zimmer",
+      "name": "Diana Zimmer",
+      "name_padoka": "Zimmer, Diana",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-gross",
+      "name": "Rainer Groß",
+      "name_padoka": "Groß, Rainer",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marcel-queckemeyer",
+      "name": "Marcel Queckemeyer",
+      "name_padoka": "Queckemeyer, Marcel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "name_padoka": "Finger, Hauke",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "iris-nieland",
+      "name": "Iris Nieland",
+      "name_padoka": "Nieland, Iris",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7266",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/072/2107266.pdf",
+    "filename": "2107266.pdf"
+  }
+}

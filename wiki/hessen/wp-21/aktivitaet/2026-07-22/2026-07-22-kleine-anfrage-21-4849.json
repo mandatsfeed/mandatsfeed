@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-4849",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Zukunft des Landwirtschaftszentrums Eichhof in Bad Hersfeld",
+  "date": "2026-07-22",
+  "drsNr": "21/4849",
+  "persons": [
+    {
+      "slug": "hans-jurgen-muller-witzenhausen",
+      "name": "Hans-Jürgen Müller(Witzenhausen)",
+      "name_padoka": "Müller(Witzenhausen), Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "martina-feldmayer",
+      "name": "Martina Feldmayer",
+      "name_padoka": "Feldmayer, Martina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/04849.pdf",
+    "filename": "04849.pdf"
+  }
+}
