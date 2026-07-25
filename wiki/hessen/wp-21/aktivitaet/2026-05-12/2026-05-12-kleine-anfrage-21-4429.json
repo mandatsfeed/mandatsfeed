@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4429",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Forschungszentrum der Keltenwelt am Glauberg",
+  "date": "2026-05-12",
+  "drsNr": "21/4429",
+  "persons": [
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kathrin-anders",
+      "name": "Kathrin Anders",
+      "name_padoka": "Anders, Kathrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "hildegard-forster-heldmann",
+      "name": "Hildegard Förster-Heldmann",
+      "name_padoka": "Förster-Heldmann, Hildegard",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/04429.pdf",
+    "filename": "04429.pdf"
+  }
+}

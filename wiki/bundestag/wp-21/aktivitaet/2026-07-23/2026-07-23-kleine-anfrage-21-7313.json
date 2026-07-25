@@ -1,0 +1,84 @@
+{
+  "id": "dip-ka-21-7313",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Queere Wohnungslosigkeit",
+  "date": "2026-07-23",
+  "persons": [
+    {
+      "slug": "karoline-otte",
+      "name": "Karoline Otte",
+      "name_padoka": "Otte, Karoline",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "timon-dzienus",
+      "name": "Timon Dzienus",
+      "name_padoka": "Dzienus, Timon",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kassem-taher-saleh",
+      "name": "Kassem Taher Saleh",
+      "name_padoka": "Saleh, Kassem Taher",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "julia-schneider",
+      "name": "Julia Schneider",
+      "name_padoka": "Schneider, Julia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "mayra-vriesema",
+      "name": "Mayra Vriesema",
+      "name_padoka": "Vriesema, Mayra",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "nyke-slawik",
+      "name": "Nyke Slawik",
+      "name_padoka": "Slawik, Nyke",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sylvia-rietenberg",
+      "name": "Sylvia Rietenberg",
+      "name_padoka": "Rietenberg, Sylvia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "alaa-alhamwi",
+      "name": "Alaa Alhamwi",
+      "name_padoka": "Alhamwi, Alaa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "hanna-steinmuller",
+      "name": "Hanna Steinmüller",
+      "name_padoka": "Steinmüller, Hanna",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/7313",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/073/2107313.pdf",
+    "filename": "2107313.pdf"
+  }
+}

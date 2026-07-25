@@ -1,0 +1,42 @@
+{
+  "id": "dip-ka-21-7315",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Kriterien und Grenzen für den Einsatz Künstlicher Intelligenz bei Verwaltungsentscheidungen des Bundes",
+  "date": "2026-07-23",
+  "persons": [
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "name_padoka": "Maack, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ruben-rupp",
+      "name": "Ruben Rupp",
+      "name_padoka": "Rupp, Ruben",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robin-junger",
+      "name": "Robin Jünger",
+      "name_padoka": "Jünger, Robin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7315",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/073/2107315.pdf",
+    "filename": "2107315.pdf"
+  }
+}

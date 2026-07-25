@@ -1,0 +1,75 @@
+{
+  "id": "starweb-he-ka-21-4511",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Mittelverwendung bezüglich Unterstützung der Fachstelle AbenteuerKindheit",
+  "date": "2026-05-27",
+  "drsNr": "21/4511",
+  "persons": [
+    {
+      "slug": "gerhard-barsch",
+      "name": "Gerhard Bärsch",
+      "name_padoka": "Bärsch, Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-lambrou",
+      "name": "Robert Lambrou",
+      "name_padoka": "Lambrou, Robert",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "heiko-scholz",
+      "name": "Heiko Scholz",
+      "name_padoka": "Scholz, Heiko",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lothar-mulch",
+      "name": "Lothar Mulch",
+      "name_padoka": "Mulch, Lothar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "roman-bausch",
+      "name": "Roman Bausch",
+      "name_padoka": "Bausch, Roman",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/04511.pdf",
+    "filename": "04511.pdf"
+  }
+}

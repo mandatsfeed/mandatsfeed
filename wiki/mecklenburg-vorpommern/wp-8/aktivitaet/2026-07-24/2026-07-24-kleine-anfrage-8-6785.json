@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6785",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung von Beschlüssen des Landtages und geplante Rechtsetzungsvorhaben der Landesregierung in der 8. Wahlperiode bzw. bis Ende des Jahres 2026",
+  "date": "2026-07-24",
+  "drsNr": "8/6785",
+  "persons": [
+    {
+      "slug": "ann-christin-von-allworden",
+      "name": "Ann Christin von Allwörden",
+      "name_padoka": "von Allwörden, Ann Christin",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72081"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

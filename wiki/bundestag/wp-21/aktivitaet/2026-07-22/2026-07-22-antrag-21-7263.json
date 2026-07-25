@@ -1,0 +1,68 @@
+{
+  "id": "dip-drs-21-7263",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Staatliches Handeln transparenter machen - Geheimhaltung begrenzen",
+  "date": "2026-07-22",
+  "persons": [
+    {
+      "slug": "thomas-fetsch",
+      "name": "Thomas Fetsch",
+      "name_padoka": "Fetsch, Thomas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "name_padoka": "Peterka, Tobias Matthias",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "name_padoka": "von Zons, Ulrich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "knuth-meyer-soltau",
+      "name": "Knuth Meyer-Soltau",
+      "name_padoka": "Meyer-Soltau, Knuth",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-kempf",
+      "name": "Martina Kempf",
+      "name_padoka": "Kempf, Martina",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7263",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/072/2107263.pdf",
+    "filename": "2107263.pdf"
+  }
+}

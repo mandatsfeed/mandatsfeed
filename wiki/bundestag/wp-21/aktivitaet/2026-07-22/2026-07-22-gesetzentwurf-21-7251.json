@@ -1,0 +1,278 @@
+{
+  "id": "dip-ges-21-7251",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "gesetzentwurf",
+  "title": "Gesetz zur Nichterhebung einer Erbschaft- und Schenkungsteuer (Erbschaftsteuernichterhebungsgesetz - ErbStNichtG)",
+  "date": "2026-07-22",
+  "persons": [
+    {
+      "slug": "michael-blos",
+      "name": "Michael Blos",
+      "name_padoka": "Blos, Michael",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-kempf",
+      "name": "Martina Kempf",
+      "name_padoka": "Kempf, Martina",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rocco-kever",
+      "name": "Rocco Kever",
+      "name_padoka": "Kever, Rocco",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "denis-pauli",
+      "name": "Denis Pauli",
+      "name_padoka": "Pauli, Denis",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kurt-kleinschmidt",
+      "name": "Kurt Kleinschmidt",
+      "name_padoka": "Kleinschmidt, Kurt",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "boris-gamanov",
+      "name": "Boris Gamanov",
+      "name_padoka": "Gamanov, Boris",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "maximilian-kneller",
+      "name": "Maximilian Kneller",
+      "name_padoka": "Kneller, Maximilian",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "erhard-brucker",
+      "name": "Erhard Brucker",
+      "name_padoka": "Brucker, Erhard",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "name_padoka": "Koch, Heinrich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "achim-kohler",
+      "name": "Achim Köhler",
+      "name_padoka": "Köhler, Achim",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nicole-hochst",
+      "name": "Nicole Höchst",
+      "name_padoka": "Höchst, Nicole",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carina-schiessl",
+      "name": "Carina Schießl",
+      "name_padoka": "Schießl, Carina",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-gross",
+      "name": "Rainer Groß",
+      "name_padoka": "Groß, Rainer",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "name_padoka": "Bloch, Joachim",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "manuel-krauthausen",
+      "name": "Manuel Krauthausen",
+      "name_padoka": "Krauthausen, Manuel",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-ebenberger",
+      "name": "Tobias Ebenberger",
+      "name_padoka": "Ebenberger, Tobias",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-uhr",
+      "name": "Martina Uhr",
+      "name_padoka": "Uhr, Martina",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "manfred-schiller",
+      "name": "Manfred Schiller",
+      "name_padoka": "Schiller, Manfred",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-springer",
+      "name": "René Springer",
+      "name_padoka": "Springer, René",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "edgar-naujok",
+      "name": "Edgar Naujok",
+      "name_padoka": "Naujok, Edgar",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "mathias-weiser",
+      "name": "Mathias Weiser",
+      "name_padoka": "Weiser, Mathias",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "knuth-meyer-soltau",
+      "name": "Knuth Meyer-Soltau",
+      "name_padoka": "Meyer-Soltau, Knuth",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "wolfgang-wiehle",
+      "name": "Wolfgang Wiehle",
+      "name_padoka": "Wiehle, Wolfgang",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-kaufmann",
+      "name": "Michael Kaufmann",
+      "name_padoka": "Kaufmann, Michael",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "name_padoka": "Stephan, Thomas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "diana-zimmer",
+      "name": "Diana Zimmer",
+      "name_padoka": "Zimmer, Diana",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-fetsch",
+      "name": "Thomas Fetsch",
+      "name_padoka": "Fetsch, Thomas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nicole-hess",
+      "name": "Nicole Hess",
+      "name_padoka": "Hess, Nicole",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arne-raue",
+      "name": "Arne Raue",
+      "name_padoka": "Raue, Arne",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jorg-zirwes",
+      "name": "Jörg Zirwes",
+      "name_padoka": "Zirwes, Jörg",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "name_padoka": "von Zons, Ulrich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "name_padoka": "Peterka, Tobias Matthias",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "name_padoka": "Finger, Hauke",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7251",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/072/2107251.pdf",
+    "filename": "2107251.pdf"
+  }
+}
