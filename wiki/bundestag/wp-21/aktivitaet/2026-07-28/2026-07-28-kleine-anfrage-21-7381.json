@@ -1,0 +1,105 @@
+{
+  "id": "dip-ka-21-7381",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Erkenntnisse und Maßnahmen der Bundesregierung bezüglich ukrainischer Drohnen über dem Luftraum der Europäischen Union in Finnland und im Baltikum",
+  "date": "2026-07-28",
+  "persons": [
+    {
+      "slug": "christoph-grimm",
+      "name": "Christoph Grimm",
+      "name_padoka": "Grimm, Christoph",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "micha-fehre",
+      "name": "Micha Fehre",
+      "name_padoka": "Fehre, Micha",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-boehringer",
+      "name": "Peter Boehringer",
+      "name_padoka": "Boehringer, Peter",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "maximilian-krah",
+      "name": "Maximilian Krah",
+      "name_padoka": "Krah, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "pierre-lamely",
+      "name": "Pierre Lamely",
+      "name_padoka": "Lamely, Pierre",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "boris-gamanov",
+      "name": "Boris Gamanov",
+      "name_padoka": "Gamanov, Boris",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Rainer Rothfuß",
+      "name_padoka": "Rothfuß, Rainer",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-teich",
+      "name": "Tobias Teich",
+      "name_padoka": "Teich, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hannes-gnauck",
+      "name": "Hannes Gnauck",
+      "name_padoka": "Gnauck, Hannes",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "matthias-moosdorf",
+      "name": "Matthias Moosdorf",
+      "name_padoka": "Moosdorf, Matthias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7381",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/073/2107381.pdf",
+    "filename": "2107381.pdf"
+  }
+}

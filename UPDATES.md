@@ -1,5 +1,45 @@
 # Updates
 
+## 2026-07-29 07:31
+
+Insgesamt **13319 neu**, **0 aktualisiert**, **0 entfernt** in 3 Parlamenten.
+
+### Deutscher Bundestag
+
++13311 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Rede | Antrag | Kleine Anfrage | Große Anfrage | Gesetzentwurf | Abstimmung |
+|---|---|---|---|---|---|---|
+| AfD | +2463 | +199 | +1508 | +9 | +33 | +45 |
+| BSW | +13 | — | — | — | — | — |
+| Bundesregierung | +1897 | — | — | — | — | — |
+| BÜNDNIS 90/DIE GRÜNEN | +79 | +166 | +450 | +1 | +14 | — |
+| CDU/CSU | +2714 | +4 | — | — | — | +45 |
+| Die Linke | +1303 | +118 | +565 | +3 | +1 | +45 |
+| FDP | +57 | +9 | +20 | — | +2 | — |
+| Fraktionslose Abgeordnete | +86 | +3 | — | — | +4 | +45 |
+| SPD | +1812 | +4 | — | — | — | +45 |
+| unbekannt | — | +3 | +71 | — | — | — |
+
+### Sächsischer Landtag
+
++6 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Kleine Anfrage |
+|---|---|
+| AfD | +2 |
+| Die Linke | +4 |
+
+### Landtag Mecklenburg-Vorpommern
+
++2 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Kleine Anfrage |
+|---|---|
+| AfD | +1 |
+| Die Linke | +1 |
+
+
 ## 2026-07-28 07:24
 
 Insgesamt **13313 neu**, **0 aktualisiert**, **0 entfernt** in 3 Parlamenten.

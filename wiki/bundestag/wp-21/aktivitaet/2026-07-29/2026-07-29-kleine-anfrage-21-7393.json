@@ -1,0 +1,56 @@
+{
+  "id": "dip-ka-21-7393",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Maßnahmen der Bundesregierung zur Entlastung von hohen Kraftstoff- und Gaspreisen durch den Irankonflikt",
+  "date": "2026-07-29",
+  "persons": [
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-henze",
+      "name": "Stefan Henze",
+      "name_padoka": "Henze, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-mayer",
+      "name": "Andreas Mayer",
+      "name_padoka": "Mayer, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7393",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/073/2107393.pdf",
+    "filename": "2107393.pdf"
+  }
+}
