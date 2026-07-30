@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7853",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Radwegebau in den Jahren 2027/2028",
+  "date": "2026-07-29",
+  "drsNr": "8/7853",
+  "persons": [
+    {
+      "slug": "tobias-heller",
+      "name": "Tobias Heller",
+      "name_padoka": "Heller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52492",
+    "filename": "Drs_8_7853_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

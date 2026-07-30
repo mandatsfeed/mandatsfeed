@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-7392",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Zur Bearbeitungsdauer von Antragsverfahren auf den Schwerbehindertenausweis",
+  "date": "2026-07-29",
+  "persons": [
+    {
+      "slug": "paul-schmidt",
+      "name": "Paul Schmidt",
+      "name_padoka": "Schmidt, Paul",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7392",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/073/2107392.pdf",
+    "filename": "2107392.pdf"
+  }
+}

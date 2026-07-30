@@ -1,0 +1,133 @@
+{
+  "id": "dip-ka-21-7409",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Folgen des EuGH-Urteils in der Rechtssache C-837/24 \"Nova Iberomoldes\" für das deutsche Grunderwerbsteuerrecht",
+  "date": "2026-07-29",
+  "persons": [
+    {
+      "slug": "georg-schroeter",
+      "name": "Georg Schroeter",
+      "name_padoka": "Schroeter, Georg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "edgar-naujok",
+      "name": "Edgar Naujok",
+      "name_padoka": "Naujok, Edgar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "otto-strauss",
+      "name": "Otto Strauß",
+      "name_padoka": "Strauß, Otto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-uhr",
+      "name": "Martina Uhr",
+      "name_padoka": "Uhr, Martina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "name_padoka": "von Zons, Ulrich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-ladzinski",
+      "name": "Thomas Ladzinski",
+      "name_padoka": "Ladzinski, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bastian-treuheit",
+      "name": "Bastian Treuheit",
+      "name_padoka": "Treuheit, Bastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rocco-kever",
+      "name": "Rocco Kever",
+      "name_padoka": "Kever, Rocco",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kay-uwe-ziegler",
+      "name": "Kay-Uwe Ziegler",
+      "name_padoka": "Ziegler, Kay-Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "name_padoka": "Peterka, Tobias Matthias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-dietz",
+      "name": "Thomas Dietz",
+      "name_padoka": "Dietz, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7409",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/074/2107409.pdf",
+    "filename": "2107409.pdf"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "dip-ka-21-7397",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Haager Übereinkommen über die zivilrechtlichen Aspekte internationaler Kindesentführung (HKÜ) und Schutz von Kindern und Jugendlichen vor grenzüberschreitender Kindesentziehung, Zwangsverheiratung und weiblicher Genitalverstümmelung",
+  "date": "2026-07-29",
+  "persons": [
+    {
+      "slug": "sascha-lensing",
+      "name": "Sascha Lensing",
+      "name_padoka": "Lensing, Sascha",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "markus-frohnmaier",
+      "name": "Markus Frohnmaier",
+      "name_padoka": "Frohnmaier, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7397",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/073/2107397.pdf",
+    "filename": "2107397.pdf"
+  }
+}
