@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7872",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage Drucksache 8_7677 - Ausgabereste im Einzelplan 10 und deren Bedeutung für den Regierungsentwurf des Doppelhaushalts 2027_2028",
+  "date": "2026-07-30",
+  "drsNr": "8/7872",
+  "persons": [
+    {
+      "slug": "tobias-keller",
+      "name": "Tobias Keller",
+      "name_padoka": "Keller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52555",
+    "filename": "Drs_8_7872_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
