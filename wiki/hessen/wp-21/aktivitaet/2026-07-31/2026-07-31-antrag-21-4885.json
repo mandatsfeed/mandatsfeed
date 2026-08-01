@@ -1,0 +1,76 @@
+{
+  "id": "starweb-he-drs-21-4885",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Kosten, Verantwortlichkeiten und mögliche Kostenerhebung im Zusammenhang mit der Räu-mung eines besetzten Universitätsgebäudes in Gießen",
+  "date": "2026-07-31",
+  "drsNr": "21/4885",
+  "persons": [
+    {
+      "slug": "pascal-schleich",
+      "name": "Pascal Schleich",
+      "name_padoka": "Schleich, Pascal",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sandra-weegels",
+      "name": "Sandra Weegels",
+      "name_padoka": "Weegels, Sandra",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "frank-dr-grobe",
+      "name": "Frank Dr. Grobe",
+      "name_padoka": "Grobe, Frank Dr.",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jochen-k-roos",
+      "name": "Jochen K. Roos",
+      "name_padoka": "Roos, Jochen K.",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lothar-mulch",
+      "name": "Lothar Mulch",
+      "name_padoka": "Mulch, Lothar",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Berichtsantrag",
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/04885.pdf",
+    "filename": "04885.pdf"
+  }
+}
