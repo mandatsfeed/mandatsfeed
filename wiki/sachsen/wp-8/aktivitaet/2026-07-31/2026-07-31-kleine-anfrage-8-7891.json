@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7891",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwurf des Einzelplan 10 der Staatsregierung zum Doppelhaushalt 2027/2028 - Zuschüsse nach dem Regionalisierungsgesetz (ÖPNV/SPNV)",
+  "date": "2026-07-31",
+  "drsNr": "8/7891",
+  "persons": [
+    {
+      "slug": "holger-hentschel",
+      "name": "Holger Hentschel",
+      "name_padoka": "Hentschel, Holger",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52588",
+    "filename": "Drs_8_7891_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

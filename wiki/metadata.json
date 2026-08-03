@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T07:15:21.359Z",
+  "generatedAt": "2026-08-03T08:06:25.996Z",
   "parliaments": [
     {
       "slug": "bundestag",
@@ -16656,8 +16656,8 @@
               "parliament": "sachsen",
               "slug": "holger-hentschel",
               "label": "Holger Hentschel",
-              "count": 44,
-              "updatedAt": "2026-06-26T00:00:00.000Z",
+              "count": 50,
+              "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/holger-hentschel/rss.xml"
             },
             {
@@ -17637,8 +17637,8 @@
               "parliament": "sachsen",
               "slug": "volker-dringenberg",
               "label": "Volker Dringenberg",
-              "count": 113,
-              "updatedAt": "2026-06-24T00:00:00.000Z",
+              "count": 114,
+              "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/volker-dringenberg/rss.xml"
             },
             {
@@ -17756,7 +17756,7 @@
               "parliament": "sachsen",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 3023,
+              "count": 3030,
               "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/afd/rss.xml"
             },
@@ -20094,7 +20094,7 @@
               "parliament": "hessen",
               "slug": "bernd-erich-vohl",
               "label": "Bernd-Erich Vohl",
-              "count": 39,
+              "count": 42,
               "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/bernd-erich-vohl/rss.xml"
             },
@@ -20139,7 +20139,7 @@
               "parliament": "hessen",
               "slug": "christian-rohde",
               "label": "Christian Rohde",
-              "count": 36,
+              "count": 41,
               "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/christian-rohde/rss.xml"
             },
@@ -20346,8 +20346,8 @@
               "parliament": "hessen",
               "slug": "gerhard-schenk-bebra",
               "label": "Gerhard Schenk(Bebra)",
-              "count": 6,
-              "updatedAt": "2026-07-30T00:00:00.000Z",
+              "count": 7,
+              "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/gerhard-schenk-bebra/rss.xml"
             },
             {
@@ -20562,7 +20562,7 @@
               "parliament": "hessen",
               "slug": "karsten-bletzer",
               "label": "Karsten Bletzer",
-              "count": 7,
+              "count": 9,
               "updatedAt": "2026-06-24T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/karsten-bletzer/rss.xml"
             },
@@ -20733,8 +20733,8 @@
               "parliament": "hessen",
               "slug": "markus-fuchs",
               "label": "Markus Fuchs",
-              "count": 8,
-              "updatedAt": "2026-07-24T00:00:00.000Z",
+              "count": 11,
+              "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/markus-fuchs/rss.xml"
             },
             {
@@ -20913,7 +20913,7 @@
               "parliament": "hessen",
               "slug": "olaf-schwaier",
               "label": "Olaf Schwaier",
-              "count": 17,
+              "count": 19,
               "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/olaf-schwaier/rss.xml"
             },
@@ -20940,7 +20940,7 @@
               "parliament": "hessen",
               "slug": "pascal-schleich",
               "label": "Pascal Schleich",
-              "count": 37,
+              "count": 40,
               "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/pascal-schleich/rss.xml"
             },
@@ -20967,7 +20967,7 @@
               "parliament": "hessen",
               "slug": "patrick-schenk-frankfurt",
               "label": "Patrick Schenk(Frankfurt)",
-              "count": 12,
+              "count": 13,
               "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/patrick-schenk-frankfurt/rss.xml"
             },
@@ -21012,8 +21012,8 @@
               "parliament": "hessen",
               "slug": "robert-lambrou",
               "label": "Robert Lambrou",
-              "count": 33,
-              "updatedAt": "2026-07-27T00:00:00.000Z",
+              "count": 35,
+              "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/robert-lambrou/rss.xml"
             },
             {
@@ -21057,7 +21057,7 @@
               "parliament": "hessen",
               "slug": "sandra-weegels",
               "label": "Sandra Weegels",
-              "count": 32,
+              "count": 35,
               "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/sandra-weegels/rss.xml"
             },
@@ -21266,7 +21266,7 @@
               "parliament": "hessen",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 88,
+              "count": 93,
               "updatedAt": "2026-07-31T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/fraktion/afd/rss.xml"
             },

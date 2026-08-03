@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7889",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwurf des Einzelplan 10 der Staatsregierung zum Doppelhaushalt 2027/2028 - Geplante globale Minderausgabe für Personalausgaben",
+  "date": "2026-07-31",
+  "drsNr": "8/7889",
+  "persons": [
+    {
+      "slug": "holger-hentschel",
+      "name": "Holger Hentschel",
+      "name_padoka": "Hentschel, Holger",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52586",
+    "filename": "Drs_8_7889_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
