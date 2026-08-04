@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7910",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Digitale Fahrzeugdaten als Beweismittel in Ermittlungs- und Strafverfahren",
+  "date": "2026-08-03",
+  "drsNr": "8/7910",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52615",
+    "filename": "Drs_8_7910_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

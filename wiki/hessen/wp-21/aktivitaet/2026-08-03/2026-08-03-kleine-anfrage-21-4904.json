@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-4904",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Anwendungsfähigkeit von Drohnen und Künstlicher Intelligenz in Umwelt, Naturschutz und Landwirtschaft",
+  "date": "2026-08-03",
+  "drsNr": "21/4904",
+  "persons": [
+    {
+      "slug": "marcus-resch",
+      "name": "Marcus Resch",
+      "name_padoka": "Resch, Marcus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "pascal-schleich",
+      "name": "Pascal Schleich",
+      "name_padoka": "Schleich, Pascal",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jochen-k-roos",
+      "name": "Jochen K. Roos",
+      "name_padoka": "Roos, Jochen K.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/4/04904.pdf",
+    "filename": "04904.pdf"
+  }
+}

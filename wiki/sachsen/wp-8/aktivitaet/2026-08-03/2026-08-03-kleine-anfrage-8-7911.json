@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7911",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entbürokratisierung der sächsischen Agrarförderung - Umstellung auf risikoorientierte Prüfverfahren und Reduzierung der Kontrolldichte im Geschäftsbereich des Staatsministeriums für Umwelt und Landwirtschaft (SMUL)",
+  "date": "2026-08-03",
+  "drsNr": "8/7911",
+  "persons": [
+    {
+      "slug": "jorg-dornau",
+      "name": "Jörg Dornau",
+      "name_padoka": "Dornau, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52616",
+    "filename": "Drs_8_7911_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

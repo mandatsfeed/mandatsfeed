@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7915",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aufbau eines souveränen KI-Assistenten für die Sächsische Staatsverwaltung",
+  "date": "2026-08-03",
+  "drsNr": "8/7915",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52620",
+    "filename": "Drs_8_7915_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

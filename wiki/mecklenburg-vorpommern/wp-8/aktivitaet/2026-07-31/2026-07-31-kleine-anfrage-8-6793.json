@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6793",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zugang minderjähriger Asylsuchender zu medizinischer Versorgung",
+  "date": "2026-07-31",
+  "drsNr": "8/6793",
+  "persons": [
+    {
+      "slug": "constanze-oehlrich",
+      "name": "Constanze Oehlrich",
+      "name_padoka": "Oehlrich, Constanze",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72090"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

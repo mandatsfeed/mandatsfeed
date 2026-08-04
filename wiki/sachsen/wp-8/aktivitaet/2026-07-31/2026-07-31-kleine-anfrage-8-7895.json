@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7895",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Koordinierungs- und Beratungsstelle Radikalisierungsprävention (KORA) und weitere Deradikalisierungsorganisationen in Sachsen",
+  "date": "2026-07-31",
+  "drsNr": "8/7895",
+  "persons": [
+    {
+      "slug": "lars-kuppi",
+      "name": "Lars Kuppi",
+      "name_padoka": "Kuppi, Lars",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52600",
+    "filename": "Drs_8_7895_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
