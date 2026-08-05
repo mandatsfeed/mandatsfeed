@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-4908",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Das Global Partnership Network (GPN) an der Universität Kassel",
+  "date": "2026-08-04",
+  "drsNr": "21/4908",
+  "persons": [
+    {
+      "slug": "frank-dr-grobe",
+      "name": "Frank Dr. Grobe",
+      "name_padoka": "Grobe, Frank Dr.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jochen-k-roos",
+      "name": "Jochen K. Roos",
+      "name_padoka": "Roos, Jochen K.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lothar-mulch",
+      "name": "Lothar Mulch",
+      "name_padoka": "Mulch, Lothar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "heiko-scholz",
+      "name": "Heiko Scholz",
+      "name_padoka": "Scholz, Heiko",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04908.pdf",
+    "filename": "04908.pdf"
+  }
+}

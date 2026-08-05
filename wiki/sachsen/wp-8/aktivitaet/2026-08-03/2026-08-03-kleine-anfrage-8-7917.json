@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7917",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Datengrundlage der Stellungnahme des SMIL vom 9. Juli 2026 zum Antrag Drs. 8_7463 und zu den Drs. 8_5984 und 8_7463",
+  "date": "2026-08-03",
+  "drsNr": "8/7917",
+  "persons": [
+    {
+      "slug": "tobias-keller",
+      "name": "Tobias Keller",
+      "name_padoka": "Keller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52622",
+    "filename": "Drs_8_7917_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "starweb-he-ka-21-4906",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Position Hessens zur sogenannten Chatkontrolle",
+  "date": "2026-08-04",
+  "drsNr": "21/4906",
+  "persons": [
+    {
+      "slug": "markus-fuchs",
+      "name": "Markus Fuchs",
+      "name_padoka": "Fuchs, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "karsten-bletzer",
+      "name": "Karsten Bletzer",
+      "name_padoka": "Bletzer, Karsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "pascal-schleich",
+      "name": "Pascal Schleich",
+      "name_padoka": "Schleich, Pascal",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sandra-weegels",
+      "name": "Sandra Weegels",
+      "name_padoka": "Weegels, Sandra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "patrick-schenk-frankfurt",
+      "name": "Patrick Schenk(Frankfurt)",
+      "name_padoka": "Schenk(Frankfurt), Patrick",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/04906.pdf",
+    "filename": "04906.pdf"
+  }
+}

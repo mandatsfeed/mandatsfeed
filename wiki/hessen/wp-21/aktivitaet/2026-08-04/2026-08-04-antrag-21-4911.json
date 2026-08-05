@@ -1,0 +1,83 @@
+{
+  "id": "starweb-he-drs-21-4911",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Mutmaßlicher sexueller Übergriff von Kindern auf ein anderes Kind in einer Kindertageseinrichtung in Baunatal und anschließender Umgang mit den Eltern des mutmaßlich betroffenen Kindes seitens der Kita-Leitung sowie der Behörden",
+  "date": "2026-08-04",
+  "drsNr": "21/4911",
+  "persons": [
+    {
+      "slug": "gerhard-barsch",
+      "name": "Gerhard Bärsch",
+      "name_padoka": "Bärsch, Gerhard",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sandra-weegels",
+      "name": "Sandra Weegels",
+      "name_padoka": "Weegels, Sandra",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-lambrou",
+      "name": "Robert Lambrou",
+      "name_padoka": "Lambrou, Robert",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "pascal-schleich",
+      "name": "Pascal Schleich",
+      "name_padoka": "Schleich, Pascal",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jochen-k-roos",
+      "name": "Jochen K. Roos",
+      "name_padoka": "Roos, Jochen K.",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Berichtsantrag",
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/04911.pdf",
+    "filename": "04911.pdf"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "dip-ka-21-7469",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Lage der christlichen Minderheit im Iran - Systematische Unterdrückung, staatliche Repressionsmaßnahmen und die Auswirkungen der aktuellen politischen Umbrüche",
+  "date": "2026-08-04",
+  "persons": [
+    {
+      "slug": "nicole-hochst",
+      "name": "Nicole Höchst",
+      "name_padoka": "Höchst, Nicole",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Rainer Rothfuß",
+      "name_padoka": "Rothfuß, Rainer",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-wolf",
+      "name": "Alexander Wolf",
+      "name_padoka": "Wolf, Alexander",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7469",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/074/2107469.pdf",
+    "filename": "2107469.pdf"
+  }
+}
