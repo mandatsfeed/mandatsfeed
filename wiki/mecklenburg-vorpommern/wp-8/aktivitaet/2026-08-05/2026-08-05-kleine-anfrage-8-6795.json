@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6795",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Projekttage oder -wochen mit externen Organisationen oder Referenten an den Schulen der Ämter Sternberger Seenlandschaft, Crivitz und Goldberg-Mildenitz",
+  "date": "2026-08-05",
+  "drsNr": "8/6795",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72095"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

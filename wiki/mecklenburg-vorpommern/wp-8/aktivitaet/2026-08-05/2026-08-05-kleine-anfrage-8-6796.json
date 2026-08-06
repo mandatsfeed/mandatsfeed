@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6796",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Unterstützung von Musikveranstaltungen mit Politcharakter durch das Land",
+  "date": "2026-08-05",
+  "drsNr": "8/6796",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72096"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

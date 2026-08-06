@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-7954",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Lösungsansätze zur Reaktion auf die Arbeitsmarktdemografie im Freistaat: Maßnahmen im Regierungsentwurf zum Doppelhaushalt 2027/28",
+  "date": "2026-08-05",
+  "drsNr": "8/7954",
+  "persons": [
+    {
+      "slug": "wolfram-gunther",
+      "name": "Wolfram Günther",
+      "name_padoka": "Günther, Wolfram",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52685",
+    "filename": "Drs_8_7954_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4390",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Frankfurter Flughafen: Weiterentwickeltes Betriebskonzept der Deutschen Flugsicherung und der Fraport AG vom 6. Mai 2026 sowie Vereinbarkeit mit den Zusagen aus dem Planfeststellungsbeschluss von 2007",
+  "date": "2026-05-07",
+  "drsNr": "21/4390",
+  "persons": [
+    {
+      "slug": "maximilian-muger",
+      "name": "Maximilian Müger",
+      "name_padoka": "Müger, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/0/04390.pdf",
+    "filename": "04390.pdf"
+  }
+}
