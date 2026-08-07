@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8004",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Fallrohrdiebstahl am ehemaligen Kloster sowie an einer Kirche in Remse",
+  "date": "2026-08-06",
+  "drsNr": "8/8004",
+  "persons": [
+    {
+      "slug": "jorg-kuhne",
+      "name": "Jörg Kühne",
+      "name_padoka": "Kühne, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52743",
+    "filename": "Drs_8_8004_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

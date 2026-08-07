@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8005",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Übersterblichkeit während der Corona- und Influenzawellen im Freistaat Sachsen",
+  "date": "2026-08-06",
+  "drsNr": "8/8005",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52744",
+    "filename": "Drs_8_8005_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

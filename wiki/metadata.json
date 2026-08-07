@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T07:25:00.787Z",
+  "generatedAt": "2026-08-07T06:03:50.776Z",
   "parliaments": [
     {
       "slug": "bundestag",
@@ -16800,8 +16800,8 @@
               "parliament": "sachsen",
               "slug": "jens-hentschel-thoricht",
               "label": "Jens Hentschel-Thöricht",
-              "count": 85,
-              "updatedAt": "2026-07-28T00:00:00.000Z",
+              "count": 86,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/jens-hentschel-thoricht/rss.xml"
             },
             {
@@ -16854,8 +16854,8 @@
               "parliament": "sachsen",
               "slug": "jorg-kuhne",
               "label": "Jörg Kühne",
-              "count": 2,
-              "updatedAt": "2026-07-09T00:00:00.000Z",
+              "count": 7,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/jorg-kuhne/rss.xml"
             },
             {
@@ -16926,8 +16926,8 @@
               "parliament": "sachsen",
               "slug": "katja-dietz",
               "label": "Katja Dietz",
-              "count": 160,
-              "updatedAt": "2026-08-04T00:00:00.000Z",
+              "count": 163,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/katja-dietz/rss.xml"
             },
             {
@@ -17151,8 +17151,8 @@
               "parliament": "sachsen",
               "slug": "norbert-otto-mayer",
               "label": "Norbert Otto Mayer",
-              "count": 74,
-              "updatedAt": "2026-07-31T00:00:00.000Z",
+              "count": 109,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/norbert-otto-mayer/rss.xml"
             },
             {
@@ -17322,8 +17322,8 @@
               "parliament": "sachsen",
               "slug": "romy-penz",
               "label": "Romy Penz",
-              "count": 123,
-              "updatedAt": "2026-08-05T00:00:00.000Z",
+              "count": 125,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/romy-penz/rss.xml"
             },
             {
@@ -17756,8 +17756,8 @@
               "parliament": "sachsen",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 3069,
-              "updatedAt": "2026-08-05T00:00:00.000Z",
+              "count": 3114,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/afd/rss.xml"
             },
             {
@@ -17765,8 +17765,8 @@
               "parliament": "sachsen",
               "slug": "bsw",
               "label": "Fraktion BSW",
-              "count": 731,
-              "updatedAt": "2026-08-05T00:00:00.000Z",
+              "count": 732,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/bsw/rss.xml"
             },
             {
@@ -18507,8 +18507,8 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "henning-foerster",
               "label": "Henning Foerster",
-              "count": 102,
-              "updatedAt": "2026-07-28T00:00:00.000Z",
+              "count": 103,
+              "updatedAt": "2026-08-04T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/personen/henning-foerster/rss.xml"
             },
             {
@@ -18642,7 +18642,7 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "martin-schmidt",
               "label": "Martin Schmidt",
-              "count": 166,
+              "count": 167,
               "updatedAt": "2026-08-04T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/personen/martin-schmidt/rss.xml"
             },
@@ -18995,7 +18995,7 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 1461,
+              "count": 1462,
               "updatedAt": "2026-08-05T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/fraktion/afd/rss.xml"
             },
@@ -19022,8 +19022,8 @@
               "parliament": "mecklenburg-vorpommern",
               "slug": "die-linke",
               "label": "Fraktion Die Linke",
-              "count": 696,
-              "updatedAt": "2026-07-28T00:00:00.000Z",
+              "count": 697,
+              "updatedAt": "2026-08-04T00:00:00.000Z",
               "rssUrl": "wiki/mecklenburg-vorpommern/wp-8/fraktion/die-linke/rss.xml"
             },
             {
@@ -20067,8 +20067,8 @@
               "parliament": "hessen",
               "slug": "arno-enners",
               "label": "Arno Enners",
-              "count": 38,
-              "updatedAt": "2026-08-04T00:00:00.000Z",
+              "count": 41,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/arno-enners/rss.xml"
             },
             {
@@ -20094,8 +20094,8 @@
               "parliament": "hessen",
               "slug": "bernd-erich-vohl",
               "label": "Bernd-Erich Vohl",
-              "count": 45,
-              "updatedAt": "2026-08-04T00:00:00.000Z",
+              "count": 48,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/bernd-erich-vohl/rss.xml"
             },
             {
@@ -20139,8 +20139,8 @@
               "parliament": "hessen",
               "slug": "christian-rohde",
               "label": "Christian Rohde",
-              "count": 43,
-              "updatedAt": "2026-08-04T00:00:00.000Z",
+              "count": 46,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/christian-rohde/rss.xml"
             },
             {
@@ -20328,8 +20328,8 @@
               "parliament": "hessen",
               "slug": "gerhard-barsch",
               "label": "Gerhard Bärsch",
-              "count": 38,
-              "updatedAt": "2026-08-04T00:00:00.000Z",
+              "count": 41,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/gerhard-barsch/rss.xml"
             },
             {
@@ -20940,8 +20940,8 @@
               "parliament": "hessen",
               "slug": "pascal-schleich",
               "label": "Pascal Schleich",
-              "count": 43,
-              "updatedAt": "2026-08-04T00:00:00.000Z",
+              "count": 46,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/pascal-schleich/rss.xml"
             },
             {
@@ -21012,8 +21012,8 @@
               "parliament": "hessen",
               "slug": "robert-lambrou",
               "label": "Robert Lambrou",
-              "count": 36,
-              "updatedAt": "2026-08-04T00:00:00.000Z",
+              "count": 39,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/robert-lambrou/rss.xml"
             },
             {
@@ -21057,8 +21057,8 @@
               "parliament": "hessen",
               "slug": "sandra-weegels",
               "label": "Sandra Weegels",
-              "count": 37,
-              "updatedAt": "2026-08-04T00:00:00.000Z",
+              "count": 40,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/sandra-weegels/rss.xml"
             },
             {
@@ -21237,8 +21237,8 @@
               "parliament": "hessen",
               "slug": "volker-richter",
               "label": "Volker Richter",
-              "count": 41,
-              "updatedAt": "2026-08-04T00:00:00.000Z",
+              "count": 44,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/volker-richter/rss.xml"
             },
             {
@@ -21266,8 +21266,8 @@
               "parliament": "hessen",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 98,
-              "updatedAt": "2026-08-04T00:00:00.000Z",
+              "count": 101,
+              "updatedAt": "2026-08-06T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/fraktion/afd/rss.xml"
             },
             {
