@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4130",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Projektförderung innerhalb der Theaterförderung",
+  "date": "2026-03-27",
+  "drsNr": "21/4130",
+  "persons": [
+    {
+      "slug": "hildegard-forster-heldmann",
+      "name": "Hildegard Förster-Heldmann",
+      "name_padoka": "Förster-Heldmann, Hildegard",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/0/04130.pdf",
+    "filename": "04130.pdf"
+  }
+}

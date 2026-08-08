@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8010",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umstände und Folgen der mit der \"Modernisierungsagenda\" geplanten Bündelung der Aufgaben des Amtes für Mess- und Eichwesen bei der Landesdesdirektion Sachsen",
+  "date": "2026-08-07",
+  "drsNr": "8/8010",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52749",
+    "filename": "Drs_8_8010_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

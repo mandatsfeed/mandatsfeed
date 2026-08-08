@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4203",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bauliche Mängel mit Gefahr für Leib und Leben an Hessens Hochschulen",
+  "date": "2026-04-14",
+  "drsNr": "21/4203",
+  "persons": [
+    {
+      "slug": "nina-eisenhardt",
+      "name": "Nina Eisenhardt",
+      "name_padoka": "Eisenhardt, Nina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/3/04203.pdf",
+    "filename": "04203.pdf"
+  }
+}

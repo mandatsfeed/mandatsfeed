@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8013",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zukunft der im Rahmen des Paktes für den Öffentlichen Gesundheitsdienst (ÖGD) geschaffenen Stellen ab dem Jahr 2027",
+  "date": "2026-08-07",
+  "drsNr": "8/8013",
+  "persons": [
+    {
+      "slug": "katja-dietz",
+      "name": "Katja Dietz",
+      "name_padoka": "Dietz, Katja",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52752",
+    "filename": "Drs_8_8013_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

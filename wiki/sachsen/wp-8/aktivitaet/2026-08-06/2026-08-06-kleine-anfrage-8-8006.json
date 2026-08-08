@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8006",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Drohnenvorfall mit Sprengstoff am Flughafen Leipzig/Halle in der Nacht vom 04.08.2026 zum 05.08.2026",
+  "date": "2026-08-06",
+  "drsNr": "8/8006",
+  "persons": [
+    {
+      "slug": "carsten-hutter-afd-sebastian-wippel",
+      "name": "Carsten Hütter AfD, Sebastian Wippel",
+      "name_padoka": "Wippel, Carsten Hütter AfD, Sebastian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52745",
+    "filename": "Drs_8_8006_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
