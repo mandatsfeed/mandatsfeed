@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4941",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Nutzung von Tasern bei den Polizei- und Ordnungsbehörden",
+  "date": "2026-08-10",
+  "drsNr": "21/4941",
+  "persons": [
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/04941.pdf",
+    "filename": "04941.pdf"
+  }
+}

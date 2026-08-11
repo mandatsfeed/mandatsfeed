@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-7532",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Kriminalitätsentwicklung in dem Zeitraum von 2000 bis 2025 in ausgewählten Deliktsbereichen",
+  "date": "2026-08-10",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7532",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/075/2107532.pdf",
+    "filename": "2107532.pdf"
+  }
+}

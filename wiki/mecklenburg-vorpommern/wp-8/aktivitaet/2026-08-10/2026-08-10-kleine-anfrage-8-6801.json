@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6801",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Versammlungsgeschehen in Zusammenhang mit der Versammlung „Tag der deutschen Jugend“ der „Generation Deutschland“ am 1. August 2026 in Schwerin",
+  "date": "2026-08-10",
+  "drsNr": "8/6801",
+  "persons": [
+    {
+      "slug": "thore-stein",
+      "name": "Thore Stein",
+      "name_padoka": "Stein, Thore",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72105"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

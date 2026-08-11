@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6804",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einsätze der Polizei bei den Feierlichkeiten zum Tag der Deutschen Einheit am 3. Oktober 2024 – Abrechnungen der beteiligten Länder für den Einsatz eigener Polizeikräfte",
+  "date": "2026-08-10",
+  "drsNr": "8/6804",
+  "persons": [
+    {
+      "slug": "ann-christin-von-allworden",
+      "name": "Ann Christin von Allwörden",
+      "name_padoka": "von Allwörden, Ann Christin",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72102"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
