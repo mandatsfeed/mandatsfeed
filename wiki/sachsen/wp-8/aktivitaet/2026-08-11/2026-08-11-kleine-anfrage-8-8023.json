@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8023",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Refinanzierung der Kosten für den Ausbildungsfonds Pflegeberufe von Krankenhäusern",
+  "date": "2026-08-11",
+  "drsNr": "8/8023",
+  "persons": [
+    {
+      "slug": "andre-wendt",
+      "name": "André Wendt",
+      "name_padoka": "Wendt, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52813",
+    "filename": "Drs_8_8023_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

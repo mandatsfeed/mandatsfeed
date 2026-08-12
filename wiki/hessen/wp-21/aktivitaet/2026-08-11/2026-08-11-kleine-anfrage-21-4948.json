@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-4948",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Polizeiliche Kontrollen in Prostitutionsstätten",
+  "date": "2026-08-11",
+  "drsNr": "21/4948",
+  "persons": [
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "julia-herz",
+      "name": "Julia Herz",
+      "name_padoka": "Herz, Julia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04948.pdf",
+    "filename": "04948.pdf"
+  }
+}

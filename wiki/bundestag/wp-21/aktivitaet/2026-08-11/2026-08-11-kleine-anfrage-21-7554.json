@@ -1,0 +1,175 @@
+{
+  "id": "dip-ka-21-7554",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Nutzung legaler Wirtschaftsstrukturen durch die Organisierte Kriminalität in Deutschland",
+  "date": "2026-08-11",
+  "persons": [
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "name_padoka": "Finger, Hauke",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jorn-konig",
+      "name": "Jörn König",
+      "name_padoka": "König, Jörn",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "name_padoka": "Hess, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "matthias-rentzsch",
+      "name": "Matthias Rentzsch",
+      "name_padoka": "Rentzsch, Matthias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "angela-rudzka",
+      "name": "Angela Rudzka",
+      "name_padoka": "Rudzka, Angela",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "volker-scheurell",
+      "name": "Volker Scheurell",
+      "name_padoka": "Scheurell, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christopher-drossler",
+      "name": "Christopher Drößler",
+      "name_padoka": "Drößler, Christopher",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sascha-lensing",
+      "name": "Sascha Lensing",
+      "name_padoka": "Lensing, Sascha",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "steffen-janich",
+      "name": "Steffen Janich",
+      "name_padoka": "Janich, Steffen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "markus-matzerath",
+      "name": "Markus Matzerath",
+      "name_padoka": "Matzerath, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "name_padoka": "Gottschalk, Kay",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "iris-nieland",
+      "name": "Iris Nieland",
+      "name_padoka": "Nieland, Iris",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gottfried-curio",
+      "name": "Gottfried Curio",
+      "name_padoka": "Curio, Gottfried",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-baumann",
+      "name": "Bernd Baumann",
+      "name_padoka": "Baumann, Bernd",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "reinhard-mixl",
+      "name": "Reinhard Mixl",
+      "name_padoka": "Mixl, Reinhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "daniel-zerbin",
+      "name": "Daniel Zerbin",
+      "name_padoka": "Zerbin, Daniel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-fetsch",
+      "name": "Thomas Fetsch",
+      "name_padoka": "Fetsch, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marcel-queckemeyer",
+      "name": "Marcel Queckemeyer",
+      "name_padoka": "Queckemeyer, Marcel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arne-raue",
+      "name": "Arne Raue",
+      "name_padoka": "Raue, Arne",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-reck",
+      "name": "Christian Reck",
+      "name_padoka": "Reck, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jochen-haug",
+      "name": "Jochen Haug",
+      "name_padoka": "Haug, Jochen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7554",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/075/2107554.pdf",
+    "filename": "2107554.pdf"
+  }
+}

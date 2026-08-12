@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-7544",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Bundesförderung für Unternehmen mit Sitz im Freistaat Thüringen seit dem Jahr 2020",
+  "date": "2026-08-11",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7544",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/075/2107544.pdf",
+    "filename": "2107544.pdf"
+  }
+}
