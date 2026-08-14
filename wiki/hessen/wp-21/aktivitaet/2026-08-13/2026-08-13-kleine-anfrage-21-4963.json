@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4963",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen der Veränderungen der vertragsärztlichen Vergütung ab 2027 auf Terminverfügbarkeit und die Versorgung zeitkritisch erkrankter Patienten in Hessen",
+  "date": "2026-08-13",
+  "drsNr": "21/4963",
+  "persons": [
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerhard-barsch",
+      "name": "Gerhard Bärsch",
+      "name_padoka": "Bärsch, Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/3/04963.pdf",
+    "filename": "04963.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8033",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Sachsenfonds - Landesförderprogramme - Straßen, Schulen, Krankenhäuser",
+  "date": "2026-08-13",
+  "drsNr": "8/8033",
+  "persons": [
+    {
+      "slug": "thomas-thumm",
+      "name": "Thomas Thumm",
+      "name_padoka": "Thumm, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52846",
+    "filename": "Drs_8_8033_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

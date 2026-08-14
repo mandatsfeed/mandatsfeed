@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8027",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vorsorgestand für einen mindestens 72 Stunden andauernden, großflächigen Stromausfall im Freistaat Sachsen",
+  "date": "2026-08-13",
+  "drsNr": "8/8027",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52838",
+    "filename": "Drs_8_8027_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
