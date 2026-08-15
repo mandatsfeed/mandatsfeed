@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8055",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Überarbeitung wasserrechtlicher Erlaubnisse zur Entnahme von Oberflächenwasser aus dem Gewässer des ,,Naturbades Luppa\" Nachfrage zu Drs. 8/6094",
+  "date": "2026-08-14",
+  "drsNr": "8/8055",
+  "persons": [
+    {
+      "slug": "tobias-heller",
+      "name": "Tobias Heller",
+      "name_padoka": "Heller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52881",
+    "filename": "Drs_8_8055_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8052",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklungsauffälligkeiten bei während der Corona-Maßnahmen geborenen Kindern in Sachsen",
+  "date": "2026-08-14",
+  "drsNr": "8/8052",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52870",
+    "filename": "Drs_8_8052_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
