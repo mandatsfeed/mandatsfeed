@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8075",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Planungen Doppelhaushalt 2027/28, Titel 03 04 547 52 (Betrieb der Aufnahmeeinrichtungen und der Abschiebehaftanstalt)",
+  "date": "2026-08-17",
+  "drsNr": "8/8075",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52922",
+    "filename": "Drs_8_8075_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8071",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Mutmaßliche Fehlfunktionen von Alarmsystemen in der Gemäldegalerie Alte Meister Dresden",
+  "date": "2026-08-17",
+  "drsNr": "8/8071",
+  "persons": [
+    {
+      "slug": "thomas-kirste",
+      "name": "Thomas Kirste",
+      "name_padoka": "Kirste, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=52912",
+    "filename": "Drs_8_8071_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
