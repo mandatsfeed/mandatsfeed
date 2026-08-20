@@ -1,0 +1,35 @@
+{
+  "id": "dip-ka-21-7646",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Grundwasser in Deutschland - Messstellenabdeckung, Datenqualität, regionale Nutzungskonkurrenzen und politische Einflussfaktoren",
+  "date": "2026-08-19",
+  "persons": [
+    {
+      "slug": "christian-reck",
+      "name": "Christian Reck",
+      "name_padoka": "Reck, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-blos",
+      "name": "Michael Blos",
+      "name_padoka": "Blos, Michael",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7646",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/076/2107646.pdf",
+    "filename": "2107646.pdf"
+  }
+}
