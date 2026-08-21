@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8141",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Folgen der EU-Verpackungsverordnung für sächsische Kleinunternehmen",
+  "date": "2026-08-20",
+  "drsNr": "8/8141",
+  "persons": [
+    {
+      "slug": "timo-schreyer",
+      "name": "Timo Schreyer",
+      "name_padoka": "Schreyer, Timo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53037",
+    "filename": "Drs_8_8141_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

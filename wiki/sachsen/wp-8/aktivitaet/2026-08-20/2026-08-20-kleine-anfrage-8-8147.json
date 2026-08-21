@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8147",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung Handlungsempfehlungen Reformkommission",
+  "date": "2026-08-20",
+  "drsNr": "8/8147",
+  "persons": [
+    {
+      "slug": "ines-biebrach",
+      "name": "Ines Biebrach",
+      "name_padoka": "Biebrach, Ines",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53054",
+    "filename": "Drs_8_8147_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

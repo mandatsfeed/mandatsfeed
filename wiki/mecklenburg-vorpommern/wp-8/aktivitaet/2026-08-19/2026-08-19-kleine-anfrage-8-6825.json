@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6825",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kinderreiche Familien in Mecklenburg-Vorpommern – Förderlogik, Datenlage und landespolitische Handlungsmöglichkeiten",
+  "date": "2026-08-19",
+  "drsNr": "8/6825",
+  "persons": [
+    {
+      "slug": "petra-federau",
+      "name": "Petra Federau",
+      "name_padoka": "Federau, Petra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72126"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
