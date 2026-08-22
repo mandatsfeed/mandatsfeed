@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6808",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Landesbegleitung und Erkenntnistransfer aus dem Modellprojekt „Smart City Hagenow“",
+  "date": "2026-08-13",
+  "drsNr": "8/6808",
+  "persons": [
+    {
+      "slug": "martin-schmidt",
+      "name": "Martin Schmidt",
+      "name_padoka": "Schmidt, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72136"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

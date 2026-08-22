@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8155",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Rechtliche Entscheidungsgrundlagen der Einführung der 2G-Regelung in Sachsen",
+  "date": "2026-08-21",
+  "drsNr": "8/8155",
+  "persons": [
+    {
+      "slug": "andre-wendt",
+      "name": "André Wendt",
+      "name_padoka": "Wendt, André",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53066",
+    "filename": "Drs_8_8155_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

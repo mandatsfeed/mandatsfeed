@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-5048",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Kontrollen und Belastungen von Lebensmittel- und Agrarimporten aus der Ukraine in Hessen",
+  "date": "2026-08-21",
+  "drsNr": "21/5048",
+  "persons": [
+    {
+      "slug": "gerhard-schenk-bebra",
+      "name": "Gerhard Schenk(Bebra)",
+      "name_padoka": "Schenk(Bebra), Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "johannes-marxen",
+      "name": "Johannes Marxen",
+      "name_padoka": "Marxen, Johannes",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/05048.pdf",
+    "filename": "05048.pdf"
+  }
+}
