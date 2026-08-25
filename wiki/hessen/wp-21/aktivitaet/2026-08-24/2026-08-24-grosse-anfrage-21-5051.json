@@ -1,0 +1,54 @@
+{
+  "id": "starweb-he-ka-21-5051",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "grosse_anfrage",
+  "title": "GeoProH: Mitwirkung öffentlicher Stellen, Interessenkonflikte, Wettbewerbsvorteile und Ri-sikobewertung (Nachfrage zu Drucksache 21/4201)",
+  "date": "2026-08-24",
+  "drsNr": "21/5051",
+  "persons": [
+    {
+      "slug": "marcus-resch",
+      "name": "Marcus Resch",
+      "name_padoka": "Resch, Marcus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "pascal-schleich",
+      "name": "Pascal Schleich",
+      "name_padoka": "Schleich, Pascal",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jochen-k-roos",
+      "name": "Jochen K. Roos",
+      "name_padoka": "Roos, Jochen K.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "roman-bausch",
+      "name": "Roman Bausch",
+      "name_padoka": "Bausch, Roman",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/05051.pdf",
+    "filename": "05051.pdf"
+  }
+}
