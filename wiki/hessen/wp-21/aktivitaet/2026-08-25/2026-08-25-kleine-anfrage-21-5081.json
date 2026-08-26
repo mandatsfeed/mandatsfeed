@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-5081",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Hausärztliche Unterversorgung im Frankfurter Stadtteil Schwanheim",
+  "date": "2026-08-25",
+  "drsNr": "21/5081",
+  "persons": [
+    {
+      "slug": "martina-feldmayer",
+      "name": "Martina Feldmayer",
+      "name_padoka": "Feldmayer, Martina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kathrin-anders",
+      "name": "Kathrin Anders",
+      "name_padoka": "Anders, Kathrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/05081.pdf",
+    "filename": "05081.pdf"
+  }
+}

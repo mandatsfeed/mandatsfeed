@@ -1,0 +1,84 @@
+{
+  "id": "dip-ka-21-7710",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen des GKV-Beitragssatzstabilisierungsgesetzes auf die häusliche Krankenpflege, die außerklinische Intensivpflege und die ambulante Versorgung in Flächenländern, insbesondere Thüringen",
+  "date": "2026-08-25",
+  "persons": [
+    {
+      "slug": "christopher-drossler",
+      "name": "Christopher Drößler",
+      "name_padoka": "Drößler, Christopher",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-moller",
+      "name": "Stefan Möller",
+      "name_padoka": "Möller, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "paul-schmidt",
+      "name": "Paul Schmidt",
+      "name_padoka": "Schmidt, Paul",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nicole-hess",
+      "name": "Nicole Hess",
+      "name_padoka": "Hess, Nicole",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexis-l-giersch",
+      "name": "Alexis L. Giersch",
+      "name_padoka": "Giersch, Alexis L.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-schroder",
+      "name": "Stefan Schröder",
+      "name_padoka": "Schröder, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-dietz",
+      "name": "Thomas Dietz",
+      "name_padoka": "Dietz, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-teske",
+      "name": "Robert Teske",
+      "name_padoka": "Teske, Robert",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7710",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/077/2107710.pdf",
+    "filename": "2107710.pdf"
+  }
+}
