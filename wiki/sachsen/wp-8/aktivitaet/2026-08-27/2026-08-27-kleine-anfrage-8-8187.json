@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8187",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vermögensfeststellung bei ukrainischen Staatsbürgern im Rahmen der Grundsicherung im Freistaat Sachsen",
+  "date": "2026-08-27",
+  "drsNr": "8/8187",
+  "persons": [
+    {
+      "slug": "jonas-dunzel",
+      "name": "Jonas Dünzel",
+      "name_padoka": "Dünzel, Jonas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53190",
+    "filename": "Drs_8_8187_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-5085",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Kürzungen bei den Ausbilderinnen und Ausbildern im pädagogischen Vorbereitungsdienst - Folgeanfrage zu Drs. 21/4026 vom 15.05.2026",
+  "date": "2026-08-26",
+  "drsNr": "21/5085",
+  "persons": [
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/05085.pdf",
+    "filename": "05085.pdf"
+  }
+}

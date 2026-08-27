@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-5096",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Deutsch-israelische Bildungskooperationen des Landes Hessen",
+  "date": "2026-08-27",
+  "drsNr": "21/5096",
+  "persons": [
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/05096.pdf",
+    "filename": "05096.pdf"
+  }
+}

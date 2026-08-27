@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-5098",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Hungerstreiks in hessischen Justizvollzugsanstalten – Häufigkeit, Dauer, Maßnahmen und medizinische Interventionen in den letzten fünf Jahren",
+  "date": "2026-08-27",
+  "drsNr": "21/5098",
+  "persons": [
+    {
+      "slug": "katrin-schleenbecker",
+      "name": "Katrin Schleenbecker",
+      "name_padoka": "Schleenbecker, Katrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/05098.pdf",
+    "filename": "05098.pdf"
+  }
+}
