@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-7751",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Verhältnismäßigkeit und Zwangsmaßnahmen im Rahmen des Smart Meter-Rollouts",
+  "date": "2026-08-28",
+  "persons": [
+    {
+      "slug": "edgar-naujok",
+      "name": "Edgar Naujok",
+      "name_padoka": "Naujok, Edgar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7751",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/077/2107751.pdf",
+    "filename": "2107751.pdf"
+  }
+}

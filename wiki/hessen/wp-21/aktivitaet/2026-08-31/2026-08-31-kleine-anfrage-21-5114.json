@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-5114",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Sachstand Projekt Paulskirche/Haus der Demokratie: Finanzierung, Trägerschaft und Zeitplan",
+  "date": "2026-08-31",
+  "drsNr": "21/5114",
+  "persons": [
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "miriam-dahlke",
+      "name": "Miriam Dahlke",
+      "name_padoka": "Dahlke, Miriam",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jurgen-frommrich",
+      "name": "Jürgen Frömmrich",
+      "name_padoka": "Frömmrich, Jürgen",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/4/05114.pdf",
+    "filename": "05114.pdf"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "dip-ka-21-6107",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Rentenzahlungen und Altersarmut im Jahr 2025",
+  "date": "2026-08-31",
+  "persons": [
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "name_padoka": "Stephan, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-feser",
+      "name": "Jan Feser",
+      "name_padoka": "Feser, Jan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-springer",
+      "name": "René Springer",
+      "name_padoka": "Springer, René",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kerstin-przygodda",
+      "name": "Kerstin Przygodda",
+      "name_padoka": "Przygodda, Kerstin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "name_padoka": "Finger, Hauke",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrike-schielke-ziesing",
+      "name": "Ulrike Schielke-Ziesing",
+      "name_padoka": "Schielke-Ziesing, Ulrike",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-ladzinski",
+      "name": "Thomas Ladzinski",
+      "name_padoka": "Ladzinski, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lukas-rehm",
+      "name": "Lukas Rehm",
+      "name_padoka": "Rehm, Lukas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-teske",
+      "name": "Robert Teske",
+      "name_padoka": "Teske, Robert",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerrit-huy",
+      "name": "Gerrit Huy",
+      "name_padoka": "Huy, Gerrit",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "mirco-hanker",
+      "name": "Mirco Hanker",
+      "name_padoka": "Hanker, Mirco",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/6107",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/061/2106107.pdf",
+    "filename": "2106107.pdf"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "dip-ka-21-7768",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Mögliche Wettbewerbsvorteile für chinesische Autohersteller durch Förderung von Elektrofahrzeugen durch die Bundesregierung",
+  "date": "2026-08-31",
+  "persons": [
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "manfred-schiller",
+      "name": "Manfred Schiller",
+      "name_padoka": "Schiller, Manfred",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "micha-fehre",
+      "name": "Micha Fehre",
+      "name_padoka": "Fehre, Micha",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "claudia-bernhard",
+      "name": "Claudia Bernhard",
+      "name_padoka": "Bernhard, Claudia",
+      "role": "fragesteller",
+      "fraktion": "Frauen und Verbraucherschutz), Bremen",
+      "funktion": "Stellv. MdBR (Senatorin für  Gesundheit"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7768",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/077/2107768.pdf",
+    "filename": "2107768.pdf"
+  }
+}
