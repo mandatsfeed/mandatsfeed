@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6885",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktuelle Umsteigesituation am Bahnhof Holthusen",
+  "date": "2026-09-01",
+  "drsNr": "8/6885",
+  "persons": [
+    {
+      "slug": "henning-foerster",
+      "name": "Henning Foerster",
+      "name_padoka": "Foerster, Henning",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72189"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "starweb-he-drs-21-5132",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Gesetz zur Verbesserung der Teilhabe von Menschen mit Sinnesbehinderungen",
+  "date": "2026-09-02",
+  "drsNr": "21/5132",
+  "persons": [
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-lambrou",
+      "name": "Robert Lambrou",
+      "name_padoka": "Lambrou, Robert",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerhard-barsch",
+      "name": "Gerhard Bärsch",
+      "name_padoka": "Bärsch, Gerhard",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "frank-dr-grobe",
+      "name": "Frank Dr. Grobe",
+      "name_padoka": "Grobe, Frank Dr.",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Änderungsantrag",
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/2/05132.pdf",
+    "filename": "05132.pdf"
+  }
+}

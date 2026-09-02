@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8225",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verstärktes Vorgehen gegen Clan-Kriminalität in Sachsen im Jahr 2025 und 2026, Nachfrage zu den Kleinen Anfragen Drs.-Nr.: 8/6607 und Drs.-Nr.: 8/3941",
+  "date": "2026-09-01",
+  "drsNr": "8/8225",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53274",
+    "filename": "Drs_8_8225_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

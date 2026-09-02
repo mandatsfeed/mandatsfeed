@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-5127",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Energie- und Wirtschaftskooperation zwischen Hessen und Indien im Rahmen der Indienreise des Ministerpräsidenten",
+  "date": "2026-09-01",
+  "drsNr": "21/5127",
+  "persons": [
+    {
+      "slug": "kaya-kinkel",
+      "name": "Kaya Kinkel",
+      "name_padoka": "Kinkel, Kaya",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "mirjam-glanz",
+      "name": "Mirjam Glanz",
+      "name_padoka": "Glanz, Mirjam",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jurgen-frommrich",
+      "name": "Jürgen Frömmrich",
+      "name_padoka": "Frömmrich, Jürgen",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/7/05127.pdf",
+    "filename": "05127.pdf"
+  }
+}
