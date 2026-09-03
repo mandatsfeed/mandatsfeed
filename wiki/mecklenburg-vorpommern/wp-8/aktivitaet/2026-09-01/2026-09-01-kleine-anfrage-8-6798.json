@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6798",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung der Unterbringungskapazitäten und Kostenerstattung nach dem Flüchtlingsaufnahmegesetz",
+  "date": "2026-09-01",
+  "drsNr": "8/6798",
+  "persons": [
+    {
+      "slug": "daniel-peters",
+      "name": "Daniel Peters",
+      "name_padoka": "Peters, Daniel",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72098"
+  },
+  "subtype": "Antwort auf Kleine Anfrage",
+  "status": "mit_antwort"
+}

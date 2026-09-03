@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6867",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Öl- und Gasförderung vor Usedom – Informationsstand und grenzüberschreitende Beteiligung",
+  "date": "2026-09-02",
+  "drsNr": "8/6867",
+  "persons": [
+    {
+      "slug": "jutta-wegner",
+      "name": "Jutta Wegner",
+      "name_padoka": "Wegner, Jutta",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72197"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
