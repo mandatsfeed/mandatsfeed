@@ -1,0 +1,35 @@
+{
+  "id": "dip-ka-21-7845",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Entscheidungsgrundlagen, Vertrauensschutz und wirtschaftliche Wirkungen der Reform der Bundesförderung für effiziente Gebäude zum 21. Juli 2026",
+  "date": "2026-09-04",
+  "persons": [
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7845",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/078/2107845.pdf",
+    "filename": "2107845.pdf"
+  }
+}
