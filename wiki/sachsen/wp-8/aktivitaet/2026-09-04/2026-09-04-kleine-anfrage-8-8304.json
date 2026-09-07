@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8304",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Fälle von Störung der Totenruhe im Freistaat Sachsen im Jahr 2025",
+  "date": "2026-09-04",
+  "drsNr": "8/8304",
+  "persons": [
+    {
+      "slug": "jorg-kuhne",
+      "name": "Jörg Kühne",
+      "name_padoka": "Kühne, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53438",
+    "filename": "Drs_8_8304_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
