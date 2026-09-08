@@ -1,0 +1,61 @@
+{
+  "id": "dip-drs-21-7853",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Ambulantisierungspotenzial heben - Psychiatrische Versorgung flexibel und patientenorientiert gestalten",
+  "date": "2026-09-07",
+  "persons": [
+    {
+      "slug": "johannes-wagner",
+      "name": "Johannes Wagner",
+      "name_padoka": "Wagner, Johannes",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "janosch-dahmen",
+      "name": "Janosch Dahmen",
+      "name_padoka": "Dahmen, Janosch",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "linda-heitmann",
+      "name": "Linda Heitmann",
+      "name_padoka": "Heitmann, Linda",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "armin-grau",
+      "name": "Armin Grau",
+      "name_padoka": "Grau, Armin",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kirsten-kappert-gonther",
+      "name": "Kirsten Kappert-Gonther",
+      "name_padoka": "Kappert-Gonther, Kirsten",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "simone-fischer",
+      "name": "Simone Fischer",
+      "name_padoka": "Fischer, Simone",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/7853",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/078/2107853.pdf",
+    "filename": "2107853.pdf"
+  }
+}
