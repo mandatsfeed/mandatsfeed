@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-5159",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Konzepte zur Einbindung von Spontanhelfenden in Katastrophenlagen",
+  "date": "2026-09-08",
+  "drsNr": "21/5159",
+  "persons": [
+    {
+      "slug": "christoph-sippel",
+      "name": "Christoph Sippel",
+      "name_padoka": "Sippel, Christoph",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/05159.pdf",
+    "filename": "05159.pdf"
+  }
+}
