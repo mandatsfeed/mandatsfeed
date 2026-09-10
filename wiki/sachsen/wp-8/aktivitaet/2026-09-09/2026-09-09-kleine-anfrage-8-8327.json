@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8327",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Personalstandsrichtwerte für den Personalbestand kommunaler Verwaltungen in den Kreisfreien Städten",
+  "date": "2026-09-09",
+  "drsNr": "8/8327",
+  "persons": [
+    {
+      "slug": "rico-gebhardt",
+      "name": "Rico Gebhardt",
+      "name_padoka": "Gebhardt, Rico",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53517",
+    "filename": "Drs_8_8327_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

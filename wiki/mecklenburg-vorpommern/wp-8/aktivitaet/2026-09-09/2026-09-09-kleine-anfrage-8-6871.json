@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6871",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beendigung der Deponieklasse-III-Ablagerung auf dem Ihlenberg zum 31. Dezember 2035",
+  "date": "2026-09-09",
+  "drsNr": "8/6871",
+  "persons": [
+    {
+      "slug": "dr-harald-terpe",
+      "name": "Dr. Harald Terpe",
+      "name_padoka": "Terpe, Dr. Harald",
+      "role": "fragesteller",
+      "fraktion": "B90/GR"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72205"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

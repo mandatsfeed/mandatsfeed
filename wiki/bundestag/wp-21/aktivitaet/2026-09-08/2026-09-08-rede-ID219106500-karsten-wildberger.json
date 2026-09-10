@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID219106500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 24",
+  "date": "2026-09-08",
+  "persons": [
+    {
+      "slug": "karsten-wildberger",
+      "name": "Karsten Wildberger",
+      "name_padoka": "Wildberger, Karsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesminister für Digitales und Staatsmodernisierung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/91",
+    "date": "2026-09-08",
+    "page": 11363
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21091.pdf"
+  }
+}

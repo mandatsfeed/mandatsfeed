@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219100400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 08",
+  "date": "2026-09-08",
+  "persons": [
+    {
+      "slug": "michael-espendiller",
+      "name": "Michael Espendiller",
+      "name_padoka": "Espendiller, Michael",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/91",
+    "date": "2026-09-08",
+    "page": 11363
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21091.pdf"
+  }
+}

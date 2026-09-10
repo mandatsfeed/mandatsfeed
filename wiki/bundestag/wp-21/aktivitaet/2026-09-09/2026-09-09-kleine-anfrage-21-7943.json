@@ -1,0 +1,84 @@
+{
+  "id": "dip-ka-21-7943",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Neuaufstellung der Gemeinschaftsaufgabe \"Verbesserung der regionalen Wirtschaftsstruktur\" (GRW) und mögliche Erweiterung der Fördergebietskulisse um Regionen in Baden-Württemberg",
+  "date": "2026-09-09",
+  "persons": [
+    {
+      "slug": "christian-douglas",
+      "name": "Christian Douglas",
+      "name_padoka": "Douglas, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "reinhard-mixl",
+      "name": "Reinhard Mixl",
+      "name_padoka": "Mixl, Reinhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "diana-zimmer",
+      "name": "Diana Zimmer",
+      "name_padoka": "Zimmer, Diana",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "name_padoka": "Gottschalk, Kay",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "name_padoka": "Finger, Hauke",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-schattner",
+      "name": "Bernd Schattner",
+      "name_padoka": "Schattner, Bernd",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerrit-huy",
+      "name": "Gerrit Huy",
+      "name_padoka": "Huy, Gerrit",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/7943",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/079/2107943.pdf",
+    "filename": "2107943.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219109200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 09",
+  "date": "2026-09-08",
+  "persons": [
+    {
+      "slug": "nina-scheer",
+      "name": "Nina Scheer",
+      "name_padoka": "Scheer, Nina",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/91",
+    "date": "2026-09-08",
+    "page": 11363
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21091.pdf"
+  }
+}

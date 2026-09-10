@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219102900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 12",
+  "date": "2026-09-08",
+  "persons": [
+    {
+      "slug": "carl-philipp-sassenrath",
+      "name": "Carl-Philipp Sassenrath",
+      "name_padoka": "Sassenrath, Carl-Philipp",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/91",
+    "date": "2026-09-08",
+    "page": 11363
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21091.pdf"
+  }
+}
