@@ -1,0 +1,1182 @@
+{
+  "id": "dip-rede-21-92",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2027 (Haushaltsgesetz 2027 - HG 2027)",
+  "date": "2026-09-09",
+  "persons": [
+    {
+      "slug": "jens-spahn",
+      "name": "Jens Spahn",
+      "name_padoka": "Spahn, Jens",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "thomas-rachel",
+      "name": "Thomas Rachel",
+      "name_padoka": "Rachel, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "johann-martel",
+      "name": "Johann Martel",
+      "name_padoka": "Martel, Johann",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "johannes-volkmann",
+      "name": "Johannes Volkmann",
+      "name_padoka": "Volkmann, Johannes",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jan-niclas-gesenhues",
+      "name": "Jan-Niclas Gesenhues",
+      "name_padoka": "Gesenhues, Jan-Niclas",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "denis-pauli",
+      "name": "Denis Pauli",
+      "name_padoka": "Pauli, Denis",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "serdar-yuksel",
+      "name": "Serdar Yüksel",
+      "name_padoka": "Yüksel, Serdar",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "claudia-roth",
+      "name": "Claudia Roth",
+      "name_padoka": "Roth, Claudia",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "wolfgang-stefinger",
+      "name": "Wolfgang Stefinger",
+      "name_padoka": "Stefinger, Wolfgang",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "julian-schmidt",
+      "name": "Julian Schmidt",
+      "name_padoka": "Schmidt, Julian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sanae-abdi",
+      "name": "Sanae Abdi",
+      "name_padoka": "Abdi, Sanae",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "charlotte-antonia-neuhauser",
+      "name": "Charlotte Antonia Neuhäuser",
+      "name_padoka": "Neuhäuser, Charlotte Antonia",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "schahina-gambir",
+      "name": "Schahina Gambir",
+      "name_padoka": "Gambir, Schahina",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "klaus-mack",
+      "name": "Klaus Mack",
+      "name_padoka": "Mack, Klaus",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "matthias-rentzsch",
+      "name": "Matthias Rentzsch",
+      "name_padoka": "Rentzsch, Matthias",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "felix-doring",
+      "name": "Felix Döring",
+      "name_padoka": "Döring, Felix",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "name_padoka": "Wagner, Sascha",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "jamila-schafer",
+      "name": "Jamila Schäfer",
+      "name_padoka": "Schäfer, Jamila",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "nicolas-zippelius",
+      "name": "Nicolas Zippelius",
+      "name_padoka": "Zippelius, Nicolas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "mirco-hanker",
+      "name": "Mirco Hanker",
+      "name_padoka": "Hanker, Mirco",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "reem-alabali-radovan",
+      "name": "Reem Alabali Radovan",
+      "name_padoka": "Radovan, Reem Alabali",
+      "role": "redner",
+      "fraktion": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "thomas-ladzinski",
+      "name": "Thomas Ladzinski",
+      "name_padoka": "Ladzinski, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-mattfeldt",
+      "name": "Andreas Mattfeldt",
+      "name_padoka": "Mattfeldt, Andreas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "daniel-zerbin",
+      "name": "Daniel Zerbin",
+      "name_padoka": "Zerbin, Daniel",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "vivian-tauschwitz",
+      "name": "Vivian Tauschwitz",
+      "name_padoka": "Tauschwitz, Vivian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jeanne-dillschneider",
+      "name": "Jeanne Dillschneider",
+      "name_padoka": "Dillschneider, Jeanne",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "rudiger-lucassen",
+      "name": "Rüdiger Lucassen",
+      "name_padoka": "Lucassen, Rüdiger",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "florian-dorn",
+      "name": "Florian Dorn",
+      "name_padoka": "Dorn, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ulrich-thoden",
+      "name": "Ulrich Thoden",
+      "name_padoka": "Thoden, Ulrich",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "robin-wagener",
+      "name": "Robin Wagener",
+      "name_padoka": "Wagener, Robin",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jan-wilhelm-pohlmann",
+      "name": "Jan-Wilhelm Pohlmann",
+      "name_padoka": "Pohlmann, Jan-Wilhelm",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "martin-reichardt",
+      "name": "Martin Reichardt",
+      "name_padoka": "Reichardt, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-schwarz",
+      "name": "Andreas Schwarz",
+      "name_padoka": "Schwarz, Andreas",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "dietmar-bartsch",
+      "name": "Dietmar Bartsch",
+      "name_padoka": "Bartsch, Dietmar",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sebastian-schafer",
+      "name": "Sebastian Schäfer",
+      "name_padoka": "Schäfer, Sebastian",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kerstin-vieregge",
+      "name": "Kerstin Vieregge",
+      "name_padoka": "Vieregge, Kerstin",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jan-ralf-nolte",
+      "name": "Jan Ralf Nolte",
+      "name_padoka": "Nolte, Jan Ralf",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "boris-pistorius",
+      "name": "Boris Pistorius",
+      "name_padoka": "Pistorius, Boris",
+      "role": "redner",
+      "fraktion": "Bundesministerium der Verteidigung",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "tobias-winkler",
+      "name": "Tobias Winkler",
+      "name_padoka": "Winkler, Tobias",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "boris-mijatovic",
+      "name": "Boris Mijatović",
+      "name_padoka": "Mijatović, Boris",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Rainer Rothfuß",
+      "name_padoka": "Rothfuß, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "roderich-kiesewetter",
+      "name": "Roderich Kiesewetter",
+      "name_padoka": "Kiesewetter, Roderich",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jan-van-aken",
+      "name": "Jan van Aken",
+      "name_padoka": "van Aken, Jan",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "max-lucks",
+      "name": "Max Lucks",
+      "name_padoka": "Lucks, Max",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "metin-hakverdi",
+      "name": "Metin Hakverdi",
+      "name_padoka": "Hakverdi, Metin",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tilman-kuban",
+      "name": "Tilman Kuban",
+      "name_padoka": "Kuban, Tilman",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "markus-frohnmaier",
+      "name": "Markus Frohnmaier",
+      "name_padoka": "Frohnmaier, Markus",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "katrin-fey",
+      "name": "Katrin Fey",
+      "name_padoka": "Fey, Katrin",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "deborah-during",
+      "name": "Deborah Düring",
+      "name_padoka": "Düring, Deborah",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "siemtje-moller",
+      "name": "Siemtje Möller",
+      "name_padoka": "Möller, Siemtje",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "jurgen-hardt",
+      "name": "Jürgen Hardt",
+      "name_padoka": "Hardt, Jürgen",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "johann-david-wadephul",
+      "name": "Johann David Wadephul",
+      "name_padoka": "Wadephul, Johann David",
+      "role": "redner",
+      "fraktion": "Auswärtiges Amt",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "esther-dilcher",
+      "name": "Esther Dilcher",
+      "name_padoka": "Dilcher, Esther",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "jurgen-koegel",
+      "name": "Jürgen Koegel",
+      "name_padoka": "Koegel, Jürgen",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "norbert-rottgen",
+      "name": "Norbert Röttgen",
+      "name_padoka": "Röttgen, Norbert",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "martin-rabanus",
+      "name": "Martin Rabanus",
+      "name_padoka": "Rabanus, Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stefan-seidler",
+      "name": "Stefan Seidler",
+      "name_padoka": "Seidler, Stefan",
+      "role": "redner",
+      "fraktion": "fraktionslos"
+    },
+    {
+      "slug": "derya-turk-nachbaur",
+      "name": "Derya Türk-Nachbaur",
+      "name_padoka": "Türk-Nachbaur, Derya",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "kerstin-radomski",
+      "name": "Kerstin Radomski",
+      "name_padoka": "Radomski, Kerstin",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "marlene-schonberger",
+      "name": "Marlene Schönberger",
+      "name_padoka": "Schönberger, Marlene",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katrin-zschau",
+      "name": "Katrin Zschau",
+      "name_padoka": "Zschau, Katrin",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "lars-schieske",
+      "name": "Lars Schieske",
+      "name_padoka": "Schieske, Lars",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ottilie-klein",
+      "name": "Ottilie Klein",
+      "name_padoka": "Klein, Ottilie",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "tina-winklmann",
+      "name": "Tina Winklmann",
+      "name_padoka": "Winklmann, Tina",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "karl-lauterbach",
+      "name": "Karl Lauterbach",
+      "name_padoka": "Lauterbach, Karl",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "gotz-fromming",
+      "name": "Götz Frömming",
+      "name_padoka": "Frömming, Götz",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ronald-rauhe",
+      "name": "Ronald Rauhe",
+      "name_padoka": "Rauhe, Ronald",
+      "role": "redner",
+      "fraktion": "Bundeskanzleramt",
+      "funktion": "Staatsmin."
+    },
+    {
+      "slug": "christian-gorke",
+      "name": "Christian Görke",
+      "name_padoka": "Görke, Christian",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "andreas-audretsch",
+      "name": "Andreas Audretsch",
+      "name_padoka": "Audretsch, Andreas",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "tim-klussendorf",
+      "name": "Tim Klüssendorf",
+      "name_padoka": "Klüssendorf, Tim",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "jorn-konig",
+      "name": "Jörn König",
+      "name_padoka": "König, Jörn",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-hoffmann",
+      "name": "Alexander Hoffmann",
+      "name_padoka": "Hoffmann, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "heidi-reichinnek",
+      "name": "Heidi Reichinnek",
+      "name_padoka": "Reichinnek, Heidi",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "claudia-muller",
+      "name": "Claudia Müller",
+      "name_padoka": "Müller, Claudia",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "wiebke-esdar",
+      "name": "Wiebke Esdar",
+      "name_padoka": "Esdar, Wiebke",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "tino-chrupalla",
+      "name": "Tino Chrupalla",
+      "name_padoka": "Chrupalla, Tino",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thorsten-frei",
+      "name": "Thorsten Frei",
+      "name_padoka": "Frei, Thorsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "soren-pellmann",
+      "name": "Sören Pellmann",
+      "name_padoka": "Pellmann, Sören",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "matthias-miersch",
+      "name": "Matthias Miersch",
+      "name_padoka": "Miersch, Matthias",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "katharina-droge",
+      "name": "Katharina Dröge",
+      "name_padoka": "Dröge, Katharina",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "alice-weidel",
+      "name": "Alice Weidel",
+      "name_padoka": "Weidel, Alice",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carl-philipp-sassenrath",
+      "name": "Carl-Philipp Sassenrath",
+      "name_padoka": "Sassenrath, Carl-Philipp",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "erhard-brucker",
+      "name": "Erhard Brucker",
+      "name_padoka": "Brucker, Erhard",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "daniel-bettermann",
+      "name": "Daniel Bettermann",
+      "name_padoka": "Bettermann, Daniel",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "klaus-wiener",
+      "name": "Klaus Wiener",
+      "name_padoka": "Wiener, Klaus",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "steffen-kotre",
+      "name": "Steffen Kotré",
+      "name_padoka": "Kotré, Steffen",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lisa-badum",
+      "name": "Lisa Badum",
+      "name_padoka": "Badum, Lisa",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "hans-koller",
+      "name": "Hans Koller",
+      "name_padoka": "Koller, Hans",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "julian-joswig",
+      "name": "Julian Joswig",
+      "name_padoka": "Joswig, Julian",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sebastian-roloff",
+      "name": "Sebastian Roloff",
+      "name_padoka": "Roloff, Sebastian",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "enrico-komning",
+      "name": "Enrico Komning",
+      "name_padoka": "Komning, Enrico",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-kiessling",
+      "name": "Michael Kießling",
+      "name_padoka": "Kießling, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jorg-cezanne",
+      "name": "Jörg Cezanne",
+      "name_padoka": "Cezanne, Jörg",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "michael-kellner",
+      "name": "Michael Kellner",
+      "name_padoka": "Kellner, Michael",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "nina-scheer",
+      "name": "Nina Scheer",
+      "name_padoka": "Scheer, Nina",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "rainer-kraft",
+      "name": "Rainer Kraft",
+      "name_padoka": "Kraft, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "wolfgang-wiehle",
+      "name": "Wolfgang Wiehle",
+      "name_padoka": "Wiehle, Wolfgang",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "janine-wissler",
+      "name": "Janine Wissler",
+      "name_padoka": "Wissler, Janine",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "katrin-uhlig",
+      "name": "Katrin Uhlig",
+      "name_padoka": "Uhlig, Katrin",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "daniel-walter",
+      "name": "Daniel Walter",
+      "name_padoka": "Walter, Daniel",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "leif-erik-holm",
+      "name": "Leif-Erik Holm",
+      "name_padoka": "Holm, Leif-Erik",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "katherina-reiche",
+      "name": "Katherina Reiche",
+      "name_padoka": "Reiche, Katherina",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Wirtschaft und Energie",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "mechthilde-wittmann",
+      "name": "Mechthilde Wittmann",
+      "name_padoka": "Wittmann, Mechthilde",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "parsa-marvi",
+      "name": "Parsa Marvi",
+      "name_padoka": "Marvi, Parsa",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "franziska-hoppermann",
+      "name": "Franziska Hoppermann",
+      "name_padoka": "Hoppermann, Franziska",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "carolin-wagner",
+      "name": "Carolin Wagner",
+      "name_padoka": "Wagner, Carolin",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "robin-junger",
+      "name": "Robin Jünger",
+      "name_padoka": "Jünger, Robin",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sonja-lemke",
+      "name": "Sonja Lemke",
+      "name_padoka": "Lemke, Sonja",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "konrad-korner",
+      "name": "Konrad Körner",
+      "name_padoka": "Körner, Konrad",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "donata-vogtschmidt",
+      "name": "Donata Vogtschmidt",
+      "name_padoka": "Vogtschmidt, Donata",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "name_padoka": "Maack, Sebastian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "armand-zorn",
+      "name": "Armand Zorn",
+      "name_padoka": "Zorn, Armand",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "sergej-minich",
+      "name": "Sergej Minich",
+      "name_padoka": "Minich, Sergej",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ralph-brinkhaus",
+      "name": "Ralph Brinkhaus",
+      "name_padoka": "Brinkhaus, Ralph",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ricarda-lang",
+      "name": "Ricarda Lang",
+      "name_padoka": "Lang, Ricarda",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "martin-gerster",
+      "name": "Martin Gerster",
+      "name_padoka": "Gerster, Martin",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "ruben-rupp",
+      "name": "Ruben Rupp",
+      "name_padoka": "Rupp, Ruben",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "karsten-wildberger",
+      "name": "Karsten Wildberger",
+      "name_padoka": "Wildberger, Karsten",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Digitales und Staatsmodernisierung",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "uwe-feiler",
+      "name": "Uwe Feiler",
+      "name_padoka": "Feiler, Uwe",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "michael-blos",
+      "name": "Michael Blos",
+      "name_padoka": "Blos, Michael",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-gebhart",
+      "name": "Thomas Gebhart",
+      "name_padoka": "Gebhart, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "marcel-queckemeyer",
+      "name": "Marcel Queckemeyer",
+      "name_padoka": "Queckemeyer, Marcel",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "anna-aeikens",
+      "name": "Anna Aeikens",
+      "name_padoka": "Aeikens, Anna",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "violetta-bock",
+      "name": "Violetta Bock",
+      "name_padoka": "Bock, Violetta",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "julia-schneider",
+      "name": "Julia Schneider",
+      "name_padoka": "Schneider, Julia",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "reza-asghari",
+      "name": "Reza Asghari",
+      "name_padoka": "Asghari, Reza",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "karsten-hilse",
+      "name": "Karsten Hilse",
+      "name_padoka": "Hilse, Karsten",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "paul-schmidt",
+      "name": "Paul Schmidt",
+      "name_padoka": "Schmidt, Paul",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "esra-limbacher",
+      "name": "Esra Limbacher",
+      "name_padoka": "Limbacher, Esra",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "fabian-fahl",
+      "name": "Fabian Fahl",
+      "name_padoka": "Fahl, Fabian",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "christian-moser",
+      "name": "Christian Moser",
+      "name_padoka": "Moser, Christian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "christoph-schmid",
+      "name": "Christoph Schmid",
+      "name_padoka": "Schmid, Christoph",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "mark-helfrich",
+      "name": "Mark Helfrich",
+      "name_padoka": "Helfrich, Mark",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "georg-schroeter",
+      "name": "Georg Schroeter",
+      "name_padoka": "Schroeter, Georg",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carsten-schneider",
+      "name": "Carsten Schneider",
+      "name_padoka": "Schneider, Carsten",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "florian-ossner",
+      "name": "Florian Oßner",
+      "name_padoka": "Oßner, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "alexis-l-giersch",
+      "name": "Alexis L. Giersch",
+      "name_padoka": "Giersch, Alexis L.",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "uwe-schmidt",
+      "name": "Uwe Schmidt",
+      "name_padoka": "Schmidt, Uwe",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "rene-bochmann",
+      "name": "René Bochmann",
+      "name_padoka": "Bochmann, René",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "henning-rehbaum",
+      "name": "Henning Rehbaum",
+      "name_padoka": "Rehbaum, Henning",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "paula-piechotta",
+      "name": "Paula Piechotta",
+      "name_padoka": "Piechotta, Paula",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "anja-troff-schaffarzyk",
+      "name": "Anja Troff-Schaffarzyk",
+      "name_padoka": "Troff-Schaffarzyk, Anja",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stefan-henze",
+      "name": "Stefan Henze",
+      "name_padoka": "Henze, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jorrit-bosch",
+      "name": "Jorrit Bosch",
+      "name_padoka": "Bosch, Jorrit",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "matthias-gastel",
+      "name": "Matthias Gastel",
+      "name_padoka": "Gastel, Matthias",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "truels-reichardt",
+      "name": "Truels Reichardt",
+      "name_padoka": "Reichardt, Truels",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "marcus-buhl",
+      "name": "Marcus Bühl",
+      "name_padoka": "Bühl, Marcus",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-stracke",
+      "name": "Stephan Stracke",
+      "name_padoka": "Stracke, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "tarek-al-wazir",
+      "name": "Tarek Al-Wazir",
+      "name_padoka": "Al-Wazir, Tarek",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "isabel-cademartori",
+      "name": "Isabel Cademartori",
+      "name_padoka": "Cademartori, Isabel",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "steffen-bilger",
+      "name": "Steffen Bilger",
+      "name_padoka": "Bilger, Steffen",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Verkehr",
+      "funktion": "Bundesmin."
+    },
+    {
+      "slug": "frauke-heiligenstadt",
+      "name": "Frauke Heiligenstadt",
+      "name_padoka": "Heiligenstadt, Frauke",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "matthias-hiller",
+      "name": "Matthias Hiller",
+      "name_padoka": "Hiller, Matthias",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "katharina-beck",
+      "name": "Katharina Beck",
+      "name_padoka": "Beck, Katharina",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "elisabeth-kaiser",
+      "name": "Elisabeth Kaiser",
+      "name_padoka": "Kaiser, Elisabeth",
+      "role": "redner",
+      "fraktion": "Bundesministerium der Finanzen",
+      "funktion": "Staatsmin."
+    },
+    {
+      "slug": "kathrin-michel",
+      "name": "Kathrin Michel",
+      "name_padoka": "Michel, Kathrin",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "christian-haase",
+      "name": "Christian Haase",
+      "name_padoka": "Haase, Christian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "thorsten-rudolph",
+      "name": "Thorsten Rudolph",
+      "name_padoka": "Rudolph, Thorsten",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "mathias-middelberg",
+      "name": "Mathias Middelberg",
+      "name_padoka": "Middelberg, Mathias",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "michael-espendiller",
+      "name": "Michael Espendiller",
+      "name_padoka": "Espendiller, Michael",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lars-klingbeil",
+      "name": "Lars Klingbeil",
+      "name_padoka": "Klingbeil, Lars",
+      "role": "redner",
+      "fraktion": "Bundesministerium der Finanzen",
+      "funktion": "Bundesmin."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "afd",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "die-linke",
+    "fraktionslos"
+  ],
+  "drsNr": "21/92",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21092.pdf#P.11477",
+    "filename": "21092.pdf#P.11477"
+  }
+}

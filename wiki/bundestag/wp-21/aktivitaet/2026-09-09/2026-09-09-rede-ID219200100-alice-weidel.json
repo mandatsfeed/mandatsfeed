@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219200100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 4",
+  "date": "2026-09-09",
+  "persons": [
+    {
+      "slug": "alice-weidel",
+      "name": "Alice Weidel",
+      "name_padoka": "Weidel, Alice",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/92",
+    "date": "2026-09-09",
+    "page": 11478
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21092.pdf"
+  }
+}

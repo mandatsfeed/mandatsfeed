@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8339",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Flächeninanspruchnahme und Kompensation",
+  "date": "2026-09-10",
+  "drsNr": "8/8339",
+  "persons": [
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53556",
+    "filename": "Drs_8_8339_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

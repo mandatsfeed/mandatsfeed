@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219205000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan",
+  "date": "2026-09-09",
+  "persons": [
+    {
+      "slug": "jan-van-aken",
+      "name": "Jan van Aken",
+      "name_padoka": "van Aken, Jan",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/92",
+    "date": "2026-09-09",
+    "page": 11478
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21092.pdf"
+  }
+}

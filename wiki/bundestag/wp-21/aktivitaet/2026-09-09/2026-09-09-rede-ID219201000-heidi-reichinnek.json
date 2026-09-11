@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219201000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 4",
+  "date": "2026-09-09",
+  "persons": [
+    {
+      "slug": "heidi-reichinnek",
+      "name": "Heidi Reichinnek",
+      "name_padoka": "Reichinnek, Heidi",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/92",
+    "date": "2026-09-09",
+    "page": 11478
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21092.pdf"
+  }
+}
