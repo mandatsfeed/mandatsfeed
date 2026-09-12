@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID219309800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2026-09-10",
+  "persons": [
+    {
+      "slug": "carsten-linnemann",
+      "name": "Carsten Linnemann",
+      "name_padoka": "Linnemann, Carsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesminister für Gesundheit"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/93",
+    "date": "2026-09-10",
+    "page": 11604
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21093.pdf"
+  }
+}

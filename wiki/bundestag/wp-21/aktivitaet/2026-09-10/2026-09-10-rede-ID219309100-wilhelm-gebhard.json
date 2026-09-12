@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219309100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 25",
+  "date": "2026-09-10",
+  "persons": [
+    {
+      "slug": "wilhelm-gebhard",
+      "name": "Wilhelm Gebhard",
+      "name_padoka": "Gebhard, Wilhelm",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/93",
+    "date": "2026-09-10",
+    "page": 11604
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21093.pdf"
+  }
+}

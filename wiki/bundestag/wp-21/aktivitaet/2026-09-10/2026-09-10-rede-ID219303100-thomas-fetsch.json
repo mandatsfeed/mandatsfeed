@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219303100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 07",
+  "date": "2026-09-10",
+  "persons": [
+    {
+      "slug": "thomas-fetsch",
+      "name": "Thomas Fetsch",
+      "name_padoka": "Fetsch, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/93",
+    "date": "2026-09-10",
+    "page": 11604
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21093.pdf"
+  }
+}

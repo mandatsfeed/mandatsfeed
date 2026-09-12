@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219306700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 17",
+  "date": "2026-09-10",
+  "persons": [
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "name_padoka": "Maack, Sebastian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/93",
+    "date": "2026-09-10",
+    "page": 11604
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21093.pdf"
+  }
+}

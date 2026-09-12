@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-5175",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Begriffliche und krisenbezogene Einordnung der Regierungsbegriffe „vollkommen energieautark“ und „krisenfester“ bei Mobilfunkstandorten in Hessen",
+  "date": "2026-09-11",
+  "drsNr": "21/5175",
+  "persons": [
+    {
+      "slug": "karsten-bletzer",
+      "name": "Karsten Bletzer",
+      "name_padoka": "Bletzer, Karsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "markus-fuchs",
+      "name": "Markus Fuchs",
+      "name_padoka": "Fuchs, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/05175.pdf",
+    "filename": "05175.pdf"
+  }
+}

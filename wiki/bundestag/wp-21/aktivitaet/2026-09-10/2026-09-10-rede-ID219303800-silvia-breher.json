@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219303800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2026-09-10",
+  "persons": [
+    {
+      "slug": "silvia-breher",
+      "name": "Silvia Breher",
+      "name_padoka": "Breher, Silvia",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretärin beim Bundesminister für Landwirtschaft, Ernährung und Heimat"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/93",
+    "date": "2026-09-10",
+    "page": 11604
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21093.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219310800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2026-09-10",
+  "persons": [
+    {
+      "slug": "matthias-hiller",
+      "name": "Matthias Hiller",
+      "name_padoka": "Hiller, Matthias",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/93",
+    "date": "2026-09-10",
+    "page": 11604
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21093.pdf"
+  }
+}
