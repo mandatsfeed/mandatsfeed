@@ -1,0 +1,164 @@
+{
+  "id": "dip-rede-21-94",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "(ohne Titel)",
+  "date": "2026-09-11",
+  "persons": [
+    {
+      "slug": "carsten-korber",
+      "name": "Carsten Körber",
+      "name_padoka": "Körber, Carsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "maja-wallstein",
+      "name": "Maja Wallstein",
+      "name_padoka": "Wallstein, Maja",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-albani",
+      "name": "Stephan Albani",
+      "name_padoka": "Albani, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "sonja-lemke",
+      "name": "Sonja Lemke",
+      "name_padoka": "Lemke, Sonja",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "andrea-lubcke",
+      "name": "Andrea Lübcke",
+      "name_padoka": "Lübcke, Andrea",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "holger-mann",
+      "name": "Holger Mann",
+      "name_padoka": "Mann, Holger",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stefan-schroder",
+      "name": "Stefan Schröder",
+      "name_padoka": "Schröder, Stefan",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "florian-muller",
+      "name": "Florian Müller",
+      "name_padoka": "Müller, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "nicole-gohlke",
+      "name": "Nicole Gohlke",
+      "name_padoka": "Gohlke, Nicole",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ayse-asar",
+      "name": "Ayse Asar",
+      "name_padoka": "Asar, Ayse",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "ruppert-stuwe",
+      "name": "Ruppert Stüwe",
+      "name_padoka": "Stüwe, Ruppert",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "nicole-hochst",
+      "name": "Nicole Höchst",
+      "name_padoka": "Höchst, Nicole",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "inge-grassle",
+      "name": "Inge Gräßle",
+      "name_padoka": "Gräßle, Inge",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "isabelle-vandre",
+      "name": "Isabelle Vandre",
+      "name_padoka": "Vandre, Isabelle",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "paula-piechotta",
+      "name": "Paula Piechotta",
+      "name_padoka": "Piechotta, Paula",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "wiebke-esdar",
+      "name": "Wiebke Esdar",
+      "name_padoka": "Esdar, Wiebke",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "sergej-minich",
+      "name": "Sergej Minich",
+      "name_padoka": "Minich, Sergej",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "dorothee-bar",
+      "name": "Dorothee Bär",
+      "name_padoka": "Bär, Dorothee",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+      "funktion": "Bundesmin."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "afd",
+    "spd",
+    "die-linke",
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/94",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21094.pdf#P.11650",
+    "filename": "21094.pdf#P.11650"
+  }
+}
