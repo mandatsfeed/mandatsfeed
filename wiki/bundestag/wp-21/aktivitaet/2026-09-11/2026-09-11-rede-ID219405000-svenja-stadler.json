@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219405000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2026-09-11",
+  "persons": [
+    {
+      "slug": "svenja-stadler",
+      "name": "Svenja Stadler",
+      "name_padoka": "Stadler, Svenja",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/94",
+    "date": "2026-09-11",
+    "page": 11673
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21094.pdf"
+  }
+}

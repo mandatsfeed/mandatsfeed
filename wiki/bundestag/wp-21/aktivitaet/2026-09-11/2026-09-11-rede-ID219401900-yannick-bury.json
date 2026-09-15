@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219401900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 11",
+  "date": "2026-09-11",
+  "persons": [
+    {
+      "slug": "yannick-bury",
+      "name": "Yannick Bury",
+      "name_padoka": "Bury, Yannick",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/94",
+    "date": "2026-09-11",
+    "page": 11673
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21094.pdf"
+  }
+}

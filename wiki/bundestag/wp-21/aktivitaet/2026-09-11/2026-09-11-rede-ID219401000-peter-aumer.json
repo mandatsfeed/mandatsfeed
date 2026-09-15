@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219401000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 11",
+  "date": "2026-09-11",
+  "persons": [
+    {
+      "slug": "peter-aumer",
+      "name": "Peter Aumer",
+      "name_padoka": "Aumer, Peter",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/94",
+    "date": "2026-09-11",
+    "page": 11673
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21094.pdf"
+  }
+}

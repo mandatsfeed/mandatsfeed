@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219403600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 30",
+  "date": "2026-09-11",
+  "persons": [
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/94",
+    "date": "2026-09-11",
+    "page": 11673
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21094.pdf"
+  }
+}

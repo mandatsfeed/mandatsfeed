@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8355",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Abruf der Förderung von Maßnahmen der Kinder- und Jugenderholung im Jahr 2026",
+  "date": "2026-09-14",
+  "drsNr": "8/8355",
+  "persons": [
+    {
+      "slug": "janina-pfau",
+      "name": "Janina Pfau",
+      "name_padoka": "Pfau, Janina",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53700",
+    "filename": "Drs_8_8355_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

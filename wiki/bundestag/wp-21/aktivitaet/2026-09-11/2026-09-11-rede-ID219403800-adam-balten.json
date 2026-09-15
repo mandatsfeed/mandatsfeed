@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219403800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 30",
+  "date": "2026-09-11",
+  "persons": [
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/94",
+    "date": "2026-09-11",
+    "page": 11673
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21094.pdf"
+  }
+}

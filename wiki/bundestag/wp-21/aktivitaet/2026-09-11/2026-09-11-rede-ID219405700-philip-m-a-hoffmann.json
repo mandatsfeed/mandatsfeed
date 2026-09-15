@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219405700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2026-09-11",
+  "persons": [
+    {
+      "slug": "philip-m-a-hoffmann",
+      "name": "Philip M. A. Hoffmann",
+      "name_padoka": "Hoffmann, Philip M. A.",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/94",
+    "date": "2026-09-11",
+    "page": 11673
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21094.pdf"
+  }
+}
