@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-8037",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Nutzung von Abwärme aus Rechenzentren - Wirtschaftlichkeit, Verhältnismäßigkeit staatlicher Eingriffe und Auswirkungen auf den Rechenzentrumsstandort Deutschland",
+  "date": "2026-09-16",
+  "persons": [
+    {
+      "slug": "manuel-krauthausen",
+      "name": "Manuel Krauthausen",
+      "name_padoka": "Krauthausen, Manuel",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/8037",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/080/2108037.pdf",
+    "filename": "2108037.pdf"
+  }
+}

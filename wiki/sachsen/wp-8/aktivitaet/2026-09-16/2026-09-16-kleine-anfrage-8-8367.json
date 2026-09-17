@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8367",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Brückenabriss über 'KLEINE SPREE\" durch\nLandestalsperrenverwaltung (LTV) am 07.11.2018 Niedergurig (Gemeinde Malschwitz) – Nachfrage Drs.-Nr. 8/2220",
+  "date": "2026-09-16",
+  "drsNr": "8/8367",
+  "persons": [
+    {
+      "slug": "frank-peschel",
+      "name": "Frank Peschel",
+      "name_padoka": "Peschel, Frank",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53813",
+    "filename": "Drs_8_8367_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

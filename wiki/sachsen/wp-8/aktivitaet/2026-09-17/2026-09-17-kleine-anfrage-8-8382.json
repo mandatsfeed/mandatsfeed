@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8382",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Geplantes Sächsisches Landespflegegesetz und Zuweisungen an Landkreise und Kreisfreie Städte",
+  "date": "2026-09-17",
+  "drsNr": "8/8382",
+  "persons": [
+    {
+      "slug": "franziska-schubert",
+      "name": "Franziska Schubert",
+      "name_padoka": "Schubert, Franziska",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53830",
+    "filename": "Drs_8_8382_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

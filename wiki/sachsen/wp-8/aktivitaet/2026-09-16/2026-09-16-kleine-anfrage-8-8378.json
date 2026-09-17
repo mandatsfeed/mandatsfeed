@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8378",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nachfrage zur Kleinen Anfrage mit der Drs.-Nr. 8/7077 \"Todesursachen in Sachsen 2025\"",
+  "date": "2026-09-16",
+  "drsNr": "8/8378",
+  "persons": [
+    {
+      "slug": "susanne-schaper",
+      "name": "Susanne Schaper",
+      "name_padoka": "Schaper, Susanne",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53825",
+    "filename": "Drs_8_8378_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
