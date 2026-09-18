@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8393",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Fördermittel für die Volkswagen Sachsen GmbH",
+  "date": "2026-09-17",
+  "drsNr": "8/8393",
+  "persons": [
+    {
+      "slug": "mike-moncsek",
+      "name": "Mike Moncsek",
+      "name_padoka": "Moncsek, Mike",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53849",
+    "filename": "Drs_8_8393_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

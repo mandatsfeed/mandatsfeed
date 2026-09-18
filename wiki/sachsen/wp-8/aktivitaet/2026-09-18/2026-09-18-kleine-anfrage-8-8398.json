@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8398",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Instandhaltungsrückstau bei Sportanlagen",
+  "date": "2026-09-18",
+  "drsNr": "8/8398",
+  "persons": [
+    {
+      "slug": "heiko-gumprecht-afd-holger-hentschel",
+      "name": "Heiko Gumprecht AfD, Holger Hentschel",
+      "name_padoka": "Hentschel, Heiko Gumprecht AfD, Holger",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53859",
+    "filename": "Drs_8_8398_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
