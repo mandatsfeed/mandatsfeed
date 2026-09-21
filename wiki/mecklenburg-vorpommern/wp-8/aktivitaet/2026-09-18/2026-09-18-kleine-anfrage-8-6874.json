@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6874",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktive Einbindung des Aktionsbusses „Adenauer SRP+“ des „Zentrums für Politische Schönheit“ in den Fachunterricht am RecknitzCampus Laage",
+  "date": "2026-09-18",
+  "drsNr": "8/6874",
+  "persons": [
+    {
+      "slug": "enrico-schult",
+      "name": "Enrico Schult",
+      "name_padoka": "Schult, Enrico",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72228"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
