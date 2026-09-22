@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-5216",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Reaktivierung der Solmsbachtalbahn",
+  "date": "2026-09-21",
+  "drsNr": "21/5216",
+  "persons": [
+    {
+      "slug": "katy-walther",
+      "name": "Katy Walther",
+      "name_padoka": "Walther, Katy",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "martina-feldmayer",
+      "name": "Martina Feldmayer",
+      "name_padoka": "Feldmayer, Martina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/05216.pdf",
+    "filename": "05216.pdf"
+  }
+}
