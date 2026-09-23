@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-5241",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Elektro-Teststrecke ELISA auf der A5 – Handeln der Landesregierung nach Abschluss des Feldversuchs",
+  "date": "2026-09-22",
+  "drsNr": "21/5241",
+  "persons": [
+    {
+      "slug": "olaf-schwaier",
+      "name": "Olaf Schwaier",
+      "name_padoka": "Schwaier, Olaf",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "klaus-gagel",
+      "name": "Klaus Gagel",
+      "name_padoka": "Gagel, Klaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-lichert",
+      "name": "Andreas Lichert",
+      "name_padoka": "Lichert, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/05241.pdf",
+    "filename": "05241.pdf"
+  }
+}

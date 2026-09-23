@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8424",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Förderung lizenzierter Trainer/Übungsleiter im Freistaat Sachsen",
+  "date": "2026-09-23",
+  "drsNr": "8/8424",
+  "persons": [
+    {
+      "slug": "heiko-gumprecht",
+      "name": "Heiko Gumprecht",
+      "name_padoka": "Gumprecht, Heiko",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53905",
+    "filename": "Drs_8_8424_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

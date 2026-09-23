@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-5239",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Regtechs, Hochsicherheitsarchive und Prüfgesellschaften als Profiteure des Bürokratiebusiness",
+  "date": "2026-09-22",
+  "drsNr": "21/5239",
+  "persons": [
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "anna-nguyen",
+      "name": "Anna Nguyen",
+      "name_padoka": "Nguyen, Anna",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-lichert",
+      "name": "Andreas Lichert",
+      "name_padoka": "Lichert, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "markus-fuchs",
+      "name": "Markus Fuchs",
+      "name_padoka": "Fuchs, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/05239.pdf",
+    "filename": "05239.pdf"
+  }
+}

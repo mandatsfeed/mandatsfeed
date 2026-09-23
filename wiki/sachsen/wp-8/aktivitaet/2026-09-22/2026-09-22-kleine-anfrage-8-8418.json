@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8418",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Förderung der stationären Geburtshilfe in Sachsen",
+  "date": "2026-09-22",
+  "drsNr": "8/8418",
+  "persons": [
+    {
+      "slug": "ronny-kupke",
+      "name": "Ronny Kupke",
+      "name_padoka": "Kupke, Ronny",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53888",
+    "filename": "Drs_8_8418_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

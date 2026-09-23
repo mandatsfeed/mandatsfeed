@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8419",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Parteipolitische Äußerungen über den amtlichen Instagram-Account des Sächsischen Staatsministeriums des Innern",
+  "date": "2026-09-22",
+  "drsNr": "8/8419",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53889",
+    "filename": "Drs_8_8419_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

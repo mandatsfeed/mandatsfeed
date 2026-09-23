@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-5237",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Unterstützt Hessen noch das Programm „Gewalt-Sehen-Helfen“?",
+  "date": "2026-09-22",
+  "drsNr": "21/5237",
+  "persons": [
+    {
+      "slug": "marcus-bocklet",
+      "name": "Marcus Bocklet",
+      "name_padoka": "Bocklet, Marcus",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/7/05237.pdf",
+    "filename": "05237.pdf"
+  }
+}
