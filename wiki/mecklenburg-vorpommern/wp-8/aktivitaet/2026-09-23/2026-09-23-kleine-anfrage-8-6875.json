@@ -1,0 +1,27 @@
+{
+  "id": "parldok-ka-8-6875",
+  "source": "parldok",
+  "parliament": "mecklenburg-vorpommern",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Überprüfung des Schutzstatus syrischer Staatsangehöriger und Konsequenzen für Rückführungen aus Mecklenburg-Vorpommern",
+  "date": "2026-09-23",
+  "drsNr": "8/6875",
+  "persons": [
+    {
+      "slug": "jan-phillip-tadsen",
+      "name": "Jan-Phillip Tadsen",
+      "name_padoka": "Tadsen, Jan-Phillip",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://www.dokumentation.landtag-mv.de/parldok/dokument/72237"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
