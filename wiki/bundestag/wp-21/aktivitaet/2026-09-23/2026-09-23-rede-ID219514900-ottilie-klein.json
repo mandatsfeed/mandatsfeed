@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219514900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Fälle von Antisemitismus, Polizeifeindlichkeit sowie Nähe zu Islamisten, Linksextremisten und Clans bei den Linken Berlin – Jüngste Entwicklungen in den Blick nehmen",
+  "date": "2026-09-23",
+  "persons": [
+    {
+      "slug": "ottilie-klein",
+      "name": "Ottilie Klein",
+      "name_padoka": "Klein, Ottilie",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/95",
+    "date": "2026-09-23",
+    "page": 11784
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21095.pdf"
+  }
+}

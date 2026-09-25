@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8461",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Straftaten im Zusammenhang mit der sog. \"1. Connewitzer Krachparade ‚Keine Scheiße bauen‘” am 19.09.2026 in Leipzig",
+  "date": "2026-09-23",
+  "drsNr": "8/8461",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=53947",
+    "filename": "Drs_8_8461_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

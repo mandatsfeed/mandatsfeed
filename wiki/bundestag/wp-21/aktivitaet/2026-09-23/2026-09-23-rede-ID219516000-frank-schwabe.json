@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219516000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2026-09-23",
+  "persons": [
+    {
+      "slug": "frank-schwabe",
+      "name": "Frank Schwabe",
+      "name_padoka": "Schwabe, Frank",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär bei der Bundesministerin der Justiz und für Verbraucherschutz"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/95",
+    "date": "2026-09-23",
+    "page": 11784
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21095.pdf"
+  }
+}

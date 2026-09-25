@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219516500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 3",
+  "date": "2026-09-23",
+  "persons": [
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "name_padoka": "Wegge, Carmen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/95",
+    "date": "2026-09-23",
+    "page": 11784
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21095.pdf"
+  }
+}

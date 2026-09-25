@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219518400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Immobilientransparenzregister einrichten – Geldwäsche bekämpfen, Transparenz über Eigentumsverhältnisse am Wohnungsmarkt herstellen — Keine Spekulation mit Wohnraum – Marktzugang von Immobilienunternehmen einschränken, Mieterinnen und Mieter schützen",
+  "date": "2026-09-23",
+  "persons": [
+    {
+      "slug": "philipp-rottwilm",
+      "name": "Philipp Rottwilm",
+      "name_padoka": "Rottwilm, Philipp",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/95",
+    "date": "2026-09-23",
+    "page": 11784
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21095.pdf"
+  }
+}
