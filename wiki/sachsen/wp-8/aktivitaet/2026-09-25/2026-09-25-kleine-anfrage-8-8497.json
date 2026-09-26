@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8497",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Aktuelle versicherungsmathematische Grundlagen des Generationenfonds",
+  "date": "2026-09-25",
+  "drsNr": "8/8497",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54001",
+    "filename": "Drs_8_8497_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

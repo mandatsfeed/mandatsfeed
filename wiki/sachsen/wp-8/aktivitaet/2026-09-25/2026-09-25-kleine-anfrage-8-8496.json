@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8496",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kostenentwicklung, Prüfmechanismen und aufsichtsrechtlicher Rahmen bei ambulant betreuten Pflege-Wohngemeinschaften im Landkreis Meißen",
+  "date": "2026-09-25",
+  "drsNr": "8/8496",
+  "persons": [
+    {
+      "slug": "mario-beger",
+      "name": "Mario Beger",
+      "name_padoka": "Beger, Mario",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54000",
+    "filename": "Drs_8_8496_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
