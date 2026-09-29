@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219603700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Freiwilligkeit der Organspende sichern – Aufklärungs- und Registrierungspotenziale heben",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "hans-theiss",
+      "name": "Hans Theiss",
+      "name_padoka": "Theiss, Hans",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

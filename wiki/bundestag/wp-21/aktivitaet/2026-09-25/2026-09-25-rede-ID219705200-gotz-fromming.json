@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219705200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 11",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "gotz-fromming",
+      "name": "Götz Frömming",
+      "name_padoka": "Frömming, Götz",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

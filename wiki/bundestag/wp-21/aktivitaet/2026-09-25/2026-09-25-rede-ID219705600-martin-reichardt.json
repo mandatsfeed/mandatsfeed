@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219705600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 11",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "martin-reichardt",
+      "name": "Martin Reichardt",
+      "name_padoka": "Reichardt, Martin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

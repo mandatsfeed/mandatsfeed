@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219615400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Keine EU-Mitgliedschaft und keine militärischen Beistandsgarantien für die Ukraine",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "markus-frohnmaier",
+      "name": "Markus Frohnmaier",
+      "name_padoka": "Frohnmaier, Markus",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

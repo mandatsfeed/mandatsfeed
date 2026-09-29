@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219609300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sozialleistungsmissbrauch stoppen – Lücken im Aktionsplan der Bundesregierung schließen",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "cansin-kokturk",
+      "name": "Cansin Köktürk",
+      "name_padoka": "Köktürk, Cansin",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

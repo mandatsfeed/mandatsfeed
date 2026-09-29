@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219614100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Endlich raus aus dem Elternhaus – Junge Menschen auf dem Wohnungsmarkt unterstützen — Studium und Lehre für die Zukunft weiterentwickeln – Individuell, lebensbegleitend und innovativ",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "sahra-mirow",
+      "name": "Sahra Mirow",
+      "name_padoka": "Mirow, Sahra",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

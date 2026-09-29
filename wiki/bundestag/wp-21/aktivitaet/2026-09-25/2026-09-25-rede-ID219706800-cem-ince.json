@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219706800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Reform der gesetzlichen Arbeitslosenversicherung – Finanzielle Resilienz und Versicherungsprinzip stärken, Arbeit entlasten — Sicherheit im Wandel – Eine Arbeitsversicherung für die ökologische und digitale Transformation",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "cem-ince",
+      "name": "Cem Ince",
+      "name_padoka": "Ince, Cem",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

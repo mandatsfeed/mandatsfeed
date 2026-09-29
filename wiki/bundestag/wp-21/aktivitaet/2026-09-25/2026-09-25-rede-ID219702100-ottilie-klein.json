@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219702100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Das Solidarprinzip stärken",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "ottilie-klein",
+      "name": "Ottilie Klein",
+      "name_padoka": "Klein, Ottilie",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

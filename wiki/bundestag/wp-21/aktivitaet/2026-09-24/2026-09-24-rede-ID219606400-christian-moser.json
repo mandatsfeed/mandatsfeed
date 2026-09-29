@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219606400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Menschen vor Klimafolgen schützen – Jetzt Gemeinschaftsaufgabe „Klimaanpassung und Naturschutz“ im Grundgesetz verankern — Gemeinschaftsaufgabe „Kommunale Klimaanpassung, Hitzeschutz und kommunaler Klimaschutz“ im Grundgesetz verankern",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "christian-moser",
+      "name": "Christian Moser",
+      "name_padoka": "Moser, Christian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

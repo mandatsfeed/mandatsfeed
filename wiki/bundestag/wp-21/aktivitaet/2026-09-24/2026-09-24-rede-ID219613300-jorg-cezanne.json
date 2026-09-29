@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219613300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Flexibel, digital und effizient – Ein Netzpaket für ein versorgungssicheres 100-Prozent-Erneuerbare-Energiesystem — Innovative Netzengpasslösungen vorantreiben – Ausbau der erneuerbaren Energien nicht ausbremsen",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "jorg-cezanne",
+      "name": "Jörg Cezanne",
+      "name_padoka": "Cezanne, Jörg",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

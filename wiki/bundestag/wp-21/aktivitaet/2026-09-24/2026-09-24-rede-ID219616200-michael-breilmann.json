@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219616200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 20",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "michael-breilmann",
+      "name": "Michael Breilmann",
+      "name_padoka": "Breilmann, Michael",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

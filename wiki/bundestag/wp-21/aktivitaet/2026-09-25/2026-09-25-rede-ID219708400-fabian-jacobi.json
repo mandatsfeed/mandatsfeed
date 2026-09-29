@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219708400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 39",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "fabian-jacobi",
+      "name": "Fabian Jacobi",
+      "name_padoka": "Jacobi, Fabian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219613900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Endlich raus aus dem Elternhaus – Junge Menschen auf dem Wohnungsmarkt unterstützen — Studium und Lehre für die Zukunft weiterentwickeln – Individuell, lebensbegleitend und innovativ",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "volker-scheurell",
+      "name": "Volker Scheurell",
+      "name_padoka": "Scheurell, Volker",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

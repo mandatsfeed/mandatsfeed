@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219614900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "65 Jahre Mauerbau: Verantwortung für die Gegenwart – Mahnung für die Zukunft",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "franziska-kersten",
+      "name": "Franziska Kersten",
+      "name_padoka": "Kersten, Franziska",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

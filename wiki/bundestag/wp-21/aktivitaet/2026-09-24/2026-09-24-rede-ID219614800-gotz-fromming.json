@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219614800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "65 Jahre Mauerbau: Verantwortung für die Gegenwart – Mahnung für die Zukunft",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "gotz-fromming",
+      "name": "Götz Frömming",
+      "name_padoka": "Frömming, Götz",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

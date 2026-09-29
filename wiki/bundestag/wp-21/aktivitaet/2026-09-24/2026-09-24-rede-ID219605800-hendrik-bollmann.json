@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219605800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Menschen vor Klimafolgen schützen – Jetzt Gemeinschaftsaufgabe „Klimaanpassung und Naturschutz“ im Grundgesetz verankern — Gemeinschaftsaufgabe „Kommunale Klimaanpassung, Hitzeschutz und kommunaler Klimaschutz“ im Grundgesetz verankern",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "hendrik-bollmann",
+      "name": "Hendrik Bollmann",
+      "name_padoka": "Bollmann, Hendrik",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

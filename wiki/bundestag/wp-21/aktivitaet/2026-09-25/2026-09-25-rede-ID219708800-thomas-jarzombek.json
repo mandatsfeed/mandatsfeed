@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219708800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Sicherheit und Kontrolle von KI-Systemen gewährleisten – Staatliche Schutzverantwortung ernst nehmen",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "thomas-jarzombek",
+      "name": "Thomas Jarzombek",
+      "name_padoka": "Jarzombek, Thomas",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär beim Bundesminister für Digitales und Staatsmodernisierung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

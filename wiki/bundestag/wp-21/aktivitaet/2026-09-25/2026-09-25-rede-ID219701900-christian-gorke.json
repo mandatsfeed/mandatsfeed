@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219701900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 10",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "christian-gorke",
+      "name": "Christian Görke",
+      "name_padoka": "Görke, Christian",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

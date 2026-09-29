@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219709400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Sicherheit und Kontrolle von KI-Systemen gewährleisten – Staatliche Schutzverantwortung ernst nehmen",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "karl-lauterbach",
+      "name": "Karl Lauterbach",
+      "name_padoka": "Lauterbach, Karl",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

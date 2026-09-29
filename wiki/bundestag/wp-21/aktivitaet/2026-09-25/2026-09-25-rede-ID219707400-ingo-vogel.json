@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219707400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschlands Grenzen wirksam sichern – KI-Grenzschutz jetzt einführen",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "ingo-vogel",
+      "name": "Ingo Vogel",
+      "name_padoka": "Vogel, Ingo",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

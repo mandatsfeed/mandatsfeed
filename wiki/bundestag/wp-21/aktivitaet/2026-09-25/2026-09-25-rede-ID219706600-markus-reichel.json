@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219706600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Reform der gesetzlichen Arbeitslosenversicherung – Finanzielle Resilienz und Versicherungsprinzip stärken, Arbeit entlasten — Sicherheit im Wandel – Eine Arbeitsversicherung für die ökologische und digitale Transformation",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "markus-reichel",
+      "name": "Markus Reichel",
+      "name_padoka": "Reichel, Markus",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219700600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Finanzielle Bildung stärken – Unabhängig, mehrperspektivisch und für alle jungen Menschen",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "michael-thews",
+      "name": "Michael Thews",
+      "name_padoka": "Thews, Michael",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

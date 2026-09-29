@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219614200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Endlich raus aus dem Elternhaus – Junge Menschen auf dem Wohnungsmarkt unterstützen — Studium und Lehre für die Zukunft weiterentwickeln – Individuell, lebensbegleitend und innovativ",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "stephan-albani",
+      "name": "Stephan Albani",
+      "name_padoka": "Albani, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

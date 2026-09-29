@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219602600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sofortige Senkung der Energiekosten – Beendigung aller deutschen Klimaschutzmaßnahmen — Der drohenden Kraftstoffkrise durch souveräne Energiepolitik entgegenwirken – Industrie und Mittelstand retten",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "fabian-fahl",
+      "name": "Fabian Fahl",
+      "name_padoka": "Fahl, Fabian",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

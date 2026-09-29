@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219600100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Stärkung der nationalen Souveränität und der operativen Fähigkeiten des Bundesnachrichtendienstes",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "nina-warken",
+      "name": "Nina Warken",
+      "name_padoka": "Warken, Nina",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für besondere Aufgaben"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

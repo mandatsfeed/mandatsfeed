@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219707200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschlands Grenzen wirksam sichern – KI-Grenzschutz jetzt einführen",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "detlef-seif",
+      "name": "Detlef Seif",
+      "name_padoka": "Seif, Detlef",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

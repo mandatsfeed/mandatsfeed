@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219607400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Deutscher Raketenstart Isar Aerospace – Ausdruck eines erfolgreichen Wissenschafts- und Forschungsstandortes Deutschland",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "carolin-wagner",
+      "name": "Carolin Wagner",
+      "name_padoka": "Wagner, Carolin",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

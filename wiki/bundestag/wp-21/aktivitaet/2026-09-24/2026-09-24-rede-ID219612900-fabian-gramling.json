@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219612900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Flexibel, digital und effizient – Ein Netzpaket für ein versorgungssicheres 100-Prozent-Erneuerbare-Energiesystem — Innovative Netzengpasslösungen vorantreiben – Ausbau der erneuerbaren Energien nicht ausbremsen",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "fabian-gramling",
+      "name": "Fabian Gramling",
+      "name_padoka": "Gramling, Fabian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

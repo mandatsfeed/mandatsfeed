@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219611500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Energiewende gemeinsam gestalten – Für ein Erneuerbare-Energien-Gesetz mit fairen Chancen für alle — Auf Kürzungen beim Erneuerbare-Energien-Gesetz verzichten – Zukunftsfähige Arbeitsplätze in der Wind- und Solarwirtschaft ausbauen – Bezahlbaren Strom aus Sonne und Wind für alle ermöglichen",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

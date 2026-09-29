@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-5281",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "RAV-Initiative für ein AfD-Verbot",
+  "date": "2026-09-28",
+  "drsNr": "21/5281",
+  "persons": [
+    {
+      "slug": "gerhard-schenk-bebra",
+      "name": "Gerhard Schenk(Bebra)",
+      "name_padoka": "Schenk(Bebra), Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "frank-dr-grobe",
+      "name": "Frank Dr. Grobe",
+      "name_padoka": "Grobe, Frank Dr.",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "johannes-marxen",
+      "name": "Johannes Marxen",
+      "name_padoka": "Marxen, Johannes",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lothar-mulch",
+      "name": "Lothar Mulch",
+      "name_padoka": "Mulch, Lothar",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/05281.pdf",
+    "filename": "05281.pdf"
+  }
+}

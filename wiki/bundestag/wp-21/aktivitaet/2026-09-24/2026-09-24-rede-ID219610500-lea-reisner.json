@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219610500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Völkerrecht konsequent umsetzen – Keine wirtschaftliche und wissenschaftliche Unterstützung der völkerrechtswidrigen israelischen Besatzungspolitik im Westjordanland",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "lea-reisner",
+      "name": "Lea Reisner",
+      "name_padoka": "Reisner, Lea",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

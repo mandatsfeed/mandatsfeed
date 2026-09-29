@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219600600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Stärkung der nationalen Souveränität und der operativen Fähigkeiten des Bundesnachrichtendienstes",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "alexander-dobrindt",
+      "name": "Alexander Dobrindt",
+      "name_padoka": "Dobrindt, Alexander",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister des Innern"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219615900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Keine EU-Mitgliedschaft und keine militärischen Beistandsgarantien für die Ukraine",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "roland-theis",
+      "name": "Roland Theis",
+      "name_padoka": "Theis, Roland",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219706900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Reform der gesetzlichen Arbeitslosenversicherung – Finanzielle Resilienz und Versicherungsprinzip stärken, Arbeit entlasten — Sicherheit im Wandel – Eine Arbeitsversicherung für die ökologische und digitale Transformation",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "jens-peick",
+      "name": "Jens Peick",
+      "name_padoka": "Peick, Jens",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

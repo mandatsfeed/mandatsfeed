@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219600800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Stärkung der nationalen Souveränität und der operativen Fähigkeiten des Bundesnachrichtendienstes",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "sebastian-fiedler",
+      "name": "Sebastian Fiedler",
+      "name_padoka": "Fiedler, Sebastian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

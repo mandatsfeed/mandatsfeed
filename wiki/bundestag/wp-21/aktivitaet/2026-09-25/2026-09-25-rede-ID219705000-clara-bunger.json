@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219705000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 11",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

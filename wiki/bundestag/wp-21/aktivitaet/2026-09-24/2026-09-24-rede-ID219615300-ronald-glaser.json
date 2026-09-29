@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219615300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "65 Jahre Mauerbau: Verantwortung für die Gegenwart – Mahnung für die Zukunft",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "ronald-glaser",
+      "name": "Ronald Gläser",
+      "name_padoka": "Gläser, Ronald",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219709100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Sicherheit und Kontrolle von KI-Systemen gewährleisten – Staatliche Schutzverantwortung ernst nehmen",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "sonja-lemke",
+      "name": "Sonja Lemke",
+      "name_padoka": "Lemke, Sonja",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

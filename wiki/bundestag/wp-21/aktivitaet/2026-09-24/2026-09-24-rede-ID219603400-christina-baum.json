@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219603400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Freiwilligkeit der Organspende sichern – Aufklärungs- und Registrierungspotenziale heben",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "christina-baum",
+      "name": "Christina Baum",
+      "name_padoka": "Baum, Christina",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

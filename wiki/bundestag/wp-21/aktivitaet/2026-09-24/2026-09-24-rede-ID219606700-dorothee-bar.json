@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219606700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Deutscher Raketenstart Isar Aerospace – Ausdruck eines erfolgreichen Wissenschafts- und Forschungsstandortes Deutschland",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "dorothee-bar",
+      "name": "Dorothee Bär",
+      "name_padoka": "Bär, Dorothee",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Forschung, Technologie und Raumfahrt"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

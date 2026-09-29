@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219611400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Energiewende gemeinsam gestalten – Für ein Erneuerbare-Energien-Gesetz mit fairen Chancen für alle — Auf Kürzungen beim Erneuerbare-Energien-Gesetz verzichten – Zukunftsfähige Arbeitsplätze in der Wind- und Solarwirtschaft ausbauen – Bezahlbaren Strom aus Sonne und Wind für alle ermöglichen",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "katherina-reiche",
+      "name": "Katherina Reiche",
+      "name_padoka": "Reiche, Katherina",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Wirtschaft und Energie"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

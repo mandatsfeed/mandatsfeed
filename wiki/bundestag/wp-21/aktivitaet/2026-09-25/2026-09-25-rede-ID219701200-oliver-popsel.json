@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219701200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Finanzielle Bildung stärken – Unabhängig, mehrperspektivisch und für alle jungen Menschen",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "oliver-popsel",
+      "name": "Oliver Pöpsel",
+      "name_padoka": "Pöpsel, Oliver",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219707800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 39",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "frank-schwabe",
+      "name": "Frank Schwabe",
+      "name_padoka": "Schwabe, Frank",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär bei der Bundesministerin der Justiz und für Verbraucherschutz"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}

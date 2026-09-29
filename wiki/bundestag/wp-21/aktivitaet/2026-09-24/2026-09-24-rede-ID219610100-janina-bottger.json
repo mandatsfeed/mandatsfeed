@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219610100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zukunft Europas – Prioritäten für das Arbeitsprogramm der EU-Kommission 2027",
+  "date": "2026-09-24",
+  "persons": [
+    {
+      "slug": "janina-bottger",
+      "name": "Janina Böttger",
+      "name_padoka": "Böttger, Janina",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/96",
+    "date": "2026-09-24",
+    "page": 12008
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21096.pdf"
+  }
+}

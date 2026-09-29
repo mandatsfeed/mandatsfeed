@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219707100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutschlands Grenzen wirksam sichern – KI-Grenzschutz jetzt einführen",
+  "date": "2026-09-25",
+  "persons": [
+    {
+      "slug": "sascha-lensing",
+      "name": "Sascha Lensing",
+      "name_padoka": "Lensing, Sascha",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/97",
+    "date": "2026-09-25",
+    "page": 12143
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21097.pdf"
+  }
+}
