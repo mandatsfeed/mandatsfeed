@@ -1,5 +1,45 @@
 # Updates
 
+## 2026-09-30 10:49
+
+Insgesamt **14490 neu**, **0 aktualisiert**, **0 entfernt** in 3 Parlamenten.
+
+### Deutscher Bundestag
+
++14474 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Rede | Antrag | Kleine Anfrage | Große Anfrage | Gesetzentwurf | Abstimmung |
+|---|---|---|---|---|---|---|
+| AfD | +2652 | +221 | +1736 | +10 | +39 | +45 |
+| BSW | +13 | — | — | — | — | — |
+| Bundesregierung | +2004 | — | — | — | — | — |
+| BÜNDNIS 90/DIE GRÜNEN | +84 | +190 | +524 | +1 | +17 | — |
+| CDU/CSU | +2915 | +6 | — | — | +1 | +45 |
+| Die Linke | +1389 | +133 | +656 | +3 | +2 | +45 |
+| FDP | +57 | +9 | +20 | — | +2 | — |
+| Fraktionslose Abgeordnete | +94 | +3 | — | — | +5 | +45 |
+| SPD | +1941 | +6 | — | — | +1 | +45 |
+| unbekannt | — | +3 | +71 | — | — | — |
+
+### Sächsischer Landtag
+
++15 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Kleine Anfrage |
+|---|---|
+| AfD | +4 |
+| BSW | +2 |
+| Die Linke | +9 |
+
+### Hessischer Landtag
+
++1 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Antrag |
+|---|---|
+| BÜNDNIS 90/DIE GRÜNEN | +1 |
+
+
 ## 2026-09-29 11:00
 
 Insgesamt **14491 neu**, **0 aktualisiert**, **0 entfernt** in 4 Parlamenten.

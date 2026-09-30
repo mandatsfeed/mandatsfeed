@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8526",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Personelle und finanzielle Ausstattung der Suchtberatungs- und Behandlungsstellen im Freistaat Sachsen",
+  "date": "2026-09-30",
+  "drsNr": "8/8526",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54094",
+    "filename": "Drs_8_8526_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

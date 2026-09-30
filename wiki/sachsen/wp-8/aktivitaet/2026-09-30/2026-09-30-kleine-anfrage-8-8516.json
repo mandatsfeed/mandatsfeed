@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8516",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Infrastruktur und Mobilität im Landkreis Meißen",
+  "date": "2026-09-30",
+  "drsNr": "8/8516",
+  "persons": [
+    {
+      "slug": "mario-beger",
+      "name": "Mario Beger",
+      "name_padoka": "Beger, Mario",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54058",
+    "filename": "Drs_8_8516_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

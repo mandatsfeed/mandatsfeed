@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8514",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Projekte im Rahmen der Aktion \"Schule.Macht.Demokratie\" 2026",
+  "date": "2026-09-29",
+  "drsNr": "8/8514",
+  "persons": [
+    {
+      "slug": "romy-penz",
+      "name": "Romy Penz",
+      "name_padoka": "Penz, Romy",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54056",
+    "filename": "Drs_8_8514_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
