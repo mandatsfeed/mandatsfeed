@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10334",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Schutz von wohn- und obdachlosen Menschen",
+  "date": "2021-12-08",
+  "drsNr": "19/10334",
+  "persons": [
+    {
+      "slug": "frank-christian-hansel",
+      "name": "Frank-Christian Hansel",
+      "name_padoka": "Hansel, Frank-Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10334.pdf",
+    "filename": "S19-10334.pdf"
+  }
+}

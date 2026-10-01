@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10544",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Veranstaltungen Olympiapark 2022",
+  "date": "2022-01-10",
+  "drsNr": "19/10544",
+  "persons": [
+    {
+      "slug": "ariturel-hack",
+      "name": "Ariturel Hack",
+      "name_padoka": "Hack, Ariturel",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10544.pdf",
+    "filename": "S19-10544.pdf"
+  }
+}

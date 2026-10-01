@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10263",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Corona-Fälle trotz Impfung bei der älteren Bevölkerung und in Senioren- und Pflegeeinrichtungen",
+  "date": "2021-12-01",
+  "drsNr": "19/10263",
+  "persons": [
+    {
+      "slug": "florian-kluckert",
+      "name": "Florian Kluckert",
+      "name_padoka": "Kluckert, Florian",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10263.pdf",
+    "filename": "S19-10263.pdf"
+  }
+}

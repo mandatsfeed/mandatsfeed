@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10150",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Wann kommt die Whitelist mit empfohlenen digitalen Lehr- und Lernmitteln?",
+  "date": "2021-11-18",
+  "drsNr": "19/10150",
+  "persons": [
+    {
+      "slug": "franziska-brychcy",
+      "name": "Franziska Brychcy",
+      "name_padoka": "Brychcy, Franziska",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10150.pdf",
+    "filename": "S19-10150.pdf"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10862",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung der grundgesetzlichen Vorgaben für Schulen in Freier Trägerschaft",
+  "date": "2022-02-08",
+  "drsNr": "19/10862",
+  "persons": [
+    {
+      "slug": "franziska-brychcy",
+      "name": "Franziska Brychcy",
+      "name_padoka": "Brychcy, Franziska",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10862.pdf",
+    "filename": "S19-10862.pdf"
+  }
+}

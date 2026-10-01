@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10692",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Fort- und Weiterbildung als dritte Phase der Lehrerbildung gemäß Lehrkräftebildungsgesetz und LehrkräftefortbildungsVO – FBLVO",
+  "date": "2022-01-20",
+  "drsNr": "19/10692",
+  "persons": [
+    {
+      "slug": "thorsten-weiss",
+      "name": "Thorsten Weiß",
+      "name_padoka": "Weiß, Thorsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10692.pdf",
+    "filename": "S19-10692.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-33-martin-modschiedler",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "4 Redebeiträge in 33. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-09-16",
+  "persons": [
+    {
+      "slug": "martin-modschiedler",
+      "name": "Martin Modschiedler",
+      "name_padoka": "Modschiedler, Martin",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/33",
+    "date": "2026-09-16"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=54117"
+  }
+}

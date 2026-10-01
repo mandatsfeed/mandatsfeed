@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10611",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Eintritte in den und Austritte aus dem Pflegeberuf im Land Berlin",
+  "date": "2022-01-11",
+  "drsNr": "19/10611",
+  "persons": [
+    {
+      "slug": "florian-kluckert",
+      "name": "Florian Kluckert",
+      "name_padoka": "Kluckert, Florian",
+      "role": "fragesteller",
+      "fraktion": "FDP"
+    }
+  ],
+  "fraktionen": [
+    "fdp"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10611.pdf",
+    "filename": "S19-10611.pdf"
+  }
+}

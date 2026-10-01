@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-10306",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Vertretung der Interessen der Mitglieder der Freiwilligen Feuerwehr innerhalb der Berliner Feuerwehr",
+  "date": "2021-12-02",
+  "drsNr": "19/10306",
+  "persons": [
+    {
+      "slug": "alexander-herrmann",
+      "name": "Alexander Herrmann",
+      "name_padoka": "Herrmann, Alexander",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-10306.pdf",
+    "filename": "S19-10306.pdf"
+  }
+}

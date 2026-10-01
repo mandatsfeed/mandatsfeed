@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-33-ralf-bohme",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "8 Redebeiträge in 33. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-09-16",
+  "persons": [
+    {
+      "slug": "ralf-bohme",
+      "name": "Ralf Böhme",
+      "name_padoka": "Böhme, Ralf",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/33",
+    "date": "2026-09-16"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=54117"
+  }
+}
