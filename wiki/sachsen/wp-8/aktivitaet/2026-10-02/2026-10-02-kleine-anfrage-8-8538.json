@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8538",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Auskunftsersuchen zu personenbezogenen Daten bei der sächsischen Polizei, insbesondere dem Landeskriminalamt",
+  "date": "2026-10-02",
+  "drsNr": "8/8538",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54137",
+    "filename": "Drs_8_8538_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

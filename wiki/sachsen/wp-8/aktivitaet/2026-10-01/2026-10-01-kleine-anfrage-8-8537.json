@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8537",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Mutmaßlich ideologische Zweckentfremdung der Biografie von Anne Frank bei einer Theaterdarstellung durch externe Akteure des \"ARBEIT UND LEBEN Sachsen e. V.\" am Geschwister-Scholl-Gymnasium Löbau",
+  "date": "2026-10-01",
+  "drsNr": "8/8537",
+  "persons": [
+    {
+      "slug": "roman-golombek",
+      "name": "Roman Golombek",
+      "name_padoka": "Golombek, Roman",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54125",
+    "filename": "Drs_8_8537_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
