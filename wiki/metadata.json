@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T10:48:08.020Z",
+  "generatedAt": "2026-10-03T10:07:37.819Z",
   "parliaments": [
     {
       "slug": "bundestag",
@@ -16989,8 +16989,8 @@
               "parliament": "sachsen",
               "slug": "katja-meier",
               "label": "Katja Meier",
-              "count": 93,
-              "updatedAt": "2026-09-24T00:00:00.000Z",
+              "count": 94,
+              "updatedAt": "2026-10-02T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/katja-meier/rss.xml"
             },
             {
@@ -17547,8 +17547,8 @@
               "parliament": "sachsen",
               "slug": "susanne-schaper",
               "label": "Susanne Schaper",
-              "count": 357,
-              "updatedAt": "2026-09-21T00:00:00.000Z",
+              "count": 359,
+              "updatedAt": "2026-10-02T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/susanne-schaper/rss.xml"
             },
             {
@@ -17583,7 +17583,7 @@
               "parliament": "sachsen",
               "slug": "thomas-prantl",
               "label": "Thomas Prantl",
-              "count": 69,
+              "count": 70,
               "updatedAt": "2026-10-02T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/thomas-prantl/rss.xml"
             },
@@ -17837,7 +17837,7 @@
               "parliament": "sachsen",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 3373,
+              "count": 3374,
               "updatedAt": "2026-10-02T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/afd/rss.xml"
             },
@@ -17855,8 +17855,8 @@
               "parliament": "sachsen",
               "slug": "bundnisgruene",
               "label": "Fraktion BÜNDNISGRÜNE",
-              "count": 955,
-              "updatedAt": "2026-09-30T00:00:00.000Z",
+              "count": 956,
+              "updatedAt": "2026-10-02T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/bundnisgruene/rss.xml"
             },
             {
@@ -17873,7 +17873,7 @@
               "parliament": "sachsen",
               "slug": "die-linke",
               "label": "Fraktion Die Linke",
-              "count": 1401,
+              "count": 1403,
               "updatedAt": "2026-10-02T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/die-linke/rss.xml"
             },
