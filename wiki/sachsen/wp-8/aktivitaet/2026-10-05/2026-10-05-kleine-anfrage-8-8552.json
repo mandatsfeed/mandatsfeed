@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8552",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Stellenplan und Schulassistenz für sächsische Schulen im Doppelhaushalt (DHH) 2027/2028",
+  "date": "2026-10-05",
+  "drsNr": "8/8552",
+  "persons": [
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54160",
+    "filename": "Drs_8_8552_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
