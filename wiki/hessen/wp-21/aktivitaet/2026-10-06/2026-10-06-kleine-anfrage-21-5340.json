@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-5340",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Trinkwasserverunreinigung mit dem ESKAPE-Bakterium Pseudomonas aeruginosa in Wiesbaden",
+  "date": "2026-10-06",
+  "drsNr": "21/5340",
+  "persons": [
+    {
+      "slug": "marcus-resch",
+      "name": "Marcus Resch",
+      "name_padoka": "Resch, Marcus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sandra-weegels",
+      "name": "Sandra Weegels",
+      "name_padoka": "Weegels, Sandra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "roman-bausch",
+      "name": "Roman Bausch",
+      "name_padoka": "Bausch, Roman",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/0/05340.pdf",
+    "filename": "05340.pdf"
+  }
+}

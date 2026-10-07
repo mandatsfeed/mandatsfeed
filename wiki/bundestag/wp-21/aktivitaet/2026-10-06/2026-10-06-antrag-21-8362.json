@@ -1,0 +1,152 @@
+{
+  "id": "dip-drs-21-8362",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Organisierte Kriminalität systematisch zerschlagen",
+  "date": "2026-10-06",
+  "persons": [
+    {
+      "slug": "boris-mijatovic",
+      "name": "Boris Mijatović",
+      "name_padoka": "Mijatović, Boris",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jan-niclas-gesenhues",
+      "name": "Jan-Niclas Gesenhues",
+      "name_padoka": "Gesenhues, Jan-Niclas",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "irene-mihalic",
+      "name": "Irene Mihalic",
+      "name_padoka": "Mihalic, Irene",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "karoline-otte",
+      "name": "Karoline Otte",
+      "name_padoka": "Otte, Karoline",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marcel-emmerich",
+      "name": "Marcel Emmerich",
+      "name_padoka": "Emmerich, Marcel",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "andrea-lubcke",
+      "name": "Andrea Lübcke",
+      "name_padoka": "Lübcke, Andrea",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "claudia-roth",
+      "name": "Claudia Roth",
+      "name_padoka": "Roth, Claudia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jeanne-dillschneider",
+      "name": "Jeanne Dillschneider",
+      "name_padoka": "Dillschneider, Jeanne",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "konstantin-von-notz",
+      "name": "Konstantin von Notz",
+      "name_padoka": "von Notz, Konstantin",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "julia-schneider",
+      "name": "Julia Schneider",
+      "name_padoka": "Schneider, Julia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "ayse-asar",
+      "name": "Ayse Asar",
+      "name_padoka": "Asar, Ayse",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marlene-schonberger",
+      "name": "Marlene Schönberger",
+      "name_padoka": "Schönberger, Marlene",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lena-gumnior",
+      "name": "Lena Gumnior",
+      "name_padoka": "Gumnior, Lena",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lamya-kaddor",
+      "name": "Lamya Kaddor",
+      "name_padoka": "Kaddor, Lamya",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "helge-limburg",
+      "name": "Helge Limburg",
+      "name_padoka": "Limburg, Helge",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "max-lucks",
+      "name": "Max Lucks",
+      "name_padoka": "Lucks, Max",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katharina-beck",
+      "name": "Katharina Beck",
+      "name_padoka": "Beck, Katharina",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lukas-benner",
+      "name": "Lukas Benner",
+      "name_padoka": "Benner, Lukas",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "schahina-gambir",
+      "name": "Schahina Gambir",
+      "name_padoka": "Gambir, Schahina",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/8362",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/083/2108362.pdf",
+    "filename": "2108362.pdf"
+  }
+}

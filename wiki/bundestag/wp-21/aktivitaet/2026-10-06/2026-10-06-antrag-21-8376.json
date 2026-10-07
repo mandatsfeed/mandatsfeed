@@ -1,0 +1,1025 @@
+{
+  "id": "dip-drs-21-8376",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Kassenzulassung des nicht-invasiven Pränataltests - Monitoring der Konsequenzen und Einrichtung eines Gremiums",
+  "date": "2026-10-06",
+  "persons": [
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "christian-gorke",
+      "name": "Christian Görke",
+      "name_padoka": "Görke, Christian",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ulle-schauws",
+      "name": "Ulle Schauws",
+      "name_padoka": "Schauws, Ulle",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "annika-klose",
+      "name": "Annika Klose",
+      "name_padoka": "Klose, Annika",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "jakob-blankenburg",
+      "name": "Jakob Blankenburg",
+      "name_padoka": "Blankenburg, Jakob",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "andrea-lubcke",
+      "name": "Andrea Lübcke",
+      "name_padoka": "Lübcke, Andrea",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marja-liisa-vollers",
+      "name": "Marja-Liisa Völlers",
+      "name_padoka": "Völlers, Marja-Liisa",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "desiree-becker",
+      "name": "Desiree Becker",
+      "name_padoka": "Becker, Desiree",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "josephine-ortleb",
+      "name": "Josephine Ortleb",
+      "name_padoka": "Ortleb, Josephine",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "lisa-schubert",
+      "name": "Lisa Schubert",
+      "name_padoka": "Schubert, Lisa",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "dietmar-bartsch",
+      "name": "Dietmar Bartsch",
+      "name_padoka": "Bartsch, Dietmar",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "johannes-schatzl",
+      "name": "Johannes Schätzl",
+      "name_padoka": "Schätzl, Johannes",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "aaron-valent",
+      "name": "Aaron Valent",
+      "name_padoka": "Valent, Aaron",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "carmen-wegge",
+      "name": "Carmen Wegge",
+      "name_padoka": "Wegge, Carmen",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "isabelle-vandre",
+      "name": "Isabelle Vandre",
+      "name_padoka": "Vandre, Isabelle",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "donata-vogtschmidt",
+      "name": "Donata Vogtschmidt",
+      "name_padoka": "Vogtschmidt, Donata",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "charlotte-antonia-neuhauser",
+      "name": "Charlotte Antonia Neuhäuser",
+      "name_padoka": "Neuhäuser, Charlotte Antonia",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "janosch-dahmen",
+      "name": "Janosch Dahmen",
+      "name_padoka": "Dahmen, Janosch",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-wagner",
+      "name": "Sascha Wagner",
+      "name_padoka": "Wagner, Sascha",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "tamara-mazzi",
+      "name": "Tamara Mazzi",
+      "name_padoka": "Mazzi, Tamara",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "denise-loop",
+      "name": "Denise Loop",
+      "name_padoka": "Loop, Denise",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "mandy-eissing",
+      "name": "Mandy Eißing",
+      "name_padoka": "Eißing, Mandy",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sahra-mirow",
+      "name": "Sahra Mirow",
+      "name_padoka": "Mirow, Sahra",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "sanae-abdi",
+      "name": "Sanae Abdi",
+      "name_padoka": "Abdi, Sanae",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "doris-achelwilm",
+      "name": "Doris Achelwilm",
+      "name_padoka": "Achelwilm, Doris",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "cansu-ozdemir",
+      "name": "Cansu Özdemir",
+      "name_padoka": "Özdemir, Cansu",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "gokay-akbulut",
+      "name": "Gökay Akbulut",
+      "name_padoka": "Akbulut, Gökay",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "anette-kramme",
+      "name": "Anette Kramme",
+      "name_padoka": "Kramme, Anette",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "anne-mieke-bremer",
+      "name": "Anne-Mieke Bremer",
+      "name_padoka": "Bremer, Anne-Mieke",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "till-steffen",
+      "name": "Till Steffen",
+      "name_padoka": "Steffen, Till",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "paula-piechotta",
+      "name": "Paula Piechotta",
+      "name_padoka": "Piechotta, Paula",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kathrin-gebel",
+      "name": "Kathrin Gebel",
+      "name_padoka": "Gebel, Kathrin",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "stephan-pilsinger",
+      "name": "Stephan Pilsinger",
+      "name_padoka": "Pilsinger, Stephan",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "felix-doring",
+      "name": "Felix Döring",
+      "name_padoka": "Döring, Felix",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "martin-sichert",
+      "name": "Martin Sichert",
+      "name_padoka": "Sichert, Martin",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "wiebke-esdar",
+      "name": "Wiebke Esdar",
+      "name_padoka": "Esdar, Wiebke",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "emmi-zeulner",
+      "name": "Emmi Zeulner",
+      "name_padoka": "Zeulner, Emmi",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "simone-fischer",
+      "name": "Simone Fischer",
+      "name_padoka": "Fischer, Simone",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "martina-kempf",
+      "name": "Martina Kempf",
+      "name_padoka": "Kempf, Martina",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-brand-fulda",
+      "name": "Michael Brand (Fulda)",
+      "name_padoka": "(Fulda), Michael Brand",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "mareike-hermeier",
+      "name": "Mareike Hermeier",
+      "name_padoka": "Hermeier, Mareike",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "dagmar-schmidt-wetzlar",
+      "name": "Dagmar Schmidt (Wetzlar)",
+      "name_padoka": "(Wetzlar), Dagmar Schmidt",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "philipp-amthor",
+      "name": "Philipp Amthor",
+      "name_padoka": "Amthor, Philipp",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "filiz-polat",
+      "name": "Filiz Polat",
+      "name_padoka": "Polat, Filiz",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "anja-weisgerber",
+      "name": "Anja Weisgerber",
+      "name_padoka": "Weisgerber, Anja",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "corinna-ruffer",
+      "name": "Corinna Rüffer",
+      "name_padoka": "Rüffer, Corinna",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jan-dieren",
+      "name": "Jan Dieren",
+      "name_padoka": "Dieren, Jan",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "johannes-wiegelmann",
+      "name": "Johannes Wiegelmann",
+      "name_padoka": "Wiegelmann, Johannes",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "patricia-lips",
+      "name": "Patricia Lips",
+      "name_padoka": "Lips, Patricia",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "tobias-winkler",
+      "name": "Tobias Winkler",
+      "name_padoka": "Winkler, Tobias",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "nils-schmid",
+      "name": "Nils Schmid",
+      "name_padoka": "Schmid, Nils",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stefan-schmidt",
+      "name": "Stefan Schmidt",
+      "name_padoka": "Schmidt, Stefan",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "michael-donth",
+      "name": "Michael Donth",
+      "name_padoka": "Donth, Michael",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "mechthilde-wittmann",
+      "name": "Mechthilde Wittmann",
+      "name_padoka": "Wittmann, Mechthilde",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "elisabeth-winkelmeier-becker",
+      "name": "Elisabeth Winkelmeier-Becker",
+      "name_padoka": "Winkelmeier-Becker, Elisabeth",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jonas-geissler",
+      "name": "Jonas Geissler",
+      "name_padoka": "Geissler, Jonas",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "hans-koller",
+      "name": "Hans Koller",
+      "name_padoka": "Koller, Hans",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "christos-pantazis",
+      "name": "Christos Pantazis",
+      "name_padoka": "Pantazis, Christos",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "armin-grau",
+      "name": "Armin Grau",
+      "name_padoka": "Grau, Armin",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "natalie-pawlik",
+      "name": "Natalie Pawlik",
+      "name_padoka": "Pawlik, Natalie",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "wilfried-oellers",
+      "name": "Wilfried Oellers",
+      "name_padoka": "Oellers, Wilfried",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "martin-plum",
+      "name": "Martin Plum",
+      "name_padoka": "Plum, Martin",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "frauke-heiligenstadt",
+      "name": "Frauke Heiligenstadt",
+      "name_padoka": "Heiligenstadt, Frauke",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "aydan-ozoguz",
+      "name": "Aydan Özoguz",
+      "name_padoka": "Özoguz, Aydan",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "linda-heitmann",
+      "name": "Linda Heitmann",
+      "name_padoka": "Heitmann, Linda",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "markus-reichel",
+      "name": "Markus Reichel",
+      "name_padoka": "Reichel, Markus",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "katrin-goring-eckardt",
+      "name": "Katrin Göring-Eckardt",
+      "name_padoka": "Göring-Eckardt, Katrin",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katja-mast",
+      "name": "Katja Mast",
+      "name_padoka": "Mast, Katja",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "nadine-heselhaus",
+      "name": "Nadine Heselhaus",
+      "name_padoka": "Heselhaus, Nadine",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "susanne-hierl",
+      "name": "Susanne Hierl",
+      "name_padoka": "Hierl, Susanne",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "franziska-hoppermann",
+      "name": "Franziska Hoppermann",
+      "name_padoka": "Hoppermann, Franziska",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "lars-ehm",
+      "name": "Lars Ehm",
+      "name_padoka": "Ehm, Lars",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "martin-gerster",
+      "name": "Martin Gerster",
+      "name_padoka": "Gerster, Martin",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "anne-janssen",
+      "name": "Anne Janssen",
+      "name_padoka": "Janssen, Anne",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "christian-moser",
+      "name": "Christian Moser",
+      "name_padoka": "Moser, Christian",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "david-preisendanz",
+      "name": "David Preisendanz",
+      "name_padoka": "Preisendanz, David",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "steffen-bilger",
+      "name": "Steffen Bilger",
+      "name_padoka": "Bilger, Steffen",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "pascal-reddig",
+      "name": "Pascal Reddig",
+      "name_padoka": "Reddig, Pascal",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "johann-saathoff",
+      "name": "Johann Saathoff",
+      "name_padoka": "Saathoff, Johann",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "michael-kellner",
+      "name": "Michael Kellner",
+      "name_padoka": "Kellner, Michael",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sylvia-rietenberg",
+      "name": "Sylvia Rietenberg",
+      "name_padoka": "Rietenberg, Sylvia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "franziska-kersten",
+      "name": "Franziska Kersten",
+      "name_padoka": "Kersten, Franziska",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "ralph-brinkhaus",
+      "name": "Ralph Brinkhaus",
+      "name_padoka": "Brinkhaus, Ralph",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "norbert-maria-altenkamp",
+      "name": "Norbert Maria Altenkamp",
+      "name_padoka": "Altenkamp, Norbert Maria",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "helmut-kleebank",
+      "name": "Helmut Kleebank",
+      "name_padoka": "Kleebank, Helmut",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "zada-salihovic",
+      "name": "Zada Salihovic",
+      "name_padoka": "Salihovic, Zada",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "lisa-badum",
+      "name": "Lisa Badum",
+      "name_padoka": "Badum, Lisa",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "parsa-marvi",
+      "name": "Parsa Marvi",
+      "name_padoka": "Marvi, Parsa",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "kerstin-vieregge",
+      "name": "Kerstin Vieregge",
+      "name_padoka": "Vieregge, Kerstin",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "christian-haase",
+      "name": "Christian Haase",
+      "name_padoka": "Haase, Christian",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "david-gregosz",
+      "name": "David Gregosz",
+      "name_padoka": "Gregosz, David",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "anne-konig",
+      "name": "Anne König",
+      "name_padoka": "König, Anne",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "christoph-de-vries",
+      "name": "Christoph de Vries",
+      "name_padoka": "de Vries, Christoph",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "sebastian-schmidt",
+      "name": "Sebastian Schmidt",
+      "name_padoka": "Schmidt, Sebastian",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "julia-schneider",
+      "name": "Julia Schneider",
+      "name_padoka": "Schneider, Julia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "michael-frieser",
+      "name": "Michael Frieser",
+      "name_padoka": "Frieser, Michael",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ayse-asar",
+      "name": "Ayse Asar",
+      "name_padoka": "Asar, Ayse",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "nora-seitz",
+      "name": "Nora Seitz",
+      "name_padoka": "Seitz, Nora",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "claudia-moll",
+      "name": "Claudia Moll",
+      "name_padoka": "Moll, Claudia",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "siemtje-moller",
+      "name": "Siemtje Möller",
+      "name_padoka": "Möller, Siemtje",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "axel-muller",
+      "name": "Axel Müller",
+      "name_padoka": "Müller, Axel",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "cornell-anette-babendererde",
+      "name": "Cornell-Anette Babendererde",
+      "name_padoka": "Babendererde, Cornell-Anette",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "max-lucks",
+      "name": "Max Lucks",
+      "name_padoka": "Lucks, Max",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "tanja-machalet",
+      "name": "Tanja Machalet",
+      "name_padoka": "Machalet, Tanja",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "heike-heubach",
+      "name": "Heike Heubach",
+      "name_padoka": "Heubach, Heike",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "swantje-henrike-michaelsen",
+      "name": "Swantje Henrike Michaelsen",
+      "name_padoka": "Michaelsen, Swantje Henrike",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kathrin-michel",
+      "name": "Kathrin Michel",
+      "name_padoka": "Michel, Kathrin",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "sascha-van-beek",
+      "name": "Sascha van Beek",
+      "name_padoka": "van Beek, Sascha",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "soren-pellmann",
+      "name": "Sören Pellmann",
+      "name_padoka": "Pellmann, Sören",
+      "role": "antragsteller",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "isabel-mackensen-geis",
+      "name": "Isabel Mackensen-Geis",
+      "name_padoka": "Mackensen-Geis, Isabel",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "hendrik-bollmann",
+      "name": "Hendrik Bollmann",
+      "name_padoka": "Bollmann, Hendrik",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "kirsten-kappert-gonther",
+      "name": "Kirsten Kappert-Gonther",
+      "name_padoka": "Kappert-Gonther, Kirsten",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "maria-lena-weiss",
+      "name": "Maria-Lena Weiss",
+      "name_padoka": "Weiss, Maria-Lena",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "stefan-schwartze",
+      "name": "Stefan Schwartze",
+      "name_padoka": "Schwartze, Stefan",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "hans-theiss",
+      "name": "Hans Theiss",
+      "name_padoka": "Theiss, Hans",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "christian-hirte",
+      "name": "Christian Hirte",
+      "name_padoka": "Hirte, Christian",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "alexander-hoffmann",
+      "name": "Alexander Hoffmann",
+      "name_padoka": "Hoffmann, Alexander",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "hendrik-hoppenstedt",
+      "name": "Hendrik Hoppenstedt",
+      "name_padoka": "Hoppenstedt, Hendrik",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "melanie-bernstein",
+      "name": "Melanie Bernstein",
+      "name_padoka": "Bernstein, Melanie",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "axel-knoerig",
+      "name": "Axel Knoerig",
+      "name_padoka": "Knoerig, Axel",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "lina-seitzl",
+      "name": "Lina Seitzl",
+      "name_padoka": "Seitzl, Lina",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "marc-biadacz",
+      "name": "Marc Biadacz",
+      "name_padoka": "Biadacz, Marc",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "nyke-slawik",
+      "name": "Nyke Slawik",
+      "name_padoka": "Slawik, Nyke",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "andreas-lenz",
+      "name": "Andreas Lenz",
+      "name_padoka": "Lenz, Andreas",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "jens-lehmann",
+      "name": "Jens Lehmann",
+      "name_padoka": "Lehmann, Jens",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "benedikt-budenbender",
+      "name": "Benedikt Büdenbender",
+      "name_padoka": "Büdenbender, Benedikt",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "knut-abraham",
+      "name": "Knut Abraham",
+      "name_padoka": "Abraham, Knut",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "sandra-carstensen",
+      "name": "Sandra Carstensen",
+      "name_padoka": "Carstensen, Sandra",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "daniel-rinkert",
+      "name": "Daniel Rinkert",
+      "name_padoka": "Rinkert, Daniel",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "claudia-roth",
+      "name": "Claudia Roth",
+      "name_padoka": "Roth, Claudia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jan-wilhelm-pohlmann",
+      "name": "Jan-Wilhelm Pohlmann",
+      "name_padoka": "Pohlmann, Jan-Wilhelm",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "andrea-lindholz",
+      "name": "Andrea Lindholz",
+      "name_padoka": "Lindholz, Andrea",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "carsten-brodesser",
+      "name": "Carsten Brodesser",
+      "name_padoka": "Brodesser, Carsten",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "kerstin-griese",
+      "name": "Kerstin Griese",
+      "name_padoka": "Griese, Kerstin",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "stephan-stracke",
+      "name": "Stephan Stracke",
+      "name_padoka": "Stracke, Stephan",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "derya-turk-nachbaur",
+      "name": "Derya Türk-Nachbaur",
+      "name_padoka": "Türk-Nachbaur, Derya",
+      "role": "antragsteller",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "simone-borchardt",
+      "name": "Simone Borchardt",
+      "name_padoka": "Borchardt, Simone",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "daniela-ludwig",
+      "name": "Daniela Ludwig",
+      "name_padoka": "Ludwig, Daniela",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "stefan-nacke",
+      "name": "Stefan Nacke",
+      "name_padoka": "Nacke, Stefan",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "johannes-volkmann",
+      "name": "Johannes Volkmann",
+      "name_padoka": "Volkmann, Johannes",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "siegfried-walch",
+      "name": "Siegfried Walch",
+      "name_padoka": "Walch, Siegfried",
+      "role": "antragsteller",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "cdu-csu",
+    "afd"
+  ],
+  "drsNr": "21/8376",
+  "subtype": "Änderungsantrag",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/083/2108376.pdf",
+    "filename": "2108376.pdf"
+  }
+}

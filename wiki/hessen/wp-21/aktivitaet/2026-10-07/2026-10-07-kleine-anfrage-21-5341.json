@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-5341",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Klagen gegen die Landarztquote in NRW – Vergleichbare Probleme in Hessen?",
+  "date": "2026-10-07",
+  "drsNr": "21/5341",
+  "persons": [
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "nina-eisenhardt",
+      "name": "Nina Eisenhardt",
+      "name_padoka": "Eisenhardt, Nina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/05341.pdf",
+    "filename": "05341.pdf"
+  }
+}

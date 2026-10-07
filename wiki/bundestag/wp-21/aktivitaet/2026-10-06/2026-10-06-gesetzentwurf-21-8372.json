@@ -1,0 +1,145 @@
+{
+  "id": "dip-ges-21-8372",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "gesetzentwurf",
+  "title": "Gesetz zur Änderung des Achten Buches Sozialgesetzbuch - Rückbesinnung auf biologische Geschlechter in der Kinder- und Jugendhilfe",
+  "date": "2026-10-06",
+  "persons": [
+    {
+      "slug": "jan-feser",
+      "name": "Jan Feser",
+      "name_padoka": "Feser, Jan",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-zaum",
+      "name": "Christian Zaum",
+      "name_padoka": "Zaum, Christian",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kerstin-przygodda",
+      "name": "Kerstin Przygodda",
+      "name_padoka": "Przygodda, Kerstin",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-ebenberger",
+      "name": "Tobias Ebenberger",
+      "name_padoka": "Ebenberger, Tobias",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "otto-strauss",
+      "name": "Otto Strauß",
+      "name_padoka": "Strauß, Otto",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "anna-rathert",
+      "name": "Anna Rathert",
+      "name_padoka": "Rathert, Anna",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "lukas-rehm",
+      "name": "Lukas Rehm",
+      "name_padoka": "Rehm, Lukas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "beatrix-von-storch",
+      "name": "Beatrix von Storch",
+      "name_padoka": "von Storch, Beatrix",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-kempf",
+      "name": "Martina Kempf",
+      "name_padoka": "Kempf, Martina",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sebastian-maack",
+      "name": "Sebastian Maack",
+      "name_padoka": "Maack, Sebastian",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gotz-fromming",
+      "name": "Götz Frömming",
+      "name_padoka": "Frömming, Götz",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nicole-hochst",
+      "name": "Nicole Höchst",
+      "name_padoka": "Höchst, Nicole",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "johann-martel",
+      "name": "Johann Martel",
+      "name_padoka": "Martel, Johann",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "angela-rudzka",
+      "name": "Angela Rudzka",
+      "name_padoka": "Rudzka, Angela",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "claudia-weiss",
+      "name": "Claudia Weiss",
+      "name_padoka": "Weiss, Claudia",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gereon-bollmann",
+      "name": "Gereon Bollmann",
+      "name_padoka": "Bollmann, Gereon",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martin-reichardt",
+      "name": "Martin Reichardt",
+      "name_padoka": "Reichardt, Martin",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "birgit-bessin",
+      "name": "Birgit Bessin",
+      "name_padoka": "Bessin, Birgit",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/8372",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/083/2108372.pdf",
+    "filename": "2108372.pdf"
+  }
+}
