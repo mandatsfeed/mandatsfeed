@@ -1,0 +1,63 @@
+{
+  "id": "dip-ka-21-8422",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ausreiseverbote im Zusammenhang mit den Remigration-Summits in Mailand (2025) und Porto (2026) - Nachfragen zu Antworten der Bundesregierung und unionsrechtliche Vereinbarkeit",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "name_padoka": "Koch, Heinrich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "anna-rathert",
+      "name": "Anna Rathert",
+      "name_padoka": "Rathert, Anna",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/8422",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/084/2108422.pdf",
+    "filename": "2108422.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8579",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Schriftzüge am Fenster eines religiösen Objekts in Leipzig im Februar 2025 (PMK links)",
+  "date": "2026-10-07",
+  "drsNr": "8/8579",
+  "persons": [
+    {
+      "slug": "jorg-kuhne",
+      "name": "Jörg Kühne",
+      "name_padoka": "Kühne, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54278",
+    "filename": "Drs_8_8579_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

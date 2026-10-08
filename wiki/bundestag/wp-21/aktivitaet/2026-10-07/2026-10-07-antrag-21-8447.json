@@ -1,0 +1,55 @@
+{
+  "id": "dip-drs-21-8447",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Entschließungsantrag zum Bericht über das Ergebnis der Vorplanung und der frühen Öffentlichkeitsbeteiligung Ausbaustrecke/Neubaustrecke Hannover - Hamburg",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "swantje-henrike-michaelsen",
+      "name": "Swantje Henrike Michaelsen",
+      "name_padoka": "Michaelsen, Swantje Henrike",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "matthias-gastel",
+      "name": "Matthias Gastel",
+      "name_padoka": "Gastel, Matthias",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "tarek-al-wazir",
+      "name": "Tarek Al-Wazir",
+      "name_padoka": "Al-Wazir, Tarek",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "victoria-brossart",
+      "name": "Victoria Broßart",
+      "name_padoka": "Broßart, Victoria",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "julia-verlinden",
+      "name": "Julia Verlinden",
+      "name_padoka": "Verlinden, Julia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/8447",
+  "subtype": "Entschließungsantrag",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/084/2108447.pdf",
+    "filename": "2108447.pdf"
+  }
+}

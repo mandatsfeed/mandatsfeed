@@ -1,0 +1,105 @@
+{
+  "id": "dip-ka-21-8426",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Situation der Angehörigen der Opfer des NSU sowie der überlebenden Anschlagsopfer",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "marlene-schonberger",
+      "name": "Marlene Schönberger",
+      "name_padoka": "Schönberger, Marlene",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lamya-kaddor",
+      "name": "Lamya Kaddor",
+      "name_padoka": "Kaddor, Lamya",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "awet-tesfaiesus",
+      "name": "Awet Tesfaiesus",
+      "name_padoka": "Tesfaiesus, Awet",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "helge-limburg",
+      "name": "Helge Limburg",
+      "name_padoka": "Limburg, Helge",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lukas-benner",
+      "name": "Lukas Benner",
+      "name_padoka": "Benner, Lukas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "schahina-gambir",
+      "name": "Schahina Gambir",
+      "name_padoka": "Gambir, Schahina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "irene-mihalic",
+      "name": "Irene Mihalic",
+      "name_padoka": "Mihalic, Irene",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lena-gumnior",
+      "name": "Lena Gumnior",
+      "name_padoka": "Gumnior, Lena",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "konstantin-von-notz",
+      "name": "Konstantin von Notz",
+      "name_padoka": "von Notz, Konstantin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "till-steffen",
+      "name": "Till Steffen",
+      "name_padoka": "Steffen, Till",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marcel-emmerich",
+      "name": "Marcel Emmerich",
+      "name_padoka": "Emmerich, Marcel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "stefan-schmidt",
+      "name": "Stefan Schmidt",
+      "name_padoka": "Schmidt, Stefan",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/8426",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/084/2108426.pdf",
+    "filename": "2108426.pdf"
+  }
+}

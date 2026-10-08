@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-34-marko-winter",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in 34. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-09-17",
+  "persons": [
+    {
+      "slug": "marko-winter",
+      "name": "Marko Winter",
+      "name_padoka": "Winter, Marko",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/34",
+    "date": "2026-09-17"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=54284"
+  }
+}

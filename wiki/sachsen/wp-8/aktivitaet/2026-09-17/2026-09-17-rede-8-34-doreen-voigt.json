@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-34-doreen-voigt",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "1 Redebeitrag in 34. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-09-17",
+  "persons": [
+    {
+      "slug": "doreen-voigt",
+      "name": "Doreen Voigt",
+      "name_padoka": "Voigt, Doreen",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/34",
+    "date": "2026-09-17"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=54284"
+  }
+}

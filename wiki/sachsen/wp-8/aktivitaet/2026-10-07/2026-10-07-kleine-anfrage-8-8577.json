@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8577",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Versendung eines Schreibens mit bedrohlichem Inhalt am 9. Juli 2025",
+  "date": "2026-10-07",
+  "drsNr": "8/8577",
+  "persons": [
+    {
+      "slug": "jorg-kuhne",
+      "name": "Jörg Kühne",
+      "name_padoka": "Kühne, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54276",
+    "filename": "Drs_8_8577_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

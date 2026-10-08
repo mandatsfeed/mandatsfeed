@@ -1,0 +1,82 @@
+{
+  "id": "dip-drs-21-8379",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Kleine und mittlere Einkommen tatsächlich entlasten und Rücklagen- und Vermögensaufbau stärken",
+  "date": "2026-10-06",
+  "persons": [
+    {
+      "slug": "karoline-otte",
+      "name": "Karoline Otte",
+      "name_padoka": "Otte, Karoline",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-muller",
+      "name": "Sascha Müller",
+      "name_padoka": "Müller, Sascha",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lisa-paus",
+      "name": "Lisa Paus",
+      "name_padoka": "Paus, Lisa",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katharina-beck",
+      "name": "Katharina Beck",
+      "name_padoka": "Beck, Katharina",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "moritz-heuberger",
+      "name": "Moritz Heuberger",
+      "name_padoka": "Heuberger, Moritz",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "max-lucks",
+      "name": "Max Lucks",
+      "name_padoka": "Lucks, Max",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "mayra-vriesema",
+      "name": "Mayra Vriesema",
+      "name_padoka": "Vriesema, Mayra",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "misbah-khan",
+      "name": "Misbah Khan",
+      "name_padoka": "Khan, Misbah",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "stefan-schmidt",
+      "name": "Stefan Schmidt",
+      "name_padoka": "Schmidt, Stefan",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/8379",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/083/2108379.pdf",
+    "filename": "2108379.pdf"
+  }
+}

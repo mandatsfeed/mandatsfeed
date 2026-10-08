@@ -1,0 +1,79 @@
+{
+  "id": "dip-rede-21-98",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Drei Jahre nach dem terroristischen Überfall der Hamas auf Israel - Antisemitismus entschlossen bekämpfen, jüdisches Leben in Deutschland schützen",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "siegfried-walch",
+      "name": "Siegfried Walch",
+      "name_padoka": "Walch, Siegfried",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "caroline-bosbach",
+      "name": "Caroline Bosbach",
+      "name_padoka": "Bosbach, Caroline",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "ines-schwerdtner",
+      "name": "Ines Schwerdtner",
+      "name_padoka": "Schwerdtner, Ines",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "agnieszka-brugger",
+      "name": "Agnieszka Brugger",
+      "name_padoka": "Brugger, Agnieszka",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "siemtje-moller",
+      "name": "Siemtje Möller",
+      "name_padoka": "Möller, Siemtje",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "beatrix-von-storch",
+      "name": "Beatrix von Storch",
+      "name_padoka": "von Storch, Beatrix",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jurgen-hardt",
+      "name": "Jürgen Hardt",
+      "name_padoka": "Hardt, Jürgen",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "cansin-kokturk",
+      "name": "Cansin Köktürk",
+      "name_padoka": "Köktürk, Cansin",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "die-linke",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "afd"
+  ],
+  "drsNr": "21/98",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21098.pdf#P.12205",
+    "filename": "21098.pdf#P.12205"
+  }
+}

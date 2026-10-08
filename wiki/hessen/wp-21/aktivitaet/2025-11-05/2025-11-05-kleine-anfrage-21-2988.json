@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-2988",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "KI-Assistenzsystem AI Gude",
+  "date": "2025-11-05",
+  "drsNr": "21/2988",
+  "persons": [
+    {
+      "slug": "nina-eisenhardt",
+      "name": "Nina Eisenhardt",
+      "name_padoka": "Eisenhardt, Nina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "andreas-ewald",
+      "name": "Andreas Ewald",
+      "name_padoka": "Ewald, Andreas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "torsten-leveringhaus",
+      "name": "Torsten Leveringhaus",
+      "name_padoka": "Leveringhaus, Torsten",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/02988.pdf",
+    "filename": "02988.pdf"
+  }
+}
