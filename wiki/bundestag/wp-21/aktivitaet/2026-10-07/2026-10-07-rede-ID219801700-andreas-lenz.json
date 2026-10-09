@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219801700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "andreas-lenz",
+      "name": "Andreas Lenz",
+      "name_padoka": "Lenz, Andreas",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/98",
+    "date": "2026-10-07",
+    "page": 12242
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21098.pdf"
+  }
+}

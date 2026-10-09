@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219815000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Organisierte Kriminalität systematisch zerschlagen",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "arne-raue",
+      "name": "Arne Raue",
+      "name_padoka": "Raue, Arne",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/98",
+    "date": "2026-10-07",
+    "page": 12242
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21098.pdf"
+  }
+}

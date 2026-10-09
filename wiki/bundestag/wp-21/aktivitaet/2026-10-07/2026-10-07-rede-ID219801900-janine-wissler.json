@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219801900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "janine-wissler",
+      "name": "Janine Wissler",
+      "name_padoka": "Wissler, Janine",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/98",
+    "date": "2026-10-07",
+    "page": 12242
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21098.pdf"
+  }
+}

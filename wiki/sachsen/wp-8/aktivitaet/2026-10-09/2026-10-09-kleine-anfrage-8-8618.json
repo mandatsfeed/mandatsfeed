@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8618",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Nutzung Künstlicher Intelligenz in der sächsischen Justiz",
+  "date": "2026-10-09",
+  "drsNr": "8/8618",
+  "persons": [
+    {
+      "slug": "volker-dringenberg",
+      "name": "Volker Dringenberg",
+      "name_padoka": "Dringenberg, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54328",
+    "filename": "Drs_8_8618_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

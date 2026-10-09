@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219809700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "steffen-kotre",
+      "name": "Steffen Kotré",
+      "name_padoka": "Kotré, Steffen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/98",
+    "date": "2026-10-07",
+    "page": 12242
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21098.pdf"
+  }
+}

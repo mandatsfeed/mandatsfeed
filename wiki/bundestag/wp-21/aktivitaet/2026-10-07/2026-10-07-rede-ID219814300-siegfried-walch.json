@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219814300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Drei Jahre nach dem terroristischen Überfall der Hamas auf Israel – Antisemitismus entschlossen bekämpfen, jüdisches Leben in Deutschland schützen",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "siegfried-walch",
+      "name": "Siegfried Walch",
+      "name_padoka": "Walch, Siegfried",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/98",
+    "date": "2026-10-07",
+    "page": 12242
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21098.pdf"
+  }
+}

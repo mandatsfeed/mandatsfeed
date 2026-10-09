@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219815400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 5",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "metin-hakverdi",
+      "name": "Metin Hakverdi",
+      "name_padoka": "Hakverdi, Metin",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/98",
+    "date": "2026-10-07",
+    "page": 12242
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21098.pdf"
+  }
+}

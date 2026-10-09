@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219811700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "nicklas-kappe",
+      "name": "Nicklas Kappe",
+      "name_padoka": "Kappe, Nicklas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/98",
+    "date": "2026-10-07",
+    "page": 12242
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21098.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219813800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Drei Jahre nach dem terroristischen Überfall der Hamas auf Israel – Antisemitismus entschlossen bekämpfen, jüdisches Leben in Deutschland schützen",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "beatrix-von-storch",
+      "name": "Beatrix von Storch",
+      "name_padoka": "von Storch, Beatrix",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/98",
+    "date": "2026-10-07",
+    "page": 12242
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21098.pdf"
+  }
+}

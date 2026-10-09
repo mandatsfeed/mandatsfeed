@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219816500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Deutsche Erinnerungskultur neu ausrichten – Gedenkstättenkonzeption des Bundes durch eine Bundeskonzeption national bedeutsamer Gedenkstätten, Denkmäler und Erinnerungsorte ersetzen — Kulturschutzgebiete für identitätsstiftende Bauwerke und Landschaften etablieren",
+  "date": "2026-10-07",
+  "persons": [
+    {
+      "slug": "carolin-bachmann",
+      "name": "Carolin Bachmann",
+      "name_padoka": "Bachmann, Carolin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/98",
+    "date": "2026-10-07",
+    "page": 12242
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21098.pdf"
+  }
+}
