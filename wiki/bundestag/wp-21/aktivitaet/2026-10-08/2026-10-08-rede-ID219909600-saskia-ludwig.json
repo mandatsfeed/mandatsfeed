@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219909600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bericht der Beauftragten der Bundesregierung für Ostdeutschland 2026 — In Bewegung bleiben",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "saskia-ludwig",
+      "name": "Saskia Ludwig",
+      "name_padoka": "Ludwig, Saskia",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

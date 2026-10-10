@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219909300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bericht der Beauftragten der Bundesregierung für Ostdeutschland 2026 — In Bewegung bleiben",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "elisabeth-kaiser",
+      "name": "Elisabeth Kaiser",
+      "name_padoka": "Kaiser, Elisabeth",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Beauftragte der Bundesregierung für Ostdeutschland"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219905200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Nachhaltigkeit und Zukunftsfragen",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "fabian-fahl",
+      "name": "Fabian Fahl",
+      "name_padoka": "Fahl, Fabian",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

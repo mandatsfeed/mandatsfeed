@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219903300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kleine und mittlere Einkommen tatsächlich entlasten und Rücklagen- und Vermögensaufbau stärken — Gerechtigkeitslücke im Steuersystem schließen – Share Deals reformieren, steuerliche Privilegierung von Immobilienkonzernen abschaffen",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "frauke-heiligenstadt",
+      "name": "Frauke Heiligenstadt",
+      "name_padoka": "Heiligenstadt, Frauke",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

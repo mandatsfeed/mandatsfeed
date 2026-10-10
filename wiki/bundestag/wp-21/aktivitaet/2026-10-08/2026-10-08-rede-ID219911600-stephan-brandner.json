@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219911600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 15",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219913900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in Südsudan (UNMISS)",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "serap-guler",
+      "name": "Serap Güler",
+      "name_padoka": "Güler, Serap",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsministerin beim Bundesminister des Auswärtigen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

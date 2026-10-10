@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219914700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Lebensmittelversorgung in Deutschland krisenfest und unabhängig gestalten — Lebensmittelhandwerk erhalten – Vielfältige und krisenfeste Ernährungsversorgung sicherstellen",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "alexander-engelhard",
+      "name": "Alexander Engelhard",
+      "name_padoka": "Engelhard, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

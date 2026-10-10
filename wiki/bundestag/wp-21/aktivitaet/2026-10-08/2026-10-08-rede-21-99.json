@@ -1,0 +1,81 @@
+{
+  "id": "dip-rede-21-99",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in Südsudan (UNMISS)",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "jurgen-cosse",
+      "name": "Jürgen Coße",
+      "name_padoka": "Coße, Jürgen",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "name_padoka": "Koch, Heinrich",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-wilhelm-pohlmann",
+      "name": "Jan-Wilhelm Pohlmann",
+      "name_padoka": "Pohlmann, Jan-Wilhelm",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "desiree-becker",
+      "name": "Desiree Becker",
+      "name_padoka": "Becker, Desiree",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "agnieszka-brugger",
+      "name": "Agnieszka Brugger",
+      "name_padoka": "Brugger, Agnieszka",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sebastian-hartmann",
+      "name": "Sebastian Hartmann",
+      "name_padoka": "Hartmann, Sebastian",
+      "role": "redner",
+      "fraktion": "Bundesministerium der Verteidigung",
+      "funktion": "Parl. Staatssekr."
+    },
+    {
+      "slug": "gerold-otten",
+      "name": "Gerold Otten",
+      "name_padoka": "Otten, Gerold",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "serap-guler",
+      "name": "Serap Güler",
+      "name_padoka": "Güler, Serap",
+      "role": "redner",
+      "fraktion": "Auswärtiges Amt",
+      "funktion": "Staatsmin."
+    }
+  ],
+  "fraktionen": [
+    "spd",
+    "afd",
+    "cdu-csu",
+    "die-linke",
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/99",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf#P.12415",
+    "filename": "21099.pdf#P.12415"
+  }
+}

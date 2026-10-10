@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219907300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "24 Maßnahmen gegen linksextremistische Gewalt und Terror – Jetzt entschlossen handeln zum Schutz von Demokratie, Rechtsstaat und kritischer Infrastruktur, insbesondere unter der Berücksichtigung der Ergebnisse der Berliner Abgeordnetenhauswahl — Sachbeschädigungen von kritischen Infrastrukturen in der polizeilichen Kriminalstatistik gesondert abbilden",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "florian-oest",
+      "name": "Florian Oest",
+      "name_padoka": "Oest, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

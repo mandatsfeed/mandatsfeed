@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219914800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Lebensmittelversorgung in Deutschland krisenfest und unabhängig gestalten — Lebensmittelhandwerk erhalten – Vielfältige und krisenfeste Ernährungsversorgung sicherstellen",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "peter-felser",
+      "name": "Peter Felser",
+      "name_padoka": "Felser, Peter",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

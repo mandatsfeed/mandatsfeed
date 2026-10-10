@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219912900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der von der Europäischen Union geführten Operation European Union Naval Force ASPIDES (EUNAVFOR ASPIDES)",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "hannes-gnauck",
+      "name": "Hannes Gnauck",
+      "name_padoka": "Gnauck, Hannes",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

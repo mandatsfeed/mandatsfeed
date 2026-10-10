@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219907800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Wirtschaftsprognosen 2027 – Deutschland zurück auf dem Wachstumspfad",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "katherina-reiche",
+      "name": "Katherina Reiche",
+      "name_padoka": "Reiche, Katherina",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesministerin für Wirtschaft und Energie"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

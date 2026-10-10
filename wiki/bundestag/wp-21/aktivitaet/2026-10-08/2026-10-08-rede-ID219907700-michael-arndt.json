@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID219907700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Dritter Bericht der Bundesregierung zur weltweiten Lage der Religions- und Weltanschauungsfreiheit (Berichtszeitraum 2020 bis 2022) — COVID-19-Impfschäden ernst nehmen und deren medizinische Behandlung sicherstellen",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "michael-arndt",
+      "name": "Michael Arndt",
+      "name_padoka": "Arndt, Michael",
+      "role": "redner",
+      "fraktion": "Die Linke",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

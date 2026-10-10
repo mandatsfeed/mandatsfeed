@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219911000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kassenzulassung des nicht-invasiven Pränataltests – Monitoring der Konsequenzen und Einrichtung eines Gremiums",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "soren-pellmann",
+      "name": "Sören Pellmann",
+      "name_padoka": "Pellmann, Sören",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

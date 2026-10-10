@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219913600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Vom Mieter zum Eigentümer – Wohneigentum wieder bezahlbar machen — Gewachsene Heimat erhalten – Lokales Bauland an Einheimische vergeben",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "katalin-gennburg",
+      "name": "Katalin Gennburg",
+      "name_padoka": "Gennburg, Katalin",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

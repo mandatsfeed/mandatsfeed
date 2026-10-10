@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID219900700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Kindergeld stärken, Entlastungsschere schließen – Familienleistungsausgleich gerechter gestalten",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "christian-douglas",
+      "name": "Christian Douglas",
+      "name_padoka": "Douglas, Christian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}

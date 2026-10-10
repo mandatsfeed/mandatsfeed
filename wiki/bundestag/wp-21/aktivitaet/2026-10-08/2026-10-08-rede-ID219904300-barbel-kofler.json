@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID219904300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Nachhaltigkeit und Zukunftsfragen",
+  "date": "2026-10-08",
+  "persons": [
+    {
+      "slug": "barbel-kofler",
+      "name": "Bärbel Kofler",
+      "name_padoka": "Kofler, Bärbel",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Parl. Staatssekretärin bei der Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/99",
+    "date": "2026-10-08",
+    "page": 12504
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21099.pdf"
+  }
+}
