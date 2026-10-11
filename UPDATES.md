@@ -1,5 +1,41 @@
 # Updates
 
+## 2026-10-11 11:07
+
+Insgesamt **14901 neu**, **0 aktualisiert**, **0 entfernt** in 2 Parlamenten.
+
+### Deutscher Bundestag
+
++14838 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Rede | Antrag | Kleine Anfrage | Große Anfrage | Gesetzentwurf | Abstimmung |
+|---|---|---|---|---|---|---|
+| AfD | +2713 | +234 | +1770 | +10 | +44 | +45 |
+| BSW | +13 | — | — | — | — | — |
+| Bundesregierung | +2076 | — | — | — | — | — |
+| BÜNDNIS 90/DIE GRÜNEN | +86 | +203 | +538 | +1 | +17 | — |
+| CDU/CSU | +2985 | +8 | — | — | +1 | +45 |
+| Die Linke | +1424 | +146 | +663 | +3 | +2 | +45 |
+| FDP | +57 | +9 | +20 | — | +2 | — |
+| Fraktionslose Abgeordnete | +94 | +3 | — | — | +5 | +45 |
+| SPD | +1978 | +8 | — | — | +1 | +45 |
+| unbekannt | — | +3 | +71 | — | — | — |
+
+### Landtag Mecklenburg-Vorpommern
+
++63 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Rede |
+|---|---|
+| AfD | +12 |
+| BÜNDNIS 90/DIE GRÜNEN | +4 |
+| CDU | +9 |
+| Die Linke | +9 |
+| FDP | +4 |
+| Fraktionslose Abgeordnete | +2 |
+| SPD | +23 |
+
+
 ## 2026-10-10 10:56
 
 Insgesamt **14838 neu**, **0 aktualisiert**, **0 entfernt** in 1 Parlament.
