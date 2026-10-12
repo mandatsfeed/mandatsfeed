@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8644",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Mann bei Auseinandersetzung schwer verletzt",
+  "date": "2026-10-12",
+  "drsNr": "8/8644",
+  "persons": [
+    {
+      "slug": "hans-jurgen-zickler",
+      "name": "Hans-Jürgen Zickler",
+      "name_padoka": "Zickler, Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54361",
+    "filename": "Drs_8_8644_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

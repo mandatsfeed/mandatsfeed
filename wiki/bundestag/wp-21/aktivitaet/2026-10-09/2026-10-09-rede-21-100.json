@@ -1,0 +1,87 @@
+{
+  "id": "dip-rede-21-100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gesetz für mehr Gerechtigkeit durch die Stärkung der Zollverwaltung und die Bekämpfung der Finanzkriminalität",
+  "date": "2026-10-09",
+  "persons": [
+    {
+      "slug": "mechthilde-wittmann",
+      "name": "Mechthilde Wittmann",
+      "name_padoka": "Wittmann, Mechthilde",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "philip-m-a-hoffmann",
+      "name": "Philip M. A. Hoffmann",
+      "name_padoka": "Hoffmann, Philip M. A.",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "name_padoka": "Finger, Hauke",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ingo-vogel",
+      "name": "Ingo Vogel",
+      "name_padoka": "Vogel, Ingo",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "isabelle-vandre",
+      "name": "Isabelle Vandre",
+      "name_padoka": "Vandre, Isabelle",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "katharina-beck",
+      "name": "Katharina Beck",
+      "name_padoka": "Beck, Katharina",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "anja-karliczek",
+      "name": "Anja Karliczek",
+      "name_padoka": "Karliczek, Anja",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "name_padoka": "Gottschalk, Kay",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-schrodi",
+      "name": "Michael Schrodi",
+      "name_padoka": "Schrodi, Michael",
+      "role": "redner",
+      "fraktion": "Bundesministerium der Finanzen",
+      "funktion": "Parl. Staatssekr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "afd",
+    "spd",
+    "die-linke",
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/100",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21100.pdf#P.12600",
+    "filename": "21100.pdf#P.12600"
+  }
+}

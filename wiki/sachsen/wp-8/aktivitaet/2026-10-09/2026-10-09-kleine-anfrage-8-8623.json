@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8623",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Akute Vergiftungen durch illegale Drogen bei Kindern und Jugendlichen im Freistaat Sachsen",
+  "date": "2026-10-09",
+  "drsNr": "8/8623",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54333",
+    "filename": "Drs_8_8623_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

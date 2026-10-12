@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8626",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Baudenkmal Christuskirche Dresden-Strehlen dauerhaft sichern",
+  "date": "2026-10-09",
+  "drsNr": "8/8626",
+  "persons": [
+    {
+      "slug": "thomas-loser",
+      "name": "Thomas Löser",
+      "name_padoka": "Löser, Thomas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54336",
+    "filename": "Drs_8_8626_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
