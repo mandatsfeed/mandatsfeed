@@ -1,5 +1,46 @@
 # Updates
 
+## 2026-10-13 12:14
+
+Insgesamt **14951 neu**, **0 aktualisiert**, **0 entfernt** in 3 Parlamenten.
+
+### Deutscher Bundestag
+
++14940 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Rede | Antrag | Kleine Anfrage | Große Anfrage | Gesetzentwurf | Abstimmung |
+|---|---|---|---|---|---|---|
+| AfD | +2736 | +234 | +1788 | +11 | +44 | +45 |
+| BSW | +13 | — | — | — | — | — |
+| Bundesregierung | +2081 | — | — | — | — | — |
+| BÜNDNIS 90/DIE GRÜNEN | +87 | +203 | +539 | +1 | +17 | — |
+| CDU/CSU | +3011 | +8 | — | — | +1 | +45 |
+| Die Linke | +1437 | +146 | +665 | +3 | +2 | +45 |
+| FDP | +57 | +9 | +20 | — | +2 | — |
+| Fraktionslose Abgeordnete | +94 | +3 | — | — | +5 | +45 |
+| SPD | +1994 | +8 | — | — | +1 | +45 |
+| unbekannt | — | +3 | +71 | — | — | — |
+
+### Sächsischer Landtag
+
++8 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Kleine Anfrage |
+|---|---|
+| AfD | +6 |
+| BÜNDNISGRÜNE | +1 |
+| Die Linke | +1 |
+
+### Hessischer Landtag
+
++3 neu · ~0 aktualisiert · -0 entfernt
+
+| Fraktion | Kleine Anfrage |
+|---|---|
+| AfD | +2 |
+| BÜNDNIS 90/DIE GRÜNEN | +1 |
+
+
 ## 2026-10-12 12:30
 
 Insgesamt **14882 neu**, **0 aktualisiert**, **0 entfernt** in 2 Parlamenten.

@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID2110000100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 35",
+  "date": "2026-10-09",
+  "persons": [
+    {
+      "slug": "karsten-wildberger",
+      "name": "Karsten Wildberger",
+      "name_padoka": "Wildberger, Karsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesminister für Digitales und Staatsmodernisierung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/100",
+    "date": "2026-10-09",
+    "page": 12631
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21100.pdf"
+  }
+}

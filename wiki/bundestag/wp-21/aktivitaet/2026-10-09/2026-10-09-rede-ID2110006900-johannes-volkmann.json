@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110006900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "85 Jahre Massaker von Babyn Jar – Deutschlands historische Verantwortung für die Ukraine — 85. Jahrestag des Massakers von Babyn Jar – Erinnerung bewahren, historische Verantwortung stärken und die Ukraine auf ihrem Weg in Freiheit und Sicherheit unterstützen",
+  "date": "2026-10-09",
+  "persons": [
+    {
+      "slug": "johannes-volkmann",
+      "name": "Johannes Volkmann",
+      "name_padoka": "Volkmann, Johannes",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/100",
+    "date": "2026-10-09",
+    "page": 12631
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21100.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110004600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Keine weitere Erhöhung der Regelaltersgrenze — Abschlagsfreie Rente für besonders langjährig Versicherte erhalten",
+  "date": "2026-10-09",
+  "persons": [
+    {
+      "slug": "pascal-reddig",
+      "name": "Pascal Reddig",
+      "name_padoka": "Reddig, Pascal",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/100",
+    "date": "2026-10-09",
+    "page": 12631
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21100.pdf"
+  }
+}

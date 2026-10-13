@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110009100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Zäsur in Sachsen-Anhalt – Nicht zur Tagesordnung übergehen – Keine Zusammenarbeit mit Rechtsextremen",
+  "date": "2026-10-09",
+  "persons": [
+    {
+      "slug": "heiko-hain",
+      "name": "Heiko Hain",
+      "name_padoka": "Hain, Heiko",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/100",
+    "date": "2026-10-09",
+    "page": 12631
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21100.pdf"
+  }
+}

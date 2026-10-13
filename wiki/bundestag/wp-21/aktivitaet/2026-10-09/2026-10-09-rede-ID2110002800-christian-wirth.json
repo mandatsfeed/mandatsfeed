@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110002800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Maßnahmen für eine wirkliche Migrationswende",
+  "date": "2026-10-09",
+  "persons": [
+    {
+      "slug": "christian-wirth",
+      "name": "Christian Wirth",
+      "name_padoka": "Wirth, Christian",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/100",
+    "date": "2026-10-09",
+    "page": 12631
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21100.pdf"
+  }
+}

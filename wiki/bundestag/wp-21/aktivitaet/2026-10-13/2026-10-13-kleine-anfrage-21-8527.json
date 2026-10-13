@@ -1,0 +1,42 @@
+{
+  "id": "dip-ka-21-8527",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Kosten für neue Möblierung, Ausstattung und Accessoires in den Bundesministerien seit Beginn der 21. Wahlperiode",
+  "date": "2026-10-13",
+  "persons": [
+    {
+      "slug": "rainer-galla",
+      "name": "Rainer Galla",
+      "name_padoka": "Galla, Rainer",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "name_padoka": "Bloch, Joachim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/8527",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/085/2108527.pdf",
+    "filename": "2108527.pdf"
+  }
+}

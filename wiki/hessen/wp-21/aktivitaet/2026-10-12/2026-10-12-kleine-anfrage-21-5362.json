@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-5362",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Haus Sindlingen",
+  "date": "2026-10-12",
+  "drsNr": "21/5362",
+  "persons": [
+    {
+      "slug": "martina-feldmayer",
+      "name": "Martina Feldmayer",
+      "name_padoka": "Feldmayer, Martina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "hildegard-forster-heldmann",
+      "name": "Hildegard Förster-Heldmann",
+      "name_padoka": "Förster-Heldmann, Hildegard",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marcus-bocklet",
+      "name": "Marcus Bocklet",
+      "name_padoka": "Bocklet, Marcus",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/2/05362.pdf",
+    "filename": "05362.pdf"
+  }
+}

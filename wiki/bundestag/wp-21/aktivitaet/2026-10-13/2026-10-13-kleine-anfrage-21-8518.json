@@ -1,0 +1,77 @@
+{
+  "id": "dip-ka-21-8518",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Rendite deutscher Entwicklungszusammenarbeit auf Exporte und Beschäftigung in Deutschland",
+  "date": "2026-10-13",
+  "persons": [
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "matthias-rentzsch",
+      "name": "Matthias Rentzsch",
+      "name_padoka": "Rentzsch, Matthias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "johann-martel",
+      "name": "Johann Martel",
+      "name_padoka": "Martel, Johann",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-uhr",
+      "name": "Martina Uhr",
+      "name_padoka": "Uhr, Martina",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-espendiller",
+      "name": "Michael Espendiller",
+      "name_padoka": "Espendiller, Michael",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-wolf",
+      "name": "Alexander Wolf",
+      "name_padoka": "Wolf, Alexander",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rocco-kever",
+      "name": "Rocco Kever",
+      "name_padoka": "Kever, Rocco",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/8518",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/085/2108518.pdf",
+    "filename": "2108518.pdf"
+  }
+}

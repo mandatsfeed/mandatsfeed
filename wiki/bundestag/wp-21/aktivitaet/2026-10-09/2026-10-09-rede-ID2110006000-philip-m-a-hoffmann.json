@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110006000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zollreform erweitern – Organisierte Steuerkriminalität wirksam verfolgen und eingezogenes Vermögen der Gesellschaft zurückgeben",
+  "date": "2026-10-09",
+  "persons": [
+    {
+      "slug": "philip-m-a-hoffmann",
+      "name": "Philip M. A. Hoffmann",
+      "name_padoka": "Hoffmann, Philip M. A.",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/100",
+    "date": "2026-10-09",
+    "page": 12631
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21100.pdf"
+  }
+}

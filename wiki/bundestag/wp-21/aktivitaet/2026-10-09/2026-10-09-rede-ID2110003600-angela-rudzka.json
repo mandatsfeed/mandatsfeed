@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110003600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Datengestützte Bildungsentwicklung fördern – Qualität sichern, Chancen verbessern",
+  "date": "2026-10-09",
+  "persons": [
+    {
+      "slug": "angela-rudzka",
+      "name": "Angela Rudzka",
+      "name_padoka": "Rudzka, Angela",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/100",
+    "date": "2026-10-09",
+    "page": 12631
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21100.pdf"
+  }
+}
