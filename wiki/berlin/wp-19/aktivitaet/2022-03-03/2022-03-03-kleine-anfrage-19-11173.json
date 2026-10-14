@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-11173",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Kein normales Schuljahr: Unterrichtsausfall im Schuljahr 2021/22",
+  "date": "2022-03-03",
+  "drsNr": "19/11173",
+  "persons": [
+    {
+      "slug": "franziska-brychcy",
+      "name": "Franziska Brychcy",
+      "name_padoka": "Brychcy, Franziska",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-11173.pdf",
+    "filename": "S19-11173.pdf"
+  }
+}
