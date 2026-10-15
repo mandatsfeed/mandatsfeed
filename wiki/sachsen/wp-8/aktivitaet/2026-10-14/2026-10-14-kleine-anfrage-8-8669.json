@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8669",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung des Personalbestandes in Hinsicht auf den Fachkräftemangel bei der oberen Lebensmittelüberwachungsbehörde in Sachsen",
+  "date": "2026-10-14",
+  "drsNr": "8/8669",
+  "persons": [
+    {
+      "slug": "janina-pfau",
+      "name": "Janina Pfau",
+      "name_padoka": "Pfau, Janina",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54399",
+    "filename": "Drs_8_8669_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
