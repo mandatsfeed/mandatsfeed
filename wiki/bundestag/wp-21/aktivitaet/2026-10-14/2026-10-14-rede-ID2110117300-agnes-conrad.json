@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110117300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Unternehmen in Belegschaftshand – Nachfolgekrise im Mittelstand bewältigen — Bürger-Baugenossenschaft verankern – Wohneigentum risikoarm möglich machen",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "agnes-conrad",
+      "name": "Agnes Conrad",
+      "name_padoka": "Conrad, Agnes",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/101",
+    "date": "2026-10-14",
+    "page": 12768
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf"
+  }
+}

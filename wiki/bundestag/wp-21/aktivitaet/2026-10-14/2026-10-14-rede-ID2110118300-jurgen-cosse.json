@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110118300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Vollumfängliche Anerkennung der deutschen Völkermorde an den OvaHerero und Nama für wiedergutmachende Gerechtigkeit — Deutsch-namibische Versöhnung vorantreiben – Kolonialgeschichte aufarbeiten, gemeinsame Zukunft partnerschaftlich gestalten",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "jurgen-cosse",
+      "name": "Jürgen Coße",
+      "name_padoka": "Coße, Jürgen",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/101",
+    "date": "2026-10-14",
+    "page": 12768
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf"
+  }
+}

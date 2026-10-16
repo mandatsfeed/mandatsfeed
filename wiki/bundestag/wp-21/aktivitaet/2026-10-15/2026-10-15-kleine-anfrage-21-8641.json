@@ -1,0 +1,84 @@
+{
+  "id": "dip-ka-21-8641",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Nationale Überführung des Europäischen Medienfreiheitsgesetz ins deutsche Bundesrecht",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "jeanne-dillschneider",
+      "name": "Jeanne Dillschneider",
+      "name_padoka": "Dillschneider, Jeanne",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marlene-schonberger",
+      "name": "Marlene Schönberger",
+      "name_padoka": "Schönberger, Marlene",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katrin-goring-eckardt",
+      "name": "Katrin Göring-Eckardt",
+      "name_padoka": "Göring-Eckardt, Katrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "awet-tesfaiesus",
+      "name": "Awet Tesfaiesus",
+      "name_padoka": "Tesfaiesus, Awet",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "anna-luhrmann",
+      "name": "Anna Lührmann",
+      "name_padoka": "Lührmann, Anna",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "irene-mihalic",
+      "name": "Irene Mihalic",
+      "name_padoka": "Mihalic, Irene",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "misbah-khan",
+      "name": "Misbah Khan",
+      "name_padoka": "Khan, Misbah",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sven-lehmann",
+      "name": "Sven Lehmann",
+      "name_padoka": "Lehmann, Sven",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "konstantin-von-notz",
+      "name": "Konstantin von Notz",
+      "name_padoka": "von Notz, Konstantin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/8641",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/086/2108641.pdf",
+    "filename": "2108641.pdf"
+  }
+}

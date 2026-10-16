@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8677",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Situation in Werkstätten für Menschen mit Behinderung und Förderung des Übergangs auf den allgemeinen Arbeitsmarkt",
+  "date": "2026-10-15",
+  "drsNr": "8/8677",
+  "persons": [
+    {
+      "slug": "janina-pfau",
+      "name": "Janina Pfau",
+      "name_padoka": "Pfau, Janina",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54422",
+    "filename": "Drs_8_8677_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

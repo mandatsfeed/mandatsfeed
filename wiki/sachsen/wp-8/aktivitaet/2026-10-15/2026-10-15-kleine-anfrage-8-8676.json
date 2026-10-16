@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8676",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Beschäftigung von Menschen mit Behinderung auf dem allgemeinen Arbeitsmarkt",
+  "date": "2026-10-15",
+  "drsNr": "8/8676",
+  "persons": [
+    {
+      "slug": "janina-pfau",
+      "name": "Janina Pfau",
+      "name_padoka": "Pfau, Janina",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54421",
+    "filename": "Drs_8_8676_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

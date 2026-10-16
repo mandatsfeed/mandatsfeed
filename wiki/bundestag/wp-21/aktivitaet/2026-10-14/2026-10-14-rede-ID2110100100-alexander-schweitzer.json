@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110100100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Eidesleistung des Bundesministers für Arbeit und Soziales",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "alexander-schweitzer",
+      "name": "Alexander Schweitzer",
+      "name_padoka": "Schweitzer, Alexander",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister für Arbeit und Soziales"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/101",
+    "date": "2026-10-14",
+    "page": 12768
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf"
+  }
+}

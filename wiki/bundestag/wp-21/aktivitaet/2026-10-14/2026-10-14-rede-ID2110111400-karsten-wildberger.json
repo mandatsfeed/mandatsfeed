@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID2110111400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Befragung der Bundesregierung",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "karsten-wildberger",
+      "name": "Karsten Wildberger",
+      "name_padoka": "Wildberger, Karsten",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Bundesminister für Digitales und Staatsmodernisierung"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/101",
+    "date": "2026-10-14",
+    "page": 12768
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf"
+  }
+}

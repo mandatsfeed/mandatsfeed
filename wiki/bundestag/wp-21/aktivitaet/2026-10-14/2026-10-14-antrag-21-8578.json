@@ -1,0 +1,89 @@
+{
+  "id": "dip-drs-21-8578",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Menschen ohne Krankenversicherungsschutz wieder wirksam absichern",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "filiz-polat",
+      "name": "Filiz Polat",
+      "name_padoka": "Polat, Filiz",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lisa-paus",
+      "name": "Lisa Paus",
+      "name_padoka": "Paus, Lisa",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "linda-heitmann",
+      "name": "Linda Heitmann",
+      "name_padoka": "Heitmann, Linda",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "simone-fischer",
+      "name": "Simone Fischer",
+      "name_padoka": "Fischer, Simone",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "paula-piechotta",
+      "name": "Paula Piechotta",
+      "name_padoka": "Piechotta, Paula",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kirsten-kappert-gonther",
+      "name": "Kirsten Kappert-Gonther",
+      "name_padoka": "Kappert-Gonther, Kirsten",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sylvia-rietenberg",
+      "name": "Sylvia Rietenberg",
+      "name_padoka": "Rietenberg, Sylvia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "johannes-wagner",
+      "name": "Johannes Wagner",
+      "name_padoka": "Wagner, Johannes",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "janosch-dahmen",
+      "name": "Janosch Dahmen",
+      "name_padoka": "Dahmen, Janosch",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "armin-grau",
+      "name": "Armin Grau",
+      "name_padoka": "Grau, Armin",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/8578",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/085/2108578.pdf",
+    "filename": "2108578.pdf"
+  }
+}

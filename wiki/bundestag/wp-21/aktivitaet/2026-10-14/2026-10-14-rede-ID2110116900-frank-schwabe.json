@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110116900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Unternehmen in Belegschaftshand – Nachfolgekrise im Mittelstand bewältigen — Bürger-Baugenossenschaft verankern – Wohneigentum risikoarm möglich machen",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "frank-schwabe",
+      "name": "Frank Schwabe",
+      "name_padoka": "Schwabe, Frank",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär bei der Bundesministerin der Justiz und für Verbraucherschutz"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/101",
+    "date": "2026-10-14",
+    "page": 12768
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110117800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Vollumfängliche Anerkennung der deutschen Völkermorde an den OvaHerero und Nama für wiedergutmachende Gerechtigkeit — Deutsch-namibische Versöhnung vorantreiben – Kolonialgeschichte aufarbeiten, gemeinsame Zukunft partnerschaftlich gestalten",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "alexander-wolf",
+      "name": "Alexander Wolf",
+      "name_padoka": "Wolf, Alexander",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/101",
+    "date": "2026-10-14",
+    "page": 12768
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf"
+  }
+}

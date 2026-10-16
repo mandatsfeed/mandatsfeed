@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110116000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Weiterbildung für alle möglich machen – Aufstiegs-BAföG jetzt grundlegend reformieren",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "anne-konig",
+      "name": "Anne König",
+      "name_padoka": "König, Anne",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/101",
+    "date": "2026-10-14",
+    "page": 12768
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf"
+  }
+}

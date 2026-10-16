@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110101000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zum Europäischen Rat am 15./16. Oktober 2026",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "alexander-hoffmann",
+      "name": "Alexander Hoffmann",
+      "name_padoka": "Hoffmann, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/101",
+    "date": "2026-10-14",
+    "page": 12768
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf"
+  }
+}

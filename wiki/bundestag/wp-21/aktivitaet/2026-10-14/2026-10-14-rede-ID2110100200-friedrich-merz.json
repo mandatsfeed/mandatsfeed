@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110100200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zum Europäischen Rat am 15./16. Oktober 2026",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "friedrich-merz",
+      "name": "Friedrich Merz",
+      "name_padoka": "Merz, Friedrich",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundeskanzler"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/101",
+    "date": "2026-10-14",
+    "page": 12768
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf"
+  }
+}

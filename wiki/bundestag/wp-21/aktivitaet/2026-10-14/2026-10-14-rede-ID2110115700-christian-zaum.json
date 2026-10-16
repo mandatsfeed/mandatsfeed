@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110115700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Weiterbildung für alle möglich machen – Aufstiegs-BAföG jetzt grundlegend reformieren",
+  "date": "2026-10-14",
+  "persons": [
+    {
+      "slug": "christian-zaum",
+      "name": "Christian Zaum",
+      "name_padoka": "Zaum, Christian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/101",
+    "date": "2026-10-14",
+    "page": 12768
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21101.pdf"
+  }
+}
