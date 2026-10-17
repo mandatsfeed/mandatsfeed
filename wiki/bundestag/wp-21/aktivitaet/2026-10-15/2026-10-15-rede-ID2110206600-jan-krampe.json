@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110206600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Spionage, Sabotage, hybride Angriffe – Deutschlands Abwehr und Resilienz stärken",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "jan-krampe",
+      "name": "Jan Krampe",
+      "name_padoka": "Krampe, Jan",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

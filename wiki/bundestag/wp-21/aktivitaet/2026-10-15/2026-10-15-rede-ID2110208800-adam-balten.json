@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110208800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Versorgungssicherheit garantieren – Stilllegung von Erdgasspeichern stoppen und strategische Reserve einrichten — Durch Erleichterung der Kohleverstromung den Erdgasbedarf im Stromsektor reduzieren und die Gasversorgung für industrielle Prozesse und Basisprodukte sicherstellen",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110212100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Pflegeversicherung strukturell reformieren – Pflege finanzieren anstatt Familien belasten — Unterstützung alter Menschen und Pflege zukunftssicher machen – Qualität sichern und bezahlbar gestalten",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "emmi-zeulner",
+      "name": "Emmi Zeulner",
+      "name_padoka": "Zeulner, Emmi",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

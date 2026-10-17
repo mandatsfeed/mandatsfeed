@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110202000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Migrationsbilanz für Deutschland – Kosten und Nutzen der Zuwanderung erfassen",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "clara-bunger",
+      "name": "Clara Bünger",
+      "name_padoka": "Bünger, Clara",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

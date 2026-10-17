@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110210600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission der Vereinten Nationen in Südsudan (UNMISS)",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "name_padoka": "Koch, Heinrich",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

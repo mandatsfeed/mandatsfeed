@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110210400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Vor Kälte und Dunkelheit schützen – Energiearmut definieren und abschaffen",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "name_padoka": "Stephan, Thomas",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

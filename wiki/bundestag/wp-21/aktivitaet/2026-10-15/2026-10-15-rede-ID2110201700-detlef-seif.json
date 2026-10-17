@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110201700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Migrationsbilanz für Deutschland – Kosten und Nutzen der Zuwanderung erfassen",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "detlef-seif",
+      "name": "Detlef Seif",
+      "name_padoka": "Seif, Detlef",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110206100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Natur erleben, Umwelt schützen – Naturverträglichen Tourismus als Gewinn für alle stärken — Für ein Handwerk mit Zukunft",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "andreas-mattfeldt",
+      "name": "Andreas Mattfeldt",
+      "name_padoka": "Mattfeldt, Andreas",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

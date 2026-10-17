@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110204900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Familien stärken – Geplante Kürzungen unterlassen — Alleinerziehende entlasten und Kinderarmut bekämpfen",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "kathrin-gebel",
+      "name": "Kathrin Gebel",
+      "name_padoka": "Gebel, Kathrin",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8687",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Frau bedrängt und Jugendliche bedroht-Tatverdächtiger gestellt \nNachfrage zu Drs.-Nr. 8/3317 vom 08.08.2025",
+  "date": "2026-10-16",
+  "drsNr": "8/8687",
+  "persons": [
+    {
+      "slug": "hans-jurgen-zickler",
+      "name": "Hans-Jürgen Zickler",
+      "name_padoka": "Zickler, Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54432",
+    "filename": "Drs_8_8687_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110204100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 10",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "stephan-albani",
+      "name": "Stephan Albani",
+      "name_padoka": "Albani, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

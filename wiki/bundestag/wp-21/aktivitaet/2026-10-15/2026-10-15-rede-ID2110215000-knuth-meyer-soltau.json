@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110215000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Zusatzpunkt 11",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "knuth-meyer-soltau",
+      "name": "Knuth Meyer-Soltau",
+      "name_padoka": "Meyer-Soltau, Knuth",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

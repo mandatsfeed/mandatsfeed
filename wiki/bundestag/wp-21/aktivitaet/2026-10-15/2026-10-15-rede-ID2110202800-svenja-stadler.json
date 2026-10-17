@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110202800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Migrationsbilanz für Deutschland – Kosten und Nutzen der Zuwanderung erfassen",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "svenja-stadler",
+      "name": "Svenja Stadler",
+      "name_padoka": "Stadler, Svenja",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110214800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Den Deutschen Verlagspreis ersatzlos streichen – Keine staatliche Prämierung von Verlagen, deren Programme auch linksextreme Inhalte umfassen",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "david-schliesing",
+      "name": "David Schliesing",
+      "name_padoka": "Schliesing, David",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

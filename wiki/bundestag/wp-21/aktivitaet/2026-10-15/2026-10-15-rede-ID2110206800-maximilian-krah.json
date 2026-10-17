@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110206800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Spionage, Sabotage, hybride Angriffe – Deutschlands Abwehr und Resilienz stärken",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "maximilian-krah",
+      "name": "Maximilian Krah",
+      "name_padoka": "Krah, Maximilian",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}

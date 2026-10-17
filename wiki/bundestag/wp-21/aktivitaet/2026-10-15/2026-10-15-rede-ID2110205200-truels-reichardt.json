@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110205200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Familien stärken – Geplante Kürzungen unterlassen — Alleinerziehende entlasten und Kinderarmut bekämpfen",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "truels-reichardt",
+      "name": "Truels Reichardt",
+      "name_padoka": "Reichardt, Truels",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/102",
+    "date": "2026-10-15",
+    "page": 12932
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf"
+  }
+}
