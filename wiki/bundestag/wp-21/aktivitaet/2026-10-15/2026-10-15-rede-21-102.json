@@ -1,0 +1,129 @@
+{
+  "id": "dip-rede-21-102",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Dreißigstes Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes und anderer Gesetze (30. BAföGÄndG)",
+  "date": "2026-10-15",
+  "persons": [
+    {
+      "slug": "florian-muller",
+      "name": "Florian Müller",
+      "name_padoka": "Müller, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "mayra-vriesema",
+      "name": "Mayra Vriesema",
+      "name_padoka": "Vriesema, Mayra",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "wiebke-esdar",
+      "name": "Wiebke Esdar",
+      "name_padoka": "Esdar, Wiebke",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "ingo-hahn",
+      "name": "Ingo Hahn",
+      "name_padoka": "Hahn, Ingo",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stephan-albani",
+      "name": "Stephan Albani",
+      "name_padoka": "Albani, Stephan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "andrea-lubcke",
+      "name": "Andrea Lübcke",
+      "name_padoka": "Lübcke, Andrea",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "oliver-kaczmarek",
+      "name": "Oliver Kaczmarek",
+      "name_padoka": "Kaczmarek, Oliver",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "nicole-hochst",
+      "name": "Nicole Höchst",
+      "name_padoka": "Höchst, Nicole",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "david-mandrella",
+      "name": "David Mandrella",
+      "name_padoka": "Mandrella, David",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "joachim-ebmeyer",
+      "name": "Joachim Ebmeyer",
+      "name_padoka": "Ebmeyer, Joachim",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "nicole-gohlke",
+      "name": "Nicole Gohlke",
+      "name_padoka": "Gohlke, Nicole",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ayse-asar",
+      "name": "Ayse Asar",
+      "name_padoka": "Asar, Ayse",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lina-seitzl",
+      "name": "Lina Seitzl",
+      "name_padoka": "Seitzl, Lina",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "christoph-birghan",
+      "name": "Christoph Birghan",
+      "name_padoka": "Birghan, Christoph",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "dorothee-bar",
+      "name": "Dorothee Bär",
+      "name_padoka": "Bär, Dorothee",
+      "role": "redner",
+      "fraktion": "Bundesministerium für Forschung, Technologie und Raumfahrt",
+      "funktion": "Bundesmin."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu",
+    "bundnis-90-die-gruenen",
+    "spd",
+    "afd",
+    "die-linke"
+  ],
+  "drsNr": "21/102",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21102.pdf#P.12813",
+    "filename": "21102.pdf#P.12813"
+  }
+}
