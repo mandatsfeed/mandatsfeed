@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110300500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Für eine sichere Rente unserer Kinder – Junior-Spardepot — Finanzielle Bildung stärken – Unabhängig, mehrperspektivisch und für alle jungen Menschen",
+  "date": "2026-10-16",
+  "persons": [
+    {
+      "slug": "sarah-vollath",
+      "name": "Sarah Vollath",
+      "name_padoka": "Vollath, Sarah",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/103",
+    "date": "2026-10-16",
+    "page": 13096
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21103.pdf"
+  }
+}

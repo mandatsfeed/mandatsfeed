@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-5384",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Auswertung angekaufter Offshore-Daten und Konsequenzen für Hessen",
+  "date": "2026-10-19",
+  "drsNr": "21/5384",
+  "persons": [
+    {
+      "slug": "miriam-dahlke",
+      "name": "Miriam Dahlke",
+      "name_padoka": "Dahlke, Miriam",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "andreas-ewald",
+      "name": "Andreas Ewald",
+      "name_padoka": "Ewald, Andreas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/4/05384.pdf",
+    "filename": "05384.pdf"
+  }
+}

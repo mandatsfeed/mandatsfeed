@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110301500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Pflegeversicherung solidarisch und bedarfsgerecht ausrichten — Keine Leistungskürzungen in der Pflege",
+  "date": "2026-10-16",
+  "persons": [
+    {
+      "slug": "axel-muller",
+      "name": "Axel Müller",
+      "name_padoka": "Müller, Axel",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/103",
+    "date": "2026-10-16",
+    "page": 13096
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21103.pdf"
+  }
+}

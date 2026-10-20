@@ -1,0 +1,47 @@
+{
+  "id": "starweb-he-ka-21-5379",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Straßenanbindung im nördlichen Landkreis Kassel – Potenziale unterschiedlicher Verbindungskonzepte zwischen A7 und A44 („Nordspange“)",
+  "date": "2026-10-19",
+  "drsNr": "21/5379",
+  "persons": [
+    {
+      "slug": "klaus-gagel",
+      "name": "Klaus Gagel",
+      "name_padoka": "Gagel, Klaus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "olaf-schwaier",
+      "name": "Olaf Schwaier",
+      "name_padoka": "Schwaier, Olaf",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-lichert",
+      "name": "Andreas Lichert",
+      "name_padoka": "Lichert, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "volker-richter",
+      "name": "Volker Richter",
+      "name_padoka": "Richter, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/05379.pdf",
+    "filename": "05379.pdf"
+  }
+}
