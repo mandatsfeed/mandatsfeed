@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8723",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Bestand, Zustand und Unterhaltungsaufwand von Straßenbäumen und Alleen in Sachsen",
+  "date": "2026-10-20",
+  "drsNr": "8/8723",
+  "persons": [
+    {
+      "slug": "tobias-heller",
+      "name": "Tobias Heller",
+      "name_padoka": "Heller, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54488",
+    "filename": "Drs_8_8723_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
