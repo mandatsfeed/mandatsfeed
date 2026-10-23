@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8740",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Versorgungssituation und Finanzierung freiheitsentziehender Unterbringungen in der sächsischen Kinder- und Jugendhilfe",
+  "date": "2026-10-22",
+  "drsNr": "8/8740",
+  "persons": [
+    {
+      "slug": "katja-dietz",
+      "name": "Katja Dietz",
+      "name_padoka": "Dietz, Katja",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54522",
+    "filename": "Drs_8_8740_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
