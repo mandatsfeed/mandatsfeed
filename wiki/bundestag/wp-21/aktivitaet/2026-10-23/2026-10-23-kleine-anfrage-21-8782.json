@@ -1,0 +1,63 @@
+{
+  "id": "dip-ka-21-8782",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Deutsche Diplomatie 2026: Zustand und Entwicklungsperspektiven I",
+  "date": "2026-10-23",
+  "persons": [
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "name_padoka": "Koch, Heinrich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "anna-rathert",
+      "name": "Anna Rathert",
+      "name_padoka": "Rathert, Anna",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-teich",
+      "name": "Tobias Teich",
+      "name_padoka": "Teich, Tobias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/8782",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/087/2108782.pdf",
+    "filename": "2108782.pdf"
+  }
+}
