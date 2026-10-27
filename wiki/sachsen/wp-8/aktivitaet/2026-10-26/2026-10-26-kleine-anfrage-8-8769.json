@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8769",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verpflichtende Teilnahme an schulischen Veranstaltungen",
+  "date": "2026-10-26",
+  "drsNr": "8/8769",
+  "persons": [
+    {
+      "slug": "tobias-keller-afd-jorg-kuhne",
+      "name": "Tobias Keller AfD, Jörg Kühne",
+      "name_padoka": "Kühne, Tobias Keller AfD, Jörg",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54569",
+    "filename": "Drs_8_8769_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

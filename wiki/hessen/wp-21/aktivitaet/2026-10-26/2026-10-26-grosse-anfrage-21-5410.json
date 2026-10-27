@@ -1,0 +1,68 @@
+{
+  "id": "starweb-he-ka-21-5410",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "grosse_anfrage",
+  "title": "Polizeikosten im Rahmen des Schutzes von Parteiveranstaltungen und bei Besetzungen sowie Erhebung von Kosten bei Verhaltensstörern",
+  "date": "2026-10-26",
+  "drsNr": "21/5410",
+  "persons": [
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sandra-weegels",
+      "name": "Sandra Weegels",
+      "name_padoka": "Weegels, Sandra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "pascal-schleich",
+      "name": "Pascal Schleich",
+      "name_padoka": "Schleich, Pascal",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "patrick-schenk-frankfurt",
+      "name": "Patrick Schenk(Frankfurt)",
+      "name_padoka": "Schenk(Frankfurt), Patrick",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerhard-schenk-bebra",
+      "name": "Gerhard Schenk(Bebra)",
+      "name_padoka": "Schenk(Bebra), Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "roman-bausch",
+      "name": "Roman Bausch",
+      "name_padoka": "Bausch, Roman",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/0/05410.pdf",
+    "filename": "05410.pdf"
+  }
+}

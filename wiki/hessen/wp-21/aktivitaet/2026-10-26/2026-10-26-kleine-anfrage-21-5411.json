@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-5411",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Wohnungen mit Mietpreisbindung in Hessen",
+  "date": "2026-10-26",
+  "drsNr": "21/5411",
+  "persons": [
+    {
+      "slug": "mirjam-glanz",
+      "name": "Mirjam Glanz",
+      "name_padoka": "Glanz, Mirjam",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kaya-kinkel",
+      "name": "Kaya Kinkel",
+      "name_padoka": "Kinkel, Kaya",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/05411.pdf",
+    "filename": "05411.pdf"
+  }
+}
