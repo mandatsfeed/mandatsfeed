@@ -1,0 +1,117 @@
+{
+  "id": "dip-drs-21-8810",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "KI-Sicherheit stärken - Risiken leistungsfähiger KI-Systeme wirksam begrenzen",
+  "date": "2026-10-27",
+  "persons": [
+    {
+      "slug": "jeanne-dillschneider",
+      "name": "Jeanne Dillschneider",
+      "name_padoka": "Dillschneider, Jeanne",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "filiz-polat",
+      "name": "Filiz Polat",
+      "name_padoka": "Polat, Filiz",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "andrea-lubcke",
+      "name": "Andrea Lübcke",
+      "name_padoka": "Lübcke, Andrea",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marlene-schonberger",
+      "name": "Marlene Schönberger",
+      "name_padoka": "Schönberger, Marlene",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "karl-bar",
+      "name": "Karl Bär",
+      "name_padoka": "Bär, Karl",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "moritz-heuberger",
+      "name": "Moritz Heuberger",
+      "name_padoka": "Heuberger, Moritz",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lukas-benner",
+      "name": "Lukas Benner",
+      "name_padoka": "Benner, Lukas",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "anna-luhrmann",
+      "name": "Anna Lührmann",
+      "name_padoka": "Lührmann, Anna",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "irene-mihalic",
+      "name": "Irene Mihalic",
+      "name_padoka": "Mihalic, Irene",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "rebecca-lenhard",
+      "name": "Rebecca Lenhard",
+      "name_padoka": "Lenhard, Rebecca",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sara-nanni",
+      "name": "Sara Nanni",
+      "name_padoka": "Nanni, Sara",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "franziska-brantner",
+      "name": "Franziska Brantner",
+      "name_padoka": "Brantner, Franziska",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "konstantin-von-notz",
+      "name": "Konstantin von Notz",
+      "name_padoka": "von Notz, Konstantin",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "till-steffen",
+      "name": "Till Steffen",
+      "name_padoka": "Steffen, Till",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/8810",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/088/2108810.pdf",
+    "filename": "2108810.pdf"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "dip-drs-21-8791",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Für die Zweistaatenlösung, eine Perspektive auf Frieden und das Recht auf Sicherheit und Selbstbestimmung für alle Menschen in Israel und Palästina",
+  "date": "2026-10-26",
+  "persons": [
+    {
+      "slug": "luise-amtsberg",
+      "name": "Luise Amtsberg",
+      "name_padoka": "Amtsberg, Luise",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "claudia-roth",
+      "name": "Claudia Roth",
+      "name_padoka": "Roth, Claudia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lamya-kaddor",
+      "name": "Lamya Kaddor",
+      "name_padoka": "Kaddor, Lamya",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "helge-limburg",
+      "name": "Helge Limburg",
+      "name_padoka": "Limburg, Helge",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "max-lucks",
+      "name": "Max Lucks",
+      "name_padoka": "Lucks, Max",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "ayse-asar",
+      "name": "Ayse Asar",
+      "name_padoka": "Asar, Ayse",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "schahina-gambir",
+      "name": "Schahina Gambir",
+      "name_padoka": "Gambir, Schahina",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "ulle-schauws",
+      "name": "Ulle Schauws",
+      "name_padoka": "Schauws, Ulle",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sara-nanni",
+      "name": "Sara Nanni",
+      "name_padoka": "Nanni, Sara",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "franziska-brantner",
+      "name": "Franziska Brantner",
+      "name_padoka": "Brantner, Franziska",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "boris-mijatovic",
+      "name": "Boris Mijatović",
+      "name_padoka": "Mijatović, Boris",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "alaa-alhamwi",
+      "name": "Alaa Alhamwi",
+      "name_padoka": "Alhamwi, Alaa",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "agnieszka-brugger",
+      "name": "Agnieszka Brugger",
+      "name_padoka": "Brugger, Agnieszka",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "deborah-during",
+      "name": "Deborah Düring",
+      "name_padoka": "Düring, Deborah",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/8791",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/087/2108791.pdf",
+    "filename": "2108791.pdf"
+  }
+}
