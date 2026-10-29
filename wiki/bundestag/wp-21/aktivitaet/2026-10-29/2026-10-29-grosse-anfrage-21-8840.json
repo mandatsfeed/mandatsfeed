@@ -1,0 +1,26 @@
+{
+  "id": "dip-ka-21-8840",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "grosse_anfrage",
+  "title": "Schutz deutscher Staatsbürger vor Entführung, Verschleppung, Ermordung und willkürlicher Inhaftierung durch nichtstaatliche und staatliche Akteure im und aus dem Ausland",
+  "date": "2026-10-29",
+  "persons": [
+    {
+      "slug": "markus-frohnmaier",
+      "name": "Markus Frohnmaier",
+      "name_padoka": "Frohnmaier, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/8840",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/088/2108840.pdf",
+    "filename": "2108840.pdf"
+  }
+}

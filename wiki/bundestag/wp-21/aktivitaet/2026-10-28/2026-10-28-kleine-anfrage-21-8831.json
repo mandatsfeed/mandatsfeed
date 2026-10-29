@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-8831",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Medienberichte über ein Gespräch ehemaliger Spitzenbeamter aus Deutschland, Großbritannien, Frankreich und Russland in Wien",
+  "date": "2026-10-28",
+  "persons": [
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/8831",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/088/2108831.pdf",
+    "filename": "2108831.pdf"
+  }
+}

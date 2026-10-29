@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-4278",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Künftige Nutzung des ehemaligen Polizeipräsidiums im Kasseler Königstor",
+  "date": "2026-04-22",
+  "drsNr": "21/4278",
+  "persons": [
+    {
+      "slug": "julia-herz",
+      "name": "Julia Herz",
+      "name_padoka": "Herz, Julia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-meier",
+      "name": "Sascha Meier",
+      "name_padoka": "Meier, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04278.pdf",
+    "filename": "04278.pdf"
+  }
+}
