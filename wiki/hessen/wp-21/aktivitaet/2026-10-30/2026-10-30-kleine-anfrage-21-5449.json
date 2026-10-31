@@ -1,0 +1,33 @@
+{
+  "id": "starweb-he-ka-21-5449",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Vergütung von Vertretungslehrkräften an hessischen Schulen",
+  "date": "2026-10-30",
+  "drsNr": "21/5449",
+  "persons": [
+    {
+      "slug": "katrin-schleenbecker",
+      "name": "Katrin Schleenbecker",
+      "name_padoka": "Schleenbecker, Katrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/05449.pdf",
+    "filename": "05449.pdf"
+  }
+}
