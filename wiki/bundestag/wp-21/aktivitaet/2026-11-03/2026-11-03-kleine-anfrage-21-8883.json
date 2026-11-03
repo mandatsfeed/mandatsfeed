@@ -1,0 +1,28 @@
+{
+  "id": "dip-ka-21-8883",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Finanzielle Leistungen aus öffentlichen Mitteln des Auslands an deutsche Hochschulen",
+  "date": "2026-11-03",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/8883",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/088/2108883.pdf",
+    "filename": "2108883.pdf"
+  }
+}
