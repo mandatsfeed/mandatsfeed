@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-5479",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Brandanschläge mit mutmaßlich linksextremistischem Hintergrund auf Unternehmen in Rosbach v. d. Höhe und Calden: Lagebild und Schutz von Rüstungsstandorten in Hessen",
+  "date": "2026-11-04",
+  "drsNr": "21/5479",
+  "persons": [
+    {
+      "slug": "maximilian-muger",
+      "name": "Maximilian Müger",
+      "name_padoka": "Müger, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/9/05479.pdf",
+    "filename": "05479.pdf"
+  }
+}

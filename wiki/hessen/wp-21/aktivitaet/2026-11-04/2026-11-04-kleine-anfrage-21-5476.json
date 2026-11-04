@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-5476",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Lehrkräfteversorgung im Schuljahr 2026/27",
+  "date": "2026-11-04",
+  "drsNr": "21/5476",
+  "persons": [
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/6/05476.pdf",
+    "filename": "05476.pdf"
+  }
+}

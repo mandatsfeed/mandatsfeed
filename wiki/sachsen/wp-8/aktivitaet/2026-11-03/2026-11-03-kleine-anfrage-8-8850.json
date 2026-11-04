@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8850",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verhältnis der in Sachsen installierten Leistung von Windenergieanlagen und ins Stromnetz eingespeister Leistung",
+  "date": "2026-11-03",
+  "drsNr": "8/8850",
+  "persons": [
+    {
+      "slug": "ralf-bohme",
+      "name": "Ralf Böhme",
+      "name_padoka": "Böhme, Ralf",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54736",
+    "filename": "Drs_8_8850_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

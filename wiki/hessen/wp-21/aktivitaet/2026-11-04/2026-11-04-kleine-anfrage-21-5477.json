@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-5477",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung des Landesprogramms „Regionalisierte psychosoziale Krisenhilfen in Hessen“",
+  "date": "2026-11-04",
+  "drsNr": "21/5477",
+  "persons": [
+    {
+      "slug": "kathrin-anders",
+      "name": "Kathrin Anders",
+      "name_padoka": "Anders, Kathrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/7/05477.pdf",
+    "filename": "05477.pdf"
+  }
+}

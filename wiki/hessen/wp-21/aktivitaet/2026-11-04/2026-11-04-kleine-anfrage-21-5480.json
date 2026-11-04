@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-5480",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Vollzug des Verbots der Gehsteigbelästigung nach dem Schwangerschaftskonfliktgesetz in Hessen: Bußgeldverfahren, versammlungsrechtliche Praxis und Datenlage seit November 2024",
+  "date": "2026-11-04",
+  "drsNr": "21/5480",
+  "persons": [
+    {
+      "slug": "maximilian-muger",
+      "name": "Maximilian Müger",
+      "name_padoka": "Müger, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/0/05480.pdf",
+    "filename": "05480.pdf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-5478",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Plünderung eines Waffengeschäfts in der Frankfurter Innenstadt am 31. Oktober 2026: Sicherung des Waffenhandels bei Großlagen und Diebstähle aus Waffenhandlungen in Hessen",
+  "date": "2026-11-04",
+  "drsNr": "21/5478",
+  "persons": [
+    {
+      "slug": "maximilian-muger",
+      "name": "Maximilian Müger",
+      "name_padoka": "Müger, Maximilian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/05478.pdf",
+    "filename": "05478.pdf"
+  }
+}

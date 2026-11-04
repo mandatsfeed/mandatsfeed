@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8843",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kirchenasyl im Landkreis Bautzen",
+  "date": "2026-11-03",
+  "drsNr": "8/8843",
+  "persons": [
+    {
+      "slug": "timo-schreyer",
+      "name": "Timo Schreyer",
+      "name_padoka": "Schreyer, Timo",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54689",
+    "filename": "Drs_8_8843_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

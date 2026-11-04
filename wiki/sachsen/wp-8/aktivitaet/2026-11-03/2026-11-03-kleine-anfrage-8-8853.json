@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8853",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Cyber-Angriff auf die Universität Leipzig",
+  "date": "2026-11-03",
+  "drsNr": "8/8853",
+  "persons": [
+    {
+      "slug": "luise-neuhaus-wartenberg",
+      "name": "Luise Neuhaus-Wartenberg",
+      "name_padoka": "Neuhaus-Wartenberg, Luise",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54739",
+    "filename": "Drs_8_8853_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

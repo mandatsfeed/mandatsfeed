@@ -1,0 +1,77 @@
+{
+  "id": "dip-ka-21-8896",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ineffizienz, Kostenexplosion und politische Instrumentalisierung der Endlagersuche",
+  "date": "2026-11-03",
+  "persons": [
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "manfred-schiller",
+      "name": "Manfred Schiller",
+      "name_padoka": "Schiller, Manfred",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-mayer",
+      "name": "Andreas Mayer",
+      "name_padoka": "Mayer, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-kraft",
+      "name": "Rainer Kraft",
+      "name_padoka": "Kraft, Rainer",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-schattner",
+      "name": "Bernd Schattner",
+      "name_padoka": "Schattner, Bernd",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "leif-erik-holm",
+      "name": "Leif-Erik Holm",
+      "name_padoka": "Holm, Leif-Erik",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/8896",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/088/2108896.pdf",
+    "filename": "2108896.pdf"
+  }
+}
