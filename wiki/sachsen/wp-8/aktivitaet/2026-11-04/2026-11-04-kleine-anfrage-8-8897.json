@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8897",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Zwei Tatverdächtige nach gefährlicher Körperverletzung gestellt \nNachfrage zu Drs.-Nr. 8/3741 vom 08.09.2025",
+  "date": "2026-11-04",
+  "drsNr": "8/8897",
+  "persons": [
+    {
+      "slug": "hans-jurgen-zickler",
+      "name": "Hans-Jürgen Zickler",
+      "name_padoka": "Zickler, Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54807",
+    "filename": "Drs_8_8897_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

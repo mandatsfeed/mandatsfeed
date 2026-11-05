@@ -1,0 +1,75 @@
+{
+  "id": "starweb-he-ka-21-5483",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "grosse_anfrage",
+  "title": "Aufbereitung der Geschehnisse in Gießen anlässlich der Gründung der „Generation Deutschland“ am 29. November 2025 – Strafverfahren, Kosten und Belastungen für die eingesetzten Kräfte",
+  "date": "2026-11-04",
+  "drsNr": "21/5483",
+  "persons": [
+    {
+      "slug": "sandra-weegels",
+      "name": "Sandra Weegels",
+      "name_padoka": "Weegels, Sandra",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "pascal-schleich",
+      "name": "Pascal Schleich",
+      "name_padoka": "Schleich, Pascal",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-erich-vohl",
+      "name": "Bernd Erich Vohl",
+      "name_padoka": "Vohl, Bernd Erich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-rohde",
+      "name": "Christian Rohde",
+      "name_padoka": "Rohde, Christian",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "patrick-schenk-frankfurt",
+      "name": "Patrick Schenk(Frankfurt)",
+      "name_padoka": "Schenk(Frankfurt), Patrick",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerhard-schenk-bebra",
+      "name": "Gerhard Schenk(Bebra)",
+      "name_padoka": "Schenk(Bebra), Gerhard",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "markus-fuchs",
+      "name": "Markus Fuchs",
+      "name_padoka": "Fuchs, Markus",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "arno-enners",
+      "name": "Arno Enners",
+      "name_padoka": "Enners, Arno",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/3/05483.pdf",
+    "filename": "05483.pdf"
+  }
+}

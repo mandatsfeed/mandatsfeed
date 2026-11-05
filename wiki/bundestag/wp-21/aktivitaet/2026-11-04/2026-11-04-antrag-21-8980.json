@@ -1,0 +1,62 @@
+{
+  "id": "dip-drs-21-8980",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Entschließungsantrag zum Gesetz zur Änderung des Fahrlehrergesetzes und anderer straßenverkehrsrechtlicher Gesetze",
+  "date": "2026-11-04",
+  "persons": [
+    {
+      "slug": "stefan-schmidt",
+      "name": "Stefan Schmidt",
+      "name_padoka": "Schmidt, Stefan",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "swantje-henrike-michaelsen",
+      "name": "Swantje Henrike Michaelsen",
+      "name_padoka": "Michaelsen, Swantje Henrike",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "tarek-al-wazir",
+      "name": "Tarek Al-Wazir",
+      "name_padoka": "Al-Wazir, Tarek",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "matthias-gastel",
+      "name": "Matthias Gastel",
+      "name_padoka": "Gastel, Matthias",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "denise-loop",
+      "name": "Denise Loop",
+      "name_padoka": "Loop, Denise",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "victoria-brossart",
+      "name": "Victoria Broßart",
+      "name_padoka": "Broßart, Victoria",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/8980",
+  "subtype": "Entschließungsantrag",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/089/2108980.pdf",
+    "filename": "2108980.pdf"
+  }
+}

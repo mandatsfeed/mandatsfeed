@@ -1,0 +1,54 @@
+{
+  "id": "starweb-he-ka-21-5484",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Asylgrenzverfahren am Flughafen Frankfurt am Main – Menschenrechte und effektiver Rechtsschutz",
+  "date": "2026-11-04",
+  "drsNr": "21/5484",
+  "persons": [
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "marcus-bocklet",
+      "name": "Marcus Bocklet",
+      "name_padoka": "Bocklet, Marcus",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "torsten-leveringhaus",
+      "name": "Torsten Leveringhaus",
+      "name_padoka": "Leveringhaus, Torsten",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katrin-schleenbecker",
+      "name": "Katrin Schleenbecker",
+      "name_padoka": "Schleenbecker, Katrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/4/05484.pdf",
+    "filename": "05484.pdf"
+  }
+}

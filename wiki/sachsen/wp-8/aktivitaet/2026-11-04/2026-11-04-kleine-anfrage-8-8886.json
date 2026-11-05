@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8886",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kosten für Polizeieinsätze im Umfeld von Fußballspielen im Freistaat Sachsen - Saison 2025/2026",
+  "date": "2026-11-04",
+  "drsNr": "8/8886",
+  "persons": [
+    {
+      "slug": "heiko-gumprecht",
+      "name": "Heiko Gumprecht",
+      "name_padoka": "Gumprecht, Heiko",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54796",
+    "filename": "Drs_8_8886_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

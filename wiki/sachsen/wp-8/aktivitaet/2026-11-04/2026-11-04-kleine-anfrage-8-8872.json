@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8872",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Razzia gegen das linksextremistische \"Kollektiv Zwickau\" in vier Bundesländern am 03.11.2026",
+  "date": "2026-11-04",
+  "drsNr": "8/8872",
+  "persons": [
+    {
+      "slug": "carsten-hutter",
+      "name": "Carsten Hütter",
+      "name_padoka": "Hütter, Carsten",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54771",
+    "filename": "Drs_8_8872_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

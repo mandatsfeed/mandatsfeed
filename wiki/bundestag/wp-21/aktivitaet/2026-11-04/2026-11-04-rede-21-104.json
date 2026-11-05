@@ -1,0 +1,317 @@
+{
+  "id": "dip-rede-21-104",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Steuererhöhung auf Tabak zurücknehmen - Keine weiteren Steuern auf Alkohol, Zucker und Plastik - Bagatellsteuern abschaffen",
+  "date": "2026-11-04",
+  "persons": [
+    {
+      "slug": "frauke-heiligenstadt",
+      "name": "Frauke Heiligenstadt",
+      "name_padoka": "Heiligenstadt, Frauke",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "christian-douglas",
+      "name": "Christian Douglas",
+      "name_padoka": "Douglas, Christian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "florian-dorn",
+      "name": "Florian Dorn",
+      "name_padoka": "Dorn, Florian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "doris-achelwilm",
+      "name": "Doris Achelwilm",
+      "name_padoka": "Achelwilm, Doris",
+      "role": "redner",
+      "fraktion": "DIE LINKE"
+    },
+    {
+      "slug": "ingo-vogel",
+      "name": "Ingo Vogel",
+      "name_padoka": "Vogel, Ingo",
+      "role": "redner",
+      "fraktion": "SPD"
+    },
+    {
+      "slug": "katharina-beck",
+      "name": "Katharina Beck",
+      "name_padoka": "Beck, Katharina",
+      "role": "redner",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "carsten-brodesser",
+      "name": "Carsten Brodesser",
+      "name_padoka": "Brodesser, Carsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    },
+    {
+      "slug": "kay-gottschalk",
+      "name": "Kay Gottschalk",
+      "name_padoka": "Gottschalk, Kay",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "reinhard-mixl",
+      "name": "Reinhard Mixl",
+      "name_padoka": "Mixl, Reinhard",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marcel-queckemeyer",
+      "name": "Marcel Queckemeyer",
+      "name_padoka": "Queckemeyer, Marcel",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "torben-braga",
+      "name": "Torben Braga",
+      "name_padoka": "Braga, Torben",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christina-baum",
+      "name": "Christina Baum",
+      "name_padoka": "Baum, Christina",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-kaufmann",
+      "name": "Michael Kaufmann",
+      "name_padoka": "Kaufmann, Michael",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-paul",
+      "name": "Andreas Paul",
+      "name_padoka": "Paul, Andreas",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hauke-finger",
+      "name": "Hauke Finger",
+      "name_padoka": "Finger, Hauke",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "denis-pauli",
+      "name": "Denis Pauli",
+      "name_padoka": "Pauli, Denis",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "erhard-brucker",
+      "name": "Erhard Brucker",
+      "name_padoka": "Brucker, Erhard",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "georg-schroeter",
+      "name": "Georg Schroeter",
+      "name_padoka": "Schroeter, Georg",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-gross",
+      "name": "Rainer Groß",
+      "name_padoka": "Groß, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martina-uhr",
+      "name": "Martina Uhr",
+      "name_padoka": "Uhr, Martina",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexis-l-giersch",
+      "name": "Alexis L. Giersch",
+      "name_padoka": "Giersch, Alexis L.",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-arpaschi",
+      "name": "Alexander Arpaschi",
+      "name_padoka": "Arpaschi, Alexander",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "mathias-weiser",
+      "name": "Mathias Weiser",
+      "name_padoka": "Weiser, Mathias",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ingo-hahn",
+      "name": "Ingo Hahn",
+      "name_padoka": "Hahn, Ingo",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "name_padoka": "Peterka, Tobias Matthias",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Rainer Rothfuß",
+      "name_padoka": "Rothfuß, Rainer",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-espendiller",
+      "name": "Michael Espendiller",
+      "name_padoka": "Espendiller, Michael",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "diana-zimmer",
+      "name": "Diana Zimmer",
+      "name_padoka": "Zimmer, Diana",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nicole-hess",
+      "name": "Nicole Hess",
+      "name_padoka": "Hess, Nicole",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "name_padoka": "von Zons, Ulrich",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "kurt-kleinschmidt",
+      "name": "Kurt Kleinschmidt",
+      "name_padoka": "Kleinschmidt, Kurt",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "maximilian-kneller",
+      "name": "Maximilian Kneller",
+      "name_padoka": "Kneller, Maximilian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marc-bernhard",
+      "name": "Marc Bernhard",
+      "name_padoka": "Bernhard, Marc",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jorn-konig",
+      "name": "Jörn König",
+      "name_padoka": "König, Jörn",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "maximilian-krah",
+      "name": "Maximilian Krah",
+      "name_padoka": "Krah, Maximilian",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "name_padoka": "Bloch, Joachim",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-blos",
+      "name": "Michael Blos",
+      "name_padoka": "Blos, Michael",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "manfred-schiller",
+      "name": "Manfred Schiller",
+      "name_padoka": "Schiller, Manfred",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "iris-nieland",
+      "name": "Iris Nieland",
+      "name_padoka": "Nieland, Iris",
+      "role": "redner",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "steffen-janich",
+      "name": "Steffen Janich",
+      "name_padoka": "Janich, Steffen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "spd",
+    "afd",
+    "cdu-csu",
+    "die-linke",
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/104",
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21104.pdf#P.13184",
+    "filename": "21104.pdf#P.13184"
+  }
+}

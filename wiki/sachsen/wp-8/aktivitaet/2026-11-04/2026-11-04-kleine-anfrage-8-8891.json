@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8891",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Auseinandersetzung an einer Haltestelle - Zeugen gesucht",
+  "date": "2026-11-04",
+  "drsNr": "8/8891",
+  "persons": [
+    {
+      "slug": "hans-jurgen-zickler",
+      "name": "Hans-Jürgen Zickler",
+      "name_padoka": "Zickler, Hans-Jürgen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54801",
+    "filename": "Drs_8_8891_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
