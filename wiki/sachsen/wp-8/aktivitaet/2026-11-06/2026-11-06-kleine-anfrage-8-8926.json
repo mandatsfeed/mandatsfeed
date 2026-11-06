@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8926",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Geplanter Kupferbergbau in der Lausitz - Der aktuelle Verfahrensstand und dessen Rolle in der Strukturwandelplanung des Freistaates Sachsen",
+  "date": "2026-11-06",
+  "drsNr": "8/8926",
+  "persons": [
+    {
+      "slug": "roberto-kuhnert",
+      "name": "Roberto Kuhnert",
+      "name_padoka": "Kuhnert, Roberto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54849",
+    "filename": "Drs_8_8926_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

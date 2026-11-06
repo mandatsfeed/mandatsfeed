@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8907",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Einwendungen und Rechtsbehelfe gegen Windenergievorhaben der Sabowind GmbH im Freistaat Sachsen",
+  "date": "2026-11-05",
+  "drsNr": "8/8907",
+  "persons": [
+    {
+      "slug": "doreen-schwietzer",
+      "name": "Doreen Schwietzer",
+      "name_padoka": "Schwietzer, Doreen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54823",
+    "filename": "Drs_8_8907_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

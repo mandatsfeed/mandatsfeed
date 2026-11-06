@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8913",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Unterbringung ausländischer Staatsangehöriger im Maßregelvollzug des Freistaates Sachsen seit 2020",
+  "date": "2026-11-05",
+  "drsNr": "8/8913",
+  "persons": [
+    {
+      "slug": "doreen-schwietzer",
+      "name": "Doreen Schwietzer",
+      "name_padoka": "Schwietzer, Doreen",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54829",
+    "filename": "Drs_8_8913_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

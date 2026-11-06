@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110414700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Arbeits- und Fachkräfteeinwanderung wirksam und nachhaltig gestalten — Westbalkan-Kontingent für jährlich 50.000 Arbeitskräfte erhalten",
+  "date": "2026-11-04",
+  "persons": [
+    {
+      "slug": "detlef-seif",
+      "name": "Detlef Seif",
+      "name_padoka": "Seif, Detlef",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/104",
+    "date": "2026-11-04",
+    "page": 13200
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21104.pdf"
+  }
+}

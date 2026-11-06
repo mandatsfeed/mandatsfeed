@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110416800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Steuererhöhung auf Tabak zurücknehmen – Keine weiteren Steuern auf Alkohol, Zucker und Plastik – Bagatellsteuern abschaffen",
+  "date": "2026-11-04",
+  "persons": [
+    {
+      "slug": "doris-achelwilm",
+      "name": "Doris Achelwilm",
+      "name_padoka": "Achelwilm, Doris",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/104",
+    "date": "2026-11-04",
+    "page": 13200
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21104.pdf"
+  }
+}

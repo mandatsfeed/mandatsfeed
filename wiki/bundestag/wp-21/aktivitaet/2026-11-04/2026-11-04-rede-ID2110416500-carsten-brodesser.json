@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110416500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Steuererhöhung auf Tabak zurücknehmen – Keine weiteren Steuern auf Alkohol, Zucker und Plastik – Bagatellsteuern abschaffen",
+  "date": "2026-11-04",
+  "persons": [
+    {
+      "slug": "carsten-brodesser",
+      "name": "Carsten Brodesser",
+      "name_padoka": "Brodesser, Carsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/104",
+    "date": "2026-11-04",
+    "page": 13200
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21104.pdf"
+  }
+}

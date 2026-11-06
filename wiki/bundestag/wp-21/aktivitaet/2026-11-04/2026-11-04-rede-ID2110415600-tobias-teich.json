@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110415600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN",
+  "date": "2026-11-04",
+  "persons": [
+    {
+      "slug": "tobias-teich",
+      "name": "Tobias Teich",
+      "name_padoka": "Teich, Tobias",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/104",
+    "date": "2026-11-04",
+    "page": 13200
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21104.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110417000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Steuererhöhung auf Tabak zurücknehmen – Keine weiteren Steuern auf Alkohol, Zucker und Plastik – Bagatellsteuern abschaffen",
+  "date": "2026-11-04",
+  "persons": [
+    {
+      "slug": "christian-douglas",
+      "name": "Christian Douglas",
+      "name_padoka": "Douglas, Christian",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/104",
+    "date": "2026-11-04",
+    "page": 13200
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21104.pdf"
+  }
+}
