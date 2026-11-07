@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110503600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "15 Jahre Aufdeckung des NSU – Der Opfer gedenken, der Verantwortung gerecht werden und heutige Bedrohungen ernst nehmen",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "markus-matzerath",
+      "name": "Markus Matzerath",
+      "name_padoka": "Matzerath, Markus",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110510000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Diesel-Abkommen für Deutschland – Energiesicherheit nach US-Vorbild in Kooperation mit Russland gewährleisten",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "sepp-muller",
+      "name": "Sepp Müller",
+      "name_padoka": "Müller, Sepp",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}

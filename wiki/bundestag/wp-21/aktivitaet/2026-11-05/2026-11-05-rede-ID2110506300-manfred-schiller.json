@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110506300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ärztliche Ausbildung und Weiterbildung zum Facharzt bei Ambulantisierung der Versorgung sicherstellen und weiterentwickeln — Wiederherstellung wirksamer Länderkompetenzen bei Ausnahmen von Mindestmengen – Kliniken im ländlichen Raum erhalten",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "manfred-schiller",
+      "name": "Manfred Schiller",
+      "name_padoka": "Schiller, Manfred",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}

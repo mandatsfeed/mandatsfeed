@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110506500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Aktuelle Stunde — Investitionsgipfel als Aufbruchsignal – Neue Chancen für Wachstum, Innovation und Arbeitsplätze in Deutschland",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110501500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Verhinderungspflege erhalten und stärken – Vertraute Pflege sichern, Angehörige entlasten — Alltagshilfen sichern statt Leistungen kürzen – Umwandlungsanspruch und Entlastungsbetrag erhalten",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "hendrik-streeck",
+      "name": "Hendrik Streeck",
+      "name_padoka": "Streeck, Hendrik",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}

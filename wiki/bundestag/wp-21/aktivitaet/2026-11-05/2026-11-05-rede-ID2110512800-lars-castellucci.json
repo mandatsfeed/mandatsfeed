@@ -1,0 +1,31 @@
+{
+  "id": "dip-rede-ID2110512800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "16. Bericht der Bundesregierung über ihre Menschenrechtspolitik — Völkerrechtliche Verpflichtungen einhalten – Menschenrecht auf angemessene Nahrung bei der Berechnung des Existenzminimums gewährleisten",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "lars-castellucci",
+      "name": "Lars Castellucci",
+      "name_padoka": "Castellucci, Lars",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "titel": "Dr.",
+      "funktion": "Beauftragter der Bundesregierung für Menschenrechtspolitik und humanitäre Hilfe"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}

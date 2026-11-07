@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110514000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Wohnungs- und Obdachlosigkeit überwinden — Menschen ohne Krankenversicherungsschutz wieder wirksam absichern",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "axel-knoerig",
+      "name": "Axel Knoerig",
+      "name_padoka": "Knoerig, Axel",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110502200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Demokratien schützen und Bündnisse schmieden – In Europa, transatlantisch und weltweit — Völkerstrafrecht verteidigen – Internationalen Strafgerichtshof vor Sanktionen schützen",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "anna-rathert",
+      "name": "Anna Rathert",
+      "name_padoka": "Rathert, Anna",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}

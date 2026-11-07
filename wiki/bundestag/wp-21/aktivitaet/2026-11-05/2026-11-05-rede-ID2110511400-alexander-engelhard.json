@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110511400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Keine verpflichtende Videoüberwachung in Schlachthöfen in Deutschland — Ein Tierschutzgesetz, das Tiere wirksam schützt",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "alexander-engelhard",
+      "name": "Alexander Engelhard",
+      "name_padoka": "Engelhard, Alexander",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110510800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Keine verpflichtende Videoüberwachung in Schlachthöfen in Deutschland — Ein Tierschutzgesetz, das Tiere wirksam schützt",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "bernd-schattner",
+      "name": "Bernd Schattner",
+      "name_padoka": "Schattner, Bernd",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}

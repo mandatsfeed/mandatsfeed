@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110511600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Ausgaben der gesetzlichen Krankenkassen für Grundsicherungsempfänger und Asylbewerber konsequent aufschlüsseln – Transparenz herstellen und Beitragszahler entlasten",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "thomas-pauls",
+      "name": "Thomas Pauls",
+      "name_padoka": "Pauls, Thomas",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/105",
+    "date": "2026-11-05",
+    "page": 13385
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+  }
+}
