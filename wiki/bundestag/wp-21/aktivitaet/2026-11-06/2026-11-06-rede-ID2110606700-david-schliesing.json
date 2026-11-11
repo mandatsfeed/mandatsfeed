@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110606700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Buchhandel und Verlage in Deutschland stärken",
+  "date": "2026-11-06",
+  "persons": [
+    {
+      "slug": "david-schliesing",
+      "name": "David Schliesing",
+      "name_padoka": "Schliesing, David",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/106",
+    "date": "2026-11-06",
+    "page": 13491
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+  }
+}

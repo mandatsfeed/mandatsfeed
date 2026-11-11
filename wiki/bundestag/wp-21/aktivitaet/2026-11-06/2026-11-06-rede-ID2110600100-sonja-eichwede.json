@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110600100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 25",
+  "date": "2026-11-06",
+  "persons": [
+    {
+      "slug": "sonja-eichwede",
+      "name": "Sonja Eichwede",
+      "name_padoka": "Eichwede, Sonja",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/106",
+    "date": "2026-11-06",
+    "page": 13491
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+  }
+}

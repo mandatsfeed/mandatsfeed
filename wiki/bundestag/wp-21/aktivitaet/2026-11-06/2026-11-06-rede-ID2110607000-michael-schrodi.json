@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110607000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 31",
+  "date": "2026-11-06",
+  "persons": [
+    {
+      "slug": "michael-schrodi",
+      "name": "Michael Schrodi",
+      "name_padoka": "Schrodi, Michael",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretär beim Bundesminister der Finanzen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/106",
+    "date": "2026-11-06",
+    "page": 13491
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+  }
+}

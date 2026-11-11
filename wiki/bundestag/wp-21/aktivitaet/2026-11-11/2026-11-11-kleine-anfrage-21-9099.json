@@ -1,0 +1,70 @@
+{
+  "id": "dip-ka-21-9099",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung, Wirtschaftlichkeit und Zielerreichung der Zentralen Auslands- und Fachvermittlung (ZAV) der Bundesagentur für Arbeit",
+  "date": "2026-11-11",
+  "persons": [
+    {
+      "slug": "ulrike-schielke-ziesing",
+      "name": "Ulrike Schielke-Ziesing",
+      "name_padoka": "Schielke-Ziesing, Ulrike",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-feser",
+      "name": "Jan Feser",
+      "name_padoka": "Feser, Jan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "name_padoka": "Stephan, Thomas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "achim-kohler",
+      "name": "Achim Köhler",
+      "name_padoka": "Köhler, Achim",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-schuhmann",
+      "name": "Bernd Schuhmann",
+      "name_padoka": "Schuhmann, Bernd",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerrit-huy",
+      "name": "Gerrit Huy",
+      "name_padoka": "Huy, Gerrit",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/9099",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/090/2109099.pdf",
+    "filename": "2109099.pdf"
+  }
+}

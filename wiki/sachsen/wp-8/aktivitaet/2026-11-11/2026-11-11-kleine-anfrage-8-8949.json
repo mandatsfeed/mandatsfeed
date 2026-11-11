@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8949",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Neufassung der Verordnung über die Arbeit an sorbischen Schulen - Sachstand, Sprachkompetenz der Lehrkräfte und Sicherung des sorbischsprachigen Unterrichts",
+  "date": "2026-11-11",
+  "drsNr": "8/8949",
+  "persons": [
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54944",
+    "filename": "Drs_8_8949_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

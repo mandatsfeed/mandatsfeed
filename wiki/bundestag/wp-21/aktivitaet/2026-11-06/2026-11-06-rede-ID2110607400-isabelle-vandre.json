@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110607400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 31",
+  "date": "2026-11-06",
+  "persons": [
+    {
+      "slug": "isabelle-vandre",
+      "name": "Isabelle Vandre",
+      "name_padoka": "Vandre, Isabelle",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/106",
+    "date": "2026-11-06",
+    "page": 13491
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+  }
+}

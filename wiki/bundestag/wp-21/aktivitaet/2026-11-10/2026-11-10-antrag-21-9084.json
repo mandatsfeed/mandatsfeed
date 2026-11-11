@@ -1,0 +1,187 @@
+{
+  "id": "dip-drs-21-9084",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Ausbreitung der invasiven Großen Drüsenameise stoppen - Kommunen wirksam schützen",
+  "date": "2026-11-10",
+  "persons": [
+    {
+      "slug": "olaf-hilmer",
+      "name": "Olaf Hilmer",
+      "name_padoka": "Hilmer, Olaf",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jorn-konig",
+      "name": "Jörn König",
+      "name_padoka": "König, Jörn",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-bleck",
+      "name": "Andreas Bleck",
+      "name_padoka": "Bleck, Andreas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-kraft",
+      "name": "Rainer Kraft",
+      "name_padoka": "Kraft, Rainer",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-bochmann",
+      "name": "René Bochmann",
+      "name_padoka": "Bochmann, René",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "name_padoka": "Koch, Heinrich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "karsten-hilse",
+      "name": "Karsten Hilse",
+      "name_padoka": "Hilse, Karsten",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-korell",
+      "name": "Thomas Korell",
+      "name_padoka": "Korell, Thomas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "georg-schroeter",
+      "name": "Georg Schroeter",
+      "name_padoka": "Schroeter, Georg",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "paul-schmidt",
+      "name": "Paul Schmidt",
+      "name_padoka": "Schmidt, Paul",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "manuel-krauthausen",
+      "name": "Manuel Krauthausen",
+      "name_padoka": "Krauthausen, Manuel",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-blos",
+      "name": "Michael Blos",
+      "name_padoka": "Blos, Michael",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-arpaschi",
+      "name": "Alexander Arpaschi",
+      "name_padoka": "Arpaschi, Alexander",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "manfred-schiller",
+      "name": "Manfred Schiller",
+      "name_padoka": "Schiller, Manfred",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ingo-hahn",
+      "name": "Ingo Hahn",
+      "name_padoka": "Hahn, Ingo",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "knuth-meyer-soltau",
+      "name": "Knuth Meyer-Soltau",
+      "name_padoka": "Meyer-Soltau, Knuth",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Rainer Rothfuß",
+      "name_padoka": "Rothfuß, Rainer",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-kaufmann",
+      "name": "Michael Kaufmann",
+      "name_padoka": "Kaufmann, Michael",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "name_padoka": "Stephan, Thomas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marcel-queckemeyer",
+      "name": "Marcel Queckemeyer",
+      "name_padoka": "Queckemeyer, Marcel",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nicole-hess",
+      "name": "Nicole Hess",
+      "name_padoka": "Hess, Nicole",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jorg-zirwes",
+      "name": "Jörg Zirwes",
+      "name_padoka": "Zirwes, Jörg",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "name_padoka": "von Zons, Ulrich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/9084",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/090/2109084.pdf",
+    "filename": "2109084.pdf"
+  }
+}

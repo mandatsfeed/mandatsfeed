@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110602900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Verringerung des EU-Haushalts zur Entlastung der deutschen Steuerzahler – Stellungnahme des Deutschen Bundestages gemäß Artikel 23 Absatz 3 des Grundgesetzes — Subsidiarität wahren, Zentralisierung stoppen – Keine Nationalen Partnerschaftspläne zulasten deutscher Kommunen – Stellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes",
+  "date": "2026-11-06",
+  "persons": [
+    {
+      "slug": "tobias-teich",
+      "name": "Tobias Teich",
+      "name_padoka": "Teich, Tobias",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/106",
+    "date": "2026-11-06",
+    "page": 13491
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+  }
+}

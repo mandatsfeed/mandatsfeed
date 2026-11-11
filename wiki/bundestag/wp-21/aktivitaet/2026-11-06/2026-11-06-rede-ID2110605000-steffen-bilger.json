@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110605000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 29",
+  "date": "2026-11-06",
+  "persons": [
+    {
+      "slug": "steffen-bilger",
+      "name": "Steffen Bilger",
+      "name_padoka": "Bilger, Steffen",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundesminister für Verkehr"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/106",
+    "date": "2026-11-06",
+    "page": 13491
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+  }
+}

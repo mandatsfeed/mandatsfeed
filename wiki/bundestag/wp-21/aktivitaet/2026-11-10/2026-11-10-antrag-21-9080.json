@@ -1,0 +1,222 @@
+{
+  "id": "dip-drs-21-9080",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "EU-Armutsmigration sofort stoppen - Zugang zu deutschen Sozialleistungen massiv erschweren",
+  "date": "2026-11-10",
+  "persons": [
+    {
+      "slug": "lukas-rehm",
+      "name": "Lukas Rehm",
+      "name_padoka": "Rehm, Lukas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "olaf-hilmer",
+      "name": "Olaf Hilmer",
+      "name_padoka": "Hilmer, Olaf",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "udo-theodor-hemmelgarn",
+      "name": "Udo Theodor Hemmelgarn",
+      "name_padoka": "Hemmelgarn, Udo Theodor",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "boris-gamanov",
+      "name": "Boris Gamanov",
+      "name_padoka": "Gamanov, Boris",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-bochmann",
+      "name": "René Bochmann",
+      "name_padoka": "Bochmann, René",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "name_padoka": "Koch, Heinrich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "carsten-becker",
+      "name": "Carsten Becker",
+      "name_padoka": "Becker, Carsten",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "hans-jurgen-gossner",
+      "name": "Hans-Jürgen Goßner",
+      "name_padoka": "Goßner, Hans-Jürgen",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "dirk-brandes",
+      "name": "Dirk Brandes",
+      "name_padoka": "Brandes, Dirk",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "georg-schroeter",
+      "name": "Georg Schroeter",
+      "name_padoka": "Schroeter, Georg",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "name_padoka": "Bloch, Joachim",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-arpaschi",
+      "name": "Alexander Arpaschi",
+      "name_padoka": "Arpaschi, Alexander",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "gerrit-huy",
+      "name": "Gerrit Huy",
+      "name_padoka": "Huy, Gerrit",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-springer",
+      "name": "René Springer",
+      "name_padoka": "Springer, René",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "iris-nieland",
+      "name": "Iris Nieland",
+      "name_padoka": "Nieland, Iris",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "robert-teske",
+      "name": "Robert Teske",
+      "name_padoka": "Teske, Robert",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ingo-hahn",
+      "name": "Ingo Hahn",
+      "name_padoka": "Hahn, Ingo",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrike-schielke-ziesing",
+      "name": "Ulrike Schielke-Ziesing",
+      "name_padoka": "Schielke-Ziesing, Ulrike",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "knuth-meyer-soltau",
+      "name": "Knuth Meyer-Soltau",
+      "name_padoka": "Meyer-Soltau, Knuth",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christina-baum",
+      "name": "Christina Baum",
+      "name_padoka": "Baum, Christina",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rainer-rothfuss",
+      "name": "Rainer Rothfuß",
+      "name_padoka": "Rothfuß, Rainer",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "michael-kaufmann",
+      "name": "Michael Kaufmann",
+      "name_padoka": "Kaufmann, Michael",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-henze",
+      "name": "Stefan Henze",
+      "name_padoka": "Henze, Stefan",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "name_padoka": "Stephan, Thomas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "jan-feser",
+      "name": "Jan Feser",
+      "name_padoka": "Feser, Jan",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "nicole-hess",
+      "name": "Nicole Hess",
+      "name_padoka": "Hess, Nicole",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "christian-reck",
+      "name": "Christian Reck",
+      "name_padoka": "Reck, Christian",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "ulrich-von-zons",
+      "name": "Ulrich von Zons",
+      "name_padoka": "von Zons, Ulrich",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/9080",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/090/2109080.pdf",
+    "filename": "2109080.pdf"
+  }
+}
