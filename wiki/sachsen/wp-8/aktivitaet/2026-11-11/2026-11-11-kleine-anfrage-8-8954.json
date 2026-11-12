@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8954",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Umsetzung des Konzepts des Landesamtes für Schule und Bildung zum \"Jahrgangsübergreifenden Unterricht\" und seiner pädagogischen Potenziale in altershomogenen Lerngruppen",
+  "date": "2026-11-11",
+  "drsNr": "8/8954",
+  "persons": [
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=54965",
+    "filename": "Drs_8_8954_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
