@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8963",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Verfolgung sogenannter Bagatelldelikte durch Staatsanwaltschaften und Polizei - Nachfrage zu 8/6653",
+  "date": "2026-11-12",
+  "drsNr": "8/8963",
+  "persons": [
+    {
+      "slug": "volker-dringenberg",
+      "name": "Volker Dringenberg",
+      "name_padoka": "Dringenberg, Volker",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=55021",
+    "filename": "Drs_8_8963_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

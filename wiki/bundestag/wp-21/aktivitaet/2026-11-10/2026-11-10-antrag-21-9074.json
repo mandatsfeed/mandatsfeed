@@ -1,0 +1,75 @@
+{
+  "id": "dip-drs-21-9074",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Suchthilfesystem zukunftsfest aufstellen - Für einen verlässlichen Zugang und eine flächendeckende Versorgung",
+  "date": "2026-11-10",
+  "persons": [
+    {
+      "slug": "johannes-wagner",
+      "name": "Johannes Wagner",
+      "name_padoka": "Wagner, Johannes",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "janosch-dahmen",
+      "name": "Janosch Dahmen",
+      "name_padoka": "Dahmen, Janosch",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sylvia-rietenberg",
+      "name": "Sylvia Rietenberg",
+      "name_padoka": "Rietenberg, Sylvia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "linda-heitmann",
+      "name": "Linda Heitmann",
+      "name_padoka": "Heitmann, Linda",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lena-gumnior",
+      "name": "Lena Gumnior",
+      "name_padoka": "Gumnior, Lena",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "karoline-otte",
+      "name": "Karoline Otte",
+      "name_padoka": "Otte, Karoline",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kirsten-kappert-gonther",
+      "name": "Kirsten Kappert-Gonther",
+      "name_padoka": "Kappert-Gonther, Kirsten",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "simone-fischer",
+      "name": "Simone Fischer",
+      "name_padoka": "Fischer, Simone",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/9074",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/090/2109074.pdf",
+    "filename": "2109074.pdf"
+  }
+}

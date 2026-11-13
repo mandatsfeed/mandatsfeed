@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-4318",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Einrichtung eines KI-Reallabors in Hessen",
+  "date": "2026-04-29",
+  "drsNr": "21/4318",
+  "persons": [
+    {
+      "slug": "nina-eisenhardt",
+      "name": "Nina Eisenhardt",
+      "name_padoka": "Eisenhardt, Nina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/04318.pdf",
+    "filename": "04318.pdf"
+  }
+}

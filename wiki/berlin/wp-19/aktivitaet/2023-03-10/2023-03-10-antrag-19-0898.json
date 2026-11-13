@@ -1,0 +1,22 @@
+{
+  "id": "starweb-be-drs-19-0898",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "antrag",
+  "title": "Einsetzung des Hauptausschusses",
+  "date": "2023-03-10",
+  "drsNr": "19/0898",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "cdu",
+    "afd",
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-0898.pdf",
+    "filename": "d19-0898.pdf"
+  },
+  "urheber": "CDU , SPD , Grüne , Die Linke , AfD"
+}

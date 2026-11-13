@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-27285",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Fehlende Plätze in der stationären Kinder- und Jugendhilfe in Berlin",
+  "date": "2026-10-08",
+  "drsNr": "19/27285",
+  "persons": [
+    {
+      "slug": "alexander-freier-winterwerb",
+      "name": "Alexander Freier-Winterwerb",
+      "name_padoka": "Freier-Winterwerb, Alexander",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-27285.pdf",
+    "filename": "S19-27285.pdf"
+  }
+}

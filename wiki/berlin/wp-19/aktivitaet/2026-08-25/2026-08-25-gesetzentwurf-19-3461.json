@@ -1,0 +1,21 @@
+{
+  "id": "starweb-be-ges-19-3461",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "gesetzentwurf",
+  "title": "Viertes Gesetz zur Änderung des Landesabgeordnetengesetzes",
+  "date": "2026-08-25",
+  "drsNr": "19/3461",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "cdu"
+  ],
+  "subtype": "Antrag (Gesetzentwurf)",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-3461.pdf",
+    "filename": "d19-3461.pdf"
+  },
+  "urheber": "CDU , SPD"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:14:19.383Z",
+  "generatedAt": "2026-11-13T12:38:25.809Z",
   "parliaments": [
     {
       "slug": "bundestag",
@@ -5516,7 +5516,7 @@
               "parliament": "bundestag",
               "slug": "aaron-valent",
               "label": "Aaron Valent",
-              "count": 415,
+              "count": 416,
               "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/aaron-valent/rss.xml",
               "externalFeeds": [
@@ -5532,8 +5532,8 @@
               "parliament": "bundestag",
               "slug": "achim-kohler",
               "label": "Achim Köhler",
-              "count": 352,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 354,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/achim-kohler/rss.xml",
               "externalFeeds": [
                 {
@@ -5596,8 +5596,8 @@
               "parliament": "bundestag",
               "slug": "agnes-conrad",
               "label": "Agnes Conrad",
-              "count": 427,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 429,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/agnes-conrad/rss.xml",
               "externalFeeds": [
                 {
@@ -5612,8 +5612,8 @@
               "parliament": "bundestag",
               "slug": "agnieszka-brugger",
               "label": "Agnieszka Brugger",
-              "count": 99,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 101,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/agnieszka-brugger/rss.xml",
               "externalFeeds": [
                 {
@@ -5724,8 +5724,8 @@
               "parliament": "bundestag",
               "slug": "alexander-gauland",
               "label": "Alexander Gauland",
-              "count": 179,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 181,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/alexander-gauland/rss.xml",
               "externalFeeds": [
                 {
@@ -5829,8 +5829,8 @@
               "parliament": "bundestag",
               "slug": "alexis-l-giersch",
               "label": "Alexis L. Giersch",
-              "count": 441,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 444,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/alexis-l-giersch/rss.xml",
               "externalFeeds": [
                 {
@@ -5989,8 +5989,8 @@
               "parliament": "bundestag",
               "slug": "andreas-mayer",
               "label": "Andreas Mayer",
-              "count": 276,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 277,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/andreas-mayer/rss.xml",
               "externalFeeds": [
                 {
@@ -6133,8 +6133,8 @@
               "parliament": "bundestag",
               "slug": "anja-weisgerber",
               "label": "Anja Weisgerber",
-              "count": 70,
-              "updatedAt": "2026-10-08T00:00:00.000Z",
+              "count": 71,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/anja-weisgerber/rss.xml",
               "externalFeeds": [
                 {
@@ -6181,8 +6181,8 @@
               "parliament": "bundestag",
               "slug": "anna-rathert",
               "label": "Anna Rathert",
-              "count": 257,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 258,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/anna-rathert/rss.xml",
               "externalFeeds": [
                 {
@@ -6229,8 +6229,8 @@
               "parliament": "bundestag",
               "slug": "anne-konig",
               "label": "Anne König",
-              "count": 61,
-              "updatedAt": "2026-10-14T00:00:00.000Z",
+              "count": 62,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/anne-konig/rss.xml",
               "externalFeeds": [
                 {
@@ -6245,8 +6245,8 @@
               "parliament": "bundestag",
               "slug": "anne-mieke-bremer",
               "label": "Anne-Mieke Bremer",
-              "count": 498,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 499,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/anne-mieke-bremer/rss.xml",
               "externalFeeds": [
                 {
@@ -6261,8 +6261,8 @@
               "parliament": "bundestag",
               "slug": "anne-zerr",
               "label": "Anne Zerr",
-              "count": 272,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 274,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/anne-zerr/rss.xml",
               "externalFeeds": [
                 {
@@ -6309,8 +6309,8 @@
               "parliament": "bundestag",
               "slug": "anton-hofreiter",
               "label": "Anton Hofreiter",
-              "count": 73,
-              "updatedAt": "2026-10-13T00:00:00.000Z",
+              "count": 74,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/anton-hofreiter/rss.xml",
               "externalFeeds": [
                 {
@@ -6357,8 +6357,8 @@
               "parliament": "bundestag",
               "slug": "armin-laschet",
               "label": "Armin Laschet",
-              "count": 47,
-              "updatedAt": "2026-07-10T00:00:00.000Z",
+              "count": 48,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/armin-laschet/rss.xml",
               "externalFeeds": [
                 {
@@ -6421,8 +6421,8 @@
               "parliament": "bundestag",
               "slug": "ates-gurpinar",
               "label": "Ates Gürpinar",
-              "count": 371,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 372,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ates-gurpinar/rss.xml",
               "externalFeeds": [
                 {
@@ -6437,7 +6437,7 @@
               "parliament": "bundestag",
               "slug": "awet-tesfaiesus",
               "label": "Awet Tesfaiesus",
-              "count": 115,
+              "count": 116,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/awet-tesfaiesus/rss.xml",
               "externalFeeds": [
@@ -6501,8 +6501,8 @@
               "parliament": "bundestag",
               "slug": "ayse-asar",
               "label": "Ayse Asar",
-              "count": 157,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 158,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ayse-asar/rss.xml",
               "externalFeeds": [
                 {
@@ -6590,7 +6590,7 @@
               "parliament": "bundestag",
               "slug": "beatrix-von-storch",
               "label": "Beatrix von Storch",
-              "count": 198,
+              "count": 200,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/beatrix-von-storch/rss.xml",
               "externalFeeds": [
@@ -6663,8 +6663,8 @@
               "parliament": "bundestag",
               "slug": "bernd-schattner",
               "label": "Bernd Schattner",
-              "count": 383,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 385,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/bernd-schattner/rss.xml",
               "externalFeeds": [
                 {
@@ -6679,8 +6679,8 @@
               "parliament": "bundestag",
               "slug": "bernd-schuhmann",
               "label": "Bernd Schuhmann",
-              "count": 278,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 279,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/bernd-schuhmann/rss.xml",
               "externalFeeds": [
                 {
@@ -6727,8 +6727,8 @@
               "parliament": "bundestag",
               "slug": "birgit-bessin",
               "label": "Birgit Bessin",
-              "count": 407,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 410,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/birgit-bessin/rss.xml",
               "externalFeeds": [
                 {
@@ -6759,7 +6759,7 @@
               "parliament": "bundestag",
               "slug": "bodo-ramelow",
               "label": "Bodo Ramelow",
-              "count": 332,
+              "count": 333,
               "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/bodo-ramelow/rss.xml",
               "externalFeeds": [
@@ -6784,8 +6784,8 @@
               "parliament": "bundestag",
               "slug": "boris-mijatovic",
               "label": "Boris Mijatović",
-              "count": 108,
-              "updatedAt": "2026-11-04T00:00:00.000Z",
+              "count": 109,
+              "updatedAt": "2026-11-10T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/boris-mijatovic/rss.xml",
               "externalFeeds": [
                 {
@@ -6832,8 +6832,8 @@
               "parliament": "bundestag",
               "slug": "cansin-kokturk",
               "label": "Cansin Köktürk",
-              "count": 391,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 395,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/cansin-kokturk/rss.xml",
               "externalFeeds": [
                 {
@@ -6848,7 +6848,7 @@
               "parliament": "bundestag",
               "slug": "cansu-ozdemir",
               "label": "Cansu Özdemir",
-              "count": 229,
+              "count": 230,
               "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/cansu-ozdemir/rss.xml",
               "externalFeeds": [
@@ -6864,8 +6864,8 @@
               "parliament": "bundestag",
               "slug": "caren-lay",
               "label": "Caren Lay",
-              "count": 244,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 246,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/caren-lay/rss.xml",
               "externalFeeds": [
                 {
@@ -6880,8 +6880,8 @@
               "parliament": "bundestag",
               "slug": "carina-schiessl",
               "label": "Carina Schießl",
-              "count": 282,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 284,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/carina-schiessl/rss.xml",
               "externalFeeds": [
                 {
@@ -6912,7 +6912,7 @@
               "parliament": "bundestag",
               "slug": "carmen-wegge",
               "label": "Carmen Wegge",
-              "count": 107,
+              "count": 108,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/carmen-wegge/rss.xml",
               "externalFeeds": [
@@ -7040,8 +7040,8 @@
               "parliament": "bundestag",
               "slug": "carsten-muller",
               "label": "Carsten Müller",
-              "count": 15,
-              "updatedAt": "2026-06-11T00:00:00.000Z",
+              "count": 16,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/carsten-muller/rss.xml",
               "externalFeeds": [
                 {
@@ -7131,8 +7131,8 @@
               "parliament": "bundestag",
               "slug": "cem-ince",
               "label": "Cem Ince",
-              "count": 298,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 300,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/cem-ince/rss.xml",
               "externalFeeds": [
                 {
@@ -7147,8 +7147,8 @@
               "parliament": "bundestag",
               "slug": "chantal-kopf",
               "label": "Chantal Kopf",
-              "count": 88,
-              "updatedAt": "2026-11-03T00:00:00.000Z",
+              "count": 89,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/chantal-kopf/rss.xml",
               "externalFeeds": [
                 {
@@ -7163,7 +7163,7 @@
               "parliament": "bundestag",
               "slug": "charlotte-antonia-neuhauser",
               "label": "Charlotte Antonia Neuhäuser",
-              "count": 226,
+              "count": 227,
               "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/charlotte-antonia-neuhauser/rss.xml",
               "externalFeeds": [
@@ -7204,8 +7204,8 @@
               "parliament": "bundestag",
               "slug": "christian-gorke",
               "label": "Christian Görke",
-              "count": 458,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 461,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/christian-gorke/rss.xml",
               "externalFeeds": [
                 {
@@ -7300,8 +7300,8 @@
               "parliament": "bundestag",
               "slug": "christian-reck",
               "label": "Christian Reck",
-              "count": 362,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 363,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/christian-reck/rss.xml",
               "externalFeeds": [
                 {
@@ -7325,7 +7325,7 @@
               "parliament": "bundestag",
               "slug": "christian-wirth",
               "label": "Christian Wirth",
-              "count": 228,
+              "count": 229,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/christian-wirth/rss.xml",
               "externalFeeds": [
@@ -7341,7 +7341,7 @@
               "parliament": "bundestag",
               "slug": "christian-zaum",
               "label": "Christian Zaum",
-              "count": 204,
+              "count": 207,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/christian-zaum/rss.xml",
               "externalFeeds": [
@@ -7373,8 +7373,8 @@
               "parliament": "bundestag",
               "slug": "christin-willnat",
               "label": "Christin Willnat",
-              "count": 452,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 454,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/christin-willnat/rss.xml",
               "externalFeeds": [
                 {
@@ -7389,8 +7389,8 @@
               "parliament": "bundestag",
               "slug": "christina-baum",
               "label": "Christina Baum",
-              "count": 417,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 419,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/christina-baum/rss.xml",
               "externalFeeds": [
                 {
@@ -7421,8 +7421,8 @@
               "parliament": "bundestag",
               "slug": "christoph-birghan",
               "label": "Christoph Birghan",
-              "count": 586,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 589,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/christoph-birghan/rss.xml",
               "externalFeeds": [
                 {
@@ -7567,7 +7567,7 @@
               "parliament": "bundestag",
               "slug": "clara-bunger",
               "label": "Clara Bünger",
-              "count": 427,
+              "count": 428,
               "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/clara-bunger/rss.xml",
               "externalFeeds": [
@@ -7624,8 +7624,8 @@
               "parliament": "bundestag",
               "slug": "claudia-roth",
               "label": "Claudia Roth",
-              "count": 143,
-              "updatedAt": "2026-11-04T00:00:00.000Z",
+              "count": 144,
+              "updatedAt": "2026-11-10T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/claudia-roth/rss.xml",
               "externalFeeds": [
                 {
@@ -7649,8 +7649,8 @@
               "parliament": "bundestag",
               "slug": "claudia-weiss",
               "label": "Claudia Weiss",
-              "count": 361,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 363,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/claudia-weiss/rss.xml",
               "externalFeeds": [
                 {
@@ -7850,8 +7850,8 @@
               "parliament": "bundestag",
               "slug": "danny-meiners",
               "label": "Danny Meiners",
-              "count": 158,
-              "updatedAt": "2026-11-05T00:00:00.000Z",
+              "count": 159,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/danny-meiners/rss.xml",
               "externalFeeds": [
                 {
@@ -7866,8 +7866,8 @@
               "parliament": "bundestag",
               "slug": "dario-seifert",
               "label": "Dario Seifert",
-              "count": 164,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 165,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/dario-seifert/rss.xml",
               "externalFeeds": [
                 {
@@ -7923,8 +7923,8 @@
               "parliament": "bundestag",
               "slug": "david-schliesing",
               "label": "David Schliesing",
-              "count": 580,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 582,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/david-schliesing/rss.xml",
               "externalFeeds": [
                 {
@@ -7939,8 +7939,8 @@
               "parliament": "bundestag",
               "slug": "deborah-during",
               "label": "Deborah Düring",
-              "count": 91,
-              "updatedAt": "2026-11-03T00:00:00.000Z",
+              "count": 92,
+              "updatedAt": "2026-11-10T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/deborah-during/rss.xml",
               "externalFeeds": [
                 {
@@ -7955,8 +7955,8 @@
               "parliament": "bundestag",
               "slug": "denis-pauli",
               "label": "Denis Pauli",
-              "count": 299,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 303,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/denis-pauli/rss.xml",
               "externalFeeds": [
                 {
@@ -8019,8 +8019,8 @@
               "parliament": "bundestag",
               "slug": "desiree-becker",
               "label": "Desiree Becker",
-              "count": 418,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 421,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/desiree-becker/rss.xml",
               "externalFeeds": [
                 {
@@ -8035,8 +8035,8 @@
               "parliament": "bundestag",
               "slug": "detlef-seif",
               "label": "Detlef Seif",
-              "count": 70,
-              "updatedAt": "2026-11-04T00:00:00.000Z",
+              "count": 72,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/detlef-seif/rss.xml",
               "externalFeeds": [
                 {
@@ -8099,8 +8099,8 @@
               "parliament": "bundestag",
               "slug": "dietmar-bartsch",
               "label": "Dietmar Bartsch",
-              "count": 255,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 258,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/dietmar-bartsch/rss.xml",
               "externalFeeds": [
                 {
@@ -8163,7 +8163,7 @@
               "parliament": "bundestag",
               "slug": "donata-vogtschmidt",
               "label": "Donata Vogtschmidt",
-              "count": 613,
+              "count": 614,
               "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/donata-vogtschmidt/rss.xml",
               "externalFeeds": [
@@ -8179,8 +8179,8 @@
               "parliament": "bundestag",
               "slug": "doris-achelwilm",
               "label": "Doris Achelwilm",
-              "count": 411,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 415,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/doris-achelwilm/rss.xml",
               "externalFeeds": [
                 {
@@ -8227,8 +8227,8 @@
               "parliament": "bundestag",
               "slug": "edgar-naujok",
               "label": "Edgar Naujok",
-              "count": 385,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 386,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/edgar-naujok/rss.xml",
               "externalFeeds": [
                 {
@@ -8275,8 +8275,8 @@
               "parliament": "bundestag",
               "slug": "ellen-demuth",
               "label": "Ellen Demuth",
-              "count": 66,
-              "updatedAt": "2026-11-06T00:00:00.000Z",
+              "count": 68,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ellen-demuth/rss.xml",
               "externalFeeds": [
                 {
@@ -8307,8 +8307,8 @@
               "parliament": "bundestag",
               "slug": "enrico-komning",
               "label": "Enrico Komning",
-              "count": 245,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 246,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/enrico-komning/rss.xml",
               "externalFeeds": [
                 {
@@ -8387,8 +8387,8 @@
               "parliament": "bundestag",
               "slug": "evelyn-schotz",
               "label": "Evelyn Schötz",
-              "count": 262,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 263,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/evelyn-schotz/rss.xml",
               "externalFeeds": [
                 {
@@ -8403,8 +8403,8 @@
               "parliament": "bundestag",
               "slug": "fabian-fahl",
               "label": "Fabian Fahl",
-              "count": 250,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 251,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/fabian-fahl/rss.xml",
               "externalFeeds": [
                 {
@@ -8483,8 +8483,8 @@
               "parliament": "bundestag",
               "slug": "felix-doring",
               "label": "Felix Döring",
-              "count": 89,
-              "updatedAt": "2026-10-08T00:00:00.000Z",
+              "count": 92,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/felix-doring/rss.xml",
               "externalFeeds": [
                 {
@@ -8515,8 +8515,8 @@
               "parliament": "bundestag",
               "slug": "ferat-kocak",
               "label": "Ferat Koçak",
-              "count": 354,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 356,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ferat-kocak/rss.xml",
               "externalFeeds": [
                 {
@@ -8851,8 +8851,8 @@
               "parliament": "bundestag",
               "slug": "gereon-bollmann",
               "label": "Gereon Bollmann",
-              "count": 380,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 382,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/gereon-bollmann/rss.xml",
               "externalFeeds": [
                 {
@@ -8876,8 +8876,8 @@
               "parliament": "bundestag",
               "slug": "gerold-otten",
               "label": "Gerold Otten",
-              "count": 261,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 262,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/gerold-otten/rss.xml",
               "externalFeeds": [
                 {
@@ -8892,8 +8892,8 @@
               "parliament": "bundestag",
               "slug": "gerrit-huy",
               "label": "Gerrit Huy",
-              "count": 260,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 261,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/gerrit-huy/rss.xml",
               "externalFeeds": [
                 {
@@ -8956,8 +8956,8 @@
               "parliament": "bundestag",
               "slug": "gotz-fromming",
               "label": "Götz Frömming",
-              "count": 304,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 307,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/gotz-fromming/rss.xml",
               "externalFeeds": [
                 {
@@ -8972,8 +8972,8 @@
               "parliament": "bundestag",
               "slug": "gregor-gysi",
               "label": "Gregor Gysi",
-              "count": 318,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 319,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/gregor-gysi/rss.xml",
               "externalFeeds": [
                 {
@@ -9148,7 +9148,7 @@
               "parliament": "bundestag",
               "slug": "harald-ebner",
               "label": "Harald Ebner",
-              "count": 109,
+              "count": 110,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/harald-ebner/rss.xml",
               "externalFeeds": [
@@ -9164,8 +9164,8 @@
               "parliament": "bundestag",
               "slug": "harald-orthey",
               "label": "Harald Orthey",
-              "count": 57,
-              "updatedAt": "2026-11-06T00:00:00.000Z",
+              "count": 58,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/harald-orthey/rss.xml",
               "externalFeeds": [
                 {
@@ -9196,8 +9196,8 @@
               "parliament": "bundestag",
               "slug": "heidi-reichinnek",
               "label": "Heidi Reichinnek",
-              "count": 227,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 228,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/heidi-reichinnek/rss.xml",
               "externalFeeds": [
                 {
@@ -9308,8 +9308,8 @@
               "parliament": "bundestag",
               "slug": "hendrik-bollmann",
               "label": "Hendrik Bollmann",
-              "count": 72,
-              "updatedAt": "2026-10-08T00:00:00.000Z",
+              "count": 74,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/hendrik-bollmann/rss.xml",
               "externalFeeds": [
                 {
@@ -9477,8 +9477,8 @@
               "parliament": "bundestag",
               "slug": "ina-latendorf",
               "label": "Ina Latendorf",
-              "count": 399,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 401,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ina-latendorf/rss.xml",
               "externalFeeds": [
                 {
@@ -9493,8 +9493,8 @@
               "parliament": "bundestag",
               "slug": "ines-schwerdtner",
               "label": "Ines Schwerdtner",
-              "count": 244,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 247,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ines-schwerdtner/rss.xml",
               "externalFeeds": [
                 {
@@ -9525,7 +9525,7 @@
               "parliament": "bundestag",
               "slug": "ingo-hahn",
               "label": "Ingo Hahn",
-              "count": 288,
+              "count": 290,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ingo-hahn/rss.xml",
               "externalFeeds": [
@@ -9621,8 +9621,8 @@
               "parliament": "bundestag",
               "slug": "isabelle-vandre",
               "label": "Isabelle Vandre",
-              "count": 253,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 255,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/isabelle-vandre/rss.xml",
               "externalFeeds": [
                 {
@@ -9653,8 +9653,8 @@
               "parliament": "bundestag",
               "slug": "jamila-schafer",
               "label": "Jamila Schäfer",
-              "count": 125,
-              "updatedAt": "2026-11-05T00:00:00.000Z",
+              "count": 127,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/jamila-schafer/rss.xml",
               "externalFeeds": [
                 {
@@ -9726,8 +9726,8 @@
               "parliament": "bundestag",
               "slug": "jan-krampe",
               "label": "Jan Krampe",
-              "count": 67,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 68,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/jan-krampe/rss.xml"
             },
             {
@@ -9735,8 +9735,8 @@
               "parliament": "bundestag",
               "slug": "jan-marco-luczak",
               "label": "Jan-Marco Luczak",
-              "count": 74,
-              "updatedAt": "2026-09-24T00:00:00.000Z",
+              "count": 76,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/jan-marco-luczak/rss.xml",
               "externalFeeds": [
                 {
@@ -9751,8 +9751,8 @@
               "parliament": "bundestag",
               "slug": "jan-metzler",
               "label": "Jan Metzler",
-              "count": 53,
-              "updatedAt": "2026-09-10T00:00:00.000Z",
+              "count": 54,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/jan-metzler/rss.xml",
               "externalFeeds": [
                 {
@@ -9767,7 +9767,7 @@
               "parliament": "bundestag",
               "slug": "jan-niclas-gesenhues",
               "label": "Jan-Niclas Gesenhues",
-              "count": 127,
+              "count": 128,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/jan-niclas-gesenhues/rss.xml",
               "externalFeeds": [
@@ -9847,7 +9847,7 @@
               "parliament": "bundestag",
               "slug": "janina-bottger",
               "label": "Janina Böttger",
-              "count": 326,
+              "count": 327,
               "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/janina-bottger/rss.xml",
               "externalFeeds": [
@@ -9863,8 +9863,8 @@
               "parliament": "bundestag",
               "slug": "janine-wissler",
               "label": "Janine Wissler",
-              "count": 271,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 273,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/janine-wissler/rss.xml",
               "externalFeeds": [
                 {
@@ -9879,7 +9879,7 @@
               "parliament": "bundestag",
               "slug": "janosch-dahmen",
               "label": "Janosch Dahmen",
-              "count": 124,
+              "count": 125,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/janosch-dahmen/rss.xml",
               "externalFeeds": [
@@ -9911,8 +9911,8 @@
               "parliament": "bundestag",
               "slug": "jeanne-dillschneider",
               "label": "Jeanne Dillschneider",
-              "count": 105,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 106,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/jeanne-dillschneider/rss.xml",
               "externalFeeds": [
                 {
@@ -9991,8 +9991,8 @@
               "parliament": "bundestag",
               "slug": "joachim-bloch",
               "label": "Joachim Bloch",
-              "count": 443,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 445,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/joachim-bloch/rss.xml",
               "externalFeeds": [
                 {
@@ -10055,8 +10055,8 @@
               "parliament": "bundestag",
               "slug": "johann-martel",
               "label": "Johann Martel",
-              "count": 328,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 332,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/johann-martel/rss.xml",
               "externalFeeds": [
                 {
@@ -10199,7 +10199,7 @@
               "parliament": "bundestag",
               "slug": "johannes-wagner",
               "label": "Johannes Wagner",
-              "count": 147,
+              "count": 148,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/johannes-wagner/rss.xml",
               "externalFeeds": [
@@ -10263,8 +10263,8 @@
               "parliament": "bundestag",
               "slug": "jorg-cezanne",
               "label": "Jörg Cezanne",
-              "count": 270,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 272,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/jorg-cezanne/rss.xml",
               "externalFeeds": [
                 {
@@ -10311,8 +10311,8 @@
               "parliament": "bundestag",
               "slug": "jorrit-bosch",
               "label": "Jorrit Bosch",
-              "count": 339,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 341,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/jorrit-bosch/rss.xml",
               "externalFeeds": [
                 {
@@ -10343,8 +10343,8 @@
               "parliament": "bundestag",
               "slug": "josephine-ortleb",
               "label": "Josephine Ortleb",
-              "count": 56,
-              "updatedAt": "2026-10-15T00:00:00.000Z",
+              "count": 59,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/josephine-ortleb/rss.xml",
               "externalFeeds": [
                 {
@@ -10359,8 +10359,8 @@
               "parliament": "bundestag",
               "slug": "julia-christina-stange",
               "label": "Julia-Christina Stange",
-              "count": 259,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 260,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/julia-christina-stange/rss.xml",
               "externalFeeds": [
                 {
@@ -10391,7 +10391,7 @@
               "parliament": "bundestag",
               "slug": "julia-schneider",
               "label": "Julia Schneider",
-              "count": 187,
+              "count": 188,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/julia-schneider/rss.xml",
               "externalFeeds": [
@@ -10407,7 +10407,7 @@
               "parliament": "bundestag",
               "slug": "julia-verlinden",
               "label": "Julia Verlinden",
-              "count": 122,
+              "count": 123,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/julia-verlinden/rss.xml",
               "externalFeeds": [
@@ -10423,8 +10423,8 @@
               "parliament": "bundestag",
               "slug": "julian-joswig",
               "label": "Julian Joswig",
-              "count": 248,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 249,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/julian-joswig/rss.xml",
               "externalFeeds": [
                 {
@@ -10439,8 +10439,8 @@
               "parliament": "bundestag",
               "slug": "julian-schmidt",
               "label": "Julian Schmidt",
-              "count": 223,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 224,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/julian-schmidt/rss.xml",
               "externalFeeds": [
                 {
@@ -10519,8 +10519,8 @@
               "parliament": "bundestag",
               "slug": "karin-prien",
               "label": "Karin Prien",
-              "count": 106,
-              "updatedAt": "2026-11-06T00:00:00.000Z",
+              "count": 147,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/karin-prien/rss.xml",
               "externalFeeds": [
                 {
@@ -10576,7 +10576,7 @@
               "parliament": "bundestag",
               "slug": "karoline-otte",
               "label": "Karoline Otte",
-              "count": 202,
+              "count": 203,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/karoline-otte/rss.xml",
               "externalFeeds": [
@@ -10640,8 +10640,8 @@
               "parliament": "bundestag",
               "slug": "katalin-gennburg",
               "label": "Katalin Gennburg",
-              "count": 225,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 229,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/katalin-gennburg/rss.xml",
               "externalFeeds": [
                 {
@@ -10656,8 +10656,8 @@
               "parliament": "bundestag",
               "slug": "katharina-beck",
               "label": "Katharina Beck",
-              "count": 173,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 174,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/katharina-beck/rss.xml",
               "externalFeeds": [
                 {
@@ -10704,8 +10704,8 @@
               "parliament": "bundestag",
               "slug": "kathrin-gebel",
               "label": "Kathrin Gebel",
-              "count": 269,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 273,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/kathrin-gebel/rss.xml",
               "externalFeeds": [
                 {
@@ -10752,8 +10752,8 @@
               "parliament": "bundestag",
               "slug": "katja-strauss-koster",
               "label": "Katja Strauss-Köster",
-              "count": 69,
-              "updatedAt": "2026-11-06T00:00:00.000Z",
+              "count": 70,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/katja-strauss-koster/rss.xml",
               "externalFeeds": [
                 {
@@ -10784,7 +10784,7 @@
               "parliament": "bundestag",
               "slug": "katrin-fey",
               "label": "Katrin Fey",
-              "count": 525,
+              "count": 526,
               "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/katrin-fey/rss.xml",
               "externalFeeds": [
@@ -10800,8 +10800,8 @@
               "parliament": "bundestag",
               "slug": "katrin-goring-eckardt",
               "label": "Katrin Göring-Eckardt",
-              "count": 94,
-              "updatedAt": "2026-10-15T00:00:00.000Z",
+              "count": 95,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/katrin-goring-eckardt/rss.xml",
               "externalFeeds": [
                 {
@@ -10848,7 +10848,7 @@
               "parliament": "bundestag",
               "slug": "katrin-zschau",
               "label": "Katrin Zschau",
-              "count": 4,
+              "count": 5,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/katrin-zschau/rss.xml"
             },
@@ -10873,8 +10873,8 @@
               "parliament": "bundestag",
               "slug": "kay-uwe-ziegler",
               "label": "Kay-Uwe Ziegler",
-              "count": 390,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 393,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/kay-uwe-ziegler/rss.xml",
               "externalFeeds": [
                 {
@@ -10905,8 +10905,8 @@
               "parliament": "bundestag",
               "slug": "kerstin-przygodda",
               "label": "Kerstin Przygodda",
-              "count": 379,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 381,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/kerstin-przygodda/rss.xml",
               "externalFeeds": [
                 {
@@ -10953,7 +10953,7 @@
               "parliament": "bundestag",
               "slug": "kirsten-kappert-gonther",
               "label": "Kirsten Kappert-Gonther",
-              "count": 131,
+              "count": 132,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/kirsten-kappert-gonther/rss.xml",
               "externalFeeds": [
@@ -11033,8 +11033,8 @@
               "parliament": "bundestag",
               "slug": "knuth-meyer-soltau",
               "label": "Knuth Meyer-Soltau",
-              "count": 338,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 339,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/knuth-meyer-soltau/rss.xml",
               "externalFeeds": [
                 {
@@ -11049,7 +11049,7 @@
               "parliament": "bundestag",
               "slug": "konrad-korner",
               "label": "Konrad Körner",
-              "count": 135,
+              "count": 138,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/konrad-korner/rss.xml",
               "externalFeeds": [
@@ -11090,8 +11090,8 @@
               "parliament": "bundestag",
               "slug": "kurt-kleinschmidt",
               "label": "Kurt Kleinschmidt",
-              "count": 337,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 338,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/kurt-kleinschmidt/rss.xml",
               "externalFeeds": [
                 {
@@ -11106,7 +11106,7 @@
               "parliament": "bundestag",
               "slug": "lamya-kaddor",
               "label": "Lamya Kaddor",
-              "count": 145,
+              "count": 146,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/lamya-kaddor/rss.xml",
               "externalFeeds": [
@@ -11186,8 +11186,8 @@
               "parliament": "bundestag",
               "slug": "lars-rohwer",
               "label": "Lars Rohwer",
-              "count": 92,
-              "updatedAt": "2026-10-08T00:00:00.000Z",
+              "count": 93,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/lars-rohwer/rss.xml",
               "externalFeeds": [
                 {
@@ -11202,8 +11202,8 @@
               "parliament": "bundestag",
               "slug": "lars-schieske",
               "label": "Lars Schieske",
-              "count": 255,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 256,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/lars-schieske/rss.xml",
               "externalFeeds": [
                 {
@@ -11266,7 +11266,7 @@
               "parliament": "bundestag",
               "slug": "lena-gumnior",
               "label": "Lena Gumnior",
-              "count": 125,
+              "count": 126,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/lena-gumnior/rss.xml",
               "externalFeeds": [
@@ -11314,7 +11314,7 @@
               "parliament": "bundestag",
               "slug": "linda-heitmann",
               "label": "Linda Heitmann",
-              "count": 142,
+              "count": 143,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/linda-heitmann/rss.xml",
               "externalFeeds": [
@@ -11330,8 +11330,8 @@
               "parliament": "bundestag",
               "slug": "lisa-badum",
               "label": "Lisa Badum",
-              "count": 153,
-              "updatedAt": "2026-11-04T00:00:00.000Z",
+              "count": 154,
+              "updatedAt": "2026-11-10T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/lisa-badum/rss.xml",
               "externalFeeds": [
                 {
@@ -11362,8 +11362,8 @@
               "parliament": "bundestag",
               "slug": "lisa-schubert",
               "label": "Lisa Schubert",
-              "count": 239,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 241,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/lisa-schubert/rss.xml",
               "externalFeeds": [
                 {
@@ -11378,8 +11378,8 @@
               "parliament": "bundestag",
               "slug": "lorenz-gosta-beutin",
               "label": "Lorenz Gösta Beutin",
-              "count": 247,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 248,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/lorenz-gosta-beutin/rss.xml",
               "externalFeeds": [
                 {
@@ -11394,8 +11394,8 @@
               "parliament": "bundestag",
               "slug": "luigi-pantisano",
               "label": "Luigi Pantisano",
-              "count": 250,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 254,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/luigi-pantisano/rss.xml",
               "externalFeeds": [
                 {
@@ -11410,8 +11410,8 @@
               "parliament": "bundestag",
               "slug": "luise-amtsberg",
               "label": "Luise Amtsberg",
-              "count": 85,
-              "updatedAt": "2026-11-04T00:00:00.000Z",
+              "count": 86,
+              "updatedAt": "2026-11-10T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/luise-amtsberg/rss.xml",
               "externalFeeds": [
                 {
@@ -11426,8 +11426,8 @@
               "parliament": "bundestag",
               "slug": "lukas-benner",
               "label": "Lukas Benner",
-              "count": 185,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 186,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/lukas-benner/rss.xml",
               "externalFeeds": [
                 {
@@ -11474,8 +11474,8 @@
               "parliament": "bundestag",
               "slug": "luke-hoss",
               "label": "Luke Hoß",
-              "count": 350,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 351,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/luke-hoss/rss.xml",
               "externalFeeds": [
                 {
@@ -11522,8 +11522,8 @@
               "parliament": "bundestag",
               "slug": "mahmut-ozdemir",
               "label": "Mahmut Özdemir",
-              "count": 30,
-              "updatedAt": "2026-11-05T00:00:00.000Z",
+              "count": 33,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/mahmut-ozdemir/rss.xml",
               "externalFeeds": [
                 {
@@ -11547,7 +11547,7 @@
               "parliament": "bundestag",
               "slug": "maik-bruckner",
               "label": "Maik Brückner",
-              "count": 378,
+              "count": 379,
               "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/maik-bruckner/rss.xml",
               "externalFeeds": [
@@ -11579,8 +11579,8 @@
               "parliament": "bundestag",
               "slug": "malte-kaufmann",
               "label": "Malte Kaufmann",
-              "count": 602,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 604,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/malte-kaufmann/rss.xml",
               "externalFeeds": [
                 {
@@ -11595,8 +11595,8 @@
               "parliament": "bundestag",
               "slug": "mandy-eissing",
               "label": "Mandy Eißing",
-              "count": 379,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 381,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/mandy-eissing/rss.xml",
               "externalFeeds": [
                 {
@@ -11659,7 +11659,7 @@
               "parliament": "bundestag",
               "slug": "marc-bernhard",
               "label": "Marc Bernhard",
-              "count": 315,
+              "count": 317,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/marc-bernhard/rss.xml",
               "externalFeeds": [
@@ -11707,8 +11707,8 @@
               "parliament": "bundestag",
               "slug": "marcel-bauer",
               "label": "Marcel Bauer",
-              "count": 215,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 216,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/marcel-bauer/rss.xml",
               "externalFeeds": [
                 {
@@ -11723,8 +11723,8 @@
               "parliament": "bundestag",
               "slug": "marcel-emmerich",
               "label": "Marcel Emmerich",
-              "count": 181,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 182,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/marcel-emmerich/rss.xml",
               "externalFeeds": [
                 {
@@ -11771,8 +11771,8 @@
               "parliament": "bundestag",
               "slug": "mareike-hermeier",
               "label": "Mareike Hermeier",
-              "count": 377,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 381,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/mareike-hermeier/rss.xml",
               "externalFeeds": [
                 {
@@ -11803,8 +11803,8 @@
               "parliament": "bundestag",
               "slug": "maren-kaminski",
               "label": "Maren Kaminski",
-              "count": 281,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 282,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/maren-kaminski/rss.xml",
               "externalFeeds": [
                 {
@@ -11979,8 +11979,8 @@
               "parliament": "bundestag",
               "slug": "martin-erwin-renner",
               "label": "Martin Erwin Renner",
-              "count": 151,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 152,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/martin-erwin-renner/rss.xml",
               "externalFeeds": [
                 {
@@ -12075,8 +12075,8 @@
               "parliament": "bundestag",
               "slug": "martin-reichardt",
               "label": "Martin Reichardt",
-              "count": 273,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 276,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/martin-reichardt/rss.xml",
               "externalFeeds": [
                 {
@@ -12091,8 +12091,8 @@
               "parliament": "bundestag",
               "slug": "martin-sichert",
               "label": "Martin Sichert",
-              "count": 273,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 275,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/martin-sichert/rss.xml",
               "externalFeeds": [
                 {
@@ -12123,8 +12123,8 @@
               "parliament": "bundestag",
               "slug": "martina-kempf",
               "label": "Martina Kempf",
-              "count": 349,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 351,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/martina-kempf/rss.xml",
               "externalFeeds": [
                 {
@@ -12139,8 +12139,8 @@
               "parliament": "bundestag",
               "slug": "martina-uhr",
               "label": "Martina Uhr",
-              "count": 408,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 412,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/martina-uhr/rss.xml",
               "externalFeeds": [
                 {
@@ -12219,8 +12219,8 @@
               "parliament": "bundestag",
               "slug": "matthias-gastel",
               "label": "Matthias Gastel",
-              "count": 212,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 213,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/matthias-gastel/rss.xml",
               "externalFeeds": [
                 {
@@ -12251,8 +12251,8 @@
               "parliament": "bundestag",
               "slug": "matthias-helferich",
               "label": "Matthias Helferich",
-              "count": 136,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 137,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/matthias-helferich/rss.xml",
               "externalFeeds": [
                 {
@@ -12315,8 +12315,8 @@
               "parliament": "bundestag",
               "slug": "matthias-rentzsch",
               "label": "Matthias Rentzsch",
-              "count": 221,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 225,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/matthias-rentzsch/rss.xml",
               "externalFeeds": [
                 {
@@ -12331,8 +12331,8 @@
               "parliament": "bundestag",
               "slug": "max-lucks",
               "label": "Max Lucks",
-              "count": 173,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 175,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/max-lucks/rss.xml",
               "externalFeeds": [
                 {
@@ -12347,7 +12347,7 @@
               "parliament": "bundestag",
               "slug": "maximilian-kneller",
               "label": "Maximilian Kneller",
-              "count": 308,
+              "count": 309,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/maximilian-kneller/rss.xml",
               "externalFeeds": [
@@ -12411,8 +12411,8 @@
               "parliament": "bundestag",
               "slug": "mechthilde-wittmann",
               "label": "Mechthilde Wittmann",
-              "count": 98,
-              "updatedAt": "2026-11-06T00:00:00.000Z",
+              "count": 99,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/mechthilde-wittmann/rss.xml",
               "externalFeeds": [
                 {
@@ -12475,8 +12475,8 @@
               "parliament": "bundestag",
               "slug": "michael-arndt",
               "label": "Michael Arndt",
-              "count": 214,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 215,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/michael-arndt/rss.xml",
               "externalFeeds": [
                 {
@@ -12491,8 +12491,8 @@
               "parliament": "bundestag",
               "slug": "michael-blos",
               "label": "Michael Blos",
-              "count": 395,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 398,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/michael-blos/rss.xml",
               "externalFeeds": [
                 {
@@ -12557,8 +12557,8 @@
               "parliament": "bundestag",
               "slug": "michael-espendiller",
               "label": "Michael Espendiller",
-              "count": 262,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 265,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/michael-espendiller/rss.xml",
               "externalFeeds": [
                 {
@@ -12589,7 +12589,7 @@
               "parliament": "bundestag",
               "slug": "michael-hose",
               "label": "Michael Hose",
-              "count": 61,
+              "count": 62,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/michael-hose/rss.xml",
               "externalFeeds": [
@@ -12621,7 +12621,7 @@
               "parliament": "bundestag",
               "slug": "michael-kellner",
               "label": "Michael Kellner",
-              "count": 223,
+              "count": 224,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/michael-kellner/rss.xml",
               "externalFeeds": [
@@ -12717,8 +12717,8 @@
               "parliament": "bundestag",
               "slug": "mirze-edis",
               "label": "Mirze Edis",
-              "count": 349,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 351,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/mirze-edis/rss.xml",
               "externalFeeds": [
                 {
@@ -12749,8 +12749,8 @@
               "parliament": "bundestag",
               "slug": "moritz-heuberger",
               "label": "Moritz Heuberger",
-              "count": 166,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 167,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/moritz-heuberger/rss.xml",
               "externalFeeds": [
                 {
@@ -12845,8 +12845,8 @@
               "parliament": "bundestag",
               "slug": "nicole-gohlke",
               "label": "Nicole Gohlke",
-              "count": 289,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 292,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/nicole-gohlke/rss.xml",
               "externalFeeds": [
                 {
@@ -12861,8 +12861,8 @@
               "parliament": "bundestag",
               "slug": "nicole-hess",
               "label": "Nicole Hess",
-              "count": 376,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 379,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/nicole-hess/rss.xml",
               "externalFeeds": [
                 {
@@ -12909,8 +12909,8 @@
               "parliament": "bundestag",
               "slug": "niklas-wagener",
               "label": "Niklas Wagener",
-              "count": 99,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 100,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/niklas-wagener/rss.xml",
               "externalFeeds": [
                 {
@@ -13037,8 +13037,8 @@
               "parliament": "bundestag",
               "slug": "olaf-hilmer",
               "label": "Olaf Hilmer",
-              "count": 220,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 221,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/olaf-hilmer/rss.xml",
               "externalFeeds": [
                 {
@@ -13133,8 +13133,8 @@
               "parliament": "bundestag",
               "slug": "omid-nouripour",
               "label": "Omid Nouripour",
-              "count": 72,
-              "updatedAt": "2026-11-03T00:00:00.000Z",
+              "count": 73,
+              "updatedAt": "2026-11-10T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/omid-nouripour/rss.xml",
               "externalFeeds": [
                 {
@@ -13181,7 +13181,7 @@
               "parliament": "bundestag",
               "slug": "otto-strauss",
               "label": "Otto Strauß",
-              "count": 424,
+              "count": 425,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/otto-strauss/rss.xml",
               "externalFeeds": [
@@ -13213,8 +13213,8 @@
               "parliament": "bundestag",
               "slug": "pascal-meiser",
               "label": "Pascal Meiser",
-              "count": 264,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 267,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/pascal-meiser/rss.xml",
               "externalFeeds": [
                 {
@@ -13277,8 +13277,8 @@
               "parliament": "bundestag",
               "slug": "paul-schmidt",
               "label": "Paul Schmidt",
-              "count": 501,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 505,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/paul-schmidt/rss.xml",
               "externalFeeds": [
                 {
@@ -13389,8 +13389,8 @@
               "parliament": "bundestag",
               "slug": "peter-felser",
               "label": "Peter Felser",
-              "count": 173,
-              "updatedAt": "2026-11-05T00:00:00.000Z",
+              "count": 174,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/peter-felser/rss.xml",
               "externalFeeds": [
                 {
@@ -13533,8 +13533,8 @@
               "parliament": "bundestag",
               "slug": "rainer-rothfuss",
               "label": "Rainer Rothfuß",
-              "count": 356,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 357,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/rainer-rothfuss/rss.xml",
               "externalFeeds": [
                 {
@@ -13581,8 +13581,8 @@
               "parliament": "bundestag",
               "slug": "ralph-edelhausser",
               "label": "Ralph Edelhäußer",
-              "count": 82,
-              "updatedAt": "2026-11-04T00:00:00.000Z",
+              "count": 83,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ralph-edelhausser/rss.xml",
               "externalFeeds": [
                 {
@@ -13597,8 +13597,8 @@
               "parliament": "bundestag",
               "slug": "rasha-nasr",
               "label": "Rasha Nasr",
-              "count": 90,
-              "updatedAt": "2026-10-15T00:00:00.000Z",
+              "count": 91,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/rasha-nasr/rss.xml",
               "externalFeeds": [
                 {
@@ -13821,8 +13821,8 @@
               "parliament": "bundestag",
               "slug": "robin-wagener",
               "label": "Robin Wagener",
-              "count": 95,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 97,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/robin-wagener/rss.xml",
               "externalFeeds": [
                 {
@@ -13837,8 +13837,8 @@
               "parliament": "bundestag",
               "slug": "rocco-kever",
               "label": "Rocco Kever",
-              "count": 446,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 451,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/rocco-kever/rss.xml",
               "externalFeeds": [
                 {
@@ -13901,8 +13901,8 @@
               "parliament": "bundestag",
               "slug": "ronald-glaser",
               "label": "Ronald Gläser",
-              "count": 191,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 192,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ronald-glaser/rss.xml",
               "externalFeeds": [
                 {
@@ -13974,8 +13974,8 @@
               "parliament": "bundestag",
               "slug": "ruppert-stuwe",
               "label": "Ruppert Stüwe",
-              "count": 59,
-              "updatedAt": "2026-09-24T00:00:00.000Z",
+              "count": 60,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ruppert-stuwe/rss.xml",
               "externalFeeds": [
                 {
@@ -14022,8 +14022,8 @@
               "parliament": "bundestag",
               "slug": "sahra-mirow",
               "label": "Sahra Mirow",
-              "count": 235,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 241,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sahra-mirow/rss.xml",
               "externalFeeds": [
                 {
@@ -14102,8 +14102,8 @@
               "parliament": "bundestag",
               "slug": "sara-nanni",
               "label": "Sara Nanni",
-              "count": 99,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 100,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sara-nanni/rss.xml",
               "externalFeeds": [
                 {
@@ -14118,8 +14118,8 @@
               "parliament": "bundestag",
               "slug": "sarah-vollath",
               "label": "Sarah Vollath",
-              "count": 382,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 385,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sarah-vollath/rss.xml",
               "externalFeeds": [
                 {
@@ -14143,8 +14143,8 @@
               "parliament": "bundestag",
               "slug": "sascha-lensing",
               "label": "Sascha Lensing",
-              "count": 384,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 385,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sascha-lensing/rss.xml",
               "externalFeeds": [
                 {
@@ -14159,8 +14159,8 @@
               "parliament": "bundestag",
               "slug": "sascha-muller",
               "label": "Sascha Müller",
-              "count": 154,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 155,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sascha-muller/rss.xml",
               "externalFeeds": [
                 {
@@ -14191,8 +14191,8 @@
               "parliament": "bundestag",
               "slug": "sascha-wagner",
               "label": "Sascha Wagner",
-              "count": 420,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 423,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sascha-wagner/rss.xml",
               "externalFeeds": [
                 {
@@ -14239,7 +14239,7 @@
               "parliament": "bundestag",
               "slug": "schahina-gambir",
               "label": "Schahina Gambir",
-              "count": 189,
+              "count": 190,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/schahina-gambir/rss.xml",
               "externalFeeds": [
@@ -14255,7 +14255,7 @@
               "parliament": "bundestag",
               "slug": "sebastian-fiedler",
               "label": "Sebastian Fiedler",
-              "count": 89,
+              "count": 90,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sebastian-fiedler/rss.xml",
               "externalFeeds": [
@@ -14335,8 +14335,8 @@
               "parliament": "bundestag",
               "slug": "sebastian-schafer",
               "label": "Sebastian Schäfer",
-              "count": 104,
-              "updatedAt": "2026-11-05T00:00:00.000Z",
+              "count": 105,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sebastian-schafer/rss.xml",
               "externalFeeds": [
                 {
@@ -14351,8 +14351,8 @@
               "parliament": "bundestag",
               "slug": "sebastian-schmidt",
               "label": "Sebastian Schmidt",
-              "count": 68,
-              "updatedAt": "2026-11-04T00:00:00.000Z",
+              "count": 69,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sebastian-schmidt/rss.xml",
               "externalFeeds": [
                 {
@@ -14536,7 +14536,7 @@
               "parliament": "bundestag",
               "slug": "simone-fischer",
               "label": "Simone Fischer",
-              "count": 133,
+              "count": 134,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/simone-fischer/rss.xml",
               "externalFeeds": [
@@ -14568,8 +14568,8 @@
               "parliament": "bundestag",
               "slug": "sonja-lemke",
               "label": "Sonja Lemke",
-              "count": 498,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 499,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sonja-lemke/rss.xml",
               "externalFeeds": [
                 {
@@ -14600,8 +14600,8 @@
               "parliament": "bundestag",
               "slug": "soren-pellmann",
               "label": "Sören Pellmann",
-              "count": 243,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 244,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/soren-pellmann/rss.xml",
               "externalFeeds": [
                 {
@@ -14641,8 +14641,8 @@
               "parliament": "bundestag",
               "slug": "stefan-keuter",
               "label": "Stefan Keuter",
-              "count": 329,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 331,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/stefan-keuter/rss.xml",
               "externalFeeds": [
                 {
@@ -14673,8 +14673,8 @@
               "parliament": "bundestag",
               "slug": "stefan-moller",
               "label": "Stefan Möller",
-              "count": 261,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 263,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/stefan-moller/rss.xml",
               "externalFeeds": [
                 {
@@ -14721,8 +14721,8 @@
               "parliament": "bundestag",
               "slug": "stefan-schmidt",
               "label": "Stefan Schmidt",
-              "count": 248,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 249,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/stefan-schmidt/rss.xml",
               "externalFeeds": [
                 {
@@ -14737,8 +14737,8 @@
               "parliament": "bundestag",
               "slug": "stefan-schroder",
               "label": "Stefan Schröder",
-              "count": 268,
-              "updatedAt": "2026-11-05T00:00:00.000Z",
+              "count": 269,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/stefan-schroder/rss.xml",
               "externalFeeds": [
                 {
@@ -14801,8 +14801,8 @@
               "parliament": "bundestag",
               "slug": "stefanie-hubig",
               "label": "Stefanie Hubig",
-              "count": 118,
-              "updatedAt": "2026-10-16T00:00:00.000Z",
+              "count": 119,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/stefanie-hubig/rss.xml",
               "externalFeeds": [
                 {
@@ -14833,8 +14833,8 @@
               "parliament": "bundestag",
               "slug": "steffen-janich",
               "label": "Steffen Janich",
-              "count": 455,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 456,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/steffen-janich/rss.xml",
               "externalFeeds": [
                 {
@@ -14881,8 +14881,8 @@
               "parliament": "bundestag",
               "slug": "stella-merendino",
               "label": "Stella Merendino",
-              "count": 279,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 280,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/stella-merendino/rss.xml",
               "externalFeeds": [
                 {
@@ -14897,8 +14897,8 @@
               "parliament": "bundestag",
               "slug": "stephan-albani",
               "label": "Stephan Albani",
-              "count": 72,
-              "updatedAt": "2026-10-15T00:00:00.000Z",
+              "count": 74,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/stephan-albani/rss.xml",
               "externalFeeds": [
                 {
@@ -14913,7 +14913,7 @@
               "parliament": "bundestag",
               "slug": "stephan-brandner",
               "label": "Stephan Brandner",
-              "count": 426,
+              "count": 427,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/stephan-brandner/rss.xml",
               "externalFeeds": [
@@ -14970,8 +14970,8 @@
               "parliament": "bundestag",
               "slug": "stephan-protschka",
               "label": "Stephan Protschka",
-              "count": 168,
-              "updatedAt": "2026-11-05T00:00:00.000Z",
+              "count": 169,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/stephan-protschka/rss.xml",
               "externalFeeds": [
                 {
@@ -15002,8 +15002,8 @@
               "parliament": "bundestag",
               "slug": "susanne-hierl",
               "label": "Susanne Hierl",
-              "count": 81,
-              "updatedAt": "2026-11-06T00:00:00.000Z",
+              "count": 82,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/susanne-hierl/rss.xml",
               "externalFeeds": [
                 {
@@ -15050,8 +15050,8 @@
               "parliament": "bundestag",
               "slug": "sven-wendorf",
               "label": "Sven Wendorf",
-              "count": 389,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 391,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sven-wendorf/rss.xml",
               "externalFeeds": [
                 {
@@ -15098,8 +15098,8 @@
               "parliament": "bundestag",
               "slug": "swantje-henrike-michaelsen",
               "label": "Swantje Henrike Michaelsen",
-              "count": 204,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 205,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/swantje-henrike-michaelsen/rss.xml",
               "externalFeeds": [
                 {
@@ -15114,8 +15114,8 @@
               "parliament": "bundestag",
               "slug": "sylvia-rietenberg",
               "label": "Sylvia Rietenberg",
-              "count": 155,
-              "updatedAt": "2026-10-14T00:00:00.000Z",
+              "count": 156,
+              "updatedAt": "2026-11-10T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/sylvia-rietenberg/rss.xml",
               "externalFeeds": [
                 {
@@ -15130,8 +15130,8 @@
               "parliament": "bundestag",
               "slug": "tamara-mazzi",
               "label": "Tamara Mazzi",
-              "count": 332,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 335,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/tamara-mazzi/rss.xml",
               "externalFeeds": [
                 {
@@ -15162,8 +15162,8 @@
               "parliament": "bundestag",
               "slug": "tarek-al-wazir",
               "label": "Tarek Al-Wazir",
-              "count": 181,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 182,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/tarek-al-wazir/rss.xml",
               "externalFeeds": [
                 {
@@ -15194,8 +15194,8 @@
               "parliament": "bundestag",
               "slug": "thomas-dietz",
               "label": "Thomas Dietz",
-              "count": 364,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 366,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/thomas-dietz/rss.xml",
               "externalFeeds": [
                 {
@@ -15226,8 +15226,8 @@
               "parliament": "bundestag",
               "slug": "thomas-fetsch",
               "label": "Thomas Fetsch",
-              "count": 295,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 297,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/thomas-fetsch/rss.xml",
               "externalFeeds": [
                 {
@@ -15290,8 +15290,8 @@
               "parliament": "bundestag",
               "slug": "thomas-ladzinski",
               "label": "Thomas Ladzinski",
-              "count": 237,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 239,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/thomas-ladzinski/rss.xml",
               "externalFeeds": [
                 {
@@ -15354,8 +15354,8 @@
               "parliament": "bundestag",
               "slug": "thomas-silberhorn",
               "label": "Thomas Silberhorn",
-              "count": 77,
-              "updatedAt": "2026-10-14T00:00:00.000Z",
+              "count": 78,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/thomas-silberhorn/rss.xml",
               "externalFeeds": [
                 {
@@ -15555,8 +15555,8 @@
               "parliament": "bundestag",
               "slug": "tobias-ebenberger",
               "label": "Tobias Ebenberger",
-              "count": 565,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 567,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/tobias-ebenberger/rss.xml",
               "externalFeeds": [
                 {
@@ -15571,8 +15571,8 @@
               "parliament": "bundestag",
               "slug": "tobias-matthias-peterka",
               "label": "Tobias Matthias Peterka",
-              "count": 349,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 350,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/tobias-matthias-peterka/rss.xml",
               "externalFeeds": [
                 {
@@ -15587,8 +15587,8 @@
               "parliament": "bundestag",
               "slug": "tobias-teich",
               "label": "Tobias Teich",
-              "count": 269,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 270,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/tobias-teich/rss.xml",
               "externalFeeds": [
                 {
@@ -15651,8 +15651,8 @@
               "parliament": "bundestag",
               "slug": "udo-theodor-hemmelgarn",
               "label": "Udo Theodor Hemmelgarn",
-              "count": 556,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 558,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/udo-theodor-hemmelgarn/rss.xml",
               "externalFeeds": [
                 {
@@ -15667,7 +15667,7 @@
               "parliament": "bundestag",
               "slug": "ulle-schauws",
               "label": "Ulle Schauws",
-              "count": 144,
+              "count": 146,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ulle-schauws/rss.xml",
               "externalFeeds": [
@@ -15715,8 +15715,8 @@
               "parliament": "bundestag",
               "slug": "ulrich-von-zons",
               "label": "Ulrich von Zons",
-              "count": 435,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 436,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/ulrich-von-zons/rss.xml",
               "externalFeeds": [
                 {
@@ -15829,8 +15829,8 @@
               "parliament": "bundestag",
               "slug": "verena-hubertz",
               "label": "Verena Hubertz",
-              "count": 141,
-              "updatedAt": "2026-09-24T00:00:00.000Z",
+              "count": 164,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/verena-hubertz/rss.xml",
               "externalFeeds": [
                 {
@@ -15845,8 +15845,8 @@
               "parliament": "bundestag",
               "slug": "victoria-brossart",
               "label": "Victoria Broßart",
-              "count": 195,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 196,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/victoria-brossart/rss.xml",
               "externalFeeds": [
                 {
@@ -15861,8 +15861,8 @@
               "parliament": "bundestag",
               "slug": "vinzenz-glaser",
               "label": "Vinzenz Glaser",
-              "count": 225,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 226,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/vinzenz-glaser/rss.xml",
               "externalFeeds": [
                 {
@@ -15877,8 +15877,8 @@
               "parliament": "bundestag",
               "slug": "violetta-bock",
               "label": "Violetta Bock",
-              "count": 294,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 295,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/violetta-bock/rss.xml",
               "externalFeeds": [
                 {
@@ -16069,8 +16069,8 @@
               "parliament": "bundestag",
               "slug": "zada-salihovic",
               "label": "Zada Salihovic",
-              "count": 455,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 458,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/personen/zada-salihovic/rss.xml",
               "externalFeeds": [
                 {
@@ -16103,7 +16103,7 @@
               "parliament": "bundestag",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 5065,
+              "count": 5099,
               "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/fraktion/afd/rss.xml"
             },
@@ -16112,8 +16112,8 @@
               "parliament": "bundestag",
               "slug": "bundesregierung",
               "label": "Fraktion Bundesregierung",
-              "count": 2164,
-              "updatedAt": "2026-11-06T00:00:00.000Z",
+              "count": 2228,
+              "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/fraktion/bundesregierung/rss.xml"
             },
             {
@@ -16121,8 +16121,8 @@
               "parliament": "bundestag",
               "slug": "bundnis-90-die-gruenen",
               "label": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-              "count": 919,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 925,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/fraktion/bundnis-90-die-gruenen/rss.xml"
             },
             {
@@ -16130,7 +16130,7 @@
               "parliament": "bundestag",
               "slug": "cdu-csu",
               "label": "Fraktion CDU/CSU",
-              "count": 3166,
+              "count": 3191,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/fraktion/cdu-csu/rss.xml"
             },
@@ -16139,8 +16139,8 @@
               "parliament": "bundestag",
               "slug": "die-linke",
               "label": "Fraktion Die Linke",
-              "count": 2431,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 2456,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/fraktion/die-linke/rss.xml"
             },
             {
@@ -16157,7 +16157,7 @@
               "parliament": "bundestag",
               "slug": "spd",
               "label": "Fraktion SPD",
-              "count": 2072,
+              "count": 2089,
               "updatedAt": "2026-11-11T00:00:00.000Z",
               "rssUrl": "wiki/bundestag/wp-21/fraktion/spd/rss.xml"
             }
@@ -16278,8 +16278,8 @@
               "parliament": "sachsen",
               "slug": "carsten-hutter",
               "label": "Carsten Hütter",
-              "count": 212,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 213,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/carsten-hutter/rss.xml"
             },
             {
@@ -16836,8 +16836,8 @@
               "parliament": "sachsen",
               "slug": "janina-pfau",
               "label": "Janina Pfau",
-              "count": 68,
-              "updatedAt": "2026-10-15T00:00:00.000Z",
+              "count": 69,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/janina-pfau/rss.xml"
             },
             {
@@ -17214,8 +17214,8 @@
               "parliament": "sachsen",
               "slug": "nico-rudolph",
               "label": "Nico Rudolph",
-              "count": 42,
-              "updatedAt": "2026-10-29T00:00:00.000Z",
+              "count": 43,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/nico-rudolph/rss.xml"
             },
             {
@@ -17754,8 +17754,8 @@
               "parliament": "sachsen",
               "slug": "valentin-lippmann",
               "label": "Valentin Lippmann",
-              "count": 159,
-              "updatedAt": "2026-10-27T00:00:00.000Z",
+              "count": 161,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/valentin-lippmann/rss.xml"
             },
             {
@@ -17772,8 +17772,8 @@
               "parliament": "sachsen",
               "slug": "volker-dringenberg",
               "label": "Volker Dringenberg",
-              "count": 117,
-              "updatedAt": "2026-10-09T00:00:00.000Z",
+              "count": 118,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/personen/volker-dringenberg/rss.xml"
             },
             {
@@ -17891,8 +17891,8 @@
               "parliament": "sachsen",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 3610,
-              "updatedAt": "2026-11-12T00:00:00.000Z",
+              "count": 3612,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/afd/rss.xml"
             },
             {
@@ -17900,8 +17900,8 @@
               "parliament": "sachsen",
               "slug": "bsw",
               "label": "Fraktion BSW",
-              "count": 915,
-              "updatedAt": "2026-11-11T00:00:00.000Z",
+              "count": 917,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/bsw/rss.xml"
             },
             {
@@ -17909,8 +17909,8 @@
               "parliament": "sachsen",
               "slug": "bundnisgruene",
               "label": "Fraktion BÜNDNISGRÜNE",
-              "count": 999,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 1001,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/bundnisgruene/rss.xml"
             },
             {
@@ -17918,8 +17918,8 @@
               "parliament": "sachsen",
               "slug": "cdu",
               "label": "Fraktion CDU",
-              "count": 507,
-              "updatedAt": "2026-10-26T00:00:00.000Z",
+              "count": 508,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/cdu/rss.xml"
             },
             {
@@ -17945,8 +17945,8 @@
               "parliament": "sachsen",
               "slug": "spd",
               "label": "Fraktion SPD",
-              "count": 228,
-              "updatedAt": "2026-10-26T00:00:00.000Z",
+              "count": 229,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/sachsen/wp-8/fraktion/spd/rss.xml"
             }
           ]
@@ -20130,8 +20130,8 @@
               "parliament": "hessen",
               "slug": "andreas-ewald",
               "label": "Andreas Ewald",
-              "count": 10,
-              "updatedAt": "2026-11-09T00:00:00.000Z",
+              "count": 11,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/andreas-ewald/rss.xml"
             },
             {
@@ -20715,8 +20715,8 @@
               "parliament": "hessen",
               "slug": "katrin-schleenbecker",
               "label": "Katrin Schleenbecker",
-              "count": 9,
-              "updatedAt": "2026-11-04T00:00:00.000Z",
+              "count": 10,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/katrin-schleenbecker/rss.xml"
             },
             {
@@ -20724,8 +20724,8 @@
               "parliament": "hessen",
               "slug": "katy-walther",
               "label": "Katy Walther",
-              "count": 20,
-              "updatedAt": "2026-11-09T00:00:00.000Z",
+              "count": 21,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/katy-walther/rss.xml"
             },
             {
@@ -20733,8 +20733,8 @@
               "parliament": "hessen",
               "slug": "kaya-kinkel",
               "label": "Kaya Kinkel",
-              "count": 37,
-              "updatedAt": "2026-11-09T00:00:00.000Z",
+              "count": 38,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/kaya-kinkel/rss.xml"
             },
             {
@@ -20769,8 +20769,8 @@
               "parliament": "hessen",
               "slug": "lara-klaes",
               "label": "Lara Klaes",
-              "count": 30,
-              "updatedAt": "2026-11-04T00:00:00.000Z",
+              "count": 31,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/lara-klaes/rss.xml"
             },
             {
@@ -20994,8 +20994,8 @@
               "parliament": "hessen",
               "slug": "miriam-dahlke",
               "label": "Miriam Dahlke",
-              "count": 14,
-              "updatedAt": "2026-11-09T00:00:00.000Z",
+              "count": 15,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/miriam-dahlke/rss.xml"
             },
             {
@@ -21003,8 +21003,8 @@
               "parliament": "hessen",
               "slug": "mirjam-glanz",
               "label": "Mirjam Glanz",
-              "count": 20,
-              "updatedAt": "2026-10-26T00:00:00.000Z",
+              "count": 21,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/mirjam-glanz/rss.xml"
             },
             {
@@ -21030,8 +21030,8 @@
               "parliament": "hessen",
               "slug": "nina-eisenhardt",
               "label": "Nina Eisenhardt",
-              "count": 20,
-              "updatedAt": "2026-10-28T00:00:00.000Z",
+              "count": 24,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/nina-eisenhardt/rss.xml"
             },
             {
@@ -21210,8 +21210,8 @@
               "parliament": "hessen",
               "slug": "sascha-meier",
               "label": "Sascha Meier",
-              "count": 32,
-              "updatedAt": "2026-11-09T00:00:00.000Z",
+              "count": 33,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/sascha-meier/rss.xml"
             },
             {
@@ -21363,8 +21363,8 @@
               "parliament": "hessen",
               "slug": "vanessa-gronemann",
               "label": "Vanessa Gronemann",
-              "count": 48,
-              "updatedAt": "2026-11-09T00:00:00.000Z",
+              "count": 49,
+              "updatedAt": "2026-11-12T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/personen/vanessa-gronemann/rss.xml"
             },
             {
@@ -21410,8 +21410,8 @@
               "parliament": "hessen",
               "slug": "bundnis-90-die-gruenen",
               "label": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-              "count": 213,
-              "updatedAt": "2026-11-10T00:00:00.000Z",
+              "count": 221,
+              "updatedAt": "2026-11-13T00:00:00.000Z",
               "rssUrl": "wiki/hessen/wp-21/fraktion/bundnis-90-die-gruenen/rss.xml"
             },
             {
@@ -21504,8 +21504,8 @@
               "parliament": "berlin",
               "slug": "alexander-freier-winterwerb",
               "label": "Alexander Freier-Winterwerb",
-              "count": 4,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 7,
+              "updatedAt": "2026-10-08T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/alexander-freier-winterwerb/rss.xml"
             },
             {
@@ -21513,8 +21513,8 @@
               "parliament": "berlin",
               "slug": "alexander-herrmann",
               "label": "Alexander Herrmann",
-              "count": 36,
-              "updatedAt": "2022-04-12T00:00:00.000Z",
+              "count": 37,
+              "updatedAt": "2026-10-02T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/alexander-herrmann/rss.xml"
             },
             {
@@ -21612,8 +21612,8 @@
               "parliament": "berlin",
               "slug": "ariturel-hack",
               "label": "Ariturel Hack",
-              "count": 12,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 13,
+              "updatedAt": "2026-10-16T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/ariturel-hack/rss.xml"
             },
             {
@@ -21783,8 +21783,8 @@
               "parliament": "berlin",
               "slug": "christopher-forster",
               "label": "Christopher Förster",
-              "count": 11,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 12,
+              "updatedAt": "2026-10-06T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/christopher-forster/rss.xml"
             },
             {
@@ -21846,8 +21846,8 @@
               "parliament": "berlin",
               "slug": "danny-freymark",
               "label": "Danny Freymark",
-              "count": 105,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 108,
+              "updatedAt": "2026-10-15T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/danny-freymark/rss.xml"
             },
             {
@@ -21918,8 +21918,8 @@
               "parliament": "berlin",
               "slug": "dr-kristin-brinker",
               "label": "Dr. Kristin Brinker",
-              "count": 26,
-              "updatedAt": "2022-04-11T00:00:00.000Z",
+              "count": 29,
+              "updatedAt": "2026-10-06T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/dr-kristin-brinker/rss.xml"
             },
             {
@@ -21939,6 +21939,15 @@
               "count": 16,
               "updatedAt": "2022-04-04T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/dr-maren-jasper-winter/rss.xml"
+            },
+            {
+              "kind": "person",
+              "parliament": "berlin",
+              "slug": "dr-michael-efler",
+              "label": "Dr. Michael Efler",
+              "count": 2,
+              "updatedAt": "2026-10-05T00:00:00.000Z",
+              "rssUrl": "wiki/berlin/wp-19/personen/dr-michael-efler/rss.xml"
             },
             {
               "kind": "person",
@@ -22242,8 +22251,8 @@
               "parliament": "berlin",
               "slug": "johannes-kraft",
               "label": "Johannes Kraft",
-              "count": 45,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 49,
+              "updatedAt": "2026-10-20T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/johannes-kraft/rss.xml"
             },
             {
@@ -22341,8 +22350,8 @@
               "parliament": "berlin",
               "slug": "katharina-senge",
               "label": "Katharina Senge",
-              "count": 4,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 6,
+              "updatedAt": "2026-10-07T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/katharina-senge/rss.xml"
             },
             {
@@ -22404,8 +22413,8 @@
               "parliament": "berlin",
               "slug": "kristian-ronneburg",
               "label": "Kristian Ronneburg",
-              "count": 71,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 74,
+              "updatedAt": "2026-10-08T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/kristian-ronneburg/rss.xml"
             },
             {
@@ -22539,8 +22548,8 @@
               "parliament": "berlin",
               "slug": "marc-vallendar",
               "label": "Marc Vallendar",
-              "count": 19,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 20,
+              "updatedAt": "2026-10-06T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/marc-vallendar/rss.xml"
             },
             {
@@ -22611,8 +22620,8 @@
               "parliament": "berlin",
               "slug": "martin-trefzer",
               "label": "Martin Trefzer",
-              "count": 16,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 20,
+              "updatedAt": "2026-10-07T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/martin-trefzer/rss.xml"
             },
             {
@@ -22701,8 +22710,8 @@
               "parliament": "berlin",
               "slug": "niklas-schenker",
               "label": "Niklas Schenker",
-              "count": 24,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 27,
+              "updatedAt": "2026-10-15T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/niklas-schenker/rss.xml"
             },
             {
@@ -22710,8 +22719,8 @@
               "parliament": "berlin",
               "slug": "niklas-schrader",
               "label": "Niklas Schrader",
-              "count": 38,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 39,
+              "updatedAt": "2026-10-08T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/niklas-schrader/rss.xml"
             },
             {
@@ -22764,7 +22773,7 @@
               "parliament": "berlin",
               "slug": "orkan-ozdemir",
               "label": "Orkan Özdemir",
-              "count": 12,
+              "count": 14,
               "updatedAt": "2026-07-02T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/orkan-ozdemir/rss.xml"
             },
@@ -22809,8 +22818,8 @@
               "parliament": "berlin",
               "slug": "prof-dr-martin-patzold",
               "label": "Prof. Dr. Martin Pätzold",
-              "count": 120,
-              "updatedAt": "2022-04-06T00:00:00.000Z",
+              "count": 129,
+              "updatedAt": "2026-10-05T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/prof-dr-martin-patzold/rss.xml"
             },
             {
@@ -22917,7 +22926,7 @@
               "parliament": "berlin",
               "slug": "sandra-khalatbari",
               "label": "Sandra Khalatbari",
-              "count": 19,
+              "count": 20,
               "updatedAt": "2026-07-02T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/sandra-khalatbari/rss.xml"
             },
@@ -23133,8 +23142,8 @@
               "parliament": "berlin",
               "slug": "sven-meyer",
               "label": "Sven Meyer",
-              "count": 5,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 6,
+              "updatedAt": "2026-08-27T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/sven-meyer/rss.xml"
             },
             {
@@ -23169,8 +23178,8 @@
               "parliament": "berlin",
               "slug": "thorsten-weiss",
               "label": "Thorsten Weiß",
-              "count": 27,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 28,
+              "updatedAt": "2026-10-05T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/thorsten-weiss/rss.xml"
             },
             {
@@ -23205,8 +23214,8 @@
               "parliament": "berlin",
               "slug": "tobias-schulze",
               "label": "Tobias Schulze",
-              "count": 16,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 17,
+              "updatedAt": "2026-10-12T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/personen/tobias-schulze/rss.xml"
             },
             {
@@ -23324,8 +23333,8 @@
               "parliament": "berlin",
               "slug": "afd",
               "label": "Fraktion AfD",
-              "count": 354,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 383,
+              "updatedAt": "2026-10-07T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/fraktion/afd/rss.xml"
             },
             {
@@ -23342,8 +23351,8 @@
               "parliament": "berlin",
               "slug": "cdu",
               "label": "Fraktion CDU",
-              "count": 626,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 660,
+              "updatedAt": "2026-10-20T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/fraktion/cdu/rss.xml"
             },
             {
@@ -23351,8 +23360,8 @@
               "parliament": "berlin",
               "slug": "die-linke",
               "label": "Fraktion Die Linke",
-              "count": 236,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 262,
+              "updatedAt": "2026-10-15T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/fraktion/die-linke/rss.xml"
             },
             {
@@ -23378,8 +23387,8 @@
               "parliament": "berlin",
               "slug": "spd",
               "label": "Fraktion SPD",
-              "count": 153,
-              "updatedAt": "2026-07-02T00:00:00.000Z",
+              "count": 174,
+              "updatedAt": "2026-10-08T00:00:00.000Z",
               "rssUrl": "wiki/berlin/wp-19/fraktion/spd/rss.xml"
             }
           ]

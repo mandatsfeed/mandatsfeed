@@ -1,0 +1,22 @@
+{
+  "id": "starweb-be-drs-19-0973",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "antrag",
+  "title": "Einsetzung von weiteren Ausschüssen",
+  "date": "2023-05-09",
+  "drsNr": "19/0973",
+  "persons": [],
+  "fraktionen": [
+    "spd",
+    "cdu",
+    "afd",
+    "die-linke"
+  ],
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-0973.pdf",
+    "filename": "d19-0973.pdf"
+  },
+  "urheber": "CDU , SPD , Grüne , Die Linke , AfD"
+}

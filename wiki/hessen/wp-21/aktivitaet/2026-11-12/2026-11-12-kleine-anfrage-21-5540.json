@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-5540",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Störungen von und Angriffe auf Christopher-Street-Days (CSDs) in Hessen 2026",
+  "date": "2026-11-12",
+  "drsNr": "21/5540",
+  "persons": [
+    {
+      "slug": "andreas-ewald",
+      "name": "Andreas Ewald",
+      "name_padoka": "Ewald, Andreas",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "vanessa-gronemann",
+      "name": "Vanessa Gronemann",
+      "name_padoka": "Gronemann, Vanessa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/0/05540.pdf",
+    "filename": "05540.pdf"
+  }
+}

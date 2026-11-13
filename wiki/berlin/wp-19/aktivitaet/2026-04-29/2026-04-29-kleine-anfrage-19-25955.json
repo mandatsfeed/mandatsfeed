@@ -1,0 +1,34 @@
+{
+  "id": "starweb-be-ka-19-25955",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Unterstützung von Genossenschaften beim Wohnungsbau",
+  "date": "2026-04-29",
+  "drsNr": "19/25955",
+  "persons": [
+    {
+      "slug": "kristian-ronneburg",
+      "name": "Kristian Ronneburg",
+      "name_padoka": "Ronneburg, Kristian",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    },
+    {
+      "slug": "niklas-schenker",
+      "name": "Niklas Schenker",
+      "name_padoka": "Schenker, Niklas",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25955.pdf",
+    "filename": "S19-25955.pdf"
+  }
+}

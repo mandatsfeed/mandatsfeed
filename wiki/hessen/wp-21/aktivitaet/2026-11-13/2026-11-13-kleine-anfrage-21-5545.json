@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-5545",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Hessische Unterstützung der Arbeitsstelle Kleine Fächer an der Johannes Guten-berg-Universität Mainz",
+  "date": "2026-11-13",
+  "drsNr": "21/5545",
+  "persons": [
+    {
+      "slug": "nina-eisenhardt",
+      "name": "Nina Eisenhardt",
+      "name_padoka": "Eisenhardt, Nina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/05545.pdf",
+    "filename": "05545.pdf"
+  }
+}

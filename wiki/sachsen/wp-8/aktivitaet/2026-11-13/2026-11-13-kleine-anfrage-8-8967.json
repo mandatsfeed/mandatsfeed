@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8967",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Massive Abflüsse personenbezogener Daten bei sächsischen Notrufdiensten",
+  "date": "2026-11-13",
+  "drsNr": "8/8967",
+  "persons": [
+    {
+      "slug": "valentin-lippmann",
+      "name": "Valentin Lippmann",
+      "name_padoka": "Lippmann, Valentin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNISGRÜNE"
+    }
+  ],
+  "fraktionen": [
+    "bundnisgruene"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=55025",
+    "filename": "Drs_8_8967_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

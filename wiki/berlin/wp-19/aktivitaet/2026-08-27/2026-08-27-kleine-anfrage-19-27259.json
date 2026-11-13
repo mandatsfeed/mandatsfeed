@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-27259",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Rechte kennen, Beratung stärken - wie unterstützt Berlin Auszubildende bei Problemen in der Ausbildung?",
+  "date": "2026-08-27",
+  "drsNr": "19/27259",
+  "persons": [
+    {
+      "slug": "sven-meyer",
+      "name": "Sven Meyer",
+      "name_padoka": "Meyer, Sven",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-27259.pdf",
+    "filename": "S19-27259.pdf"
+  }
+}

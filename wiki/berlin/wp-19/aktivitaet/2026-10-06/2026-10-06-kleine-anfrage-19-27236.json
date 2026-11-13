@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-27236",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Clanchef und PFLP-Umfeld auf Wahlparty der Linken Neukölln am 20. September 2026 im Ballhaus Rixdorf: Was wissen Senat undSicherheitsbehörden?",
+  "date": "2026-10-06",
+  "drsNr": "19/27236",
+  "persons": [
+    {
+      "slug": "dr-kristin-brinker",
+      "name": "Dr. Kristin Brinker",
+      "name_padoka": "Brinker, Dr. Kristin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-27236.pdf",
+    "filename": "S19-27236.pdf"
+  }
+}

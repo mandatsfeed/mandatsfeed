@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-27262",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Straßenstrich, Drogenkonsum und Kriminalitätsbelastung im Umfeld der Kurfürstenstraße (Teil 3)",
+  "date": "2026-10-07",
+  "drsNr": "19/27262",
+  "persons": [
+    {
+      "slug": "katharina-senge",
+      "name": "Katharina Senge",
+      "name_padoka": "Senge, Katharina",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-27262.pdf",
+    "filename": "S19-27262.pdf"
+  }
+}

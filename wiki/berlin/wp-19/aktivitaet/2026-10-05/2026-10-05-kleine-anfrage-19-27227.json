@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-27227",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Kurzfristige Änderung der Buslinienführung und Haltestellensituation in der Siedlung Wartenberg",
+  "date": "2026-10-05",
+  "drsNr": "19/27227",
+  "persons": [
+    {
+      "slug": "danny-freymark",
+      "name": "Danny Freymark",
+      "name_padoka": "Freymark, Danny",
+      "role": "fragesteller",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-27227.pdf",
+    "filename": "S19-27227.pdf"
+  }
+}

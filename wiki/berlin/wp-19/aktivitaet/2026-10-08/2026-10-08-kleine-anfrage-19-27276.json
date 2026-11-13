@@ -1,0 +1,34 @@
+{
+  "id": "starweb-be-ka-19-27276",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Stand der Bauprojekte der Cosimo in Marzahn-Hellersdorf: \"Heller 78\" und Pilgramer Straße 304",
+  "date": "2026-10-08",
+  "drsNr": "19/27276",
+  "persons": [
+    {
+      "slug": "kristian-ronneburg",
+      "name": "Kristian Ronneburg",
+      "name_padoka": "Ronneburg, Kristian",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    },
+    {
+      "slug": "niklas-schrader",
+      "name": "Niklas Schrader",
+      "name_padoka": "Schrader, Niklas",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-27276.pdf",
+    "filename": "S19-27276.pdf"
+  }
+}

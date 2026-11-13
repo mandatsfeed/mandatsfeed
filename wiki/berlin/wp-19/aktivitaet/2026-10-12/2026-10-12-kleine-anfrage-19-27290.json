@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-27290",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Du sollst nicht falsch Zeugnis ablegen: Ausstellungszeiten von Abschlusszeugnissen an Berliner Hochschulen",
+  "date": "2026-10-12",
+  "drsNr": "19/27290",
+  "persons": [
+    {
+      "slug": "tobias-schulze",
+      "name": "Tobias Schulze",
+      "name_padoka": "Schulze, Tobias",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-27290.pdf",
+    "filename": "S19-27290.pdf"
+  }
+}

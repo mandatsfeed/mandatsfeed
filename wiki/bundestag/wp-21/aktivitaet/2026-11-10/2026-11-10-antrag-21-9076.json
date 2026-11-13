@@ -1,0 +1,110 @@
+{
+  "id": "dip-drs-21-9076",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Zehn Jahre Friedensabkommen in Kolumbien - Zusammenarbeit fortsetzen, Frieden und Menschenrechte stärken",
+  "date": "2026-11-10",
+  "persons": [
+    {
+      "slug": "luise-amtsberg",
+      "name": "Luise Amtsberg",
+      "name_padoka": "Amtsberg, Luise",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "claudia-roth",
+      "name": "Claudia Roth",
+      "name_padoka": "Roth, Claudia",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lamya-kaddor",
+      "name": "Lamya Kaddor",
+      "name_padoka": "Kaddor, Lamya",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "awet-tesfaiesus",
+      "name": "Awet Tesfaiesus",
+      "name_padoka": "Tesfaiesus, Awet",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "max-lucks",
+      "name": "Max Lucks",
+      "name_padoka": "Lucks, Max",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "schahina-gambir",
+      "name": "Schahina Gambir",
+      "name_padoka": "Gambir, Schahina",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "jamila-schafer",
+      "name": "Jamila Schäfer",
+      "name_padoka": "Schäfer, Jamila",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "ulle-schauws",
+      "name": "Ulle Schauws",
+      "name_padoka": "Schauws, Ulle",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "robin-wagener",
+      "name": "Robin Wagener",
+      "name_padoka": "Wagener, Robin",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "omid-nouripour",
+      "name": "Omid Nouripour",
+      "name_padoka": "Nouripour, Omid",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "boris-mijatovic",
+      "name": "Boris Mijatović",
+      "name_padoka": "Mijatović, Boris",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "agnieszka-brugger",
+      "name": "Agnieszka Brugger",
+      "name_padoka": "Brugger, Agnieszka",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "deborah-during",
+      "name": "Deborah Düring",
+      "name_padoka": "Düring, Deborah",
+      "role": "antragsteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/9076",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/090/2109076.pdf",
+    "filename": "2109076.pdf"
+  }
+}

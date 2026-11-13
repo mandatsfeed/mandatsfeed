@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110716400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Sparmaßnahmen auch im Bundestag selbst umsetzen – Keine verzichtbaren und teuren Neubaumaßnahmen anstoßen",
+  "date": "2026-11-11",
+  "persons": [
+    {
+      "slug": "jan-metzler",
+      "name": "Jan Metzler",
+      "name_padoka": "Metzler, Jan",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/107",
+    "date": "2026-11-11",
+    "page": 13601
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21107.pdf"
+  }
+}

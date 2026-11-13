@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-27287",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Personalsituation und Arbeitsbelastung in den Berliner Jugendämtern",
+  "date": "2026-10-08",
+  "drsNr": "19/27287",
+  "persons": [
+    {
+      "slug": "alexander-freier-winterwerb",
+      "name": "Alexander Freier-Winterwerb",
+      "name_padoka": "Freier-Winterwerb, Alexander",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-27287.pdf",
+    "filename": "S19-27287.pdf"
+  }
+}

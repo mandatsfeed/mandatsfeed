@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-27263",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Hochhaus im Rudolfkiez: Fakten schaffen nach der Wahl zum Abgeordnetenhaus?",
+  "date": "2026-10-05",
+  "drsNr": "19/27263",
+  "persons": [
+    {
+      "slug": "dr-michael-efler",
+      "name": "Dr. Michael Efler",
+      "name_padoka": "Efler, Dr. Michael",
+      "role": "fragesteller",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-27263.pdf",
+    "filename": "S19-27263.pdf"
+  }
+}

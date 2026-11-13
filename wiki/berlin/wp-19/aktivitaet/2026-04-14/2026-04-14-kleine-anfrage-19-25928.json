@@ -1,0 +1,27 @@
+{
+  "id": "starweb-be-ka-19-25928",
+  "source": "starweb",
+  "parliament": "berlin",
+  "wp": 19,
+  "type": "kleine_anfrage",
+  "title": "Halbe Sache statt Kinderschutz: Tempo 30 endet vor dem Breslauer Platz",
+  "date": "2026-04-14",
+  "drsNr": "19/25928",
+  "persons": [
+    {
+      "slug": "orkan-ozdemir",
+      "name": "Orkan Özdemir",
+      "name_padoka": "Özdemir, Orkan",
+      "role": "fragesteller",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "subtype": "Schriftliche Anfrage",
+  "document": {
+    "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-25928.pdf",
+    "filename": "S19-25928.pdf"
+  }
+}
