@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8970",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Staatliche Unterstützung der Drohnen- und Rüstungskooperationen",
+  "date": "2026-11-13",
+  "drsNr": "8/8970",
+  "persons": [
+    {
+      "slug": "nico-rudolph",
+      "name": "Nico Rudolph",
+      "name_padoka": "Rudolph, Nico",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=55047",
+    "filename": "Drs_8_8970_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
