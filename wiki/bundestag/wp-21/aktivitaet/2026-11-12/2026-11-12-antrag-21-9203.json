@@ -1,0 +1,40 @@
+{
+  "id": "dip-drs-21-9203",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Entgelttransparenz und Eigenständigkeit von Menschen mit Behinderung stärken - Werkstaatentgelte weiterentwickeln",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "jan-feser",
+      "name": "Jan Feser",
+      "name_padoka": "Feser, Jan",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "peter-bohnhof",
+      "name": "Peter Bohnhof",
+      "name_padoka": "Bohnhof, Peter",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "rene-springer",
+      "name": "René Springer",
+      "name_padoka": "Springer, René",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/9203",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/092/2109203.pdf",
+    "filename": "2109203.pdf"
+  }
+}
