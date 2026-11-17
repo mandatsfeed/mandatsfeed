@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110802000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus — Insolvenzwelle stoppen – Deutsche Wirtschaft stärken",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "klaus-wiener",
+      "name": "Klaus Wiener",
+      "name_padoka": "Wiener, Klaus",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

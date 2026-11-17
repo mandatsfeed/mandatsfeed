@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110813700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "500-Millionen-Steuer – Extremvermögen fairer beteiligen",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "christian-gorke",
+      "name": "Christian Görke",
+      "name_padoka": "Görke, Christian",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

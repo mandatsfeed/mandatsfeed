@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110905200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "KI-Sicherheit stärken – Risiken leistungsfähiger KI-Systeme wirksam begrenzen",
+  "date": "2026-11-13",
+  "persons": [
+    {
+      "slug": "robin-junger",
+      "name": "Robin Jünger",
+      "name_padoka": "Jünger, Robin",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/109",
+    "date": "2026-11-13",
+    "page": 13889
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+  }
+}

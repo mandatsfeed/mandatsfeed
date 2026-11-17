@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110801900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Stopp der Deindustrialisierung – Beendigung des European Green Deal und des EU-Zentralismus — Insolvenzwelle stoppen – Deutsche Wirtschaft stärken",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "mirze-edis",
+      "name": "Mirze Edis",
+      "name_padoka": "Edis, Mirze",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

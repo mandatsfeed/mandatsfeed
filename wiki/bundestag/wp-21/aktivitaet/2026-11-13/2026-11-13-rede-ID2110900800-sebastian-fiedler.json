@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110900800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 26",
+  "date": "2026-11-13",
+  "persons": [
+    {
+      "slug": "sebastian-fiedler",
+      "name": "Sebastian Fiedler",
+      "name_padoka": "Fiedler, Sebastian",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/109",
+    "date": "2026-11-13",
+    "page": 13889
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110801400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 5",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "ralph-edelhausser",
+      "name": "Ralph Edelhäußer",
+      "name_padoka": "Edelhäußer, Ralph",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

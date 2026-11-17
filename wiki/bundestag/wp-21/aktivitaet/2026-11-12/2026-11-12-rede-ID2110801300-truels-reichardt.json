@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110801300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 5",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "truels-reichardt",
+      "name": "Truels Reichardt",
+      "name_padoka": "Reichardt, Truels",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

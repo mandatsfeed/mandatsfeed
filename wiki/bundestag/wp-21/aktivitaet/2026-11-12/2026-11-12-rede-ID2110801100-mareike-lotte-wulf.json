@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110801100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 5",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "mareike-lotte-wulf",
+      "name": "Mareike Lotte Wulf",
+      "name_padoka": "Wulf, Mareike Lotte",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Parl. Staatssekretärin bei der Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

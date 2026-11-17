@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110902600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Bundesweiter Mietendeckel jetzt",
+  "date": "2026-11-13",
+  "persons": [
+    {
+      "slug": "caren-lay",
+      "name": "Caren Lay",
+      "name_padoka": "Lay, Caren",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/109",
+    "date": "2026-11-13",
+    "page": 13889
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+  }
+}

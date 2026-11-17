@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110804400",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Finanzkriminalität bekämpfen – Geldwäsche und organisierte Steuerhinterziehung effektiv verhindern — Zollreform erweitern – Organisierte Steuerkriminalität wirksam verfolgen und eingezogenes Vermögen der Gesellschaft zurückgeben",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "heiko-hain",
+      "name": "Heiko Hain",
+      "name_padoka": "Hain, Heiko",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

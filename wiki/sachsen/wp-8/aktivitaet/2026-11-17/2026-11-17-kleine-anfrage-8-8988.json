@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8988",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Landesunterstützung für die Plauener Straßenbahn und Gleichbehandlung der ehemaligen kreisfreien Städte",
+  "date": "2026-11-17",
+  "drsNr": "8/8988",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=55076",
+    "filename": "Drs_8_8988_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

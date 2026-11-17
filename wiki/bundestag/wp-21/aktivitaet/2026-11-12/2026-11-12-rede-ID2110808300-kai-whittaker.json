@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110808300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "EU-Armutsmigration sofort stoppen – Zugang zu deutschen Sozialleistungen massiv erschweren",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "kai-whittaker",
+      "name": "Kai Whittaker",
+      "name_padoka": "Whittaker, Kai",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

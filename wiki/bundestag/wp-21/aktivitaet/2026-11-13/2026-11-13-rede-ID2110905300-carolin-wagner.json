@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110905300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "KI-Sicherheit stärken – Risiken leistungsfähiger KI-Systeme wirksam begrenzen",
+  "date": "2026-11-13",
+  "persons": [
+    {
+      "slug": "carolin-wagner",
+      "name": "Carolin Wagner",
+      "name_padoka": "Wagner, Carolin",
+      "role": "redner",
+      "fraktion": "SPD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/109",
+    "date": "2026-11-13",
+    "page": 13889
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+  }
+}

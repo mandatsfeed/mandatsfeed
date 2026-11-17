@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110810200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gerechtigkeit beim Unterhaltsvorschuss herstellen – Hälftige Anrechnung des Kindergeldes umsetzen — Unterhaltsvorschuss reformieren – Chancen für Kinder Alleinerziehender verbessern",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "mareike-hermeier",
+      "name": "Mareike Hermeier",
+      "name_padoka": "Hermeier, Mareike",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

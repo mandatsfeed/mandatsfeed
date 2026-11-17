@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110807700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gegen die Einführung von Hackbacks und offensiver Cyberabwehr",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "jan-krampe",
+      "name": "Jan Krampe",
+      "name_padoka": "Krampe, Jan",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110904300",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 15",
+  "date": "2026-11-13",
+  "persons": [
+    {
+      "slug": "torben-braga",
+      "name": "Torben Braga",
+      "name_padoka": "Braga, Torben",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/109",
+    "date": "2026-11-13",
+    "page": 13889
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+  }
+}

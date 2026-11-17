@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2110809700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUNAVFOR MED IRINI — EUNAVFOR MED IRINI stoppen – Seenotrettung stärken",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "falko-drossmann",
+      "name": "Falko Droßmann",
+      "name_padoka": "Droßmann, Falko",
+      "role": "redner",
+      "fraktion": "SPD"
+    }
+  ],
+  "fraktionen": [
+    "spd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

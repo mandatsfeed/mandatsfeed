@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-5561",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Aktivitäten der Gemeinschaft Shincheonji in Hessen – Anwerbestrategien, Social Media und mögliche Einflussnahme auf junge Menschen",
+  "date": "2026-11-17",
+  "drsNr": "21/5561",
+  "persons": [
+    {
+      "slug": "lara-klaes",
+      "name": "Lara Klaes",
+      "name_padoka": "Klaes, Lara",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "julia-herz",
+      "name": "Julia Herz",
+      "name_padoka": "Herz, Julia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "miriam-dahlke",
+      "name": "Miriam Dahlke",
+      "name_padoka": "Dahlke, Miriam",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/1/05561.pdf",
+    "filename": "05561.pdf"
+  }
+}

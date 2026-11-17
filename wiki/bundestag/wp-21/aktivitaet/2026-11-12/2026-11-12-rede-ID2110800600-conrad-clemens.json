@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110800600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt 5",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "conrad-clemens",
+      "name": "Conrad Clemens",
+      "name_padoka": "Clemens, Conrad",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsminister (Sachsen)"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}

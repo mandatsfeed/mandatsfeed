@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>mandatsfeed · Conrad Clemens (Deutscher Bundestag, WP-21)</title>
+    <link>https://dip.bundestag.de/</link>
+    <description>Aufbereitung durch mandatsfeed. Die Daten stehen in DIP unter dip.bundestag.de kostenfrei zur Verfügung. Quelle: Deutscher Bundestag/Bundesrat – DIP. Ohne Gewähr für Richtigkeit.</description>
+    <language>de</language>
+    <item>
+      <guid isPermaLink="false">dip-rede-ID2110800600</guid>
+      <title>Tagesordnungspunkt 5</title>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <link>https://dserver.bundestag.de/btp/21/21108.pdf</link>
+      <description>Rede · Sprecher:in: Conrad Clemens (Bundesregierung) · Plenarprotokoll 21/108, S. 13778</description>
+    </item>
+  </channel>
+</rss>

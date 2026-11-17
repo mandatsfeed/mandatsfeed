@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2110812900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Gute Arbeit auf dem Campus – Maßnahmenpaket für wissenschaftliche Karriereperspektiven vorlegen und Generationenwechsel als Reformchance nutzen — Sonderbefristungsrecht für die Wissenschaft abschaffen",
+  "date": "2026-11-12",
+  "persons": [
+    {
+      "slug": "ingo-hahn",
+      "name": "Ingo Hahn",
+      "name_padoka": "Hahn, Ingo",
+      "role": "redner",
+      "fraktion": "AfD",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/108",
+    "date": "2026-11-12",
+    "page": 13778
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+  }
+}
