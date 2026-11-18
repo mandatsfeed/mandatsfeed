@@ -1,0 +1,56 @@
+{
+  "id": "dip-ka-21-9253",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Überprüfung des Kohleausstiegs, Versorgungssicherheit und Ersatzkapazitäten",
+  "date": "2026-11-17",
+  "persons": [
+    {
+      "slug": "raimond-scheirich",
+      "name": "Raimond Scheirich",
+      "name_padoka": "Scheirich, Raimond",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "adam-balten",
+      "name": "Adam Balten",
+      "name_padoka": "Balten, Adam",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "andreas-mayer",
+      "name": "Andreas Mayer",
+      "name_padoka": "Mayer, Andreas",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-schattner",
+      "name": "Bernd Schattner",
+      "name_padoka": "Schattner, Bernd",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/9253",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/092/2109253.pdf",
+    "filename": "2109253.pdf"
+  }
+}

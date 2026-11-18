@@ -1,0 +1,26 @@
+{
+  "id": "starweb-he-ka-21-5565",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Budgetaufwuchs für die Hochschulen im Jahr 2027",
+  "date": "2026-11-18",
+  "drsNr": "21/5565",
+  "persons": [
+    {
+      "slug": "nina-eisenhardt",
+      "name": "Nina Eisenhardt",
+      "name_padoka": "Eisenhardt, Nina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/5/05565.pdf",
+    "filename": "05565.pdf"
+  }
+}

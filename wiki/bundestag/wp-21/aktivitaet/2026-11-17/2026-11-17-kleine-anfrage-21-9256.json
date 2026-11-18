@@ -1,0 +1,77 @@
+{
+  "id": "dip-ka-21-9256",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Zustand, Verwaltung und Sanierung der beschlagnahmten \"Blauen Moschee\" (Islamisches Zentrum Hamburg e.V.) - Umfang der Kosten für den Bund und die Steuerzahler",
+  "date": "2026-11-17",
+  "persons": [
+    {
+      "slug": "uwe-schulz",
+      "name": "Uwe Schulz",
+      "name_padoka": "Schulz, Uwe",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "martin-hess",
+      "name": "Martin Hess",
+      "name_padoka": "Hess, Martin",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "bernd-baumann",
+      "name": "Bernd Baumann",
+      "name_padoka": "Baumann, Bernd",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "stefan-keuter",
+      "name": "Stefan Keuter",
+      "name_padoka": "Keuter, Stefan",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "heinrich-koch",
+      "name": "Heinrich Koch",
+      "name_padoka": "Koch, Heinrich",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "tobias-matthias-peterka",
+      "name": "Tobias Matthias Peterka",
+      "name_padoka": "Peterka, Tobias Matthias",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "malte-kaufmann",
+      "name": "Malte Kaufmann",
+      "name_padoka": "Kaufmann, Malte",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "alexander-wolf",
+      "name": "Alexander Wolf",
+      "name_padoka": "Wolf, Alexander",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/9256",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/092/2109256.pdf",
+    "filename": "2109256.pdf"
+  }
+}
