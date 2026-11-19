@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8999",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Vorwürfe zur Jagdpraxis im Staatsbetrieb Sachsenforst und Umgang mit entsprechenden Hinweisen",
+  "date": "2026-11-19",
+  "drsNr": "8/8999",
+  "persons": [
+    {
+      "slug": "jens-hentschel-thoricht",
+      "name": "Jens Hentschel-Thöricht",
+      "name_padoka": "Hentschel-Thöricht, Jens",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=55111",
+    "filename": "Drs_8_8999_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

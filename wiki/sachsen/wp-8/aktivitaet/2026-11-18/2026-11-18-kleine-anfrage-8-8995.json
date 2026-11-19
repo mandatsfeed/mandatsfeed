@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-8995",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Datenlage zu Verdachtsfällen des Abrechnungsbetrugs bei ambulanten Pflegediensten in Sachsen - Nachfrage zur Drs. 8/8465",
+  "date": "2026-11-18",
+  "drsNr": "8/8995",
+  "persons": [
+    {
+      "slug": "ronny-kupke",
+      "name": "Ronny Kupke",
+      "name_padoka": "Kupke, Ronny",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=55105",
+    "filename": "Drs_8_8995_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}
