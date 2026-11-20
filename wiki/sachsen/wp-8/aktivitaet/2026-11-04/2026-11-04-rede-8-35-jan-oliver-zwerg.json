@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-35-jan-oliver-zwerg",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "16 Redebeiträge in 35. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-11-04",
+  "persons": [
+    {
+      "slug": "jan-oliver-zwerg",
+      "name": "Jan-Oliver Zwerg",
+      "name_padoka": "Zwerg, Jan-Oliver",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/35",
+    "date": "2026-11-04"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=55179"
+  }
+}

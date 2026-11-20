@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-35-ines-biebrach",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "5 Redebeiträge in 35. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-11-04",
+  "persons": [
+    {
+      "slug": "ines-biebrach",
+      "name": "Ines Biebrach",
+      "name_padoka": "Biebrach, Ines",
+      "role": "redner",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/35",
+    "date": "2026-11-04"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=55179"
+  }
+}
