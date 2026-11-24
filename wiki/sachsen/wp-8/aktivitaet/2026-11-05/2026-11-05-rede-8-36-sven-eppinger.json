@@ -1,0 +1,28 @@
+{
+  "id": "edas-rede-8-36-sven-eppinger",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "rede",
+  "title": "3 Redebeiträge in 36. Sitzung 8. Sächsischer Landtag",
+  "date": "2026-11-05",
+  "persons": [
+    {
+      "slug": "sven-eppinger",
+      "name": "Sven Eppinger",
+      "name_padoka": "Eppinger, Sven",
+      "role": "redner",
+      "fraktion": "CDU"
+    }
+  ],
+  "fraktionen": [
+    "cdu"
+  ],
+  "plenarprotokoll": {
+    "nr": "8/36",
+    "date": "2026-11-05"
+  },
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download/file?datei_id=55323"
+  }
+}
