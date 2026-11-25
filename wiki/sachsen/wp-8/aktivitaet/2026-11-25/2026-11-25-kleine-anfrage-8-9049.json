@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-9049",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Kosten- und Besucherentwicklung der Veranstaltungen der Sächsische Agentur für Strukturentwicklung GmbH (SAS)",
+  "date": "2026-11-25",
+  "drsNr": "8/9049",
+  "persons": [
+    {
+      "slug": "roberto-kuhnert",
+      "name": "Roberto Kuhnert",
+      "name_padoka": "Kuhnert, Roberto",
+      "role": "fragesteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=55353",
+    "filename": "Drs_8_9049_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

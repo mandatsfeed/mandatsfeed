@@ -1,0 +1,61 @@
+{
+  "id": "dip-drs-21-9362",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "antrag",
+  "title": "Mitgliedschaft in der Weltorganisation für Tourismus beenden - Nationale Gestaltungsspielräume in der Tourismuspolitik stärken",
+  "date": "2026-11-23",
+  "persons": [
+    {
+      "slug": "dario-seifert",
+      "name": "Dario Seifert",
+      "name_padoka": "Seifert, Dario",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "manfred-schiller",
+      "name": "Manfred Schiller",
+      "name_padoka": "Schiller, Manfred",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "thomas-stephan",
+      "name": "Thomas Stephan",
+      "name_padoka": "Stephan, Thomas",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "marcel-queckemeyer",
+      "name": "Marcel Queckemeyer",
+      "name_padoka": "Queckemeyer, Marcel",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "sebastian-munzenmaier",
+      "name": "Sebastian Münzenmaier",
+      "name_padoka": "Münzenmaier, Sebastian",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    },
+    {
+      "slug": "erhard-brucker",
+      "name": "Erhard Brucker",
+      "name_padoka": "Brucker, Erhard",
+      "role": "antragsteller",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "drsNr": "21/9362",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/093/2109362.pdf",
+    "filename": "2109362.pdf"
+  }
+}

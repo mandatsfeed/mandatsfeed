@@ -1,0 +1,84 @@
+{
+  "id": "dip-ka-21-9381",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Auswirkungen von Extremvermögen auf die Klimakrise",
+  "date": "2026-11-24",
+  "persons": [
+    {
+      "slug": "karoline-otte",
+      "name": "Karoline Otte",
+      "name_padoka": "Otte, Karoline",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "karl-bar",
+      "name": "Karl Bär",
+      "name_padoka": "Bär, Karl",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "sascha-muller",
+      "name": "Sascha Müller",
+      "name_padoka": "Müller, Sascha",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "lisa-badum",
+      "name": "Lisa Badum",
+      "name_padoka": "Badum, Lisa",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "katharina-beck",
+      "name": "Katharina Beck",
+      "name_padoka": "Beck, Katharina",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "moritz-heuberger",
+      "name": "Moritz Heuberger",
+      "name_padoka": "Heuberger, Moritz",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "max-lucks",
+      "name": "Max Lucks",
+      "name_padoka": "Lucks, Max",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "stefan-schmidt",
+      "name": "Stefan Schmidt",
+      "name_padoka": "Schmidt, Stefan",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "armin-grau",
+      "name": "Armin Grau",
+      "name_padoka": "Grau, Armin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "drsNr": "21/9381",
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort",
+  "document": {
+    "url": "https://dserver.bundestag.de/btd/21/093/2109381.pdf",
+    "filename": "2109381.pdf"
+  }
+}

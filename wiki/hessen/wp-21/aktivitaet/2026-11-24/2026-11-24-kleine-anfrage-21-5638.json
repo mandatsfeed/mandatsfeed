@@ -1,0 +1,40 @@
+{
+  "id": "starweb-he-ka-21-5638",
+  "source": "starweb",
+  "parliament": "hessen",
+  "wp": 21,
+  "type": "kleine_anfrage",
+  "title": "Ausgestaltung des nicht-gebundenen Ganztags an Grundschulen in Zusammenarbeit mit den kommunalen Schulträgern nach Start des Rechtsanspruchs",
+  "date": "2026-11-24",
+  "drsNr": "21/5638",
+  "persons": [
+    {
+      "slug": "julia-herz",
+      "name": "Julia Herz",
+      "name_padoka": "Herz, Julia",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "daniel-may",
+      "name": "Daniel May",
+      "name_padoka": "May, Daniel",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    },
+    {
+      "slug": "kathrin-anders",
+      "name": "Kathrin Anders",
+      "name_padoka": "Anders, Kathrin",
+      "role": "fragesteller",
+      "fraktion": "BÜNDNIS 90/DIE GRÜNEN"
+    }
+  ],
+  "fraktionen": [
+    "bundnis-90-die-gruenen"
+  ],
+  "document": {
+    "url": "http://starweb.hessen.de/cache/DRS/21/8/05638.pdf",
+    "filename": "05638.pdf"
+  }
+}
