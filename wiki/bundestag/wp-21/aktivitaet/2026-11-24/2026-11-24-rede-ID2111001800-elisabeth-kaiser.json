@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2111001800",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 08",
+  "date": "2026-11-24",
+  "persons": [
+    {
+      "slug": "elisabeth-kaiser",
+      "name": "Elisabeth Kaiser",
+      "name_padoka": "Kaiser, Elisabeth",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Staatsministerin beim Bundesminister der Finanzen"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/110",
+    "date": "2026-11-24",
+    "page": 14016
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21110.pdf"
+  }
+}

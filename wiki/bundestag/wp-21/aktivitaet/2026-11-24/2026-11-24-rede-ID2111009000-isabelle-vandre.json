@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2111009000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Berichtigungen",
+  "date": "2026-11-24",
+  "persons": [
+    {
+      "slug": "isabelle-vandre",
+      "name": "Isabelle Vandre",
+      "name_padoka": "Vandre, Isabelle",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/110",
+    "date": "2026-11-24",
+    "page": 14016
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21110.pdf"
+  }
+}

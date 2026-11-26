@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-9065",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entscheidungsverantwortlichkeiten und künftige Organisation der Asservatenverwaltung bei der sächsischen Polizei (Nachfrage zur Drs. 8/8625)",
+  "date": "2026-11-26",
+  "drsNr": "8/9065",
+  "persons": [
+    {
+      "slug": "bernd-rudolph",
+      "name": "Bernd Rudolph",
+      "name_padoka": "Rudolph, Bernd",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=55380",
+    "filename": "Drs_8_9065_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

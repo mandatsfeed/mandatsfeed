@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2111006000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 16",
+  "date": "2026-11-24",
+  "persons": [
+    {
+      "slug": "lorenz-gosta-beutin",
+      "name": "Lorenz Gösta Beutin",
+      "name_padoka": "Beutin, Lorenz Gösta",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/110",
+    "date": "2026-11-24",
+    "page": 14016
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21110.pdf"
+  }
+}

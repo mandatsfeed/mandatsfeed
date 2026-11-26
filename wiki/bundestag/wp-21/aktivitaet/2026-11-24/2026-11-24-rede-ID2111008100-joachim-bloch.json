@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2111008100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 15",
+  "date": "2026-11-24",
+  "persons": [
+    {
+      "slug": "joachim-bloch",
+      "name": "Joachim Bloch",
+      "name_padoka": "Bloch, Joachim",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/110",
+    "date": "2026-11-24",
+    "page": 14016
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21110.pdf"
+  }
+}

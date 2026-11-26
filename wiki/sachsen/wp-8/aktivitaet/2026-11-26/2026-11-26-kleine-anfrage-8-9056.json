@@ -1,0 +1,28 @@
+{
+  "id": "edas-ka-8-9056",
+  "source": "edas",
+  "parliament": "sachsen",
+  "wp": 8,
+  "type": "kleine_anfrage",
+  "title": "Entwicklung der Ausbildungskapazitäten an der Ostsachsen Care Academy (OSCA) und Auswirkungen auf die berufliche Bildungslandschaft in der Region Görlitz",
+  "date": "2026-11-26",
+  "drsNr": "8/9056",
+  "persons": [
+    {
+      "slug": "lars-wurzler",
+      "name": "Lars Wurzler",
+      "name_padoka": "Wurzler, Lars",
+      "role": "fragesteller",
+      "fraktion": "BSW"
+    }
+  ],
+  "fraktionen": [
+    "bsw"
+  ],
+  "document": {
+    "url": "https://redas.landtag.sachsen.de/redas/download?datei_id=55364",
+    "filename": "Drs_8_9056_0.pdf"
+  },
+  "subtype": "Kleine Anfrage",
+  "status": "ohne_antwort"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2111009600",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Berichtigungen",
+  "date": "2026-11-24",
+  "persons": [
+    {
+      "slug": "inge-grassle",
+      "name": "Inge Gräßle",
+      "name_padoka": "Gräßle, Inge",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/110",
+    "date": "2026-11-24",
+    "page": 14016
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21110.pdf"
+  }
+}
