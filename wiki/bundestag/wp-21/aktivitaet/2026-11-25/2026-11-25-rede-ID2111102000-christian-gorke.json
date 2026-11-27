@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2111102000",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 04",
+  "date": "2026-11-25",
+  "persons": [
+    {
+      "slug": "christian-gorke",
+      "name": "Christian Görke",
+      "name_padoka": "Görke, Christian",
+      "role": "redner",
+      "fraktion": "Die Linke"
+    }
+  ],
+  "fraktionen": [
+    "die-linke"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/111",
+    "date": "2026-11-25",
+    "page": 14128
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21111.pdf"
+  }
+}

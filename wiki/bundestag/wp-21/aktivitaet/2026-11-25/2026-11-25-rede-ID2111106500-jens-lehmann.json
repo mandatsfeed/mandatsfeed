@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2111106500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt I",
+  "date": "2026-11-25",
+  "persons": [
+    {
+      "slug": "jens-lehmann",
+      "name": "Jens Lehmann",
+      "name_padoka": "Lehmann, Jens",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/111",
+    "date": "2026-11-25",
+    "page": 14128
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21111.pdf"
+  }
+}

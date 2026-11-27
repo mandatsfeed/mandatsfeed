@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2111103200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 05",
+  "date": "2026-11-25",
+  "persons": [
+    {
+      "slug": "jurgen-koegel",
+      "name": "Jürgen Koegel",
+      "name_padoka": "Koegel, Jürgen",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/111",
+    "date": "2026-11-25",
+    "page": 14128
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21111.pdf"
+  }
+}

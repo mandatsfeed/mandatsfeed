@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2111107500",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 23",
+  "date": "2026-11-25",
+  "persons": [
+    {
+      "slug": "denis-pauli",
+      "name": "Denis Pauli",
+      "name_padoka": "Pauli, Denis",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/111",
+    "date": "2026-11-25",
+    "page": 14128
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21111.pdf"
+  }
+}

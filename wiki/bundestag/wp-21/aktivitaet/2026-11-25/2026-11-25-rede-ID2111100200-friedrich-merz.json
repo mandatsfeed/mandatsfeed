@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2111100200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 04",
+  "date": "2026-11-25",
+  "persons": [
+    {
+      "slug": "friedrich-merz",
+      "name": "Friedrich Merz",
+      "name_padoka": "Merz, Friedrich",
+      "role": "redner",
+      "fraktion": "Bundesregierung",
+      "funktion": "Bundeskanzler"
+    }
+  ],
+  "fraktionen": [
+    "bundesregierung"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/111",
+    "date": "2026-11-25",
+    "page": 14128
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21111.pdf"
+  }
+}

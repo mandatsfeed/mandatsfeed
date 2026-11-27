@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2111106700",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Tagesordnungspunkt I",
+  "date": "2026-11-25",
+  "persons": [
+    {
+      "slug": "vivian-tauschwitz",
+      "name": "Vivian Tauschwitz",
+      "name_padoka": "Tauschwitz, Vivian",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/111",
+    "date": "2026-11-25",
+    "page": 14128
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21111.pdf"
+  }
+}
