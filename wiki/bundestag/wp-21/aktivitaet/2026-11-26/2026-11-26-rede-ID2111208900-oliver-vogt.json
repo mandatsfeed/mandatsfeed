@@ -1,0 +1,30 @@
+{
+  "id": "dip-rede-ID2111208900",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 10",
+  "date": "2026-11-26",
+  "persons": [
+    {
+      "slug": "oliver-vogt",
+      "name": "Oliver Vogt",
+      "name_padoka": "Vogt, Oliver",
+      "role": "redner",
+      "fraktion": "CDU/CSU",
+      "titel": "Dr."
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/112",
+    "date": "2026-11-26",
+    "page": 14266
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21112.pdf"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2111203200",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 07",
+  "date": "2026-11-26",
+  "persons": [
+    {
+      "slug": "carsten-muller",
+      "name": "Carsten Müller",
+      "name_padoka": "Müller, Carsten",
+      "role": "redner",
+      "fraktion": "CDU/CSU"
+    }
+  ],
+  "fraktionen": [
+    "cdu-csu"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/112",
+    "date": "2026-11-26",
+    "page": 14266
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21112.pdf"
+  }
+}

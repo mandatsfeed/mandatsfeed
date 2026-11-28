@@ -1,0 +1,29 @@
+{
+  "id": "dip-rede-ID2111203100",
+  "source": "dip",
+  "parliament": "bundestag",
+  "wp": 21,
+  "type": "rede",
+  "title": "Einzelplan 07",
+  "date": "2026-11-26",
+  "persons": [
+    {
+      "slug": "stephan-brandner",
+      "name": "Stephan Brandner",
+      "name_padoka": "Brandner, Stephan",
+      "role": "redner",
+      "fraktion": "AfD"
+    }
+  ],
+  "fraktionen": [
+    "afd"
+  ],
+  "plenarprotokoll": {
+    "nr": "21/112",
+    "date": "2026-11-26",
+    "page": 14266
+  },
+  "document": {
+    "url": "https://dserver.bundestag.de/btp/21/21112.pdf"
+  }
+}
